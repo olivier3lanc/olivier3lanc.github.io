@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    
+
+    <meta itemprop="name" content="Portfolio">
+    <meta name="description" itemprop="description" content="Réalisations web dans le cadre de mon travail">
+    <meta name="application-name" content="Portfolio">
+    <meta name="author" content="0livier 3lanc">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="theme-color" content="#FFFFFF">
+    
+    <!-- Microsoft -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="msapplication-starturl" content="/portfolio/">
+    <meta name="msapplication-tooltip" content="Portfolio">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="/portfolio/">
+    <meta property="og:title" content="Portfolio">
+    <meta property="og:description" content="Réalisations web dans le cadre de mon travail">
+    <meta property="og:image" content="https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Portfolio">
+    <meta name="twitter:description" content="Réalisations web dans le cadre de mon travail">
+    <meta name="twitter:url" content="/portfolio/">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png">
+    
+    <!-- iOS -->
+    <meta name="apple-mobile-web-app-title" content="Portfolio">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#FFFFFF">
+    
+    <!-- Android -->
+    <meta name="theme-color" content="#FFFFFF">
+    <meta name="color-scheme" content="light">
+    <meta name="mobile-web-app-capable" content="yes">
+
+    <meta name="generator" content="Eleventy v3.1.1">
+    
+    <link rel="stylesheet" href="/core/assets/css/ds__defaults.css">
+    <link rel="stylesheet" href="/core/assets/css/ds.css">
+    <link rel="stylesheet" href="/core/assets/css/hljs/night-owl.css">
+    <link rel="stylesheet" href="/core/assets/fonts/icomoon/style.css">
+    <style>
+        :root {
+            --ita-widths-sidebar: 300px;
+            --ita-widths-content: 700px;
+            --ita-widths-main-container-max: calc(2 * var(--ita-widths-content) + var(--ita-widths-sidebar));
+        }
+        
+            main img {
+                border-radius: 9px;
+            }
+        
+    </style>
+    <noscript>
+        <link rel="stylesheet" href="/core/assets/css/noscript.css">
+    </noscript>
+    
+    
+    
+    
+    <script>
+        const libdocMessages = {
+            
+                copiedToClipboard: `Copié dans le presse-papiers`,
+                code: `Code`,
+                copied: `Copié`,
+                copy: `Copier`,
+                copyCode: `Copier le code`,
+                copyHTML: `Copier le HTML`,
+                copyURL: `Copier l’URL`,
+                enable: `Activer`,
+                goToTopOfPage: `Aller en haut de page`,
+                editThisPage: `Modifier la page`,
+                height: `Hauteur`,
+                homepage: `Page d’accueil`,
+                homepageShort: `Accueil`,
+                inANewTab: `Dans un nouvel onglet`,
+                lastModified: `Dernière modification`,
+                menu: `Menu`,
+                open: `Ouvrir`,
+                openInANewTab: `Ouvrir dans un nouvel onglet`,
+                page: `Page`,
+                pages: `Pages`,
+                pagesTagged: `Pages taguées`,
+                reload: `Recharger`,
+                reloaded: `Rechargé`,
+                result: `Résultat`,
+                sandbox: `Bac à sable`,
+                sandboxResizeHelper: `Cliquer déplacer pour redimensionner code et résultat`,
+                search: `Rechercher`,
+                searchClear: `Effacer la saisie`,
+                searchMinimumCharacters: `3 caractères min.`,
+                searchResultsNoResultForQuery: `Aucun résultat pour la requête`,
+                searchOccurrencesCurrent: `Occurrence actuelle`,
+                searchOccurrencesNext: `Occurrence suivante`,
+                searchOccurrencesPrevious: `Occurrence précédente`,
+                searchOccurrencesStop: `Fermet la recherches d’occurrences`,
+                searchPlaceholder: `Texte à rechercher`,
+                searchSubmit: `Lancer la recherche`,
+                tableOfContent: `Table des matières`,
+                tag: `Tag`,
+                tagsList: `Liste des tags`,
+                tagsListDescription: `Liste de l’ensemble des tags disponibles`,
+                toggleFloatingToc: `Basculer la table des matières flottante`,
+                top: `Haut`,
+                width: `Largeur`,
+        }
+        const libdocConfig = {
+            searchIndexUrl: `/core/assets/js/search_index.json`
+        }
+        const libdocSystem = {
+            productionUrl: `eleventy-libdoc.netlify.app`
+        }
+    </script>
+</head>
+<body class="d-flex fd-column ai-center | m-0">
+    <div class="d-flex | w-100" fd-column="xs,sm" ai-start="md" ai-center="xs,sm" pl-5="md" style="max-width: var(--ita-widths-main-container-max)">
+        <div id="sidebar" class="d-flex fd-column | pos-sticky top-0 z-2" ai-center="xs,sm" w-100="xs,sm" w-sidebar="md">
+            <nav id="nav_small_devices" class="d-flex | pos-fixed bottom-0 left-0 z-1 | w-100 h-60px" d-none="md">
+                <div class="d-flex jc-space-between | w-100 | bc-neutral-100 btwidth-1 btstyle-dashed bcolor-neutral-500">
+                    <a href="/" class="d-flex fd-column jc-center ai-center gap-1 | pl-5 pr-2 | td-none ta-center | c-primary-900 b-0 brad-3">
+                        <span class="icon-house fs-6"></span>
+                        <span class="fvs-wght-400 fs-1 tt-uppercase">Accueil</span>
+                    </a>
+                    
+                        <a href="/search/" class="d-flex fd-column jc-center ai-center gap-1 | pl-2 pr-2 | td-none ta-center | c-primary-900 b-0 brad-3">
+                            <span class="icon-magnifying-glass fs-6"></span>
+                            <span class="fvs-wght-400 fs-1 tt-uppercase">Rechercher</span>
+                        </a>
+                    
+                    <button type="button" id="sd_floating_toc_toggle_btn" class="d-flex fd-column jc-center ai-center gap-1 | pl-2 pr-2 | ta-center | cur-pointer c-primary-900 bc-neutral-100 b-0 brad-3" disabled="">
+                        <span class="icon-list-dashes fs-6"></span>
+                        <span class="fvs-wght-400 fs-1 tt-uppercase">Table des matières</span>
+                    </button>
+                    <button type="button" id="sd_gtt_btn" class="d-flex fd-column jc-center ai-center gap-1 | pl-2 pr-2 | ta-center | cur-pointer c-primary-900 bc-neutral-100 b-0 brad-3" onclick="libdocUi.handlers._clickGTT()">
+                        <span class="icon-arrow-line-up fs-6"></span>
+                        <span class="fvs-wght-400 fs-1 tt-uppercase">Haut</span>
+                    </button>
+                    <div class="d-flex ai-center">
+                        <input type="checkbox" name="nav_primary" id="nav_primary_checkbox" value="" class="pos-absolute opa-0 pe-none">
+                        <label for="nav_primary_checkbox" class="d-flex fd-column jc-center ai-center gap-1 | h-100 pl-2 pr-5 | ta-center | cur-pointer c-primary-900 bc-neutral-100">
+                            <span class="icon-list fs-6"></span>
+                            <span class="fvs-wght-400 fs-1 tt-uppercase">Menu</span>
+                        </label>
+                    </div>
+                </div>
+            </nav>
+            <nav id="nav_primary_container" class="d-flex d-none--xs d-none--sm fd-column | w-100 o-hidden | bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 |  __soft-shadow" mt-5="md" maxw-sidebar="md" maxh-sidebar="md" h-sidebar="xs,sm" brad-3="md">
+                <menu id="nav_primary_header" class="
+                    d-flex fd-column
+                    pos-sticky top-0 z-1
+                    m-0 p-0 
+                    ls-none bc-neutral-100
+                    bbwidth-1 bbstyle-dashed bcolor-neutral-500" gap-5="md" bradtl-3="md" bradtr-3="md">
+                    <li class="d-flex ai-center">
+                        
+                            <a href="/" class="p-5 | td-none fvs-wght-700 lsp-5 fs-8 tws-balance | c-neutral-900" title="Développeur front-end hybride UI et UX">
+                                Olivier 3lanc
+                            </a>
+                        
+                    </li>
+                    
+                        <li d-none="xs,sm">
+                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form">
+                                <label for="searchInput" class="pos-absolute | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | bc-neutral-100">
+                                    Rechercher
+                                </label>
+                                <input id="searchInput" type="search" name="search" class="pl-5 pr-5 pt-4 pb-4 | fs-3 | bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Texte à rechercher" value="">
+                                <div class="d-flex ai-center gap-2 | pos-absolute top-0 right-0 | h-100 mr-5">
+                                    <button type="button" class="pos-relative | p-4 pr-5 | fs-3 | brad- bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
+                                        <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
+                                    </button>
+                                    <button type="submit" class="pos-relative | h-100 p-0 ar-square | fs-5 | brad-4 bc-primary-500 c-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-100 cur-pointer" title="Lancer la recherche">
+                                        <span class="icon-magnifying-glass | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
+                                    </button>
+                                </div>
+                            </form>
+                        </li>
+                    
+                    
+                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-4">
+                            
+                                <a href="https://github.com/olivier3lanc" class="
+                                    d-flex ai-center gap-1
+                                    pt-2 pb-2
+                                    fvs-wght-600 fs-2 lsp-3 lh-1 tt-uppercase td-none
+                                    c-primary-600" target="_blank">
+                                    GitHub
+                                    <span class=""><span class="icon-arrow-square-out | pos-absolute t-tY-50 | c-primary-300"></span></span>
+                                </a>
+                            
+                                <a href="mailto:olivier3lanc@gmail.com" class="
+                                    d-flex ai-center gap-1
+                                    pt-2 pb-2
+                                    fvs-wght-600 fs-2 lsp-3 lh-1 tt-uppercase td-none
+                                    c-primary-600" target="_blank">
+                                    email
+                                    <span class=""><span class="icon-arrow-square-out | pos-absolute t-tY-50 | c-primary-300"></span></span>
+                                </a>
+                            
+                                <a href="#" class="
+                                    d-flex ai-center gap-1
+                                    pt-2 pb-2
+                                    fvs-wght-600 fs-2 lsp-3 lh-1 tt-uppercase td-none
+                                    c-primary-600" target="_blank">
+                                    Parcours
+                                    <span class=""><span class="icon-arrow-square-out | pos-absolute t-tY-50 | c-primary-300"></span></span>
+                                </a>
+                            
+                                <a href="#" class="
+                                    d-flex ai-center gap-1
+                                    pt-2 pb-2
+                                    fvs-wght-600 fs-2 lsp-3 lh-1 tt-uppercase td-none
+                                    c-primary-600" target="_blank">
+                                    Folio
+                                    <span class=""><span class="icon-arrow-square-out | pos-absolute t-tY-50 | c-primary-300"></span></span>
+                                </a>
+                            
+                        </li>
+                    
+                </menu>
+                
+                
+                    <a href="/posts/" id="nav_primary_blog_link" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
+                        
+                        Blog
+                    </a>
+                
+
+                
+                    <a href="/tags/" id="nav_primary_blog_link" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
+                        
+                        Liste des tags
+                    </a>
+                
+
+                <div id="nav_primary" class="pos-relative | fg-1 o-auto">
+                    <ol class="d-flex fd-column | m-0 pl-0 pt-3 pb-3 | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/demos/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/librairies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/pens/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign/pro/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Professionnel</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photographies</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/sauvages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Sauvages</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/captifs/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Captifs</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/domestiques/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Domestiques</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/paysages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Paysages</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/automne/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Automne</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/brume/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">La Brume</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/elements/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Les Éléments</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/ete/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">En Été</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/hiver/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">En Hiver</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/noir-et-blanc/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Noir et blanc</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/nuit/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">La Nuit</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/pluie/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">La Pluie</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/printemps/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Le Printemps</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photoshop/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photoshop</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/dystopies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Dystopies</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/fractalius/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Fractalius</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/inceptions/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Inceptions</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/mirrors/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Mirrors</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/photo-montages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photo montages</a></li></ol></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/svg-art/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">SVG Art</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/svg-art/mammiferes-low-poly/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Mammifères low-poly</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/svg-art/oiseaux-low-poly/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Oiseaux low-poly</a></li></ol></li></ol>
+                </div>
+            </nav>
+        </div>
+        <main class="pos-relative" w-100-minus-sidebar="md" w-100="xs,sm">
+            <header class="d-flex fd-column | pt-5 pb-7">
+                <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none">
+    <li class="d-flex ai-center gap-2">
+        <a href="/" class="pos-relative | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" title="Page d’accueil">
+            <span class="icon-house | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
+        </a> /
+    </li>
+    <li class="o-auto">
+        <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none">
+            
+            
+            
+            <li class="c-neutral-800 ws-nowrap">Portfolio</li>
+        </ul>
+    </li>
+</ul>
+                <h1 class="mt-3 mb-0 | lsp-5 fvs-wght-700 tws-balance " fs-10="md" fs-9="xs,sm">
+                    Portfolio
+                </h1>
+                
+                    <p class="d-flex ai-center fw-wrap gap-2 | pt-5 pl-5 pb-5 m-0 | fvs-wght-400 tws-balance fs-7 lsp-3 lh-5 | blwidth-1 blstyle-dashed bcolor-neutral-500" pt-3="xs" pb-3="xs" fs-6="sm" fs-5="xs">
+                        Réalisations web dans le cadre de mon travail
+                    </p>
+                
+                
+                    
+                    <div class="d-flex ai-center | m-0 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                        <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
+                        
+                            <p class="d-flex ai-center gap-2 | m-0 pr-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs">
+                                <span class="icon-calendar-dots fs-6"></span>
+                                <span ws-nowrap="sm,md">
+                                    
+                                    Dernière modification
+                                    2025-06-05
+                                </span>
+                            </p>
+                        
+                        <div class="pl-5 w-100 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
+                        
+                            <div class="d-flex ai-center gap-3">
+                                <div class="pos-relative | p-5 | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500">
+                                    <div class="icon-user | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-6"></div>
+                                </div>
+                                <p class="d-flex fd-column | m-0 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs" ws-nowrap="sm,md">
+                                    0livier 3lanc
+                                </p>
+                            </div>
+                        
+                    </div>
+                
+                
+                    <details id="toc_main" open="">
+                        <summary class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-3 | bwidth-1 bstyle-dashed bcolor-neutral-500 btwidth-0 brwidth-0 cur-pointer">
+                            <span class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></span>
+                            <span class="d-flex ai-center gap-1 | lsp-2">
+                                <span class="icon-minus-circle | fs-6 | c-primary-500"></span>
+                                <span class="icon-plus-circle | fs-6 | c-primary-500"></span>
+                                Table des matières
+                            </span>
+                        </summary>
+                        
+                    <ol class="cgap-3em | m-0 pl-0 pb-5 o-auto | lh-1 | ls-none bwidth-1 bstyle-dashed bcolor-neutral-500 btwidth-0 brwidth-0" d-flex="xs,sm" fd-column="xs,sm" fw-wrap="xs,sm" columns-3="md" columns-2="sm" maxh-300px="sm" maxh-200px="xs">
+                        <li class="d-flex">
+                            <a href="#intgrations-et-ui-ux" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Intégrations et UI UX
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#skoda-rent" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Skoda rent
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#hyundai-rent" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Hyundai rent
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#eleventy-libdoc" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Eleventy LibDoc
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#bricss" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                BRiCSS
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#ucar" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                UCAR
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#ucar-groupe" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                UCAR Groupe
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#cms-sfmelody" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                CMS sfMelody
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#goa" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                GOA
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#cosmobilis" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Cosmobilis
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#marcel-rent-proto" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Marcel Rent proto
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#bymycar" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                ByMyCar
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#jekyll-libdoc" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Jekyll LibDoc
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#sidr" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Sidr
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#bubbles" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Bubbles
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#gopro-vr" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                GoPro VR
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#paris-26-gigapixels-v20" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Paris 26 Gigapixels v2.0
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#librairies" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Librairies
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#c-togglejs" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                c-toggle.js
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#c-tabsjs" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                c-tabs.js
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#c-previewjs" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                c-preview.js
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#c-scrollsyncbarjs" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                c-scrollsyncbar.js
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#c-scrollspyjs" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                c-scrollspy.js
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#ui-et-ux" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                UI et UX
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#maquettes-kolor-panotour-3" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Maquettes Kolor Panotour 3
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#programme-dinstallation-kolor" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Programme d’installation Kolor
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#graphisme" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Graphisme
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#logos" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Logos
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#gopro-fusion-t-shirt" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                GoPro Fusion T-Shirt
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#jaquettes-blu-ray-et-dvd" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Jaquettes Blu-Ray et DVD
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#divers" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Divers
+                            </a>
+                        </li></ol>
+                    </details>
+                
+            </header>
+            <link rel="stylesheet" href="/assets/orphans.css">
+<script type="text/javascript" src="/assets/orphans.js"></script>
+
+                        <h2 id="intgrations-et-ui-ux" pl-9="xs,sm">
+                            <a href="#intgrations-et-ui-ux" title="Intégrations et UI UX" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Intégrations et UI UX</h2>
+<p>Les intégrations web responsive qui suivent on été réalisées en tenant compte de l’ergonomie, de l’accessibilité et des performances.</p>
+
+                        <h3 id="skoda-rent" pl-9="xs,sm">
+                            <a href="#skoda-rent" title="Skoda rent" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Skoda rent</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/skoda-rent-4rezfvtfbE-__730__.avif 730w, /img/skoda-rent-4rezfvtfbE-__1400__.avif 1400w, /img/skoda-rent-4rezfvtfbE-__2746__.avif 2746w" sizes="auto"><img loading="lazy" decoding="async" src="/img/skoda-rent-4rezfvtfbE-__730__.webp" alt="Écrans Skoda Rent" width="2746" height="1328" srcset="/img/skoda-rent-4rezfvtfbE-__730__.webp 730w, /img/skoda-rent-4rezfvtfbE-__1400__.webp 1400w, /img/skoda-rent-4rezfvtfbE-__2746__.webp 2746w" sizes="auto"></picture>
+    <figcaption>Site e-commerce web, plate-forme Skoda de réservation de véhicules. Intégration HTML, CSS basée sur <a href="#bricss">BRiCSS</a>, Vanilla JavaScript.</figcaption>
+</figure>
+
+                        <h3 id="hyundai-rent" pl-9="xs,sm">
+                            <a href="#hyundai-rent" title="Hyundai rent" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Hyundai rent</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/hyundai-rent-h1k8ricgW7-__730__.avif 730w, /img/hyundai-rent-h1k8ricgW7-__1400__.avif 1400w, /img/hyundai-rent-h1k8ricgW7-__2744__.avif 2744w" sizes="auto"><img loading="lazy" decoding="async" src="/img/hyundai-rent-h1k8ricgW7-__730__.webp" alt="Écrans Hyundai Rent" width="2744" height="1334" srcset="/img/hyundai-rent-h1k8ricgW7-__730__.webp 730w, /img/hyundai-rent-h1k8ricgW7-__1400__.webp 1400w, /img/hyundai-rent-h1k8ricgW7-__2744__.webp 2744w" sizes="auto"></picture>
+    <figcaption>Site e-commerce web, plate-forme Hyundai de réservation de véhicules. Intégration HTML, CSS basée sur <a href="#bricss">BRiCSS</a>, Vanilla JavaScript.</figcaption>
+</figure>
+
+                        <h3 id="eleventy-libdoc" pl-9="xs,sm">
+                            <a href="#eleventy-libdoc" title="Eleventy LibDoc" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Eleventy LibDoc</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/eleventy-libdoc-Xi5ESolcNC-__730__.avif 730w, /img/eleventy-libdoc-Xi5ESolcNC-__1400__.avif 1400w, /img/eleventy-libdoc-Xi5ESolcNC-__2742__.avif 2742w" sizes="auto"><img loading="lazy" decoding="async" src="/img/eleventy-libdoc-Xi5ESolcNC-__730__.webp" alt="Écrans Eleventy LibDoc" width="2742" height="1328" srcset="/img/eleventy-libdoc-Xi5ESolcNC-__730__.webp 730w, /img/eleventy-libdoc-Xi5ESolcNC-__1400__.webp 1400w, /img/eleventy-libdoc-Xi5ESolcNC-__2742__.webp 2742w" sizes="auto"></picture>
+    <figcaption>Outil de création de documentation. Réalisation complète HTML, CSS basée sur <a href="#bricss">BRiCSS</a>, Vanilla JavaScript.</figcaption>
+</figure>
+<p><a href="https://eleventy-libdoc.netlify.app" class="btn btn-primary">Site web LibDoc</a></p>
+
+                        <h3 id="bricss" pl-9="xs,sm">
+                            <a href="#bricss" title="BRiCSS" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    BRiCSS</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/bricss-Hz0Kr756Jl-__730__.avif 730w, /img/bricss-Hz0Kr756Jl-__1400__.avif 1400w, /img/bricss-Hz0Kr756Jl-__2758__.avif 2758w" sizes="auto"><img loading="lazy" decoding="async" src="/img/bricss-Hz0Kr756Jl-__730__.webp" alt="Écrans BRiCSS" width="2758" height="1305" srcset="/img/bricss-Hz0Kr756Jl-__730__.webp 730w, /img/bricss-Hz0Kr756Jl-__1400__.webp 1400w, /img/bricss-Hz0Kr756Jl-__2758__.webp 2758w" sizes="auto"></picture>
+    <figcaption>Outil de création de librairie CSS bas niveau. Réalisation complète HTML, CSS et Vanilla JavaScript.</figcaption>
+</figure>
+<p><a href="https://ita-design-system.github.io/bricss/" class="btn btn-primary">Site web BRiCSS</a></p>
+
+                        <h3 id="ucar" pl-9="xs,sm">
+                            <a href="#ucar" title="UCAR" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    UCAR</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/ucar-SYQwe88s5u-__730__.avif 730w, /img/ucar-SYQwe88s5u-__1400__.avif 1400w, /img/ucar-SYQwe88s5u-__2746__.avif 2746w" sizes="auto"><img loading="lazy" decoding="async" src="/img/ucar-SYQwe88s5u-__730__.webp" alt="Écrans UCAR" width="2746" height="1326" srcset="/img/ucar-SYQwe88s5u-__730__.webp 730w, /img/ucar-SYQwe88s5u-__1400__.webp 1400w, /img/ucar-SYQwe88s5u-__2746__.webp 2746w" sizes="auto"></picture>
+    <figcaption>Site de location de véhicules. Intégration HTML, CSS basée et Vanilla JavaScript.</figcaption>
+</figure>
+<p><a href="https://ucar.fr" class="btn btn-primary">ucar.fr</a></p>
+
+                        <h3 id="ucar-groupe" pl-9="xs,sm">
+                            <a href="#ucar-groupe" title="UCAR Groupe" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    UCAR Groupe</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/ucar-groupe-GjUHUBRtpL-__730__.avif 730w, /img/ucar-groupe-GjUHUBRtpL-__1400__.avif 1400w, /img/ucar-groupe-GjUHUBRtpL-__2746__.avif 2746w" sizes="auto"><img loading="lazy" decoding="async" src="/img/ucar-groupe-GjUHUBRtpL-__730__.webp" alt="Écrans UCAR Groupe" width="2746" height="1324" srcset="/img/ucar-groupe-GjUHUBRtpL-__730__.webp 730w, /img/ucar-groupe-GjUHUBRtpL-__1400__.webp 1400w, /img/ucar-groupe-GjUHUBRtpL-__2746__.webp 2746w" sizes="auto"></picture>
+    <figcaption>Prototype fonctionnel du site UCAR Groupe. Intégration HTML, CSS et Vanilla JavaScript.</figcaption>
+</figure>
+<p><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-homepage.html" class="btn btn-primary">Démo</a></p>
+<p>Autres pages :</p>
+<ul>
+<li><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-group.html">Groupe</a></li>
+<li><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-group-mission.html">Mission</a></li>
+<li><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-group-gouvernance.html">Gouvernance</a></li>
+<li><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-solutions.html">Solutions</a></li>
+<li><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-solutions-offre-lcd.html">Location courte durée</a></li>
+<li><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-news.html">Actualités</a></li>
+<li><a href="https://itautomotive-dev.github.io/ucar-group-ui/content/templates/ucar-contact.html">Contact</a></li>
+</ul>
+
+                        <h3 id="cms-sfmelody" pl-9="xs,sm">
+                            <a href="#cms-sfmelody" title="CMS sfMelody" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    CMS sfMelody</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/sf-melody-iFuA5l8Gze-__730__.avif 730w, /img/sf-melody-iFuA5l8Gze-__1400__.avif 1400w, /img/sf-melody-iFuA5l8Gze-__2800__.avif 2800w" sizes="auto"><img loading="lazy" decoding="async" src="/img/sf-melody-iFuA5l8Gze-__730__.webp" alt="Écrans CMS sfMelody" width="2800" height="1476" srcset="/img/sf-melody-iFuA5l8Gze-__730__.webp 730w, /img/sf-melody-iFuA5l8Gze-__1400__.webp 1400w, /img/sf-melody-iFuA5l8Gze-__2800__.webp 2800w" sizes="auto"></picture>
+    <figcaption>Création d’un <abbr title="Content Management System">CMS</abbr> basé sur le framework <a href="https://symfony.com/">Symfony</a>. Réalisation complète HTML, CSS basée sur <a href="#bricss">BRiCSS</a>, Vanilla JavaScript.</figcaption>
+</figure>
+
+                        <h3 id="goa" pl-9="xs,sm">
+                            <a href="#goa" title="GOA" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    GOA</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/goa-Qedegg6OM8-__730__.avif 730w, /img/goa-Qedegg6OM8-__1400__.avif 1400w, /img/goa-Qedegg6OM8-__2742__.avif 2742w" sizes="auto"><img loading="lazy" decoding="async" src="/img/goa-Qedegg6OM8-__730__.webp" alt="Écrans GOA" width="2742" height="1322" srcset="/img/goa-Qedegg6OM8-__730__.webp 730w, /img/goa-Qedegg6OM8-__1400__.webp 1400w, /img/goa-Qedegg6OM8-__2742__.webp 2742w" sizes="auto"></picture>
+    <figcaption>Création du front-office du site web d’une application de location de véhicule moyenne et longue durée. Intégration complète HTML, CSS, Vanilla JavaScript.</figcaption>
+</figure>
+<p><a href="https://itautomotive-dev.github.io/goafe-ui/" class="btn">Documentation</a>
+<a href="https://itautomotive-dev.github.io/goafe-ui/templates/homepage.html" class="btn btn-primary">Démo GOA</a></p>
+
+                        <h3 id="cosmobilis" pl-9="xs,sm">
+                            <a href="#cosmobilis" title="Cosmobilis" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Cosmobilis</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/cosmobilis-KSGnIzPFGQ-__730__.avif 730w, /img/cosmobilis-KSGnIzPFGQ-__1400__.avif 1400w, /img/cosmobilis-KSGnIzPFGQ-__2700__.avif 2700w" sizes="auto"><img loading="lazy" decoding="async" src="/img/cosmobilis-KSGnIzPFGQ-__730__.webp" alt="Écrans Cosmobilis" width="2700" height="1320" srcset="/img/cosmobilis-KSGnIzPFGQ-__730__.webp 730w, /img/cosmobilis-KSGnIzPFGQ-__1400__.webp 1400w, /img/cosmobilis-KSGnIzPFGQ-__2700__.webp 2700w" sizes="auto"></picture>
+    <figcaption>Site web de la maison-mère de BYmyCAR et UCAR. Intégration complète HTML, CSS et Vanilla JavaScript.</figcaption>
+</figure>
+<p><a href="https://cosmobilis.eu/fr/" class="btn btn-primary">Site web Cosmobilis</a></p>
+
+                        <h3 id="marcel-rent-proto" pl-9="xs,sm">
+                            <a href="#marcel-rent-proto" title="Marcel Rent proto" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Marcel Rent proto</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/marcel-rent-DpEKjEd7fo-__730__.avif 730w, /img/marcel-rent-DpEKjEd7fo-__1400__.avif 1400w, /img/marcel-rent-DpEKjEd7fo-__2800__.avif 2800w" sizes="auto"><img loading="lazy" decoding="async" src="/img/marcel-rent-DpEKjEd7fo-__730__.webp" alt="Écrans Marcel Rent" width="2800" height="1476" srcset="/img/marcel-rent-DpEKjEd7fo-__730__.webp 730w, /img/marcel-rent-DpEKjEd7fo-__1400__.webp 1400w, /img/marcel-rent-DpEKjEd7fo-__2800__.webp 2800w" sizes="auto"></picture>
+    <figcaption>Prototype fonctionnel d’un projet d'’application de location de véhicule. Design et intégration HTML, CSS et Vanilla JavaScript.</figcaption>
+</figure>
+<p><a href="https://github.com/itautomotive-Dev/marcel-rent-app-proto" class="btn btn-primary">Démo Marcel Rent</a></p>
+
+                        <h3 id="bymycar" pl-9="xs,sm">
+                            <a href="#bymycar" title="ByMyCar" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    ByMyCar</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/bymycar-j925uOEWi0-__730__.avif 730w, /img/bymycar-j925uOEWi0-__1400__.avif 1400w, /img/bymycar-j925uOEWi0-__2734__.avif 2734w" sizes="auto"><img loading="lazy" decoding="async" src="/img/bymycar-j925uOEWi0-__730__.webp" alt="Écrans BYmyCAR" width="2734" height="1330" srcset="/img/bymycar-j925uOEWi0-__730__.webp 730w, /img/bymycar-j925uOEWi0-__1400__.webp 1400w, /img/bymycar-j925uOEWi0-__2734__.webp 2734w" sizes="auto"></picture>
+    <figcaption>Prototype fonctionnel de la refonte du site <a href="https://www.bymycar.fr">BYmyCAR</a> en 2020. Intégration et design HTML, CSS et JavaScript.</figcaption>
+</figure>
+<p><a href="https://itautomotive-dev.github.io/bymycar-ui/" class="btn">Documentation</a>
+<a href="https://itautomotive-dev.github.io/bymycar-ui/templates/homepage.html" class="btn btn-primary">Démo page d’accueil</a></p>
+
+                        <h3 id="jekyll-libdoc" pl-9="xs,sm">
+                            <a href="#jekyll-libdoc" title="Jekyll LibDoc" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Jekyll LibDoc</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/jekyll-libdoc-rezCVVj9mB-__730__.avif 730w, /img/jekyll-libdoc-rezCVVj9mB-__1400__.avif 1400w, /img/jekyll-libdoc-rezCVVj9mB-__2776__.avif 2776w" sizes="auto"><img loading="lazy" decoding="async" src="/img/jekyll-libdoc-rezCVVj9mB-__730__.webp" alt="Écrans Jekyll LibDoc" width="2776" height="1456" srcset="/img/jekyll-libdoc-rezCVVj9mB-__730__.webp 730w, /img/jekyll-libdoc-rezCVVj9mB-__1400__.webp 1400w, /img/jekyll-libdoc-rezCVVj9mB-__2776__.webp 2776w" sizes="auto"></picture>
+    <figcaption>Générateur de documentation avec bac à sable JavaScript et recherche intégrée. Réalisation complète Ruby, Liquid, design et intégration HTML, CSS et JavaScript.</figcaption>
+</figure>
+<p><a href="https://olivier3lanc.github.io/Jekyll-LibDoc/" class="btn btn-primary">Site web Jekyll LibDoc</a></p>
+
+                        <h3 id="sidr" pl-9="xs,sm">
+                            <a href="#sidr" title="Sidr" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Sidr</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/panotour-sidr-NzPaaOnBkn-__730__.avif 730w, /img/panotour-sidr-NzPaaOnBkn-__1400__.avif 1400w, /img/panotour-sidr-NzPaaOnBkn-__2564__.avif 2564w" sizes="auto"><img loading="lazy" decoding="async" src="/img/panotour-sidr-NzPaaOnBkn-__730__.webp" alt="Écrans Panotour Sidr" width="2564" height="1250" srcset="/img/panotour-sidr-NzPaaOnBkn-__730__.webp 730w, /img/panotour-sidr-NzPaaOnBkn-__1400__.webp 1400w, /img/panotour-sidr-NzPaaOnBkn-__2564__.webp 2564w" sizes="auto"></picture>
+    <figcaption>Template portfolio pour Kolor Panotour 2.0.</figcaption>
+</figure>
+<p><a href="https://olivier3lanc.github.io/folio-sidr/" class="btn btn-primary">Démo</a></p>
+
+                        <h3 id="bubbles" pl-9="xs,sm">
+                            <a href="#bubbles" title="Bubbles" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Bubbles</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/panotour-bubbles-WHIScgw6JV-__730__.avif 730w, /img/panotour-bubbles-WHIScgw6JV-__1400__.avif 1400w, /img/panotour-bubbles-WHIScgw6JV-__2574__.avif 2574w" sizes="auto"><img loading="lazy" decoding="async" src="/img/panotour-bubbles-WHIScgw6JV-__730__.webp" alt="Écrans Panotour Bubbles" width="2574" height="1282" srcset="/img/panotour-bubbles-WHIScgw6JV-__730__.webp 730w, /img/panotour-bubbles-WHIScgw6JV-__1400__.webp 1400w, /img/panotour-bubbles-WHIScgw6JV-__2574__.webp 2574w" sizes="auto"></picture>
+    <figcaption>Template pour Kolor Panotour 2.0.</figcaption>
+</figure>
+<p><a href="https://olivier3lanc.github.io/folio-bubbles/" class="btn btn-primary">Démo</a></p>
+
+                        <h3 id="gopro-vr" pl-9="xs,sm">
+                            <a href="#gopro-vr" title="GoPro VR" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    GoPro VR</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/gopro-vr-homepage-9PmuqhM9aa-__730__.avif 730w, /img/gopro-vr-homepage-9PmuqhM9aa-__1400__.avif 1400w, /img/gopro-vr-homepage-9PmuqhM9aa-__2582__.avif 2582w" sizes="auto"><img loading="lazy" decoding="async" src="/img/gopro-vr-homepage-9PmuqhM9aa-__730__.webp" alt="Écrans page d’accueil GoPro VR" width="2582" height="1270" srcset="/img/gopro-vr-homepage-9PmuqhM9aa-__730__.webp 730w, /img/gopro-vr-homepage-9PmuqhM9aa-__1400__.webp 1400w, /img/gopro-vr-homepage-9PmuqhM9aa-__2582__.webp 2582w" sizes="auto"></picture>
+    <figcaption>Page d’accueil du site web officiel GoPro <abbr title="Virtual Reality">VR</abbr>. Intégration HTML, CSS et JavaScript.</figcaption>
+</figure>
+<p><a href="https://olivier3lanc.github.io/folio-gopro-vr" class="btn btn-primary">Démo</a></p>
+<p>Autres pages:</p>
+<ul>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/create.html">Create</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/browse.html">Browse content</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/category.html">Categories</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/log-in.html">Log in</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/create-account.html">Create account</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/faq.html">FAQ</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/upload.html">Upload step 1</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/upload-step-2.html">Upload step 2</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/upload-success.html">Upload success</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/style-guide.html">Deprecated style guide</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/404.html">404</a></li>
+<li><a href="https://olivier3lanc.github.io/folio-gopro-vr/error.html">Error</a></li>
+</ul>
+
+                        <h3 id="paris-26-gigapixels-v20" pl-9="xs,sm">
+                            <a href="#paris-26-gigapixels-v20" title="Paris 26 Gigapixels v2.0" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Paris 26 Gigapixels v2.0</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/paris-26g-fXNp0ja6NQ-__730__.avif 730w, /img/paris-26g-fXNp0ja6NQ-__1400__.avif 1400w, /img/paris-26g-fXNp0ja6NQ-__2578__.avif 2578w" sizes="auto"><img loading="lazy" decoding="async" src="/img/paris-26g-fXNp0ja6NQ-__730__.webp" alt="Écrans Paris 26 Gigapixels v2" width="2578" height="1250" srcset="/img/paris-26g-fXNp0ja6NQ-__730__.webp 730w, /img/paris-26g-fXNp0ja6NQ-__1400__.webp 1400w, /img/paris-26g-fXNp0ja6NQ-__2578__.webp 2578w" sizes="auto"></picture>
+    <figcaption>Initiative GoPro non déployée. Intégration HTML, CSS et JavaScript.</figcaption>
+</figure>
+<p><a href="https://olivier3lanc.github.io/p26g-interface/" class="btn btn-primary">Démo</a></p>
+<p><sub>Crédits photo <a href="https://www.arnaudfrichphoto.com/paris-26-gigapixels.htm">Arnaud Frich</a>, propulsé par <a href="https://github.com/gopro/forgejs">ForgeJS</a>.</sub></p>
+
+                        <h2 id="librairies" pl-9="xs,sm">
+                            <a href="#librairies" title="Librairies" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Librairies</h2>
+<p>Création de librairies JavaScript pour les usages les plus courants.</p>
+
+                        <h3 id="c-togglejs" pl-9="xs,sm">
+                            <a href="#c-togglejs" title="c-toggle.js" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    c-toggle.js</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/c-toggle-uXgR_z-g1a-__730__.avif 730w, /img/c-toggle-uXgR_z-g1a-__1400__.avif 1400w, /img/c-toggle-uXgR_z-g1a-__2744__.avif 2744w" sizes="auto"><img loading="lazy" decoding="async" src="/img/c-toggle-uXgR_z-g1a-__730__.webp" alt="Écrans c-toggle.js" width="2744" height="1336" srcset="/img/c-toggle-uXgR_z-g1a-__730__.webp 730w, /img/c-toggle-uXgR_z-g1a-__1400__.webp 1400w, /img/c-toggle-uXgR_z-g1a-__2744__.webp 2744w" sizes="auto"></picture>
+    <figcaption>Librairie JavaScript dédiée à la bascule d’état des classes CSS d’un élément</figcaption>
+</figure>
+<p><a href="https://github.com/ita-design-system/c-toggle.js" class="btn">GitHub</a>
+<a href="https://ita-design-system.github.io/c-toggle.js/" class="btn btn-primary">Site web</a></p>
+
+                        <h3 id="c-tabsjs" pl-9="xs,sm">
+                            <a href="#c-tabsjs" title="c-tabs.js" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    c-tabs.js</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/c-tabs-cgQDFdQ97K-__730__.avif 730w, /img/c-tabs-cgQDFdQ97K-__1400__.avif 1400w, /img/c-tabs-cgQDFdQ97K-__2744__.avif 2744w" sizes="auto"><img loading="lazy" decoding="async" src="/img/c-tabs-cgQDFdQ97K-__730__.webp" alt="Écrans c-tabs.js" width="2744" height="1328" srcset="/img/c-tabs-cgQDFdQ97K-__730__.webp 730w, /img/c-tabs-cgQDFdQ97K-__1400__.webp 1400w, /img/c-tabs-cgQDFdQ97K-__2744__.webp 2744w" sizes="auto"></picture>
+    <figcaption>Librairie JavaScript dédiée à la gestion d'onglets et tabulations.</figcaption>
+</figure>
+<p><a href="https://github.com/ita-design-system/c-tabs.js" class="btn">GitHub</a>
+<a href="https://ita-design-system.github.io/c-tabs.js/" class="btn btn-primary">Site web</a></p>
+
+                        <h3 id="c-previewjs" pl-9="xs,sm">
+                            <a href="#c-previewjs" title="c-preview.js" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    c-preview.js</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/c-preview-N6jugYXKo5-__730__.avif 730w, /img/c-preview-N6jugYXKo5-__1400__.avif 1400w, /img/c-preview-N6jugYXKo5-__2738__.avif 2738w" sizes="auto"><img loading="lazy" decoding="async" src="/img/c-preview-N6jugYXKo5-__730__.webp" alt="Écrans c-preview.js" width="2738" height="1332" srcset="/img/c-preview-N6jugYXKo5-__730__.webp 730w, /img/c-preview-N6jugYXKo5-__1400__.webp 1400w, /img/c-preview-N6jugYXKo5-__2738__.webp 2738w" sizes="auto"></picture>
+    <figcaption>Librairie JavaScript dédiée à l’affichage et des fichiers sélectionnés sur un input type=file</figcaption>
+</figure>
+<p><a href="https://github.com/ita-design-system/c-preview.js" class="btn">GitHub</a>
+<a href="https://ita-design-system.github.io/c-preview.js/" class="btn btn-primary">Site web</a></p>
+
+                        <h3 id="c-scrollsyncbarjs" pl-9="xs,sm">
+                            <a href="#c-scrollsyncbarjs" title="c-scrollsyncbar.js" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    c-scrollsyncbar.js</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/c-scrollsyncbar-iSyy-ZSqSk-__730__.avif 730w, /img/c-scrollsyncbar-iSyy-ZSqSk-__1400__.avif 1400w, /img/c-scrollsyncbar-iSyy-ZSqSk-__2742__.avif 2742w" sizes="auto"><img loading="lazy" decoding="async" src="/img/c-scrollsyncbar-iSyy-ZSqSk-__730__.webp" alt="Écrans c-scrollsyncbar.js" width="2742" height="1324" srcset="/img/c-scrollsyncbar-iSyy-ZSqSk-__730__.webp 730w, /img/c-scrollsyncbar-iSyy-ZSqSk-__1400__.webp 1400w, /img/c-scrollsyncbar-iSyy-ZSqSk-__2742__.webp 2742w" sizes="auto"></picture>
+    <figcaption>Librairie JavaScript permettant d’afficher/masquer des éléments HTML progressivement en fonction du sens de défilement de la fenêtre.</figcaption>
+</figure>
+<p><a href="https://github.com/ita-design-system/c-scrollsyncbar.js" class="btn">GitHub</a>
+<a href="https://ita-design-system.github.io/c-scrollsyncbar.js/" class="btn btn-primary">Site web</a></p>
+
+                        <h3 id="c-scrollspyjs" pl-9="xs,sm">
+                            <a href="#c-scrollspyjs" title="c-scrollspy.js" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    c-scrollspy.js</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/img/c-scrollspy-_hP7GO2V4U-__730__.avif 730w, /img/c-scrollspy-_hP7GO2V4U-__1400__.avif 1400w, /img/c-scrollspy-_hP7GO2V4U-__2740__.avif 2740w" sizes="auto"><img loading="lazy" decoding="async" src="/img/c-scrollspy-_hP7GO2V4U-__730__.webp" alt="Écrans c-scrollspy.js" width="2740" height="1328" srcset="/img/c-scrollspy-_hP7GO2V4U-__730__.webp 730w, /img/c-scrollspy-_hP7GO2V4U-__1400__.webp 1400w, /img/c-scrollspy-_hP7GO2V4U-__2740__.webp 2740w" sizes="auto"></picture>
+    <figcaption>Librairie JavaScript dédiée à la détection de la position d’un élément DOM dans la fenêtre de visualisation.</figcaption>
+</figure>
+<p><a href="https://github.com/ita-design-system/c-scrollspy.js" class="btn">GitHub</a>
+<a href="https://ita-design-system.github.io/c-scrollspy.js/" class="btn btn-primary">Site web</a></p>
+
+                        <h2 id="ui-et-ux" pl-9="xs,sm">
+                            <a href="#ui-et-ux" title="UI et UX" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    UI et UX</h2>
+<p>Réalisations d’interfaces à partir de maquettes Photoshop.</p>
+
+                        <h3 id="maquettes-kolor-panotour-3" pl-9="xs,sm">
+                            <a href="#maquettes-kolor-panotour-3" title="Maquettes Kolor Panotour 3" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Maquettes Kolor Panotour 3</h3>
+<figure>
+    <img src="/img/maquette-panotour-3-2EHZ0oOWrC-__730__.webp" alt="Maquettes Kolor Panotour 3" loading="lazy" decoding="async" width="2024" height="1139" srcset="/img/maquette-panotour-3-2EHZ0oOWrC-__730__.webp 730w, /img/maquette-panotour-3-2EHZ0oOWrC-__1400__.webp 1400w, /img/maquette-panotour-3-2EHZ0oOWrC-__2024__.webp 2024w" sizes="auto">
+    <figcaption>Création de maquettes haute fidélité pour Kolor Panotour 3</figcaption>
+</figure>
+<p><a href="https://github.com/olivier3lanc/folio-panotour-3-interface" class="btn btn-primary">Autres maquettes</a></p>
+
+                        <h3 id="programme-dinstallation-kolor" pl-9="xs,sm">
+                            <a href="#programme-dinstallation-kolor" title="Programme d’installation Kolor" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Programme d’installation Kolor</h3>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170690480-75bbb80c-85b2-4976-945a-a74bbf163d83-kprP8dC14J-__730__.avif 730w, /portfolio/170690480-75bbb80c-85b2-4976-945a-a74bbf163d83-kprP8dC14J-__1400__.avif 1400w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170690480-75bbb80c-85b2-4976-945a-a74bbf163d83-kprP8dC14J-__730__.webp" alt="1. introduction - Projet de maquette haute fidélité du programme d’installation des produits Kolor." width="1400" height="1038" srcset="/portfolio/170690480-75bbb80c-85b2-4976-945a-a74bbf163d83-kprP8dC14J-__730__.webp 730w, /portfolio/170690480-75bbb80c-85b2-4976-945a-a74bbf163d83-kprP8dC14J-__1400__.webp 1400w" sizes="auto"></picture>
+    <figcaption>1. introduction - Maquette haute fidélité du programme d’installation des produits Kolor.</figcaption>
+</figure>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170690483-df0fcd0d-1d1f-4825-a253-434ab4ea868c-d-tNT-8kcq-__730__.avif 730w, /portfolio/170690483-df0fcd0d-1d1f-4825-a253-434ab4ea868c-d-tNT-8kcq-__1400__.avif 1400w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170690483-df0fcd0d-1d1f-4825-a253-434ab4ea868c-d-tNT-8kcq-__730__.webp" alt="2. license - Projet de maquette haute fidélité du programme d’installation des produits Kolor." width="1400" height="1038" srcset="/portfolio/170690483-df0fcd0d-1d1f-4825-a253-434ab4ea868c-d-tNT-8kcq-__730__.webp 730w, /portfolio/170690483-df0fcd0d-1d1f-4825-a253-434ab4ea868c-d-tNT-8kcq-__1400__.webp 1400w" sizes="auto"></picture>
+    <figcaption>2. license - Maquette haute fidélité du programme d’installation des produits Kolor.</figcaption>
+</figure>
+
+                        <h2 id="graphisme" pl-9="xs,sm">
+                            <a href="#graphisme" title="Graphisme" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Graphisme</h2>
+<p>Créations graphiques réalisées dans Adobe Photoshop.</p>
+
+                        <h3 id="logos" pl-9="xs,sm">
+                            <a href="#logos" title="Logos" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Logos</h3>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170689012-790c486d-4335-4245-845e-6b58be31acde-aX4iFI7f9y-__730__.avif 730w, /portfolio/170689012-790c486d-4335-4245-845e-6b58be31acde-aX4iFI7f9y-__1400__.avif 1400w, /portfolio/170689012-790c486d-4335-4245-845e-6b58be31acde-aX4iFI7f9y-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170689012-790c486d-4335-4245-845e-6b58be31acde-aX4iFI7f9y-__730__.webp" alt="Proposition de logo pour Kolor Autopano Giga" width="1920" height="1280" srcset="/portfolio/170689012-790c486d-4335-4245-845e-6b58be31acde-aX4iFI7f9y-__730__.webp 730w, /portfolio/170689012-790c486d-4335-4245-845e-6b58be31acde-aX4iFI7f9y-__1400__.webp 1400w, /portfolio/170689012-790c486d-4335-4245-845e-6b58be31acde-aX4iFI7f9y-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logo pour Kolor Autopano Giga</figcaption>
+</figure>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f-YT7WyH3__B-__730__.avif 730w, /portfolio/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f-YT7WyH3__B-__1400__.avif 1400w, /portfolio/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f-YT7WyH3__B-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f-YT7WyH3__B-__730__.webp" alt="Proposition de logotype pour Kolor Autopano Giga" width="1920" height="1280" srcset="/portfolio/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f-YT7WyH3__B-__730__.webp 730w, /portfolio/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f-YT7WyH3__B-__1400__.webp 1400w, /portfolio/170689127-8b77df1a-589c-4fdc-871f-b41cd707f10f-YT7WyH3__B-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logotype pour Kolor Autopano Giga</figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170688933-4f7eefdd-fd91-4f20-b5e1-c8e61485efd8-HmPnkxJsUG-__730__.avif 730w, /portfolio/170688933-4f7eefdd-fd91-4f20-b5e1-c8e61485efd8-HmPnkxJsUG-__1400__.avif 1400w, /portfolio/170688933-4f7eefdd-fd91-4f20-b5e1-c8e61485efd8-HmPnkxJsUG-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170688933-4f7eefdd-fd91-4f20-b5e1-c8e61485efd8-HmPnkxJsUG-__730__.webp" alt="Proposition de logo pour Kolor Panotour Pro" width="1920" height="1280" srcset="/portfolio/170688933-4f7eefdd-fd91-4f20-b5e1-c8e61485efd8-HmPnkxJsUG-__730__.webp 730w, /portfolio/170688933-4f7eefdd-fd91-4f20-b5e1-c8e61485efd8-HmPnkxJsUG-__1400__.webp 1400w, /portfolio/170688933-4f7eefdd-fd91-4f20-b5e1-c8e61485efd8-HmPnkxJsUG-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logo pour Kolor Panotour Pro</figcaption>
+</figure>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170689131-802a9659-fedd-4d1f-8a94-6e050927c31c-6-Zu08y3vi-__730__.avif 730w, /portfolio/170689131-802a9659-fedd-4d1f-8a94-6e050927c31c-6-Zu08y3vi-__1400__.avif 1400w, /portfolio/170689131-802a9659-fedd-4d1f-8a94-6e050927c31c-6-Zu08y3vi-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170689131-802a9659-fedd-4d1f-8a94-6e050927c31c-6-Zu08y3vi-__730__.webp" alt="Proposition de logotype pour Kolor Panotour Pro" width="1920" height="1280" srcset="/portfolio/170689131-802a9659-fedd-4d1f-8a94-6e050927c31c-6-Zu08y3vi-__730__.webp 730w, /portfolio/170689131-802a9659-fedd-4d1f-8a94-6e050927c31c-6-Zu08y3vi-__1400__.webp 1400w, /portfolio/170689131-802a9659-fedd-4d1f-8a94-6e050927c31c-6-Zu08y3vi-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logotype pour Kolor Panotour Pro</figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170688998-764d378a-64f2-42ae-825d-15838c7d9864-O0WF9FV3vW-__730__.avif 730w, /portfolio/170688998-764d378a-64f2-42ae-825d-15838c7d9864-O0WF9FV3vW-__1400__.avif 1400w, /portfolio/170688998-764d378a-64f2-42ae-825d-15838c7d9864-O0WF9FV3vW-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170688998-764d378a-64f2-42ae-825d-15838c7d9864-O0WF9FV3vW-__730__.webp" alt="Proposition de logo pour Kolor Autopano Video Pro" width="1920" height="1280" srcset="/portfolio/170688998-764d378a-64f2-42ae-825d-15838c7d9864-O0WF9FV3vW-__730__.webp 730w, /portfolio/170688998-764d378a-64f2-42ae-825d-15838c7d9864-O0WF9FV3vW-__1400__.webp 1400w, /portfolio/170688998-764d378a-64f2-42ae-825d-15838c7d9864-O0WF9FV3vW-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logo pour Kolor Autopano Video Pro</figcaption>
+</figure>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170689130-d6d91b9a-9de0-4d41-870d-b6b9c5f00fb7-Q7cCbsFQAz-__730__.avif 730w, /portfolio/170689130-d6d91b9a-9de0-4d41-870d-b6b9c5f00fb7-Q7cCbsFQAz-__1400__.avif 1400w, /portfolio/170689130-d6d91b9a-9de0-4d41-870d-b6b9c5f00fb7-Q7cCbsFQAz-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170689130-d6d91b9a-9de0-4d41-870d-b6b9c5f00fb7-Q7cCbsFQAz-__730__.webp" alt="Proposition de logotype pour Kolor Autopano Video Pro" width="1920" height="1280" srcset="/portfolio/170689130-d6d91b9a-9de0-4d41-870d-b6b9c5f00fb7-Q7cCbsFQAz-__730__.webp 730w, /portfolio/170689130-d6d91b9a-9de0-4d41-870d-b6b9c5f00fb7-Q7cCbsFQAz-__1400__.webp 1400w, /portfolio/170689130-d6d91b9a-9de0-4d41-870d-b6b9c5f00fb7-Q7cCbsFQAz-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logotype pour Kolor Autopano Video Pro</figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170688951-45154ea4-44e4-4632-b984-945687eaadb8-rh-xNL9upD-__730__.avif 730w, /portfolio/170688951-45154ea4-44e4-4632-b984-945687eaadb8-rh-xNL9upD-__1400__.avif 1400w, /portfolio/170688951-45154ea4-44e4-4632-b984-945687eaadb8-rh-xNL9upD-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170688951-45154ea4-44e4-4632-b984-945687eaadb8-rh-xNL9upD-__730__.webp" alt="Proposition de logo pour Kolor Live VR" width="1920" height="1280" srcset="/portfolio/170688951-45154ea4-44e4-4632-b984-945687eaadb8-rh-xNL9upD-__730__.webp 730w, /portfolio/170688951-45154ea4-44e4-4632-b984-945687eaadb8-rh-xNL9upD-__1400__.webp 1400w, /portfolio/170688951-45154ea4-44e4-4632-b984-945687eaadb8-rh-xNL9upD-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logo pour Kolor Live VR</figcaption>
+</figure>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170689128-da61b771-aea6-44e3-bcd6-63d11bd881ef-c2YBz3K1pw-__730__.avif 730w, /portfolio/170689128-da61b771-aea6-44e3-bcd6-63d11bd881ef-c2YBz3K1pw-__1400__.avif 1400w, /portfolio/170689128-da61b771-aea6-44e3-bcd6-63d11bd881ef-c2YBz3K1pw-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170689128-da61b771-aea6-44e3-bcd6-63d11bd881ef-c2YBz3K1pw-__730__.webp" alt="Proposition de logotype pour Kolor Live VR" width="1920" height="1280" srcset="/portfolio/170689128-da61b771-aea6-44e3-bcd6-63d11bd881ef-c2YBz3K1pw-__730__.webp 730w, /portfolio/170689128-da61b771-aea6-44e3-bcd6-63d11bd881ef-c2YBz3K1pw-__1400__.webp 1400w, /portfolio/170689128-da61b771-aea6-44e3-bcd6-63d11bd881ef-c2YBz3K1pw-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Proposition de logotype pour Kolor Live VR</figcaption>
+</figure>
+<figure class="wide long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170689040-deb15582-fd85-4f03-972d-de6b4df942a9-09XM8YWmZA-__730__.avif 730w, /portfolio/170689040-deb15582-fd85-4f03-972d-de6b4df942a9-09XM8YWmZA-__1400__.avif 1400w, /portfolio/170689040-deb15582-fd85-4f03-972d-de6b4df942a9-09XM8YWmZA-__2800__.avif 2800w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170689040-deb15582-fd85-4f03-972d-de6b4df942a9-09XM8YWmZA-__730__.webp" alt="Proposition alternative d’une série de logo pour les produits Kolor" width="2800" height="466" srcset="/portfolio/170689040-deb15582-fd85-4f03-972d-de6b4df942a9-09XM8YWmZA-__730__.webp 730w, /portfolio/170689040-deb15582-fd85-4f03-972d-de6b4df942a9-09XM8YWmZA-__1400__.webp 1400w, /portfolio/170689040-deb15582-fd85-4f03-972d-de6b4df942a9-09XM8YWmZA-__2800__.webp 2800w" sizes="auto"></picture>
+    <figcaption>Proposition alternative d’une série de logo pour les produits Kolor</figcaption>
+</figure>
+<figure>
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5-mg4We0hhXh-__730__.avif 730w, /portfolio/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5-mg4We0hhXh-__1400__.avif 1400w, /portfolio/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5-mg4We0hhXh-__1800__.avif 1800w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5-mg4We0hhXh-__730__.webp" alt="Logo pour l’hôtel Le Grand Truc" width="1800" height="928" srcset="/portfolio/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5-mg4We0hhXh-__730__.webp 730w, /portfolio/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5-mg4We0hhXh-__1400__.webp 1400w, /portfolio/170692871-49a6decf-228c-45e4-8dab-2848c3f42ab5-mg4We0hhXh-__1800__.webp 1800w" sizes="auto"></picture>
+    <figcaption>Logo pour l’hôtel Le Grand Truc</figcaption>
+</figure>
+
+                        <h3 id="gopro-fusion-t-shirt" pl-9="xs,sm">
+                            <a href="#gopro-fusion-t-shirt" title="GoPro Fusion T-Shirt" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    GoPro Fusion T-Shirt</h3>
+<p>Création graphique dans Adobe Photoshop pour impression sur T-Shirt.</p>
+<div class="d-flex fw-wrap gap-5">
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686382-19f3f305-33b4-4472-9c65-191036c385b9-Y6cG-tal9v-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686382-19f3f305-33b4-4472-9c65-191036c385b9-Y6cG-tal9v-__400__.webp" alt="tshirt-front-2-mockup-3" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686387-7a708e7d-6d68-4eb6-bf42-524b5bfc3ba8-RlGqlMt_j0-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686387-7a708e7d-6d68-4eb6-bf42-524b5bfc3ba8-RlGqlMt_j0-__400__.webp" alt="tshirt-front-2-mockup-1" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686389-be4ddd92-f7d4-42f0-a485-abeef5ec8ef7-LKz16X1GhR-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686389-be4ddd92-f7d4-42f0-a485-abeef5ec8ef7-LKz16X1GhR-__400__.webp" alt="tshirt-front-1-mockup-1" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686391-5d70e670-177e-4e54-99cb-912ef1b139e2-JGCdn_TM5X-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686391-5d70e670-177e-4e54-99cb-912ef1b139e2-JGCdn_TM5X-__400__.webp" alt="tshirt-back-1-mockup-3" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686399-6566d4c5-d556-4019-81ea-3f34c9b5e097-aiCaizZDXg-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686399-6566d4c5-d556-4019-81ea-3f34c9b5e097-aiCaizZDXg-__400__.webp" alt="placeit-19" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686401-0f597d0e-d9ba-4357-8ffa-9fd171e3b4e3-WdQEudvVCT-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686401-0f597d0e-d9ba-4357-8ffa-9fd171e3b4e3-WdQEudvVCT-__400__.webp" alt="placeit-10" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686402-af0e1e9e-622b-4a25-9e41-044898e273d6-RLCWDVdUNb-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686402-af0e1e9e-622b-4a25-9e41-044898e273d6-RLCWDVdUNb-__400__.webp" alt="placeit-8" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686405-f9d45f50-9b37-4f37-b750-3cabc9f64be8-b9AR1q24ad-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686405-f9d45f50-9b37-4f37-b750-3cabc9f64be8-b9AR1q24ad-__400__.webp" alt="placeit-7" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686406-9104ad9c-743f-4d15-aff4-4fcf7403a858-89W7GDmG4R-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686406-9104ad9c-743f-4d15-aff4-4fcf7403a858-89W7GDmG4R-__400__.webp" alt="placeit-6" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686409-c89e8604-da24-4032-bf81-72e876e3c4bc-XMynpgmcsh-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686409-c89e8604-da24-4032-bf81-72e876e3c4bc-XMynpgmcsh-__400__.webp" alt="placeit-4" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686413-fad99ede-a5cf-420d-84e8-84c16535fe7c-EOh3NuIxiR-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686413-fad99ede-a5cf-420d-84e8-84c16535fe7c-EOh3NuIxiR-__400__.webp" alt="placeit-3" width="400" height="300"></picture>
+    </div>
+    <div style="width:46%">
+        <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170686414-aa65948f-8657-4cd7-a5c4-1399ef2197c6-eWNYV6BCvU-__400__.avif 400w"><img loading="lazy" decoding="async" src="/portfolio/170686414-aa65948f-8657-4cd7-a5c4-1399ef2197c6-eWNYV6BCvU-__400__.webp" alt="placeit-1" width="400" height="300"></picture>
+    </div>
+</div>
+
+                        <h3 id="jaquettes-blu-ray-et-dvd" pl-9="xs,sm">
+                            <a href="#jaquettes-blu-ray-et-dvd" title="Jaquettes Blu-Ray et DVD" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Jaquettes Blu-Ray et DVD</h3>
+<figure class="wide long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170691065-45241255-e193-46a0-a222-fa72c32f323d-c8qByZkWS--__730__.avif 730w, /portfolio/170691065-45241255-e193-46a0-a222-fa72c32f323d-c8qByZkWS--__1400__.avif 1400w, /portfolio/170691065-45241255-e193-46a0-a222-fa72c32f323d-c8qByZkWS--__2800__.avif 2800w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170691065-45241255-e193-46a0-a222-fa72c32f323d-c8qByZkWS--__730__.webp" alt="Jaquette Blu-Ray et DVD du film American Loneliness" width="2800" height="1955" srcset="/portfolio/170691065-45241255-e193-46a0-a222-fa72c32f323d-c8qByZkWS--__730__.webp 730w, /portfolio/170691065-45241255-e193-46a0-a222-fa72c32f323d-c8qByZkWS--__1400__.webp 1400w, /portfolio/170691065-45241255-e193-46a0-a222-fa72c32f323d-c8qByZkWS--__2800__.webp 2800w" sizes="auto"></picture>
+    <figcaption>Jaquette Blu-Ray et DVD du film 
+        <a href="https://www.mathieulelay.com/portfolio/american-loneliness/">American Loneliness</a>
+    </figcaption>
+</figure>
+<figure class="wide long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc-BSefItog6x-__730__.avif 730w, /portfolio/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc-BSefItog6x-__1400__.avif 1400w, /portfolio/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc-BSefItog6x-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc-BSefItog6x-__730__.webp" alt="Jaquette Blu-Ray et DVD du film La Quête d’Inspiration" width="1920" height="1307" srcset="/portfolio/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc-BSefItog6x-__730__.webp 730w, /portfolio/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc-BSefItog6x-__1400__.webp 1400w, /portfolio/170691014-8ae58454-87e5-4ee7-a17e-f73d346f41dc-BSefItog6x-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Jaquette Blu-Ray et DVD du film 
+        <a href="https://www.mathieulelay.com/portfolio/la-quete-dinspiration/">La Quête d’Inspiration</a>
+    </figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170691019-53f9e60b-5dcd-4680-8b17-7dce116decc9-aCHG2e9eGC-__730__.avif 730w, /portfolio/170691019-53f9e60b-5dcd-4680-8b17-7dce116decc9-aCHG2e9eGC-__1400__.avif 1400w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170691019-53f9e60b-5dcd-4680-8b17-7dce116decc9-aCHG2e9eGC-__730__.webp" alt="Variante de la jaquette Blu-Ray et DVD du film La Quête d’Inspiration" width="1400" height="1866" srcset="/portfolio/170691019-53f9e60b-5dcd-4680-8b17-7dce116decc9-aCHG2e9eGC-__730__.webp 730w, /portfolio/170691019-53f9e60b-5dcd-4680-8b17-7dce116decc9-aCHG2e9eGC-__1400__.webp 1400w" sizes="auto"></picture>
+    <figcaption>Variante de la jaquette Blu-Ray et DVD du film 
+        <a href="https://www.mathieulelay.com/portfolio/la-quete-dinspiration/">La Quête d’Inspiration</a>
+    </figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170691000-987c9959-f5b0-4e4a-988e-09fdb828a4b3-LkoY-Zd6H6-__730__.avif 730w, /portfolio/170691000-987c9959-f5b0-4e4a-988e-09fdb828a4b3-LkoY-Zd6H6-__1400__.avif 1400w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170691000-987c9959-f5b0-4e4a-988e-09fdb828a4b3-LkoY-Zd6H6-__730__.webp" alt="Variante de la jaquette Blu-Ray et DVD du film La Quête d’Inspiration" width="1400" height="1866" srcset="/portfolio/170691000-987c9959-f5b0-4e4a-988e-09fdb828a4b3-LkoY-Zd6H6-__730__.webp 730w, /portfolio/170691000-987c9959-f5b0-4e4a-988e-09fdb828a4b3-LkoY-Zd6H6-__1400__.webp 1400w" sizes="auto"></picture>
+    <figcaption>Variante de la jaquette Blu-Ray et DVD du film 
+        <a href="https://www.mathieulelay.com/portfolio/la-quete-dinspiration/">La Quête d’Inspiration</a>
+    </figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8-3goyjATjVt-__730__.avif 730w, /portfolio/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8-3goyjATjVt-__1400__.avif 1400w, /portfolio/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8-3goyjATjVt-__1920__.avif 1920w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8-3goyjATjVt-__730__.webp" alt="Gabarit Blu-Ray et DVD du film La Quête d’Inspiration" width="1920" height="1920" srcset="/portfolio/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8-3goyjATjVt-__730__.webp 730w, /portfolio/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8-3goyjATjVt-__1400__.webp 1400w, /portfolio/170691010-4995c75a-4e46-4e56-8671-09bde7bd6dc8-3goyjATjVt-__1920__.webp 1920w" sizes="auto"></picture>
+    <figcaption>Gabarit Blu-Ray et DVD du film 
+        <a href="https://www.mathieulelay.com/portfolio/la-quete-dinspiration/">La Quête d’Inspiration</a>
+    </figcaption>
+</figure>
+<figure class="wide long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307--1HzfVElqt-__730__.avif 730w, /portfolio/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307--1HzfVElqt-__1097__.avif 1097w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307--1HzfVElqt-__730__.webp" alt="Jaquette Blu-Ray et DVD du film Des Gypaètes et des Hommes" width="1097" height="746" srcset="/portfolio/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307--1HzfVElqt-__730__.webp 730w, /portfolio/170691060-3bc108e4-323a-4a19-85dd-cf6555dd8307--1HzfVElqt-__1097__.webp 1097w" sizes="auto"></picture>
+    <figcaption>Jaquette Blu-Ray et DVD du film 
+        <a href="https://www.mathieulelay.com/portfolio/des-gypaetes-et-des-hommes/">Des Gypaètes et des Hommes</a>
+    </figcaption>
+</figure>
+
+                        <h3 id="divers" pl-9="xs,sm">
+                            <a href="#divers" title="Divers" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Divers</h3>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170692886-7aa7b3ee-0a05-4d0f-b8d8-d01ccc60d7bc-MRE5Gwk4rN-__730__.avif 730w, /portfolio/170692886-7aa7b3ee-0a05-4d0f-b8d8-d01ccc60d7bc-MRE5Gwk4rN-__950__.avif 950w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170692886-7aa7b3ee-0a05-4d0f-b8d8-d01ccc60d7bc-MRE5Gwk4rN-__730__.webp" alt="Flyer RunArtic" width="950" height="907" srcset="/portfolio/170692886-7aa7b3ee-0a05-4d0f-b8d8-d01ccc60d7bc-MRE5Gwk4rN-__730__.webp 730w, /portfolio/170692886-7aa7b3ee-0a05-4d0f-b8d8-d01ccc60d7bc-MRE5Gwk4rN-__950__.webp 950w" sizes="auto"></picture>
+    <figcaption>Flyer RunArtic</figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170692967-546cec65-f23f-4bbe-8717-e422cc2cd1c5-nsu7jbjtMk-__730__.avif 730w, /portfolio/170692967-546cec65-f23f-4bbe-8717-e422cc2cd1c5-nsu7jbjtMk-__1075__.avif 1075w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170692967-546cec65-f23f-4bbe-8717-e422cc2cd1c5-nsu7jbjtMk-__730__.webp" alt="Carte de visite Moniteur de Ski" width="1075" height="709" srcset="/portfolio/170692967-546cec65-f23f-4bbe-8717-e422cc2cd1c5-nsu7jbjtMk-__730__.webp 730w, /portfolio/170692967-546cec65-f23f-4bbe-8717-e422cc2cd1c5-nsu7jbjtMk-__1075__.webp 1075w" sizes="auto"></picture>
+    <figcaption>Carte de visite Moniteur de Ski</figcaption>
+</figure>
+<figure class="long-shadow">
+    <picture class="eleventy-image"><source type="image/avif" srcset="/portfolio/170692981-20f37178-2541-4c6d-9971-4201080d65e8-of0m10mQXV-__730__.avif 730w, /portfolio/170692981-20f37178-2541-4c6d-9971-4201080d65e8-of0m10mQXV-__1075__.avif 1075w" sizes="auto"><img loading="lazy" decoding="async" src="/portfolio/170692981-20f37178-2541-4c6d-9971-4201080d65e8-of0m10mQXV-__730__.webp" alt="Carte de visite taxi" width="1075" height="709" srcset="/portfolio/170692981-20f37178-2541-4c6d-9971-4201080d65e8-of0m10mQXV-__730__.webp 730w, /portfolio/170692981-20f37178-2541-4c6d-9971-4201080d65e8-of0m10mQXV-__1075__.webp 1075w" sizes="auto"></picture>
+    <figcaption>Carte de visite taxi</figcaption>
+</figure>
+
+            <footer class="minh-100vh">
+                <div class="pt-11 | blwidth-1 blstyle-dashed bcolor-neutral-500"></div>
+                <nav class="d-flex ai-center rgap-7 | blwidth-1 blstyle-dashed bcolor-neutral-500" fw-wrap="xs">
+                    <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
+                    
+                    <div class="w-100" d-none="sm,md"></div>
+                    <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
+                    <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
+                        11ty LibDoc 0.5.3
+                    </a>
+                </nav>
+            </footer>
+        </main>
+    </div>
+    
+    <script src="/core/assets/js/sandbox.js"></script>
+    <script src="/core/assets/js/hljs/highlight.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/xml.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/javascript.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/json.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/yaml.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/liquid.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/markdown.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/css.min.js"></script>
+    
+    <script src="/core/assets/js/ui.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+document.querySelector(':root').style.setProperty('--current-year', `'${new Date().getFullYear()}'`);

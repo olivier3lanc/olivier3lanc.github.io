@@ -1,0 +1,27 @@
+{
+    "lang": "fr",
+    "siteTitle": "Olivier 3lanc",
+    "siteDescription": "Développeur front-end hybride UI et UX",
+    "author": "0livier 3lanc",
+    "blogTitle": "Blog",
+    "blogAuthor": "Olivier 3lanc",
+    "customLinks": [
+        {
+            "url": "https://github.com/olivier3lanc",
+            "text": "GitHub"
+        },
+        {
+            "url": "mailto:olivier3lanc@gmail.com",
+            "text": "email"
+        },
+        {
+            "url": "#",
+            "text": "Parcours"
+        },
+        {
+            "url": "#",
+            "text": "Folio"
+        }
+    ],
+    "htmlBasePathPrefix": ""
+}
