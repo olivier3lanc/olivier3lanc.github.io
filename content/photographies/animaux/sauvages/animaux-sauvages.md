@@ -338,6 +338,14 @@ date: git Last Modified
 ## Vautour fauve
 
 <figure class="wide long-shadow">
+    <img src="/sources/animaux/sauvages/vautour-fauve_IMG_1091.jpg"
+        alt="Vautour Fauve de Rémuzat">
+    <figcaption>
+        Vautour Fauve de Rémuzat - <em>Gyps fulvus</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
     <img src="/sources/animaux/sauvages/vautour_fauve_2_remuzat_2013_img_1170.jpg"
         alt="Vautour Fauve de Rémuzat">
     <figcaption>

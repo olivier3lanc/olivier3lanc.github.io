@@ -10,7 +10,7 @@ eleventyNavigation:
 date: git Last Modified
 ---
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/sri-lankan-leopard-panthera-pardus-kotiya.png"
+    <img src="/assets/svg/sri-lankan-leopard-panthera-pardus-kotiya.svg"
         alt="Panthère de Ceylan">
     <figcaption>
         Panthère de Ceylan - <em>Panthera pardus kotiya</em>
@@ -18,7 +18,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/ocelot-leopardus-pardalis.png"
+    <img src="/assets/svg/ocelot-leopardus-pardalis.svg"
         alt="Ocelot">
     <figcaption>
         Ocelot <em>Leopardus pardalis</em>
@@ -26,7 +26,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/corto-kitty.png"
+    <img src="/assets/svg/cat-corto.svg"
         alt="Corto le chaton">
     <figcaption>
         Corto le chaton
@@ -34,7 +34,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/white-tiger.png"
+    <img src="/assets/svg/white-tiger.svg"
         alt="Tigre blanc">
     <figcaption>
         Tigre blanc
@@ -42,7 +42,7 @@ date: git Last Modified
 </figure>
 
 <figure class="long-shadow">
-    <img src="/sources/low-poly/rudy-gorilla.png"
+    <img src="/assets/svg/gorilla.svg"
         alt="Gorille">
     <figcaption>
         Gorille
@@ -50,7 +50,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/drills-mandrillus-leucophaeus.png"
+    <img src="/assets/svg/drills-mandrillus-leucophaeus.svg"
         alt="Mandrills">
     <figcaption>
         Mandrills - <em>Mandrillus leucophaeus</em>
@@ -58,7 +58,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/leopard-cat-rionailurus-bengalensis.png"
+    <img src="/assets/svg/leopard-cat-prionailurus-bengalensis.svg"
         alt="Leopard cat">
     <figcaption>
         Leopard cat - <em>Prionailurus bengalensis</em>
@@ -66,7 +66,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/lion-panthera-leo.png"
+    <img src="/assets/svg/lion-panthera-leo.svg"
         alt="Lion">
     <figcaption>
         Lion - <em>Panthera leo</em>
@@ -74,7 +74,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/cheetah-acinonyx-jubatus.png"
+    <img src="/assets/svg/cheetah-acinonyx-jubatus.svg"
         alt="Guépard">
     <figcaption>
         Guépard - <em>Acinonyx jubatus</em>
@@ -82,7 +82,7 @@ date: git Last Modified
 </figure>
 
 <figure class="long-shadow">
-    <img src="/sources/low-poly/squirrel-monkey-saimiri-sciureus.png"
+    <img src="/assets/svg/squirrel-monkey-saimiri-sciureus.svg"
         alt="Singe écureuil">
     <figcaption>
         Singe écureuil - <em>Saimiri sciureus</em>
@@ -90,7 +90,7 @@ date: git Last Modified
 </figure>
 
 <figure class="long-shadow">
-    <img src="/sources/low-poly/zebra.png"
+    <img src="/assets/svg/zebra.svg"
         alt="Zèbre">
     <figcaption>
         Zèbre - <em>Zebra</em>
@@ -98,7 +98,7 @@ date: git Last Modified
 </figure>
 
 <figure class="long-shadow">
-    <img src="/sources/low-poly/ibex-capra-ibex.png"
+    <img src="/assets/svg/ibex-capra-ibex.svg"
         alt="Bouquetin">
     <figcaption>
         Bouquetin - <em>Capra ibex</em>
@@ -106,7 +106,7 @@ date: git Last Modified
 </figure>
 
 <figure class="long-shadow">
-    <img src="/sources/low-poly/chamois-rupicapra-rupicapra.png"
+    <img src="/assets/svg/chamois-rupicapra-rupicapra.svg"
         alt="Chamois">
     <figcaption>
         Chamois - <em>Rupicapra rupicapra</em>
@@ -114,7 +114,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/leopard-panthera-pardus.png"
+    <img src="/assets/svg/leopard-panthera-pardus.svg"
         alt="Léopard">
     <figcaption>
         Léopard - <em>Panthera pardus</em>
@@ -122,7 +122,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/sika-deer-cervus-nippon.png"
+    <img src="/assets/svg/sika-deer-cervus-nippon.svg"
         alt="Cerf Sika">
     <figcaption>
         Cerf Sika - <em>Cervus nippon</em>
@@ -130,7 +130,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/lynx-lynx-lynx.png"
+    <img src="/assets/svg/lynx.svg"
         alt="Lynx">
     <figcaption>
         Lynx - <em>Lynx lynx</em>
@@ -138,7 +138,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/wolf-canis-lupus-lupus.png"
+    <img src="/assets/svg/wolf.svg"
         alt="Loup">
     <figcaption>
         Loup - <em>Canis lupus</em>
@@ -146,7 +146,7 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
-    <img src="/sources/low-poly/fox-vulpes-vulpes.png"
+    <img src="/assets/svg/fox.svg"
         alt="Renard roux">
     <figcaption>
         Renard roux - <em>Vulpes vulpes</em>

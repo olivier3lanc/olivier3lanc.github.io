@@ -138,6 +138,14 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
+    <img src="/sources/paysages/nuit/lune-supplementaire.jpg"
+        alt="Lune supplémentaire">
+    <figcaption>
+        Lune supplémentaire - <em>Albertville</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
     <img src="/sources/paysages/nuit/_MG_5540-Pano.jpg"
         alt="Nuit d’orages sur les Bauges">
     <figcaption>

@@ -1,5 +1,6 @@
 ---
 title: Photographies
+description: Albums de photographies et créations photo personnelles
 layout: libdoc_page.liquid
 permalink: photographies/index.html
 eleventyNavigation:

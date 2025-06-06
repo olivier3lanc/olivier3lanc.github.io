@@ -49,7 +49,7 @@ date: git Last Modified
     </figcaption>
 </figure>
 
-<figure class="wide long-shadow">
+<figure class="long-shadow">
     <img src="/sources/paysages/brume/Pont_Morens_Montmelian_MG_7224__MG_7225-2img.jpg"
         alt="Pont Morens">
     <figcaption>

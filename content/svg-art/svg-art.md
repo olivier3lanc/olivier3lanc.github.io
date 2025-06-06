@@ -12,8 +12,8 @@ Collection de fichiers <abbr title="Scalable Vector Graphics">SVG</abbr> [low-po
 
 ## Mammifères low-poly
 
-[![Mammifères low-poly](/sources/low-poly/sri-lankan-leopard-panthera-pardus-kotiya.png)](/content/svg-art/mammiferes/mammiferes.md)
+[![Mammifères low-poly](/assets/svg/sri-lankan-leopard-panthera-pardus-kotiya.svg)](/content/svg-art/mammiferes/mammiferes.md)
 
 ## Oiseaux low-poly
 
-[![Oiseaux low-poly](//sources/low-poly/bearded-vulture-gypaetus-barbatus.png)](/content/svg-art/oiseaux/oiseaux.md)
+[![Oiseaux low-poly](/assets/svg/bearded-vulture-gypaetus-barbatus.svg)](/content/svg-art/oiseaux/oiseaux.md)

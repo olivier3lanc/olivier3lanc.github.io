@@ -130,6 +130,14 @@ date: git Last Modified
 </figure>
 
 <figure class="wide long-shadow">
+    <img src="/sources/paysages/hiver/massif-chartreuse-_MG_8182__MG_8190-9-images.jpg"
+        alt="Massif de la Chartreuse en hiver">
+    <figcaption>
+        Massif de la Chartreuse en hiver - <em>Chartreuse</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
     <img src="/sources/paysages/hiver/Massif_Chartreuse_Hiver_MG_7498__MG_7505-8img.jpg"
         alt="Massif de la Chartreuse en hiver">
     <figcaption>

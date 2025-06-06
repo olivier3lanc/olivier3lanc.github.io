@@ -11,6 +11,14 @@ date: git Last Modified
 ---
 
 <figure class="wide long-shadow">
+    <img src="/sources/animaux/domestiques/tarines-cormet-roselend_MG_3107.tif"
+        alt="Troupeau de vaches Tarines au cormet de Roselend">
+    <figcaption>
+        Troupeau de vaches Tarines au cormet de Roselend
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
     <img src="/sources/animaux/domestiques/img_6994_size_2560x1706.webp"
         alt="Vache Tarine">
     <figcaption>

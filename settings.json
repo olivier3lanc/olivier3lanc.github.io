@@ -4,6 +4,8 @@
     "siteDescription": "Développeur front-end hybride UI et UX",
     "author": "0livier 3lanc",
     "blogTitle": "Blog",
+    "blogDescription": "Fil d’articles sur le web design , la photo, le son et la vidéo.",
+    "blogSlug": "blog",
     "blogAuthor": "Olivier 3lanc",
     "customLinks": [
         {
@@ -13,14 +15,6 @@
         {
             "url": "mailto:olivier3lanc@gmail.com",
             "text": "email"
-        },
-        {
-            "url": "#",
-            "text": "Parcours"
-        },
-        {
-            "url": "#",
-            "text": "Folio"
         }
     ],
     "htmlBasePathPrefix": ""

@@ -9,6 +9,14 @@ eleventyNavigation:
     order: 500
 date: git Last Modified
 ---
+<figure class="wide long-shadow">
+    <img src="/sources/photoshop/lion-matrix-IMG_5548.jpg"
+        alt="Lion Matrix">
+    <figcaption>
+        Lion Matrix
+    </figcaption>
+</figure>
+
 <figure class="long-shadow">
     <img src="/sources/photoshop/Colette_Marmotte_Orangina_IMG_8656.jpg"
         alt="Marmotte Orangina">

@@ -12,6 +12,14 @@ date: git Last Modified
 ## Beaufortain
 
 <figure class="wide long-shadow">
+    <img src="/sources/paysages/ete/pierra-menta_MG_3116.tif"
+        alt="La Pierra Menta">
+    <figcaption>
+        La Pierra Menta - <em>Beaufortain</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
     <img src="/sources/paysages/ete/areches_beaufort_en_ete_2_MG_1513_MG_1520-8-img.jpg"
         alt="Arêches Beaufort">
     <figcaption>
@@ -152,6 +160,14 @@ date: git Last Modified
 ## Tarentaise
 
 <figure class="wide long-shadow">
+    <img src="/sources/paysages/ete/aiguille-des-glaciers_MG_3096.jpg"
+        alt="Aiguille des glaciers - Les Chapieux">
+    <figcaption>
+        Aiguille des glaciers - Les Chapieux - <em>Tarentaise</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
     <img src="/sources/paysages/ete/au_dessus_des_Chapieux_2_IMG_0508.jpg"
         alt="Au dessus des Chapieux">
     <figcaption>
@@ -186,6 +202,14 @@ date: git Last Modified
 ## Autres
 
 <figure class="wide long-shadow">
+    <img src="/sources/paysages/ete/albertville-ete_MG_9686__MG_9698-13-images.jpg"
+        alt="Panorama d’Albertville">
+    <figcaption>
+        Panorama d’Albertville - <em>Combe de Savoie</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
     <img src="/sources/paysages/ete/Foret_de_Gresy_sur_Isere.jpg"
         alt="Forêt de Grésy sur Isère en été">
     <figcaption>
@@ -198,5 +222,21 @@ date: git Last Modified
         alt="Le lac d’Annecy en été">
     <figcaption>
         Le lac d’Annecy en été - <em>Haute-Savoie</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
+    <img src="/sources/paysages/ete/lac-mont-cenis-_MG_2647__MG_2655-9-images.jpg"
+        alt="Lac du Mont Cenis en été">
+    <figcaption>
+        Lac du Mont Cenis en été - <em>Maurienne</em>
+    </figcaption>
+</figure>
+
+<figure class="wide long-shadow">
+    <img src="/sources/paysages/ete/alpespace_MG_9866__MG_9872-7-images.jpg"
+        alt="Alpespace pyramide en été">
+    <figcaption>
+        Alpespace pyramide en été - <em>Montmélian / Francin</em>
     </figcaption>
 </figure>
