@@ -4,13 +4,17 @@
     "siteDescription": "Développeur front-end hybride UI et UX",
     "author": "0livier 3lanc",
     "blogTitle": "Blog",
-    "blogDescription": "Fil d’articles sur le web design , la photo, le son et la vidéo.",
+    "blogDescription": "Fil d’articles sur le web design, la photo, le son et la vidéo.",
     "blogSlug": "blog",
     "blogAuthor": "Olivier 3lanc",
     "customLinks": [
         {
             "url": "https://github.com/olivier3lanc",
             "text": "GitHub"
+        },
+        {
+            "url": "https://codepen.io/olivier3lanc",
+            "text": "CodePen"
         },
         {
             "url": "mailto:olivier3lanc@gmail.com",
