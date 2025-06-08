@@ -10,6 +10,7 @@ tags:
     - paysage
     - ete
     - agence-merci
+    - les-arcs
 date: 2012-08-15
 ---
 Sortie photo pour l’[Agence Merci!](https://wearemerci.com/). Départ en hélicoptère le 27 juillet 2012 pour une séance photo d’une demi-heure. Passage sur l’ensemble des massifs du domaine skiable de Bourg St Maurice Les Arcs. On peut voir les stations Les Arcs 1800, les Arcs 2000 et 1950, l’Aiguille Rouge, le Mont Pourri, le Col de la Chal, le Mont Blanc, le Roignais, le Dôme de Vaugelaz, Bourg St Maurice, le Col du Petit St Bernard et la Rosière. Un grand merci au responsable de l’agence Merci!, David Morille, pour sa confiance accordée dans ce projet.

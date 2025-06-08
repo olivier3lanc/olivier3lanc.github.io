@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vtt</title>
+    
+
+    <meta itemprop="name" content="vtt">
+    <meta name="description" itemprop="description" content="Pages taguées vtt">
+    <meta name="application-name" content="vtt">
+    <meta name="author" content="0livier 3lanc">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="theme-color" content="#FFFFFF">
+    
+    <!-- Microsoft -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="msapplication-starturl" content="/tags/vtt/">
+    <meta name="msapplication-tooltip" content="vtt">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="/tags/vtt/">
+    <meta property="og:title" content="vtt">
+    <meta property="og:description" content="Pages taguées vtt">
+    <meta property="og:image" content="https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="vtt">
+    <meta name="twitter:description" content="Pages taguées vtt">
+    <meta name="twitter:url" content="/tags/vtt/">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png">
+    
+    <!-- iOS -->
+    <meta name="apple-mobile-web-app-title" content="vtt">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#FFFFFF">
+    
+    <!-- Android -->
+    <meta name="theme-color" content="#FFFFFF">
+    <meta name="color-scheme" content="light">
+    <meta name="mobile-web-app-capable" content="yes">
+
+    <meta name="generator" content="Eleventy v3.1.1">
+    
+    <link rel="stylesheet" href="/core/assets/css/ds__defaults.css">
+    <link rel="stylesheet" href="/core/assets/css/ds.css">
+    <link rel="stylesheet" href="/core/assets/css/hljs/night-owl.css">
+    <link rel="stylesheet" href="/core/assets/fonts/icomoon/style.css">
+    <style>
+        :root {
+            --ita-widths-sidebar: 300px;
+            --ita-widths-content: 700px;
+            --ita-widths-main-container-max: calc(2 * var(--ita-widths-content) + var(--ita-widths-sidebar));
+        }
+        
+            main img {
+                border-radius: 9px;
+            }
+        
+    </style>
+    <noscript>
+        <link rel="stylesheet" href="/core/assets/css/noscript.css">
+    </noscript>
+    
+    
+    
+    
+    <script>
+        const libdocMessages = {
+            
+                copiedToClipboard: `Copié dans le presse-papiers`,
+                code: `Code`,
+                copied: `Copié`,
+                copy: `Copier`,
+                copyCode: `Copier le code`,
+                copyHTML: `Copier le HTML`,
+                copyURL: `Copier l’URL`,
+                enable: `Activer`,
+                goToTopOfPage: `Aller en haut de page`,
+                editThisPage: `Modifier la page`,
+                height: `Hauteur`,
+                homepage: `Page d’accueil`,
+                homepageShort: `Accueil`,
+                inANewTab: `Dans un nouvel onglet`,
+                lastModified: `Dernière modification`,
+                menu: `Menu`,
+                open: `Ouvrir`,
+                openInANewTab: `Ouvrir dans un nouvel onglet`,
+                page: `Page`,
+                pages: `Pages`,
+                pagesTagged: `Pages taguées`,
+                reload: `Recharger`,
+                reloaded: `Rechargé`,
+                result: `Résultat`,
+                sandbox: `Bac à sable`,
+                sandboxResizeHelper: `Cliquer déplacer pour redimensionner code et résultat`,
+                search: `Rechercher`,
+                searchClear: `Effacer la saisie`,
+                searchMinimumCharacters: `3 caractères min.`,
+                searchResultsNoResultForQuery: `Aucun résultat pour la requête`,
+                searchOccurrencesCurrent: `Occurrence actuelle`,
+                searchOccurrencesNext: `Occurrence suivante`,
+                searchOccurrencesPrevious: `Occurrence précédente`,
+                searchOccurrencesStop: `Fermet la recherches d’occurrences`,
+                searchPlaceholder: `Texte à rechercher`,
+                searchSubmit: `Lancer la recherche`,
+                tableOfContent: `Table des matières`,
+                tag: `Tag`,
+                tagsList: `Liste des tags`,
+                tagsListDescription: `Liste de l’ensemble des tags disponibles`,
+                toggleFloatingToc: `Basculer la table des matières flottante`,
+                top: `Haut`,
+                width: `Largeur`,
+        }
+        const libdocConfig = {
+            searchIndexUrl: `/core/assets/js/search_index.json`
+        }
+        const libdocSystem = {
+            productionUrl: `eleventy-libdoc.netlify.app`
+        }
+    </script>
+</head>
+<body class="d-flex fd-column ai-center | m-0">
+    <div class="d-flex | w-100" fd-column="xs,sm" ai-start="md" ai-center="xs,sm" pl-5="md" style="max-width: var(--ita-widths-main-container-max)">
+        <div id="sidebar" class="d-flex fd-column | pos-sticky top-0 z-2" ai-center="xs,sm" w-100="xs,sm" w-sidebar="md">
+            <nav id="nav_small_devices" class="d-flex | pos-fixed bottom-0 left-0 z-1 | w-100 h-60px" d-none="md">
+                <div class="d-flex jc-space-between | w-100 | bc-neutral-100 btwidth-1 btstyle-dashed bcolor-neutral-500">
+                    <a href="/" class="d-flex fd-column jc-center ai-center gap-1 | pl-5 pr-2 | td-none ta-center | c-primary-900 b-0 brad-3">
+                        <span class="icon-house fs-6"></span>
+                        <span class="fvs-wght-400 fs-1 tt-uppercase">Accueil</span>
+                    </a>
+                    
+                        <a href="/search/" class="d-flex fd-column jc-center ai-center gap-1 | pl-2 pr-2 | td-none ta-center | c-primary-900 b-0 brad-3">
+                            <span class="icon-magnifying-glass fs-6"></span>
+                            <span class="fvs-wght-400 fs-1 tt-uppercase">Rechercher</span>
+                        </a>
+                    
+                    <button type="button" id="sd_floating_toc_toggle_btn" class="d-flex fd-column jc-center ai-center gap-1 | pl-2 pr-2 | ta-center | cur-pointer c-primary-900 bc-neutral-100 b-0 brad-3" disabled="">
+                        <span class="icon-list-dashes fs-6"></span>
+                        <span class="fvs-wght-400 fs-1 tt-uppercase">Table des matières</span>
+                    </button>
+                    <button type="button" id="sd_gtt_btn" class="d-flex fd-column jc-center ai-center gap-1 | pl-2 pr-2 | ta-center | cur-pointer c-primary-900 bc-neutral-100 b-0 brad-3" onclick="libdocUi.handlers._clickGTT()">
+                        <span class="icon-arrow-line-up fs-6"></span>
+                        <span class="fvs-wght-400 fs-1 tt-uppercase">Haut</span>
+                    </button>
+                    <div class="d-flex ai-center">
+                        <input type="checkbox" name="nav_primary" id="nav_primary_checkbox" value="" class="pos-absolute opa-0 pe-none">
+                        <label for="nav_primary_checkbox" class="d-flex fd-column jc-center ai-center gap-1 | h-100 pl-2 pr-5 | ta-center | cur-pointer c-primary-900 bc-neutral-100">
+                            <span class="icon-list fs-6"></span>
+                            <span class="fvs-wght-400 fs-1 tt-uppercase">Menu</span>
+                        </label>
+                    </div>
+                </div>
+            </nav>
+            <nav id="nav_primary_container" class="d-flex d-none--xs d-none--sm fd-column | w-100 o-hidden | bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 |  __soft-shadow" mt-5="md" maxw-sidebar="md" maxh-sidebar="md" h-sidebar="xs,sm" brad-3="md">
+                <menu id="nav_primary_header" class="
+                    d-flex fd-column
+                    pos-sticky top-0 z-1
+                    m-0 p-0 
+                    ls-none bc-neutral-100
+                    bbwidth-1 bbstyle-dashed bcolor-neutral-500" gap-5="md" bradtl-3="md" bradtr-3="md">
+                    <li class="d-flex ai-center">
+                        
+                            <a href="/" class="p-5 | td-none fvs-wght-700 lsp-5 fs-8 tws-balance | c-neutral-900" title="Développeur front-end hybride UI et UX">
+                                Olivier 3lanc
+                            </a>
+                        
+                    </li>
+                    
+                        <li d-none="xs,sm">
+                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form">
+                                <label for="searchInput" class="pos-absolute | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | bc-neutral-100">
+                                    Rechercher
+                                </label>
+                                <input id="searchInput" type="search" name="search" class="pl-5 pr-5 pt-4 pb-4 | fs-3 | bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Texte à rechercher" value="">
+                                <div class="d-flex ai-center gap-2 | pos-absolute top-0 right-0 | h-100 mr-5">
+                                    <button type="button" class="pos-relative | p-4 pr-5 | fs-3 | brad- bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
+                                        <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
+                                    </button>
+                                    <button type="submit" class="pos-relative | h-100 p-0 ar-square | fs-5 | brad-4 bc-primary-500 c-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-100 cur-pointer" title="Lancer la recherche">
+                                        <span class="icon-magnifying-glass | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
+                                    </button>
+                                </div>
+                            </form>
+                        </li>
+                    
+                    
+                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-4">
+                            
+                                <a href="https://github.com/olivier3lanc" class="
+                                    d-flex ai-center gap-1
+                                    pt-2 pb-2
+                                    fvs-wght-600 fs-2 lsp-3 lh-1 tt-uppercase td-none
+                                    c-primary-600" target="_blank">
+                                    GitHub
+                                    <span class=""><span class="icon-arrow-square-out | pos-absolute t-tY-50 | c-primary-300"></span></span>
+                                </a>
+                            
+                                <a href="https://codepen.io/olivier3lanc" class="
+                                    d-flex ai-center gap-1
+                                    pt-2 pb-2
+                                    fvs-wght-600 fs-2 lsp-3 lh-1 tt-uppercase td-none
+                                    c-primary-600" target="_blank">
+                                    CodePen
+                                    <span class=""><span class="icon-arrow-square-out | pos-absolute t-tY-50 | c-primary-300"></span></span>
+                                </a>
+                            
+                                <a href="mailto:olivier3lanc@gmail.com" class="
+                                    d-flex ai-center gap-1
+                                    pt-2 pb-2
+                                    fvs-wght-600 fs-2 lsp-3 lh-1 tt-uppercase td-none
+                                    c-primary-600" target="_blank">
+                                    email
+                                    <span class=""><span class="icon-arrow-square-out | pos-absolute t-tY-50 | c-primary-300"></span></span>
+                                </a>
+                            
+                        </li>
+                    
+                </menu>
+                
+                
+                    <a href="/blog/" id="nav_primary_blog_link" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
+                        
+                        Blog
+                    </a>
+                
+
+                
+                    <a href="/tags/" id="nav_primary_blog_link" aria-current="page" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
+                        
+                        Liste des tags
+                    </a>
+                
+
+                <div id="nav_primary" class="pos-relative | fg-1 o-auto">
+                    <ol class="d-flex fd-column | m-0 pl-0 pt-3 pb-3 | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/demos/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/librairies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/pens/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign/pro/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Professionnel</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photographies</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/sauvages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Sauvages</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/captifs/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Captifs</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/domestiques/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Domestiques</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/paysages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Paysages</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/automne/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Automne</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/brume/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">La Brume</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/elements/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Les Éléments</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/ete/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">En Été</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/hiver/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">En Hiver</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/noir-et-blanc/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Noir et blanc</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/nuit/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">La Nuit</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/pluie/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">La Pluie</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/paysages/printemps/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Le Printemps</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photoshop/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photoshop</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/dystopies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Dystopies</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/fractalius/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Fractalius</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/inceptions/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Inceptions</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/mirrors/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Mirrors</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/photo-montages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photo montages</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/photographies/photoshop/avants-apres/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Avants Après</a></li></ol></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/svg-art/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">SVG Art</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/svg-art/mammiferes-low-poly/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Mammifères low-poly</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/svg-art/oiseaux-low-poly/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Oiseaux low-poly</a></li></ol></li></ol>
+                </div>
+            </nav>
+        </div>
+        <main class="pos-relative" w-100-minus-sidebar="md" w-100="xs,sm">
+            <header class="d-flex fd-column | pt-5 ">
+                <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none">
+    <li class="d-flex ai-center gap-2">
+        <a href="/" class="pos-relative | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" title="Page d’accueil">
+            <span class="icon-house | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
+        </a> /
+    </li>
+    <li class="o-auto">
+        <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none">
+            
+            
+            
+                <li class="d-flex ai-baseline gap-2">
+                    <a href="/tags/" class="fvs-wght-400 ws-nowrap">
+                        Liste des tags
+                    </a> /
+                </li>
+            
+            <li class="c-neutral-800 ws-nowrap">vtt</li>
+        </ul>
+    </li>
+</ul>
+                <h1 class="mt-3 mb-0 | lsp-5 fvs-wght-700 tws-balance " fs-10="md" fs-9="xs,sm">
+                    vtt
+                </h1>
+                
+                    <p class="d-flex ai-center fw-wrap gap-2 | pt-5 pl-5 pb-5 m-0 | fvs-wght-400 tws-balance fs-7 lsp-3 lh-5 | blwidth-1 blstyle-dashed bcolor-neutral-500" pt-3="xs" pb-3="xs" fs-6="sm" fs-5="xs">
+                        Pages taguées vtt
+                    </p>
+                
+                
+                    
+                    <div class="d-flex ai-center | m-0 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                        <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
+                        
+                        <div class="pl-5 w-100 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
+                        
+                            <div class="pt-5 pb-5"></div>
+                        
+                    </div>
+                
+                
+            </header>
+            
+
+<div>
+    <ul class="d-flex fd-column gap-7 | m-0 pl-0 pt-5 | ls-none blwidth-1 blstyle-dashed bcolor-neutral-500">
+        
+            <li class="d-flex ai-center">
+                <div class="pos-absolute t-tX-50 | p-1 | bc-primary-500 brad-4"></div>
+                <div class="pl-10 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" pl-5="xs"></div>
+                <a href="/blog/Fri Jul 27 2012 02:00:00 GMT+0200 (Central European Summer Time)-vtt-les-arcs/" class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | bc-primary-100 bwidth-1 bstyle-dashed bcolor-neutral-500 brad-2">
+                        <img src="/tags/vtt/vtt-img5535-csscljjlfo-1400-mNWamWy92C-__1200__.webp" alt="VTT Les Arcs" loading="lazy" decoding="async" class="w-100 h-auto | brad-2 bc-primary-200" width="1200" height="800">
+                    <strong class="d-flex fd-column | fs-5 lh-3">
+                        <span class="fs-2 fvs-wght-400 | c-neutral-700">
+                            
+                                Blog
+                            
+                        </span>
+                        <span class="fvs-wght-600">
+                            VTT Les Arcs
+                        </span>
+                    </strong>
+                    <span class="fs-4 fvs-wght-300 lh-5 | c-primary-900">
+                        Série de photos de descentes VTT sur les pistes des Arcs 1600
+                    </span>
+                </a>
+            </li>
+        
+    </ul>
+</div>
+            <footer class="minh-100vh">
+                <div class="pt-11 | blwidth-1 blstyle-dashed bcolor-neutral-500"></div>
+                <nav class="d-flex ai-center rgap-7 | blwidth-1 blstyle-dashed bcolor-neutral-500" fw-wrap="xs">
+                    <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
+                    
+                    <div class="w-100" d-none="sm,md"></div>
+                    <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
+                    <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
+                        11ty LibDoc 0.5.4
+                    </a>
+                </nav>
+            </footer>
+        </main>
+    </div>
+    
+    <script src="/core/assets/js/sandbox.js"></script>
+    <script src="/core/assets/js/hljs/highlight.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/xml.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/javascript.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/json.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/yaml.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/liquid.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/markdown.min.js"></script>
+    
+        <script src="/core/assets/js/hljs/languages/css.min.js"></script>
+    
+    <script src="/core/assets/js/ui.js"></script>
+</body>
+</html>
