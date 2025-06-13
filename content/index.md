@@ -10,7 +10,7 @@ Je conçois des interfaces web responsive avec une approche UI et UX. Ancienneme
 {% iconCard '[Webdesign](/content/webdesign/webdesign.md)', 'Intégrations et créations HTML, CSS et JavaScript', 'code' %}
 {% iconCard '[Photographies](/content/photographies/photographies.md)', 'Albums de photographies créations photo personnelles', 'images' %}
 {% iconCard '[SVG Art](/content/svg-art/svg-art.md)', 'Collection de SVG d’animaux low-poly crées à partir de photographies personnelles', 'images' %}
-{% iconCard '[Blog](/blog/)', 'Fil d’articles sur le web design , la photo, le son et la vidéo.', 'pen' %}
+{% iconCard '[Blog](/blog/)', 'Fil d’articles sur le web design, la photo et le son.', 'pen' %}
 
 
 
