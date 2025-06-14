@@ -65,14 +65,6 @@ date: git Last Modified
     </figcaption>
 </figure>
 
-<figure class="wide long-shadow">
-    <img src="/sources/paysages/elements/IMG_3294.jpg"
-        alt="Champ de blé">
-    <figcaption>
-        Champ de blé - <em>Savoie</em>
-    </figcaption>
-</figure>
-
 <figure class="long-shadow">
     <img src="/sources/paysages/elements/Quartier_de_Tournesol.jpg"
         alt="Quartier de tournesol">

@@ -224,7 +224,7 @@
                 {
                     "url": "/photographies/paysages/elements/",
                     "title": "Les Éléments",
-                    "content": "Gros plans extérieurs sur la végétation, l’eau, etc                  Cascade de Chedde - Passy                    Edelweiss - Leontopodium nivale subsp. alpinum                    Rosée sur grande feuille - Jardin botanique de Lyon                    Arbre solitaire - Aiton                    Arbre solitaire - Marthod                    Champ de blé - Savoie                    Marguerite - Leucanthemum vulgare                    Champ de blé - Savoie                    Quartier de tournesol - Savoie                    Ombres portées sur crête - Phénomène météo dans le Beaufortain                    Ombres portées sur crête - Phénomène météo dans le Beaufortain                    Ombres portées sur crête - Phénomène météo dans le Beaufortain    "
+                    "content": "Gros plans extérieurs sur la végétation, l’eau, etc                  Cascade de Chedde - Passy                    Edelweiss - Leontopodium nivale subsp. alpinum                    Rosée sur grande feuille - Jardin botanique de Lyon                    Arbre solitaire - Aiton                    Arbre solitaire - Marthod                    Champ de blé - Savoie                    Marguerite - Leucanthemum vulgare                    Quartier de tournesol - Savoie                    Ombres portées sur crête - Phénomène météo dans le Beaufortain                    Ombres portées sur crête - Phénomène météo dans le Beaufortain                    Ombres portées sur crête - Phénomène météo dans le Beaufortain    "
                 },
             
         
@@ -418,13 +418,6 @@
             
         
                 {
-                    "url": "/",
-                    "title": "Olivier 3lanc",
-                    "content": "Développeur front-end hybride UI et UX  Je conçois des interfaces web responsive avec une approche UI et UX. Anciennement ingénieur du son, je me suis reconverti dans le web design et le développement front-end, m&#39;inspirant du son, de la musique, du cinéma et de la photographie.WebdesignIntégrations et créations HTML, CSS et JavaScriptPhotographiesAlbums de photographies créations photo personnellesSVG ArtCollection de SVG d’animaux low-poly crées à partir de photographies personnellesBlogFil d’articles sur le web design, la photo et le son."
-                },
-            
-        
-                {
                     "url": "/photographies/photoshop/avants-apres/",
                     "title": "Avants Après",
                     "content": "Série de résultats avant et après traitements dans Photoshop          Chouette à lunettes avant (gauche) et après en deux versions        Eric Cantona avant après        Avant après Marmotte qui fume        Avant après Corto le chaton        Avant après photo de guépard        Avant après photo de tigres"
@@ -435,6 +428,13 @@
                     "url": "/photoshop/",
                     "title": "Photoshop",
                     "content": "Images créatives et compositions avec effets réalisés dans Photoshop  DystopiesFractaliusInceptionsMirrorsMontagesAvants après"
+                },
+            
+        
+                {
+                    "url": "/",
+                    "title": "Olivier 3lanc",
+                    "content": "Développeur front-end hybride UI et UX  Je conçois des interfaces web responsive avec une approche UI et UX. Anciennement ingénieur du son, je me suis reconverti dans le web design et le développement front-end, m&#39;inspirant du son, de la musique, du cinéma et de la photographie.WebdesignIntégrations et créations HTML, CSS et JavaScriptPhotographiesAlbums de photographies créations photo personnellesSVG ArtCollection de SVG d’animaux low-poly crées à partir de photographies personnellesBlogFil d’articles sur le web design, la photo et le son."
                 }
             
         
