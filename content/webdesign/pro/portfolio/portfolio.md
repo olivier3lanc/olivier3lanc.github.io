@@ -115,7 +115,7 @@ Autres pages :
     <figcaption>Prototype fonctionnel d’un projet d'’application de location de véhicule. Design et intégration HTML, CSS et Vanilla JavaScript.</figcaption>
 </figure>
 
-<a href="https://github.com/itautomotive-Dev/marcel-rent-app-proto" class="btn btn-primary">Démo Marcel Rent</a>
+<a href="https://itautomotive-dev.github.io/marcel-rent-app-proto/" class="btn btn-primary">Démo Marcel Rent</a>
 
 ### ByMyCar
 
