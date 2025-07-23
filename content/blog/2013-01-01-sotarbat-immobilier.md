@@ -2,7 +2,7 @@
 title: SOTARBAT Immobilier
 description: Photographies d’un appartement situé dans la station de ski de Sainte Foy Tarentaise
 layout: libdoc_page.liquid
-permalink: "{{ libdocConfig.blogSlug }}/{{ date }}-{{ title | slugify }}/index.html"
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__1400__.webp"
 tags:
     - post

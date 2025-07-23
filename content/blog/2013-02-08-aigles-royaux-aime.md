@@ -2,7 +2,7 @@
 title: Aigles Royaux près d’Aime-la-Plagne
 description: Rencontre avec des aigles royaux sur la route
 layout: libdoc_page.liquid
-permalink: "{{ libdocConfig.blogSlug }}/{{ date }}-{{ title | slugify }}/index.html"
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/aigle-royal-img0473-RIa7ZaHn40-__1400__.webp"
 tags:
     - post

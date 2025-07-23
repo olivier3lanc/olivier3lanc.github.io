@@ -3,6 +3,9 @@ title: Olivier Blanc
 description: Développeur Front-end hybride UI et UX
 layout: libdoc_page.liquid
 permalink: parcours/index.html
+eleventyNavigation:
+    key: Mon parcours
+    order: 92
 date: git Last Modified
 ---
 <link rel="stylesheet" href="/assets/orphans.css">

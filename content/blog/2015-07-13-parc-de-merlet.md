@@ -2,7 +2,7 @@
 title: Le Parc de Merlet
 description: Sortie photo au parc de Merlet au dessus de Chamonix
 layout: libdoc_page.liquid
-permalink: "{{ libdocConfig.blogSlug }}/{{ date }}-{{ title | slugify }}/index.html"
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/bouquetin-1400-DUxJp5tNOn-__1400__.webp"
 tags:
     - post

@@ -2,7 +2,7 @@
 title: Restaurant le Panoramic
 description: Photographies du restaurant d’altitude situé sur le glacier de Tignes
 layout: libdoc_page.liquid
-permalink: "{{ libdocConfig.blogSlug }}/{{ date }}-{{ title | slugify }}/index.html"
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__1400__.webp"
 tags:
     - post

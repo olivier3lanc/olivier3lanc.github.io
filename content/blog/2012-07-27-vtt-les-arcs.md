@@ -2,7 +2,7 @@
 title: VTT Les Arcs
 description: Série de photos de descentes VTT sur les pistes des Arcs 1600
 layout: libdoc_page.liquid
-permalink: "{{ libdocConfig.blogSlug }}/{{ date }}-{{ title | slugify }}/index.html"
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/vtt-img5535-cssCljjlFO-__1400__.webp"
 tags:
     - post

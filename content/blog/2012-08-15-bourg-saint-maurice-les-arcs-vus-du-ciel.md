@@ -2,7 +2,7 @@
 title: Bourg-Saint-Maurice les Arcs vus du Ciel
 description: Prises de vues aériennes sollicitées par une agence de communication
 layout: libdoc_page.liquid
-permalink: "{{ libdocConfig.blogSlug }}/{{ date }}-{{ title | slugify }}/index.html"
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/img5289--bb56JOejq-__1400__.avif"
 tags:
     - post

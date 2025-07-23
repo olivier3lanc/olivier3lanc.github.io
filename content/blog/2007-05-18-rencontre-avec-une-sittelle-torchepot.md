@@ -2,7 +2,7 @@
 title: Rencontre avec une sittelle torchepot
 description: Rencontre avec un jeune passereau près d'Albertville
 layout: libdoc_page.liquid
-permalink: "{{ libdocConfig.blogSlug }}/{{ date }}-{{ title | slugify }}/index.html"
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/P1010101.webp"
 tags:
     - post
