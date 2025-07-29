@@ -3,36 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Démos</title>
+    <title>Pens</title>
     
 
-    <meta itemprop="name" content="Démos">
-    <meta name="description" itemprop="description" content="Réalisations personnelles de pages web basées sur un thème">
-    <meta name="application-name" content="Démos">
+    <meta itemprop="name" content="Pens">
+    <meta name="description" itemprop="description" content="Petites démos personnelles disponibles sur CodePen">
+    <meta name="application-name" content="Pens">
     <meta name="author" content="0livier 3lanc">
     <link rel="icon" type="image/png" href="/favicon.png">
     
     <!-- Microsoft -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="msapplication-starturl" content="/webdesign/perso/demos/">
-    <meta name="msapplication-tooltip" content="Démos">
+    <meta name="msapplication-starturl" content="/webdesign-personnel/pens/">
+    <meta name="msapplication-tooltip" content="Pens">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="/webdesign/perso/demos/">
-    <meta property="og:title" content="Démos">
-    <meta property="og:description" content="Réalisations personnelles de pages web basées sur un thème">
+    <meta property="og:url" content="/webdesign-personnel/pens/">
+    <meta property="og:title" content="Pens">
+    <meta property="og:description" content="Petites démos personnelles disponibles sur CodePen">
     <meta property="og:image" content="https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png">
     
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Démos">
-    <meta name="twitter:description" content="Réalisations personnelles de pages web basées sur un thème">
-    <meta name="twitter:url" content="/webdesign/perso/demos/">
+    <meta name="twitter:title" content="Pens">
+    <meta name="twitter:description" content="Petites démos personnelles disponibles sur CodePen">
+    <meta name="twitter:url" content="/webdesign-personnel/pens/">
     <meta name="twitter:image" content="https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png">
     
     <!-- iOS -->
-    <meta name="apple-mobile-web-app-title" content="Démos">
+    <meta name="apple-mobile-web-app-title" content="Pens">
     <meta name="apple-mobile-web-app-capable" content="yes">
     
     <!-- Android -->
@@ -112,7 +112,7 @@
                 inANewTab: `Dans un nouvel onglet`,
                 lastModified: `Dernière modification`,
                 menu: `Menu`,
-                noscriptAlert: `Il semble que JavaScript soit désactivé de votre naviigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.`,
+                noscriptAlert: `Il semble que JavaScript soit désactivé de votre navigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.`,
                 open: `Ouvrir`,
                 openInANewTab: `Ouvrir dans un nouvel onglet`,
                 page: `Page`,
@@ -128,11 +128,12 @@
                 searchClear: `Effacer la saisie`,
                 searchMinimumCharacters: `3 caractères min.`,
                 searchResultsNoResultForQuery: `Aucun résultat pour la requête`,
+                searchOccurrence: `Recherche d’occurrence`,
                 searchOccurrencesCurrent: `Occurrence actuelle`,
                 searchOccurrencesNext: `Occurrence suivante`,
                 searchOccurrencesPrevious: `Occurrence précédente`,
                 searchOccurrencesStop: `Fermet la recherches d’occurrences`,
-                searchPlaceholder: `Texte à rechercher`,
+                searchPlaceholder: `Presser 🆂 pour rechercher`,
                 searchSubmit: `Lancer la recherche`,
                 tableOfContent: `Sommaire`,
                 tableOfContentAbbr: `Sommaire`,
@@ -141,10 +142,13 @@
                 tagsListDescription: `Liste de l’ensemble des tags disponibles`,
                 toggleFloatingToc: `Basculer la table des matières flottante`,
                 top: `Haut`,
+                userPreferences: `Préférences utilisateur`,
                 width: `Largeur`,
         }
         const libdocConfig = {
-            searchIndexUrl: `/core/assets/js/search_index.json`
+            searchIndexUrl: `/core/assets/js/search_index.json`,
+            fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
+            blogTitle: `Blog`
         }
         const libdocSystem = {
             productionUrl: `eleventy-libdoc.netlify.app`
@@ -198,14 +202,14 @@
                         
                     </li>
                     
-                        <li d-none="xs,sm">
-                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form">
-                                <label for="searchInput" class="pos-absolute | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | c-neutral-900 bc-neutral-100">
+                        <li class="pos-relative z-1" d-none="xs,sm">
+                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form | auto-search-wrapper">
+                                <label for="searchInput" class="pos-absolute z-2 | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | c-neutral-900 bc-neutral-100">
                                     Rechercher
                                 </label>
-                                <input id="searchInput" type="search" name="search" class="pl-5 pr-5 pt-4 pb-4 | fs-3 | c-neutral-900 bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Texte à rechercher" value="">
-                                <div class="d-flex ai-center gap-2 | pos-absolute top-0 right-0 | h-100 mr-5">
-                                    <button type="button" class="pos-relative | p-4 pr-5 | fs-3 | c-neutral-900 bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
+                                <input id="searchInput" type="search" name="search" autocomplete="off" class="pos-relative z-1 | pl-5 pr-5 pt-4 pb-4 | fs-3 | c-neutral-900 bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Presser 🆂 pour rechercher" value="">
+                                <div class="pos-relative z-1 | d-flex ai-center | pos-absolute top-0 right-0 | h-100 mr-5">
+                                    <button type="button" class="pos-relative | p-4 pr-7 | fs-3 | c-neutral-900 bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
                                         <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
                                     </button>
                                     <button type="submit" class="pos-relative | h-100 p-0 ar-square | fs-5 | brad-4 bc-primary-500 c-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-100 cur-pointer" title="Lancer la recherche">
@@ -216,7 +220,7 @@
                         </li>
                     
                     
-                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-4">
+                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-5">
                             
                                 <a href="https://github.com/olivier3lanc" class="
                                     d-flex ai-center gap-1
@@ -266,10 +270,10 @@
                 <div id="nav_primary" class="pos-relative | fg-1 o-auto">
                     <ol class="d-flex fd-column | m-0 pl-0 pt-3 pb-3 | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/portfolio/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Portfolio</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/parcours/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Mon parcours</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/demos/" aria-current="page" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/librairies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/pens/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/pro/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Professionnel</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/demos/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/librairies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/pens/" aria-current="page" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/frontend-links/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Frontend links</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photographies</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/sauvages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Sauvages</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/captifs/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Captifs</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/domestiques/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Domestiques</a></li></ol></li>
@@ -307,13 +311,7 @@
             
                 
                     <li class="d-flex ai-baseline gap-2">
-                        <a href="/webdesign/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
-                            Webdesign
-                        </a> /
-                    </li>
-                
-                    <li class="d-flex ai-baseline gap-2">
-                        <a href="/webdesign/perso/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
+                        <a href="/webdesign-personnel/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
                             Webdesign Personnel
                         </a> /
                     </li>
@@ -321,12 +319,12 @@
             
             
             
-            <li class="c-neutral-800 ws-nowrap">Démos</li>
+            <li class="c-neutral-800 ws-nowrap">Pens</li>
         </ul>
     </li>
 </ul>
-                    <details id="user_preferences_btn">
-                        <summary class="d-flex | pos-relative | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 cur-pointer __hover-1 __soft-shadow" title="Preferences">
+                    <details id="user_preferences">
+                        <summary class="d-flex | pos-relative z-2 | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 cur-pointer __hover-1 __soft-shadow" title="Préférences utilisateur">
                             <span class="icons">
                                 <span class="icon-faders | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
                                 <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
@@ -373,11 +371,11 @@
                     </details>
                 </nav>
                 <h1 class="mt-3 mb-0 | lsp-5 fvs-wght-700 tws-balance " fs-10="md" fs-9="xs,sm">
-                    Démos
+                    Pens
                 </h1>
                 
                     <p class="d-flex ai-center fw-wrap gap-2 | pt-5 pl-5 pb-5 m-0 | fvs-wght-400 tws-balance fs-7 lsp-3 lh-5 | blwidth-1 blstyle-dashed bcolor-neutral-500" pt-3="xs" pb-3="xs" fs-6="sm" fs-5="xs">
-                        Réalisations personnelles de pages web basées sur un thème
+                        Petites démos personnelles disponibles sur CodePen
                     </p>
                 
                 
@@ -390,7 +388,7 @@
                                 <span ws-nowrap="sm,md">
                                     
                                     Dernière modification
-                                    2025-06-05
+                                    2025-07-28
                                 </span>
                             </p>
                         
@@ -408,78 +406,41 @@
                     </div>
                 
                 
-                    <details id="toc_main" open="">
-                        <summary class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-3 | bwidth-1 bstyle-dashed bcolor-neutral-500 btwidth-0 brwidth-0 cur-pointer">
-                            <span class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></span>
-                            <span class="d-flex ai-center gap-1 | lsp-2">
-                                <span class="icon-minus-circle | fs-6 | c-primary-500"></span>
-                                <span class="icon-plus-circle | fs-6 | c-primary-500"></span>
-                                Sommaire
-                            </span>
-                        </summary>
-                        
-                    <ol class="cgap-3em | m-0 pl-0 pb-5 o-auto | lh-1 | ls-none bwidth-1 bstyle-dashed bcolor-neutral-500 btwidth-0 brwidth-0" d-flex="xs,sm" fd-column="xs,sm" fw-wrap="xs,sm" columns-3="md" columns-2="sm" maxh-300px="sm" maxh-200px="xs">
-                        <li class="d-flex">
-                            <a href="#breaking-bad" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
-                                Breaking Bad
-                            </a>
-                        </li>
-                        <li class="d-flex">
-                            <a href="#la-casa-de-papel" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
-                                La Casa de Papel
-                            </a>
-                        </li>
-                        <li class="d-flex">
-                            <a href="#d-a-r-k" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
-                                D A R K
-                            </a>
-                        </li></ol>
-                    </details>
-                
             </header>
             <noscript>
                 
                 
                 <aside class="widget widget-alert">
                     <div class="alert ">
-                        Il semble que JavaScript soit désactivé de votre naviigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.
+                        Il semble que JavaScript soit désactivé de votre navigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.
                     </div>
                 </aside>
             
             </noscript>
-            
-                        <h2 id="breaking-bad" pl-9="xs,sm">
-                            <a href="#breaking-bad" title="Breaking Bad" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
-                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
-                            </a>
-                    Breaking Bad</h2>
-<figure class="long-shadow">
-    <picture class="eleventy-image"><source type="image/avif" srcset="/img/breaking-bad-g0uZcbhMpj-__730__.avif 730w, /img/breaking-bad-g0uZcbhMpj-__1400__.avif 1400w, /img/breaking-bad-g0uZcbhMpj-__2800__.avif 2800w" sizes="auto"><img loading="lazy" decoding="async" src="/img/breaking-bad-g0uZcbhMpj-__730__.webp" alt="Écrans Breaking Bad" width="2800" height="1367" srcset="/img/breaking-bad-g0uZcbhMpj-__730__.webp 730w, /img/breaking-bad-g0uZcbhMpj-__1400__.webp 1400w, /img/breaking-bad-g0uZcbhMpj-__2800__.webp 2800w" sizes="auto"></picture>
-    <figcaption>Réplique HTML du générique de la série Breaking Bad.</figcaption>
-</figure>
-<p><a href="https://codepen.io/olivier3lanc/full/ZEgPNjb" class="btn btn-primary">Démarrer</a></p>
-
-                        <h2 id="la-casa-de-papel" pl-9="xs,sm">
-                            <a href="#la-casa-de-papel" title="La Casa de Papel" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
-                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
-                            </a>
-                    La Casa de Papel</h2>
-<figure class="long-shadow">
-    <img src="/img/html5lacasadepapel-iMZanPas4F-__730__.webp" alt="Écrans La Casa de Papel" loading="lazy" decoding="async" width="1280" height="670" srcset="/img/html5lacasadepapel-iMZanPas4F-__730__.webp 730w, /img/html5lacasadepapel-iMZanPas4F-__1280__.webp 1280w" sizes="auto">
-    <figcaption>Démo La Casa de Papel réalisée à partir des cinématiques présentes dans le générique des épisodes.</figcaption>
-</figure>
-<p><a href="https://olivier3lanc.github.io/folio-casa-de-papel/" class="btn btn-primary">Démarrer</a></p>
-
-                        <h2 id="d-a-r-k" pl-9="xs,sm">
-                            <a href="#d-a-r-k" title="D A R K" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
-                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
-                            </a>
-                    D A R K</h2>
-<figure class="long-shadow">
-    <img src="/img/dark-cinematics-vsnj8ioAaZ-__730__.webp" alt="Écrans D A R K" loading="lazy" decoding="async" width="1200" height="600" srcset="/img/dark-cinematics-vsnj8ioAaZ-__730__.webp 730w, /img/dark-cinematics-vsnj8ioAaZ-__1200__.webp 1200w" sizes="auto">
-    <figcaption>Démo de la série D A R K réalisée à partir des cinématiques présentes dans le générique des épisodes.</figcaption>
-</figure>
-<p><a href="https://olivier3lanc.github.io/folio-dark/" class="btn btn-primary">Démarrer</a></p>
+            <aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/dyKYzgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
+<aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/ZEgPNjb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
+<aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/zYXxyEj" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
+<aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/eYKJpRw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
+<aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/oNyXRVx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
+<aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/YzvXOMm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
+<aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/RwQdGwz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
+<aside class="widget widget-embed">
+<iframe src="https://codepen.io/olivier3lanc/embed/WNKbewe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
+</aside>
 
             <footer class="minh-100vh">
                 <div class="pt-11 | blwidth-1 blstyle-dashed bcolor-neutral-500"></div>
@@ -489,7 +450,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.7.1
+                        11ty LibDoc 0.8.0
                     </a>
                 </nav>
             </footer>
@@ -514,5 +475,12 @@
         <script src="/core/assets/js/hljs/languages/css.min.js"></script>
     
     <script src="/core/assets/js/ui.js"></script>
+    
+        <link rel="stylesheet" href="/core/assets/css/autocomplete.css">
+        <script src="/core/assets/js/autocomplete.min.js"></script>
+        <script src="/core/assets/js/fuse.js"></script>
+        <script src="/core/assets/js/fuzzy.js"></script>
+        <script src="/core/assets/js/hotkeys.min.js"></script>
+    
 </body>
 </html>

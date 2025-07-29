@@ -3,36 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Librairies</title>
+    <title>Frontend Links July 2025</title>
     
 
-    <meta itemprop="name" content="Librairies">
-    <meta name="description" itemprop="description" content="Réalisations personnelles de librairies JavaScript et CSS">
-    <meta name="application-name" content="Librairies">
-    <meta name="author" content="0livier 3lanc">
+    <meta itemprop="name" content="Frontend Links July 2025">
+    <meta name="description" itemprop="description" content="Newly added links">
+    <meta name="application-name" content="Frontend Links July 2025">
+    <meta name="author" content="Olivier 3lanc">
     <link rel="icon" type="image/png" href="/favicon.png">
     
     <!-- Microsoft -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="msapplication-starturl" content="/webdesign/perso/librairies/">
-    <meta name="msapplication-tooltip" content="Librairies">
+    <meta name="msapplication-starturl" content="/blog/new-frontend-links-july-2025/">
+    <meta name="msapplication-tooltip" content="Frontend Links July 2025">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="/webdesign/perso/librairies/">
-    <meta property="og:title" content="Librairies">
-    <meta property="og:description" content="Réalisations personnelles de librairies JavaScript et CSS">
-    <meta property="og:image" content="https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png">
+    <meta property="og:url" content="/blog/new-frontend-links-july-2025/">
+    <meta property="og:title" content="Frontend Links July 2025">
+    <meta property="og:description" content="Newly added links">
+    <meta property="og:image" content="https://og-image.vercel.app/**Frontend%20Links**%20July%202025.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px">
     
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Librairies">
-    <meta name="twitter:description" content="Réalisations personnelles de librairies JavaScript et CSS">
-    <meta name="twitter:url" content="/webdesign/perso/librairies/">
-    <meta name="twitter:image" content="https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png">
+    <meta name="twitter:title" content="Frontend Links July 2025">
+    <meta name="twitter:description" content="Newly added links">
+    <meta name="twitter:url" content="/blog/new-frontend-links-july-2025/">
+    <meta name="twitter:image" content="https://og-image.vercel.app/**Frontend%20Links**%20July%202025.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px">
     
     <!-- iOS -->
-    <meta name="apple-mobile-web-app-title" content="Librairies">
+    <meta name="apple-mobile-web-app-title" content="Frontend Links July 2025">
     <meta name="apple-mobile-web-app-capable" content="yes">
     
     <!-- Android -->
@@ -112,7 +112,7 @@
                 inANewTab: `Dans un nouvel onglet`,
                 lastModified: `Dernière modification`,
                 menu: `Menu`,
-                noscriptAlert: `Il semble que JavaScript soit désactivé de votre naviigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.`,
+                noscriptAlert: `Il semble que JavaScript soit désactivé de votre navigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.`,
                 open: `Ouvrir`,
                 openInANewTab: `Ouvrir dans un nouvel onglet`,
                 page: `Page`,
@@ -128,11 +128,12 @@
                 searchClear: `Effacer la saisie`,
                 searchMinimumCharacters: `3 caractères min.`,
                 searchResultsNoResultForQuery: `Aucun résultat pour la requête`,
+                searchOccurrence: `Recherche d’occurrence`,
                 searchOccurrencesCurrent: `Occurrence actuelle`,
                 searchOccurrencesNext: `Occurrence suivante`,
                 searchOccurrencesPrevious: `Occurrence précédente`,
                 searchOccurrencesStop: `Fermet la recherches d’occurrences`,
-                searchPlaceholder: `Texte à rechercher`,
+                searchPlaceholder: `Presser 🆂 pour rechercher`,
                 searchSubmit: `Lancer la recherche`,
                 tableOfContent: `Sommaire`,
                 tableOfContentAbbr: `Sommaire`,
@@ -141,10 +142,13 @@
                 tagsListDescription: `Liste de l’ensemble des tags disponibles`,
                 toggleFloatingToc: `Basculer la table des matières flottante`,
                 top: `Haut`,
+                userPreferences: `Préférences utilisateur`,
                 width: `Largeur`,
         }
         const libdocConfig = {
-            searchIndexUrl: `/core/assets/js/search_index.json`
+            searchIndexUrl: `/core/assets/js/search_index.json`,
+            fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
+            blogTitle: `Blog`
         }
         const libdocSystem = {
             productionUrl: `eleventy-libdoc.netlify.app`
@@ -198,14 +202,14 @@
                         
                     </li>
                     
-                        <li d-none="xs,sm">
-                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form">
-                                <label for="searchInput" class="pos-absolute | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | c-neutral-900 bc-neutral-100">
+                        <li class="pos-relative z-1" d-none="xs,sm">
+                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form | auto-search-wrapper">
+                                <label for="searchInput" class="pos-absolute z-2 | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | c-neutral-900 bc-neutral-100">
                                     Rechercher
                                 </label>
-                                <input id="searchInput" type="search" name="search" class="pl-5 pr-5 pt-4 pb-4 | fs-3 | c-neutral-900 bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Texte à rechercher" value="">
-                                <div class="d-flex ai-center gap-2 | pos-absolute top-0 right-0 | h-100 mr-5">
-                                    <button type="button" class="pos-relative | p-4 pr-5 | fs-3 | c-neutral-900 bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
+                                <input id="searchInput" type="search" name="search" autocomplete="off" class="pos-relative z-1 | pl-5 pr-5 pt-4 pb-4 | fs-3 | c-neutral-900 bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Presser 🆂 pour rechercher" value="">
+                                <div class="pos-relative z-1 | d-flex ai-center | pos-absolute top-0 right-0 | h-100 mr-5">
+                                    <button type="button" class="pos-relative | p-4 pr-7 | fs-3 | c-neutral-900 bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
                                         <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
                                     </button>
                                     <button type="submit" class="pos-relative | h-100 p-0 ar-square | fs-5 | brad-4 bc-primary-500 c-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-100 cur-pointer" title="Lancer la recherche">
@@ -216,7 +220,7 @@
                         </li>
                     
                     
-                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-4">
+                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-5">
                             
                                 <a href="https://github.com/olivier3lanc" class="
                                     d-flex ai-center gap-1
@@ -250,7 +254,7 @@
                 </menu>
                 
                 
-                    <a href="/blog/" id="nav_primary_blog_link" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
+                    <a href="/blog/" id="nav_primary_blog_link" aria-current="page" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
                         
                         Blog
                     </a>
@@ -266,10 +270,10 @@
                 <div id="nav_primary" class="pos-relative | fg-1 o-auto">
                     <ol class="d-flex fd-column | m-0 pl-0 pt-3 pb-3 | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/portfolio/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Portfolio</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/parcours/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Mon parcours</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/demos/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/librairies/" aria-current="page" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/pens/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/pro/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Professionnel</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/demos/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/librairies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/pens/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/frontend-links/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Frontend links</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photographies</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/sauvages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Sauvages</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/captifs/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Captifs</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/domestiques/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Domestiques</a></li></ol></li>
@@ -294,7 +298,7 @@
             </nav>
         </div>
         <main class="pos-relative" w-100-minus-sidebar="md" w-100="xs,sm">
-            <header class="d-flex fd-column | pt-5 pb-7">
+            <header class="d-flex fd-column | pt-5 ">
                 <nav class="d-flex jc-space-between | pos-relative">
                     <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none" style="width: calc(100% - 42px)">
     <li class="d-flex ai-center gap-2">
@@ -305,28 +309,20 @@
     <li class="o-auto">
         <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none">
             
-                
-                    <li class="d-flex ai-baseline gap-2">
-                        <a href="/webdesign/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
-                            Webdesign
-                        </a> /
-                    </li>
-                
-                    <li class="d-flex ai-baseline gap-2">
-                        <a href="/webdesign/perso/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
-                            Webdesign Personnel
-                        </a> /
-                    </li>
-                
+            
+                <li class="d-flex ai-baseline gap-2">
+                    <a href="/blog/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
+                        Blog
+                    </a> /
+                </li>
             
             
-            
-            <li class="c-neutral-800 ws-nowrap">Librairies</li>
+            <li class="c-neutral-800 ws-nowrap">Frontend Links July 2025</li>
         </ul>
     </li>
 </ul>
-                    <details id="user_preferences_btn">
-                        <summary class="d-flex | pos-relative | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 cur-pointer __hover-1 __soft-shadow" title="Preferences">
+                    <details id="user_preferences">
+                        <summary class="d-flex | pos-relative z-2 | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 cur-pointer __hover-1 __soft-shadow" title="Préférences utilisateur">
                             <span class="icons">
                                 <span class="icon-faders | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
                                 <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
@@ -373,14 +369,31 @@
                     </details>
                 </nav>
                 <h1 class="mt-3 mb-0 | lsp-5 fvs-wght-700 tws-balance " fs-10="md" fs-9="xs,sm">
-                    Librairies
+                    Frontend Links July 2025
                 </h1>
                 
                     <p class="d-flex ai-center fw-wrap gap-2 | pt-5 pl-5 pb-5 m-0 | fvs-wght-400 tws-balance fs-7 lsp-3 lh-5 | blwidth-1 blstyle-dashed bcolor-neutral-500" pt-3="xs" pb-3="xs" fs-6="sm" fs-5="xs">
-                        Réalisations personnelles de librairies JavaScript et CSS
+                        Newly added links
                     </p>
                 
                 
+                    
+                        <nav class="d-flex gap-2 fw-wrap | pl-5 pt-3 pb-5 | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                            
+                                
+                            
+                                
+                                    <a href="/tags/frontend-links/" class="
+                                        d-flex ai-center gap-1
+                                        pl-2 pr-3 pt-1 pb-1
+                                        fs-2 lsp-2 td-none
+                                        bc-primary-200 bwidth-1 bstyle-solid bcolor-primary-400 brad-1 bradtl-3 bradbl-3">
+                                        <span class="icon-tag-simple"></span>
+                                        <span class="page_tag">frontend-links</span>
+                                    </a>
+                                
+                            
+                        </nav>
                     
                     <div class="d-flex ai-center | m-0 | blwidth-1 blstyle-dashed bcolor-neutral-500">
                         <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
@@ -389,8 +402,8 @@
                                 <span class="icon-calendar-dots fs-6"></span>
                                 <span ws-nowrap="sm,md">
                                     
-                                    Dernière modification
-                                    2025-06-05
+                                    
+                                    2025-07-24
                                 </span>
                             </p>
                         
@@ -401,35 +414,12 @@
                                     <div class="icon-user | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-6"></div>
                                 </div>
                                 <p class="d-flex fd-column | m-0 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs" ws-nowrap="sm,md">
-                                    0livier 3lanc
+                                    Olivier 3lanc
                                 </p>
                             </div>
                         
                     </div>
                 
-                
-                    <details id="toc_main" open="">
-                        <summary class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-3 | bwidth-1 bstyle-dashed bcolor-neutral-500 btwidth-0 brwidth-0 cur-pointer">
-                            <span class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></span>
-                            <span class="d-flex ai-center gap-1 | lsp-2">
-                                <span class="icon-minus-circle | fs-6 | c-primary-500"></span>
-                                <span class="icon-plus-circle | fs-6 | c-primary-500"></span>
-                                Sommaire
-                            </span>
-                        </summary>
-                        
-                    <ol class="cgap-3em | m-0 pl-0 pb-5 o-auto | lh-1 | ls-none bwidth-1 bstyle-dashed bcolor-neutral-500 btwidth-0 brwidth-0" d-flex="xs,sm" fd-column="xs,sm" fw-wrap="xs,sm" columns-3="md" columns-2="sm" maxh-300px="sm" maxh-200px="xs">
-                        <li class="d-flex">
-                            <a href="#scroll-btween" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
-                                Scroll Btween
-                            </a>
-                        </li>
-                        <li class="d-flex">
-                            <a href="#scroll-frames" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 | blwidth-1 blstyle-dashed bcolor-neutral-500">
-                                Scroll Frames
-                            </a>
-                        </li></ol>
-                    </details>
                 
             </header>
             <noscript>
@@ -437,35 +427,31 @@
                 
                 <aside class="widget widget-alert">
                     <div class="alert ">
-                        Il semble que JavaScript soit désactivé de votre naviigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.
+                        Il semble que JavaScript soit désactivé de votre navigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.
                     </div>
                 </aside>
             
             </noscript>
-            
-                        <h2 id="scroll-btween" pl-9="xs,sm">
-                            <a href="#scroll-btween" title="Scroll Btween" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
-                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
-                            </a>
-                    Scroll Btween</h2>
-<figure>
-    <picture class="eleventy-image"><source type="image/avif" srcset="/img/librairie-scroll-btween-ldikmgRdxv-__730__.avif 730w, /img/librairie-scroll-btween-ldikmgRdxv-__1400__.avif 1400w, /img/librairie-scroll-btween-ldikmgRdxv-__2630__.avif 2630w" sizes="auto"><img loading="lazy" decoding="async" src="/img/librairie-scroll-btween-ldikmgRdxv-__730__.webp" alt="Écrans Librairie JS Scroll Btween" width="2630" height="1302" srcset="/img/librairie-scroll-btween-ldikmgRdxv-__730__.webp 730w, /img/librairie-scroll-btween-ldikmgRdxv-__1400__.webp 1400w, /img/librairie-scroll-btween-ldikmgRdxv-__2630__.webp 2630w" sizes="auto"></picture>
-    <figcaption>Scroll Btween a été conçu pour faire basculer n'importe quelle valeur CSS sur n'importe quel élément DOM en fonction de sa position dans la fenêtre de visualisation.</figcaption>
-</figure>
-<p><a href="https://github.com/olivier3lanc/Scroll-Btween" class="btn">GitHub</a>
-<a href="https://olivier3lanc.github.io/Scroll-Btween/" class="btn btn-primary">Site web</a></p>
-
-                        <h2 id="scroll-frames" pl-9="xs,sm">
-                            <a href="#scroll-frames" title="Scroll Frames" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
-                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
-                            </a>
-                    Scroll Frames</h2>
-<figure>
-    <picture class="eleventy-image"><source type="image/avif" srcset="/img/librairie-scroll-frames-20PJAYvAiN-__730__.avif 730w, /img/librairie-scroll-frames-20PJAYvAiN-__1400__.avif 1400w, /img/librairie-scroll-frames-20PJAYvAiN-__2600__.avif 2600w" sizes="auto"><img loading="lazy" decoding="async" src="/img/librairie-scroll-frames-20PJAYvAiN-__730__.webp" alt="Écrans Librairie JS Scroll Frames" width="2600" height="1258" srcset="/img/librairie-scroll-frames-20PJAYvAiN-__730__.webp 730w, /img/librairie-scroll-frames-20PJAYvAiN-__1400__.webp 1400w, /img/librairie-scroll-frames-20PJAYvAiN-__2600__.webp 2600w" sizes="auto"></picture>
-    <figcaption>Animer des séquences d'images fixes sur n'importe quel élément DOM en fonction de sa position dans la fenêtre de visualisation.</figcaption>
-</figure>
-<p><a href="https://github.com/olivier3lanc/Scroll-Frames" class="btn">GitHub</a>
-<a href="https://olivier3lanc.github.io/Scroll-Frames/" class="btn btn-primary">Site web</a></p>
+            <aside class="widget widget-alert">
+<div class="alert alert-success" data-title="Outstanding!"><p></p>
+<p><a href="https://deno.com/blog/history-of-javascript">History of JavaScript</a></p>
+<p>2025, JavaScript turns 30. Within three decades, JavaScript went from being a weird little scripting language developed in 10 days to the world's most popular programming language. Here are some key moments in its history to show how JavaScript has evolved and where it is headed.</p>
+<p></p></div>
+</aside>
+<p>Other links:</p>
+<ul>
+<li><a href="https://exercism.org/">Exercism</a> Develop fluency in 77 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.</li>
+<li><a href="https://github.com/WickyNilliams/cally">Cally</a> Small, feature-rich calendar components.</li>
+<li><a href="https://guides.data.gouv.fr/reutiliser-des-donnees/utiliser-les-api-geographiques/utiliser-les-tuiles-vectorielles">Tuiles vectorielles</a> Qu'est-ce que les tuiles vectorielles ? Pourquoi utiliser les tuiles vectorielles ?</li>
+<li><a href="https://letterbird.co/">Letterbird</a> A free contact form on the web that’s good enough. Give people a better experience getting in touch with you. Letterbird makes it fast and easy for anyone to get a well-designed, good ol’ fashioned email contact form.</li>
+<li><a href="https://duyhd.com/blog/mouse-touch-pointer-events/">Mouse Touch Pointer Events</a> Ditch Mouse/Touch Event please. You may ask yourself: what are those? I only use 'onClick'. Yeah that fair, 99% of the time you only need onClick event. But what if you need add some fancy animations that follow your mouse and touch movements?</li>
+<li><a href="https://github.com/css-doodle/css-doodle">CSS Doodle</a> A web component for visual art and creative coding with CSS</li>
+<li><a href="https://www.figma.com/community/file/1187721017294765380/dark-light-mode-wcag-2-1-colours">Dark and Light mode wcag 2.1 colours</a> Figma file</li>
+<li><a href="https://formsubmit.co/">Formsubmit</a> Easy form endpoints for your HTML forms. Connect your form to our form endpoint and we’ll email you the submissions. No PHP, Javascript or any backend code required.</li>
+<li><a href="https://pinme.eth.limo/">PinMe</a> Deploy Static Sites in Seconds. Why Choose PinMe? No servers. No subscriptions. Just a faster, simpler way to host your frontend—permanently.</li>
+<li><a href="https://css-generators.com/svg-to-css/">SVG to CSS</a> This tool will convert an SVG shape created with <code>&lt;path d=&quot;...&quot;&gt;</code> into a CSS Shape. You will get a responsive code made with the new shape() function of clip-path. A single-element implementation that works with images and supports gradient coloration! Paste your SVG path below. Keep only what is inside the d attribute.</li>
+<li><a href="https://mossaik.app/">Mossaik</a> Create beautiful abstract SVG images for your designs. Stunning SVG waves, for your design, devices and websites!</li>
+</ul>
 
             <footer class="minh-100vh">
                 <div class="pt-11 | blwidth-1 blstyle-dashed bcolor-neutral-500"></div>
@@ -475,7 +461,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.7.1
+                        11ty LibDoc 0.8.0
                     </a>
                 </nav>
             </footer>
@@ -500,5 +486,12 @@
         <script src="/core/assets/js/hljs/languages/css.min.js"></script>
     
     <script src="/core/assets/js/ui.js"></script>
+    
+        <link rel="stylesheet" href="/core/assets/css/autocomplete.css">
+        <script src="/core/assets/js/autocomplete.min.js"></script>
+        <script src="/core/assets/js/fuse.js"></script>
+        <script src="/core/assets/js/fuzzy.js"></script>
+        <script src="/core/assets/js/hotkeys.min.js"></script>
+    
 </body>
 </html>

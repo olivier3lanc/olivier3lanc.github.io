@@ -3,36 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pens</title>
+    <title>frontend-links</title>
     
 
-    <meta itemprop="name" content="Pens">
-    <meta name="description" itemprop="description" content="Petites démos personnelles disponibles sur CodePen">
-    <meta name="application-name" content="Pens">
+    <meta itemprop="name" content="frontend-links">
+    <meta name="description" itemprop="description" content="Pages taguées frontend-links">
+    <meta name="application-name" content="frontend-links">
     <meta name="author" content="0livier 3lanc">
     <link rel="icon" type="image/png" href="/favicon.png">
     
     <!-- Microsoft -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="msapplication-starturl" content="/webdesign/perso/pens/">
-    <meta name="msapplication-tooltip" content="Pens">
+    <meta name="msapplication-starturl" content="/tags/frontend-links/">
+    <meta name="msapplication-tooltip" content="frontend-links">
     
     <!-- Open Graph -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="/webdesign/perso/pens/">
-    <meta property="og:title" content="Pens">
-    <meta property="og:description" content="Petites démos personnelles disponibles sur CodePen">
+    <meta property="og:url" content="/tags/frontend-links/">
+    <meta property="og:title" content="frontend-links">
+    <meta property="og:description" content="Pages taguées frontend-links">
     <meta property="og:image" content="https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png">
     
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Pens">
-    <meta name="twitter:description" content="Petites démos personnelles disponibles sur CodePen">
-    <meta name="twitter:url" content="/webdesign/perso/pens/">
+    <meta name="twitter:title" content="frontend-links">
+    <meta name="twitter:description" content="Pages taguées frontend-links">
+    <meta name="twitter:url" content="/tags/frontend-links/">
     <meta name="twitter:image" content="https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png">
     
     <!-- iOS -->
-    <meta name="apple-mobile-web-app-title" content="Pens">
+    <meta name="apple-mobile-web-app-title" content="frontend-links">
     <meta name="apple-mobile-web-app-capable" content="yes">
     
     <!-- Android -->
@@ -112,7 +112,7 @@
                 inANewTab: `Dans un nouvel onglet`,
                 lastModified: `Dernière modification`,
                 menu: `Menu`,
-                noscriptAlert: `Il semble que JavaScript soit désactivé de votre naviigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.`,
+                noscriptAlert: `Il semble que JavaScript soit désactivé de votre navigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.`,
                 open: `Ouvrir`,
                 openInANewTab: `Ouvrir dans un nouvel onglet`,
                 page: `Page`,
@@ -128,11 +128,12 @@
                 searchClear: `Effacer la saisie`,
                 searchMinimumCharacters: `3 caractères min.`,
                 searchResultsNoResultForQuery: `Aucun résultat pour la requête`,
+                searchOccurrence: `Recherche d’occurrence`,
                 searchOccurrencesCurrent: `Occurrence actuelle`,
                 searchOccurrencesNext: `Occurrence suivante`,
                 searchOccurrencesPrevious: `Occurrence précédente`,
                 searchOccurrencesStop: `Fermet la recherches d’occurrences`,
-                searchPlaceholder: `Texte à rechercher`,
+                searchPlaceholder: `Presser 🆂 pour rechercher`,
                 searchSubmit: `Lancer la recherche`,
                 tableOfContent: `Sommaire`,
                 tableOfContentAbbr: `Sommaire`,
@@ -141,10 +142,13 @@
                 tagsListDescription: `Liste de l’ensemble des tags disponibles`,
                 toggleFloatingToc: `Basculer la table des matières flottante`,
                 top: `Haut`,
+                userPreferences: `Préférences utilisateur`,
                 width: `Largeur`,
         }
         const libdocConfig = {
-            searchIndexUrl: `/core/assets/js/search_index.json`
+            searchIndexUrl: `/core/assets/js/search_index.json`,
+            fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
+            blogTitle: `Blog`
         }
         const libdocSystem = {
             productionUrl: `eleventy-libdoc.netlify.app`
@@ -198,14 +202,14 @@
                         
                     </li>
                     
-                        <li d-none="xs,sm">
-                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form">
-                                <label for="searchInput" class="pos-absolute | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | c-neutral-900 bc-neutral-100">
+                        <li class="pos-relative z-1" d-none="xs,sm">
+                            <form action="/search/" class="d-flex fd-column | pos-relative | pl-5 pr-5 | search_form | auto-search-wrapper">
+                                <label for="searchInput" class="pos-absolute z-2 | ml-5 t-tY-50 | fvs-wght-400 fs-1 tt-uppercase | c-neutral-900 bc-neutral-100">
                                     Rechercher
                                 </label>
-                                <input id="searchInput" type="search" name="search" class="pl-5 pr-5 pt-4 pb-4 | fs-3 | c-neutral-900 bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Texte à rechercher" value="">
-                                <div class="d-flex ai-center gap-2 | pos-absolute top-0 right-0 | h-100 mr-5">
-                                    <button type="button" class="pos-relative | p-4 pr-5 | fs-3 | c-neutral-900 bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
+                                <input id="searchInput" type="search" name="search" autocomplete="off" class="pos-relative z-1 | pl-5 pr-5 pt-4 pb-4 | fs-3 | c-neutral-900 bc-neutral-100 brad-4 bwidth-1 bstyle-dashed bcolor-neutral-500" placeholder="Presser 🆂 pour rechercher" value="">
+                                <div class="pos-relative z-1 | d-flex ai-center | pos-absolute top-0 right-0 | h-100 mr-5">
+                                    <button type="button" class="pos-relative | p-4 pr-7 | fs-3 | c-neutral-900 bc-neutral-100 c-neutral-900 b-0 cur-pointer | search_form__clear_btn" title="Effacer la saisie" hidden="">
                                         <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
                                     </button>
                                     <button type="submit" class="pos-relative | h-100 p-0 ar-square | fs-5 | brad-4 bc-primary-500 c-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-100 cur-pointer" title="Lancer la recherche">
@@ -216,7 +220,7 @@
                         </li>
                     
                     
-                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-4">
+                        <li class="d-flex ai-center fw-wrap gap-7 rgap-1 | pb-3 pl-5">
                             
                                 <a href="https://github.com/olivier3lanc" class="
                                     d-flex ai-center gap-1
@@ -257,7 +261,7 @@
                 
 
                 
-                    <a href="/tags/" id="nav_primary_blog_link" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
+                    <a href="/tags/" id="nav_primary_blog_link" aria-current="page" class="d-flex ai-center | pt-5 pb-5 | fvs-wght-500 fs-4 td-none lsp-2 | c-neutral-900 bbwidth-1 bbstyle-dashed bcolor-neutral-500 cur-pointer">
                         
                         Liste des tags
                     </a>
@@ -266,10 +270,10 @@
                 <div id="nav_primary" class="pos-relative | fg-1 o-auto">
                     <ol class="d-flex fd-column | m-0 pl-0 pt-3 pb-3 | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/portfolio/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Portfolio</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/parcours/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Mon parcours</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/demos/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/librairies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/perso/pens/" aria-current="page" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
-<li class="d-flex fw-wrap ai-center"><a href="/webdesign/pro/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Professionnel</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Webdesign Personnel</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/demos/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Démos</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/librairies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Librairies</a></li>
+<li class="d-flex fw-wrap ai-center"><a href="/webdesign-personnel/pens/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Pens</a></li></ol></li>
+<li class="d-flex fw-wrap ai-center"><a href="/frontend-links/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Frontend links</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Photographies</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux</a><ol class="d-flex fd-column fg-1 order-1 | m-0 pl-5 o-hidden | ls-none"><li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/sauvages/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Sauvages</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/captifs/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Captifs</a></li>
 <li class="d-flex fw-wrap ai-center"><a href="/photographies/animaux/domestiques/" class="d-flex ai-center fg-1 | pos-relative | w-100 pt-2 pb-2 pr-6 | fs-3 td-none lh-5 tws-balance fvs-wght-500 | c-neutral-900 nav_primary__anchor">Animaux Domestiques</a></li></ol></li>
@@ -294,7 +298,7 @@
             </nav>
         </div>
         <main class="pos-relative" w-100-minus-sidebar="md" w-100="xs,sm">
-            <header class="d-flex fd-column | pt-5 pb-7">
+            <header class="d-flex fd-column | pt-5 ">
                 <nav class="d-flex jc-space-between | pos-relative">
                     <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none" style="width: calc(100% - 42px)">
     <li class="d-flex ai-center gap-2">
@@ -305,28 +309,20 @@
     <li class="o-auto">
         <ul class="d-flex ai-center gap-2 | p-0 m-0 | fs-2 lh-3 | ls-none">
             
-                
-                    <li class="d-flex ai-baseline gap-2">
-                        <a href="/webdesign/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
-                            Webdesign
-                        </a> /
-                    </li>
-                
-                    <li class="d-flex ai-baseline gap-2">
-                        <a href="/webdesign/perso/" class="pt-2 pb-2 | fvs-wght-400 ws-nowrap">
-                            Webdesign Personnel
-                        </a> /
-                    </li>
-                
             
             
+                <li class="d-flex ai-baseline gap-2">
+                    <a href="/tags/" class="fvs-wght-400 ws-nowrap">
+                        Liste des tags
+                    </a> /
+                </li>
             
-            <li class="c-neutral-800 ws-nowrap">Pens</li>
+            <li class="c-neutral-800 ws-nowrap">frontend-links</li>
         </ul>
     </li>
 </ul>
-                    <details id="user_preferences_btn">
-                        <summary class="d-flex | pos-relative | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 cur-pointer __hover-1 __soft-shadow" title="Preferences">
+                    <details id="user_preferences">
+                        <summary class="d-flex | pos-relative z-2 | p-5 | fs-4 td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 cur-pointer __hover-1 __soft-shadow" title="Préférences utilisateur">
                             <span class="icons">
                                 <span class="icon-faders | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
                                 <span class="icon-x | pos-absolute top-50 left-50 t-tY-50 t-tX-50"></span>
@@ -373,11 +369,11 @@
                     </details>
                 </nav>
                 <h1 class="mt-3 mb-0 | lsp-5 fvs-wght-700 tws-balance " fs-10="md" fs-9="xs,sm">
-                    Pens
+                    frontend-links
                 </h1>
                 
                     <p class="d-flex ai-center fw-wrap gap-2 | pt-5 pl-5 pb-5 m-0 | fvs-wght-400 tws-balance fs-7 lsp-3 lh-5 | blwidth-1 blstyle-dashed bcolor-neutral-500" pt-3="xs" pb-3="xs" fs-6="sm" fs-5="xs">
-                        Petites démos personnelles disponibles sur CodePen
+                        Pages taguées frontend-links
                     </p>
                 
                 
@@ -385,25 +381,9 @@
                     <div class="d-flex ai-center | m-0 | blwidth-1 blstyle-dashed bcolor-neutral-500">
                         <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
                         
-                            <p class="d-flex ai-center gap-2 | m-0 pr-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs">
-                                <span class="icon-calendar-dots fs-6"></span>
-                                <span ws-nowrap="sm,md">
-                                    
-                                    Dernière modification
-                                    2025-06-05
-                                </span>
-                            </p>
-                        
                         <div class="pl-5 w-100 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
                         
-                            <div class="d-flex ai-center gap-3">
-                                <div class="pos-relative | p-5 | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500">
-                                    <div class="icon-user | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-6"></div>
-                                </div>
-                                <p class="d-flex fd-column | m-0 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs" ws-nowrap="sm,md">
-                                    0livier 3lanc
-                                </p>
-                            </div>
+                            <div class="pt-5 pb-5"></div>
                         
                     </div>
                 
@@ -414,36 +394,58 @@
                 
                 <aside class="widget widget-alert">
                     <div class="alert ">
-                        Il semble que JavaScript soit désactivé de votre naviigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.
+                        Il semble que JavaScript soit désactivé de votre navigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.
                     </div>
                 </aside>
             
             </noscript>
-            <aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/dyKYzgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
-<aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/ZEgPNjb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
-<aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/zYXxyEj" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
-<aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/eYKJpRw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
-<aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/oNyXRVx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
-<aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/YzvXOMm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
-<aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/RwQdGwz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
-<aside class="widget widget-embed">
-<iframe src="https://codepen.io/olivier3lanc/embed/WNKbewe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen=""></iframe>
-</aside>
+            
 
+<div>
+    <ul class="d-flex fd-column gap-7 | m-0 pl-0 pt-5 | ls-none blwidth-1 blstyle-dashed bcolor-neutral-500">
+        
+            <li class="d-flex ai-center">
+                <div class="pos-absolute t-tX-50 | p-1 | bc-primary-500 brad-4"></div>
+                <div class="pl-10 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" pl-5="xs"></div>
+                <a href="/frontend-links/" class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | bc-primary-100 bwidth-1 bstyle-dashed bcolor-neutral-500 brad-2">
+                        <picture class="eleventy-image"><source type="image/avif" srcset="/tags/frontend-links/frontend20links-YhYZkxXP4r-__1200__.avif 1200w"><img loading="lazy" decoding="async" src="/tags/frontend-links/frontend20links-YhYZkxXP4r-__1200__.webp" alt="Frontend links" class="w-100 h-auto | brad-2 bc-primary-200" width="1200" height="685"></picture>
+                    <strong class="d-flex fd-column | fs-5 lh-3">
+                        <span class="fs-2 fvs-wght-400 | c-neutral-700">
+                            
+                        </span>
+                        <span class="fvs-wght-600">
+                            Frontend links
+                        </span>
+                    </strong>
+                    <span class="fs-4 fvs-wght-300 lh-5 | c-primary-900">
+                        A curated list of useful front-end tools, libraries and nice web things.
+                    </span>
+                </a>
+            </li>
+        
+            <li class="d-flex ai-center">
+                <div class="pos-absolute t-tX-50 | p-1 | bc-primary-500 brad-4"></div>
+                <div class="pl-10 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" pl-5="xs"></div>
+                <a href="/blog/new-frontend-links-july-2025/" class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | bc-primary-100 bwidth-1 bstyle-dashed bcolor-neutral-500 brad-2">
+                        <picture class="eleventy-image"><source type="image/avif" srcset="/tags/frontend-links/frontend20links20july202025-RMJsPtNd3M-__1200__.avif 1200w"><img loading="lazy" decoding="async" src="/tags/frontend-links/frontend20links20july202025-RMJsPtNd3M-__1200__.webp" alt="Frontend Links July 2025" class="w-100 h-auto | brad-2 bc-primary-200" width="1200" height="685"></picture>
+                    <strong class="d-flex fd-column | fs-5 lh-3">
+                        <span class="fs-2 fvs-wght-400 | c-neutral-700">
+                            
+                                Blog
+                            
+                        </span>
+                        <span class="fvs-wght-600">
+                            Frontend Links July 2025
+                        </span>
+                    </strong>
+                    <span class="fs-4 fvs-wght-300 lh-5 | c-primary-900">
+                        Newly added links
+                    </span>
+                </a>
+            </li>
+        
+    </ul>
+</div>
             <footer class="minh-100vh">
                 <div class="pt-11 | blwidth-1 blstyle-dashed bcolor-neutral-500"></div>
                 <nav class="d-flex ai-center rgap-7 | blwidth-1 blstyle-dashed bcolor-neutral-500" fw-wrap="xs">
@@ -452,7 +454,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.7.1
+                        11ty LibDoc 0.8.0
                     </a>
                 </nav>
             </footer>
@@ -477,5 +479,12 @@
         <script src="/core/assets/js/hljs/languages/css.min.js"></script>
     
     <script src="/core/assets/js/ui.js"></script>
+    
+        <link rel="stylesheet" href="/core/assets/css/autocomplete.css">
+        <script src="/core/assets/js/autocomplete.min.js"></script>
+        <script src="/core/assets/js/fuse.js"></script>
+        <script src="/core/assets/js/fuzzy.js"></script>
+        <script src="/core/assets/js/hotkeys.min.js"></script>
+    
 </body>
 </html>
