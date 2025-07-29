@@ -2,7 +2,7 @@
 title: Pens
 description: Petites démos personnelles disponibles sur CodePen
 layout: libdoc_page.liquid
-permalink: webdesign/perso/pens/index.html
+permalink: webdesign-personnel/pens/index.html
 eleventyNavigation:
     key: Pens
     parent: Webdesign Personnel

@@ -2,7 +2,7 @@
 title: Démos
 description: Réalisations personnelles de pages web basées sur un thème
 layout: libdoc_page.liquid
-permalink: webdesign/perso/demos/index.html
+permalink: webdesign-personnel/demos/index.html
 eleventyNavigation:
     key: Démos
     parent: Webdesign Personnel

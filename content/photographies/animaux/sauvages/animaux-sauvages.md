@@ -251,6 +251,16 @@ date: git Last Modified
     </figcaption>
 </figure>
 
+## Aigle royal
+
+<figure class="wide long-shadow">
+    <img src="/sources/animaux/sauvages/aigle_royal_img_5553.jpg"
+        alt="Aigle royal">
+    <figcaption>
+        Aigle royal - <em>Aquila chrysaetos</em>
+    </figcaption>
+</figure>
+
 ## Buse variable
 
 <figure class="wide long-shadow">

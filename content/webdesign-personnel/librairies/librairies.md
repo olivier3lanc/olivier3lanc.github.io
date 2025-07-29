@@ -2,7 +2,7 @@
 title: Librairies
 description: Réalisations personnelles de librairies JavaScript et CSS
 layout: libdoc_page.liquid
-permalink: webdesign/perso/librairies/index.html
+permalink: webdesign-personnel/librairies/index.html
 eleventyNavigation:
     key: Librairies
     parent: Webdesign Personnel
