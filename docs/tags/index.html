@@ -82,10 +82,6 @@
     <noscript>
         <link rel="stylesheet" href="/core/assets/css/noscript.css">
     </noscript>
-    
-    
-    
-    
     <script>
         const libdocMessages = {
             
@@ -146,18 +142,21 @@
                 width: `Largeur`,
         }
         const libdocConfig = {
-            searchIndexUrl: `/core/assets/js/search_index.json`,
-            fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
-            blogTitle: `Blog`
+            blogTitle: `Blog`,
+            blogDescription: `Fil d’articles sur le web design, la photo et le son.`,
+            displayTagsListLink: true
         }
         const libdocSystem = {
-            productionUrl: `eleventy-libdoc.netlify.app`
+            searchIndexUrl: `/core/assets/js/search_index.json`,
+            fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
+            productionUrl: `eleventy-libdoc.netlify.app`,
+            blogPostsCount: `8`
         }
     </script>
 </head>
 <body class="d-flex fd-column ai-center | m-0">
     <div class="d-flex | w-100" fd-column="xs,sm" ai-start="md" ai-center="xs,sm" pl-5="md" style="max-width: var(--ita-widths-main-container-max)">
-        <div id="sidebar" class="d-flex fd-column | pos-sticky top-0 z-2" ai-center="xs,sm" w-100="xs,sm" w-sidebar="md">
+        <div id="sidebar" class="d-flex fd-column | pos-sticky top-0 z-3" ai-center="xs,sm" w-100="xs,sm" w-sidebar="md">
             <nav id="nav_small_devices" class="d-flex | pos-fixed bottom-0 left-0 z-1 | w-100 h-60px" d-none="md">
                 <div class="d-flex jc-space-between | w-100 | bc-neutral-100 btwidth-1 btstyle-dashed bcolor-neutral-500">
                     <a href="/" class="d-flex fd-column jc-center ai-center gap-1 | pl-5 pr-2 | td-none ta-center | c-primary-900 b-0 brad-3">
@@ -187,7 +186,7 @@
                     </div>
                 </div>
             </nav>
-            <nav id="nav_primary_container" class="d-flex d-none--xs d-none--sm fd-column | w-100 o-hidden | bwidth-1 bstyle-dashed bcolor-neutral-500 |  __soft-shadow" mt-5="md" maxw-sidebar="md" maxh-sidebar="md" h-sidebar="xs,sm" brad-3="md">
+            <nav id="nav_primary_container" class="d-flex d-none--xs d-none--sm fd-column | w-100 | bwidth-1 bstyle-dashed bcolor-neutral-500 | __soft-shadow" mt-5="md" maxw-sidebar="md" maxh-sidebar="md" h-sidebar="xs,sm" brad-3="md">
                 <menu id="nav_primary_header" class="
                     d-flex fd-column
                     pos-sticky top-0 z-1
@@ -393,233 +392,740 @@
                 </aside>
             
             </noscript>
-            <div>
-    <nav id="nav_primary_tags_list" class="blwidth-1 blstyle-dashed bcolor-neutral-500">
-        <p class="d-flex fw-wrap gap-3 | m-0 pl-5 pr-5 ">
             
-                <a href="/tags/faune-sauvage/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>faune-sauvage</span>
-                </a>
+
+
+
+    <ol>
+        
             
-                <a href="/tags/oiseau/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>oiseau</span>
-                </a>
             
-                <a href="/tags/sittelle-torchepot/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>sittelle-torchepot</span>
-                </a>
-            
-                <a href="/tags/sitta-europaea/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>sitta-europaea</span>
-                </a>
-            
-                <a href="/tags/vtt/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>vtt</span>
-                </a>
-            
-                <a href="/tags/les-arcs/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>les-arcs</span>
-                </a>
-            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
                 <a href="/tags/agence-merci/" class="
                     d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
                     <span class="icon-tag-simple"></span>
-                    <span>agence-merci</span>
+                    <span class="o-hidden | to-ellipsis">agence-merci</span>
                 </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        4
+                        
+                            pages
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 4 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 4 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
             
-                <a href="/tags/tarentaise/" class="
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/faune-sauvage/" class="
                     d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
                     <span class="icon-tag-simple"></span>
-                    <span>tarentaise</span>
+                    <span class="o-hidden | to-ellipsis">faune-sauvage</span>
                 </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        2
+                        
+                            pages
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 2 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 2 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
             
-                <a href="/tags/paysage/" class="
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/les-arcs/" class="
                     d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
                     <span class="icon-tag-simple"></span>
-                    <span>paysage</span>
+                    <span class="o-hidden | to-ellipsis">les-arcs</span>
                 </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        2
+                        
+                            pages
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 2 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 2 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
             
-                <a href="/tags/ete/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>ete</span>
-                </a>
             
-                <a href="/tags/tignes/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>tignes</span>
-                </a>
-            
-                <a href="/tags/sainte-foy/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>sainte-foy</span>
-                </a>
-            
-                <a href="/tags/rapaces/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>rapaces</span>
-                </a>
-            
-                <a href="/tags/aigle-royal/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>aigle-royal</span>
-                </a>
-            
-                <a href="/tags/rupicapra-rupicapra/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>rupicapra-rupicapra</span>
-                </a>
-            
-                <a href="/tags/capra-ibex/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>capra-ibex</span>
-                </a>
-            
-                <a href="/tags/ovis/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>ovis</span>
-                </a>
-            
-                <a href="/tags/cervus-nippon/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>cervus-nippon</span>
-                </a>
-            
-                <a href="/tags/cerf-sika/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>cerf-sika</span>
-                </a>
-            
-                <a href="/tags/chamois/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>chamois</span>
-                </a>
-            
-                <a href="/tags/bouquetin/" class="
-                    d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
-                    <span class="icon-tag-simple"></span>
-                    <span>bouquetin</span>
-                </a>
-            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
                 <a href="/tags/frontend-links/" class="
                     d-flex ai-center gap-2
-                    pl-2 pr-3 pt-1 pb-1
-                    fs-3 fvs-wght-600 lsp-2 td-none
-                    bwidth-1 bstyle-solid  brad-1 bradtl-3 bradbl-3
-                    bc-primary-200 c-primary-500 bcolor-primary-400">
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
                     <span class="icon-tag-simple"></span>
-                    <span>frontend-links</span>
+                    <span class="o-hidden | to-ellipsis">frontend-links</span>
                 </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        2
+                        
+                            pages
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 2 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 2 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
             
-        </p>
-    </nav>
-</div>
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/oiseau/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">oiseau</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/sittelle-torchepot/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">sittelle-torchepot</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/sitta-europaea/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">sitta-europaea</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/vtt/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">vtt</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/tarentaise/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">tarentaise</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/paysage/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">paysage</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/ete/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">ete</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/tignes/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">tignes</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/sainte-foy/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">sainte-foy</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/rapaces/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">rapaces</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/aigle-royal/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">aigle-royal</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/rupicapra-rupicapra/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">rupicapra-rupicapra</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/capra-ibex/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">capra-ibex</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/ovis/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">ovis</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/cervus-nippon/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">cervus-nippon</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/cerf-sika/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">cerf-sika</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/chamois/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">chamois</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+            
+            
+            <li class="d-flex jc-space-between" ai-center="sm,md" ai-end="xs" gap-5="sm,md" gap-3="xs">
+                <a href="/tags/bouquetin/" class="
+                    d-flex ai-center gap-2
+                    pl-2 pr-3 pt-1 pb-1 o-hidden
+                    fs-3 fvs-wght-600 lsp-2 td-none lh-5 ws-nowrap to-ellipsis
+                    bwidth-1 bstyle-solid bradtr-1 bradbr-1 bradtl-4 bradbl-4
+                    bc-primary-200 c-primary-500 bcolor-primary-400" fs-2="xs">
+                    <span class="icon-tag-simple"></span>
+                    <span class="o-hidden | to-ellipsis">bouquetin</span>
+                </a>
+                <p class="d-flex | m-0 | lh-1" fd-column="xs" gap-5="sm,md">
+                    <span class="fs-2 ws-nowrap" fs-1="xs">
+                        1
+                        
+                            page
+                        
+                    </span>
+                    <span class="d-flex gap-1" style="background: text linear-gradient( 
+                        90deg, 
+                        var(--ita-colors-primary-500) 0%, 
+                        var(--ita-colors-primary-500) calc(100% * 1 / 4), 
+                        var(--ita-colors-neutral-500) calc(100% * 1 / 4)">
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                        <span class="icon-star-fill" style="color:transparent"></span>
+                    </span>
+                </p>
+            </li>
+        
+    </ol>
+
 
             <footer class="minh-100vh">
                 <div class="pt-11 | blwidth-1 blstyle-dashed bcolor-neutral-500"></div>
@@ -629,7 +1135,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.8.0
+                        11ty LibDoc 0.9.0
                     </a>
                 </nav>
             </footer>

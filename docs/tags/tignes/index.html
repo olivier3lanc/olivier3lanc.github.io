@@ -82,10 +82,6 @@
     <noscript>
         <link rel="stylesheet" href="/core/assets/css/noscript.css">
     </noscript>
-    
-    
-    
-    
     <script>
         const libdocMessages = {
             
@@ -146,18 +142,21 @@
                 width: `Largeur`,
         }
         const libdocConfig = {
-            searchIndexUrl: `/core/assets/js/search_index.json`,
-            fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
-            blogTitle: `Blog`
+            blogTitle: `Blog`,
+            blogDescription: `Fil d’articles sur le web design, la photo et le son.`,
+            displayTagsListLink: true
         }
         const libdocSystem = {
-            productionUrl: `eleventy-libdoc.netlify.app`
+            searchIndexUrl: `/core/assets/js/search_index.json`,
+            fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
+            productionUrl: `eleventy-libdoc.netlify.app`,
+            blogPostsCount: `8`
         }
     </script>
 </head>
 <body class="d-flex fd-column ai-center | m-0">
     <div class="d-flex | w-100" fd-column="xs,sm" ai-start="md" ai-center="xs,sm" pl-5="md" style="max-width: var(--ita-widths-main-container-max)">
-        <div id="sidebar" class="d-flex fd-column | pos-sticky top-0 z-2" ai-center="xs,sm" w-100="xs,sm" w-sidebar="md">
+        <div id="sidebar" class="d-flex fd-column | pos-sticky top-0 z-3" ai-center="xs,sm" w-100="xs,sm" w-sidebar="md">
             <nav id="nav_small_devices" class="d-flex | pos-fixed bottom-0 left-0 z-1 | w-100 h-60px" d-none="md">
                 <div class="d-flex jc-space-between | w-100 | bc-neutral-100 btwidth-1 btstyle-dashed bcolor-neutral-500">
                     <a href="/" class="d-flex fd-column jc-center ai-center gap-1 | pl-5 pr-2 | td-none ta-center | c-primary-900 b-0 brad-3">
@@ -187,7 +186,7 @@
                     </div>
                 </div>
             </nav>
-            <nav id="nav_primary_container" class="d-flex d-none--xs d-none--sm fd-column | w-100 o-hidden | bwidth-1 bstyle-dashed bcolor-neutral-500 |  __soft-shadow" mt-5="md" maxw-sidebar="md" maxh-sidebar="md" h-sidebar="xs,sm" brad-3="md">
+            <nav id="nav_primary_container" class="d-flex d-none--xs d-none--sm fd-column | w-100 | bwidth-1 bstyle-dashed bcolor-neutral-500 | __soft-shadow" mt-5="md" maxw-sidebar="md" maxh-sidebar="md" h-sidebar="xs,sm" brad-3="md">
                 <menu id="nav_primary_header" class="
                     d-flex fd-column
                     pos-sticky top-0 z-1
@@ -311,12 +310,6 @@
             
             
             
-                <li class="d-flex ai-baseline gap-2">
-                    <a href="/tags/" class="fvs-wght-400 ws-nowrap">
-                        Liste des tags
-                    </a> /
-                </li>
-            
             <li class="c-neutral-800 ws-nowrap">tignes</li>
         </ul>
     </li>
@@ -401,6 +394,7 @@
             </noscript>
             
 
+
 <div>
     <ul class="d-flex fd-column gap-7 | m-0 pl-0 pt-5 | ls-none blwidth-1 blstyle-dashed bcolor-neutral-500">
         
@@ -435,7 +429,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.8.0
+                        11ty LibDoc 0.9.0
                     </a>
                 </nav>
             </footer>
