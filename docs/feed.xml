@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+    <title>Olivier 3lanc</title>
+    <subtitle>Développeur front-end hybride UI et UX</subtitle>
+    <link href="feed.xml" rel="self" />
+    <link href="https://olivier3lanc.github.io/feed.xml" />
+    <updated>2025-07-24T00:00:00Z</updated>
+    <id>https://olivier3lanc.github.io/feed.xml</id>
+    <author>
+        <name>Olivier 3lanc</name>
+    </author>
+        <entry>
+            <title>Frontend Links July 2025</title>
+            <link href="https://olivier3lanc.github.io/blog/new-frontend-links-july-2025/" />
+            <updated>2025-07-24T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/new-frontend-links-july-2025/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links**%20July%202025.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links July 2025&quot;&gt;
+                &lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;widget widget-alert&quot;&gt;
+&lt;div class=&quot;alert alert-success&quot; data-title=&quot;Outstanding!&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://deno.com/blog/history-of-javascript&quot;&gt;History of JavaScript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2025, JavaScript turns 30. Within three decades, JavaScript went from being a weird little scripting language developed in 10 days to the world&#39;s most popular programming language. Here are some key moments in its history to show how JavaScript has evolved and where it is headed.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/aside&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Other links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://exercism.org/&quot;&gt;Exercism&lt;/a&gt; Develop fluency in 77 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/WickyNilliams/cally&quot;&gt;Cally&lt;/a&gt; Small, feature-rich calendar components.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://guides.data.gouv.fr/reutiliser-des-donnees/utiliser-les-api-geographiques/utiliser-les-tuiles-vectorielles&quot;&gt;Tuiles vectorielles&lt;/a&gt; Qu&#39;est-ce que les tuiles vectorielles ? Pourquoi utiliser les tuiles vectorielles ?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://letterbird.co/&quot;&gt;Letterbird&lt;/a&gt; A free contact form on the web that’s good enough. Give people a better experience getting in touch with you. Letterbird makes it fast and easy for anyone to get a well-designed, good ol’ fashioned email contact form.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://duyhd.com/blog/mouse-touch-pointer-events/&quot;&gt;Mouse Touch Pointer Events&lt;/a&gt; Ditch Mouse/Touch Event please. You may ask yourself: what are those? I only use &#39;onClick&#39;. Yeah that fair, 99% of the time you only need onClick event. But what if you need add some fancy animations that follow your mouse and touch movements?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/css-doodle/css-doodle&quot;&gt;CSS Doodle&lt;/a&gt; A web component for visual art and creative coding with CSS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.figma.com/community/file/1187721017294765380/dark-light-mode-wcag-2-1-colours&quot;&gt;Dark and Light mode wcag 2.1 colours&lt;/a&gt; Figma file&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://formsubmit.co/&quot;&gt;Formsubmit&lt;/a&gt; Easy form endpoints for your HTML forms. Connect your form to our form endpoint and we’ll email you the submissions. No PHP, Javascript or any backend code required.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pinme.eth.limo/&quot;&gt;PinMe&lt;/a&gt; Deploy Static Sites in Seconds. Why Choose PinMe? No servers. No subscriptions. Just a faster, simpler way to host your frontend—permanently.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://css-generators.com/svg-to-css/&quot;&gt;SVG to CSS&lt;/a&gt; This tool will convert an SVG shape created with &lt;code&gt;&amp;lt;path d=&amp;quot;...&amp;quot;&amp;gt;&lt;/code&gt; into a CSS Shape. You will get a responsive code made with the new shape() function of clip-path. A single-element implementation that works with images and supports gradient coloration! Paste your SVG path below. Keep only what is inside the d attribute.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mossaik.app/&quot;&gt;Mossaik&lt;/a&gt; Create beautiful abstract SVG images for your designs. Stunning SVG waves, for your design, devices and websites!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+        <entry>
+            <title>Le Parc de Merlet</title>
+            <link href="https://olivier3lanc.github.io/blog/parc-de-merlet/" />
+            <updated>2015-07-15T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/parc-de-merlet/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/bouquetin-1400-DUxJp5tNOn-__1400__.webp&quot; alt=&quot;Le Parc de Merlet&quot;&gt;
+                &lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1400-DUxJp5tNOn-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1400-DUxJp5tNOn-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1400-DUxJp5tNOn-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1400-DUxJp5tNOn-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1400-DUxJp5tNOn-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1400-DUxJp5tNOn-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1400-DUxJp5tNOn-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Perché à 1500m d’altitude au dessus de la vallée de Chamonix, l’alpage de Merlet étonne d’abord par son panorama à couper le souffle sur le massif du Mont-blanc. Merlet vous immerge ensuite dans son vaste espace animalier, le temps d’une randonnée facile, traversant forêt et prairies ensoleillées, jalonnée par ses vieux chalets traditionnels montagnards. La proximité inhabituelle avec ses nombreux animaux surprend et fait presque oublier leur caractère sauvage...&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.parcdemerlet.com&quot;&gt;https://www.parcdemerlet.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/aiguille-du-midi-1821-RWeGrWMVNW-__730__.avif 730w, https://olivier3lanc.github.io/img/aiguille-du-midi-1821-RWeGrWMVNW-__1400__.avif 1400w, https://olivier3lanc.github.io/img/aiguille-du-midi-1821-RWeGrWMVNW-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/aiguille-du-midi-1821-RWeGrWMVNW-__730__.webp&quot; alt=&quot;Le parc de Merlet est situé en face de l’Aiguille du Midi&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/aiguille-du-midi-1821-RWeGrWMVNW-__730__.webp 730w, https://olivier3lanc.github.io/img/aiguille-du-midi-1821-RWeGrWMVNW-__1400__.webp 1400w, https://olivier3lanc.github.io/img/aiguille-du-midi-1821-RWeGrWMVNW-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Le parc de Merlet est situé en face de l’Aiguille du Midi
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/aiguille-verte-1810-4UkSjl7j2f-__730__.avif 730w, https://olivier3lanc.github.io/img/aiguille-verte-1810-4UkSjl7j2f-__1400__.avif 1400w, https://olivier3lanc.github.io/img/aiguille-verte-1810-4UkSjl7j2f-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/aiguille-verte-1810-4UkSjl7j2f-__730__.webp&quot; alt=&quot;Aiguille Verte&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/aiguille-verte-1810-4UkSjl7j2f-__730__.webp 730w, https://olivier3lanc.github.io/img/aiguille-verte-1810-4UkSjl7j2f-__1400__.webp 1400w, https://olivier3lanc.github.io/img/aiguille-verte-1810-4UkSjl7j2f-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Aiguille Verte
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Bouquetins&lt;/h2&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1392-vHrVtSYNDE-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1392-vHrVtSYNDE-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1392-vHrVtSYNDE-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1392-vHrVtSYNDE-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1392-vHrVtSYNDE-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1392-vHrVtSYNDE-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1392-vHrVtSYNDE-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1402-bKt6jRfYWV-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1402-bKt6jRfYWV-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1402-bKt6jRfYWV-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1402-bKt6jRfYWV-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1402-bKt6jRfYWV-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1402-bKt6jRfYWV-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1402-bKt6jRfYWV-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1403-8Qlf2tbZpw-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1403-8Qlf2tbZpw-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1403-8Qlf2tbZpw-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1403-8Qlf2tbZpw-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1403-8Qlf2tbZpw-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1403-8Qlf2tbZpw-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1403-8Qlf2tbZpw-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1424-dYoXuim0mT-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1424-dYoXuim0mT-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1424-dYoXuim0mT-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1424-dYoXuim0mT-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1424-dYoXuim0mT-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1424-dYoXuim0mT-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1424-dYoXuim0mT-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1552-YXF46u8Zg3-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1552-YXF46u8Zg3-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1552-YXF46u8Zg3-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1552-YXF46u8Zg3-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1552-YXF46u8Zg3-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1552-YXF46u8Zg3-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1552-YXF46u8Zg3-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1558-N9YgMh0byw-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1558-N9YgMh0byw-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1558-N9YgMh0byw-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1558-N9YgMh0byw-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1558-N9YgMh0byw-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1558-N9YgMh0byw-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1558-N9YgMh0byw-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1599-Ic3AedWWqK-__730__.avif 730w, https://olivier3lanc.github.io/img/bouquetin-1599-Ic3AedWWqK-__1400__.avif 1400w, https://olivier3lanc.github.io/img/bouquetin-1599-Ic3AedWWqK-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/bouquetin-1599-Ic3AedWWqK-__730__.webp&quot; alt=&quot;Bouquetin&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/bouquetin-1599-Ic3AedWWqK-__730__.webp 730w, https://olivier3lanc.github.io/img/bouquetin-1599-Ic3AedWWqK-__1400__.webp 1400w, https://olivier3lanc.github.io/img/bouquetin-1599-Ic3AedWWqK-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bouquetin - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabris-de-bouquetins-1800-QoHfkoV2At-__730__.avif 730w, https://olivier3lanc.github.io/img/cabris-de-bouquetins-1800-QoHfkoV2At-__1400__.avif 1400w, https://olivier3lanc.github.io/img/cabris-de-bouquetins-1800-QoHfkoV2At-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/cabris-de-bouquetins-1800-QoHfkoV2At-__730__.webp&quot; alt=&quot;Cabris de bouquetins&quot; width=&quot;2800&quot; height=&quot;4200&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabris-de-bouquetins-1800-QoHfkoV2At-__730__.webp 730w, https://olivier3lanc.github.io/img/cabris-de-bouquetins-1800-QoHfkoV2At-__1400__.webp 1400w, https://olivier3lanc.github.io/img/cabris-de-bouquetins-1800-QoHfkoV2At-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Cabris de bouquetins - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-bouquetin-et-etagne-1062-vE7oi4XpVv-__730__.avif 730w, https://olivier3lanc.github.io/img/cabri-bouquetin-et-etagne-1062-vE7oi4XpVv-__1400__.avif 1400w, https://olivier3lanc.github.io/img/cabri-bouquetin-et-etagne-1062-vE7oi4XpVv-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/cabri-bouquetin-et-etagne-1062-vE7oi4XpVv-__730__.webp&quot; alt=&quot;Cabri de bouquetin et Étagne&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-bouquetin-et-etagne-1062-vE7oi4XpVv-__730__.webp 730w, https://olivier3lanc.github.io/img/cabri-bouquetin-et-etagne-1062-vE7oi4XpVv-__1400__.webp 1400w, https://olivier3lanc.github.io/img/cabri-bouquetin-et-etagne-1062-vE7oi4XpVv-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Cabri de bouquetin et Étagne - &lt;em&gt;Capra ibex&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Chamois&lt;/h2&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-1-6zlmra7ZSg-__730__.avif 730w, https://olivier3lanc.github.io/img/cabri-de-chamois-1-6zlmra7ZSg-__1400__.avif 1400w, https://olivier3lanc.github.io/img/cabri-de-chamois-1-6zlmra7ZSg-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-1-6zlmra7ZSg-__730__.webp&quot; alt=&quot;Cabri de chamois&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-1-6zlmra7ZSg-__730__.webp 730w, https://olivier3lanc.github.io/img/cabri-de-chamois-1-6zlmra7ZSg-__1400__.webp 1400w, https://olivier3lanc.github.io/img/cabri-de-chamois-1-6zlmra7ZSg-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Cabri de chamois - &lt;em&gt;Rupicapra rupicapra&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-2-ziyuGel2zJ-__730__.avif 730w, https://olivier3lanc.github.io/img/cabri-de-chamois-2-ziyuGel2zJ-__1400__.avif 1400w, https://olivier3lanc.github.io/img/cabri-de-chamois-2-ziyuGel2zJ-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-2-ziyuGel2zJ-__730__.webp&quot; alt=&quot;Cabri de chamois&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-2-ziyuGel2zJ-__730__.webp 730w, https://olivier3lanc.github.io/img/cabri-de-chamois-2-ziyuGel2zJ-__1400__.webp 1400w, https://olivier3lanc.github.io/img/cabri-de-chamois-2-ziyuGel2zJ-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Cabri de chamois - &lt;em&gt;Rupicapra rupicapra&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-3-f33RG30ORl-__730__.avif 730w, https://olivier3lanc.github.io/img/cabri-de-chamois-3-f33RG30ORl-__1400__.avif 1400w, https://olivier3lanc.github.io/img/cabri-de-chamois-3-f33RG30ORl-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-3-f33RG30ORl-__730__.webp&quot; alt=&quot;Cabri de chamois&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/cabri-de-chamois-3-f33RG30ORl-__730__.webp 730w, https://olivier3lanc.github.io/img/cabri-de-chamois-3-f33RG30ORl-__1400__.webp 1400w, https://olivier3lanc.github.io/img/cabri-de-chamois-3-f33RG30ORl-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Cabri de chamois - &lt;em&gt;Rupicapra rupicapra&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/chamois-et-son-cabri-L2rMhrbDgT-__730__.avif 730w, https://olivier3lanc.github.io/img/chamois-et-son-cabri-L2rMhrbDgT-__1400__.avif 1400w, https://olivier3lanc.github.io/img/chamois-et-son-cabri-L2rMhrbDgT-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/chamois-et-son-cabri-L2rMhrbDgT-__730__.webp&quot; alt=&quot;Chamois et son cabri&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/chamois-et-son-cabri-L2rMhrbDgT-__730__.webp 730w, https://olivier3lanc.github.io/img/chamois-et-son-cabri-L2rMhrbDgT-__1400__.webp 1400w, https://olivier3lanc.github.io/img/chamois-et-son-cabri-L2rMhrbDgT-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Chamois et son cabri - &lt;em&gt;Rupicapra rupicapra&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/chamois-et-son-cabris-2-yrswB_Aiar-__730__.avif 730w, https://olivier3lanc.github.io/img/chamois-et-son-cabris-2-yrswB_Aiar-__1400__.avif 1400w, https://olivier3lanc.github.io/img/chamois-et-son-cabris-2-yrswB_Aiar-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/chamois-et-son-cabris-2-yrswB_Aiar-__730__.webp&quot; alt=&quot;Chamois et son cabri&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/chamois-et-son-cabris-2-yrswB_Aiar-__730__.webp 730w, https://olivier3lanc.github.io/img/chamois-et-son-cabris-2-yrswB_Aiar-__1400__.webp 1400w, https://olivier3lanc.github.io/img/chamois-et-son-cabris-2-yrswB_Aiar-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Chamois et son cabri - &lt;em&gt;Rupicapra rupicapra&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/chamois-JLCc8lifU7-__730__.avif 730w, https://olivier3lanc.github.io/img/chamois-JLCc8lifU7-__1400__.avif 1400w, https://olivier3lanc.github.io/img/chamois-JLCc8lifU7-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/chamois-JLCc8lifU7-__730__.webp&quot; alt=&quot;Chamois&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/chamois-JLCc8lifU7-__730__.webp 730w, https://olivier3lanc.github.io/img/chamois-JLCc8lifU7-__1400__.webp 1400w, https://olivier3lanc.github.io/img/chamois-JLCc8lifU7-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Chamois - &lt;em&gt;Rupicapra rupicapra&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Daims&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/faon-de-daim-0975-WqOKmTqkwD-__667__.avif 667w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/faon-de-daim-0975-WqOKmTqkwD-__667__.webp&quot; alt=&quot;Faon de daim&quot; width=&quot;667&quot; height=&quot;1000&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Faon de daim
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Marmottes&lt;/h2&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/marmotte-1459-j-Ip6yEoR9-__730__.avif 730w, https://olivier3lanc.github.io/img/marmotte-1459-j-Ip6yEoR9-__1400__.avif 1400w, https://olivier3lanc.github.io/img/marmotte-1459-j-Ip6yEoR9-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/marmotte-1459-j-Ip6yEoR9-__730__.webp&quot; alt=&quot;Marmotte&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/marmotte-1459-j-Ip6yEoR9-__730__.webp 730w, https://olivier3lanc.github.io/img/marmotte-1459-j-Ip6yEoR9-__1400__.webp 1400w, https://olivier3lanc.github.io/img/marmotte-1459-j-Ip6yEoR9-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Marmotte - &lt;em&gt;Marmota marmota&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Mouflons&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/mouflon-1623-Wz4sI7V9rY-__730__.avif 730w, https://olivier3lanc.github.io/img/mouflon-1623-Wz4sI7V9rY-__1400__.avif 1400w, https://olivier3lanc.github.io/img/mouflon-1623-Wz4sI7V9rY-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/mouflon-1623-Wz4sI7V9rY-__730__.webp&quot; alt=&quot;Mouflon&quot; width=&quot;2800&quot; height=&quot;4200&quot; srcset=&quot;https://olivier3lanc.github.io/img/mouflon-1623-Wz4sI7V9rY-__730__.webp 730w, https://olivier3lanc.github.io/img/mouflon-1623-Wz4sI7V9rY-__1400__.webp 1400w, https://olivier3lanc.github.io/img/mouflon-1623-Wz4sI7V9rY-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Mouflon - &lt;em&gt;Ovis&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Cerfs Sika&lt;/h2&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/cerf-sika-1QMyd9VvaU-__730__.avif 730w, https://olivier3lanc.github.io/img/cerf-sika-1QMyd9VvaU-__1400__.avif 1400w, https://olivier3lanc.github.io/img/cerf-sika-1QMyd9VvaU-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/cerf-sika-1QMyd9VvaU-__730__.webp&quot; alt=&quot;Cerf sika&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/cerf-sika-1QMyd9VvaU-__730__.webp 730w, https://olivier3lanc.github.io/img/cerf-sika-1QMyd9VvaU-__1400__.webp 1400w, https://olivier3lanc.github.io/img/cerf-sika-1QMyd9VvaU-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Cerf sika - &lt;em&gt;Cervus nippon&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+        </entry>
+        <entry>
+            <title>Aigles Royaux près d’Aime-la-Plagne</title>
+            <link href="https://olivier3lanc.github.io/blog/aigles-royaux-aime/" />
+            <updated>2013-02-08T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/aigles-royaux-aime/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/aigle-royal-img0473-RIa7ZaHn40-__1400__.webp&quot; alt=&quot;Aigles Royaux près d’Aime-la-Plagne&quot;&gt;
+                &lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/aigle-royal-img0473-vuQNMJb17Y-__730__.avif 730w, https://olivier3lanc.github.io/img/aigle-royal-img0473-vuQNMJb17Y-__944__.avif 944w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/aigle-royal-img0473-vuQNMJb17Y-__730__.webp&quot; alt=&quot;Aigle royal&quot; width=&quot;944&quot; height=&quot;944&quot; srcset=&quot;https://olivier3lanc.github.io/img/aigle-royal-img0473-vuQNMJb17Y-__730__.webp 730w, https://olivier3lanc.github.io/img/aigle-royal-img0473-vuQNMJb17Y-__944__.webp 944w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Aigle royal - &lt;em&gt;Aquila chrysaetos&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/aigle-royal-img0501-eE1T9Kuq9j-__730__.avif 730w, https://olivier3lanc.github.io/img/aigle-royal-img0501-eE1T9Kuq9j-__1400__.avif 1400w, https://olivier3lanc.github.io/img/aigle-royal-img0501-eE1T9Kuq9j-__2500__.avif 2500w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/aigle-royal-img0501-eE1T9Kuq9j-__730__.webp&quot; alt=&quot;Aigle royal&quot; width=&quot;2500&quot; height=&quot;1667&quot; srcset=&quot;https://olivier3lanc.github.io/img/aigle-royal-img0501-eE1T9Kuq9j-__730__.webp 730w, https://olivier3lanc.github.io/img/aigle-royal-img0501-eE1T9Kuq9j-__1400__.webp 1400w, https://olivier3lanc.github.io/img/aigle-royal-img0501-eE1T9Kuq9j-__2500__.webp 2500w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Aigle royal - &lt;em&gt;Aquila chrysaetos&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+        </entry>
+        <entry>
+            <title>SOTARBAT Immobilier</title>
+            <link href="https://olivier3lanc.github.io/blog/sotarbat-immobilier/" />
+            <updated>2013-01-01T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/sotarbat-immobilier/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__1400__.webp&quot; alt=&quot;SOTARBAT Immobilier&quot;&gt;
+                &lt;p&gt;Série de photos réalisée dans le cadre d’un projet avec &lt;a href=&quot;https://wearemerci.com/&quot;&gt;l’agence Merci!&lt;/a&gt; de Bourg Saint Maurice.&lt;/p&gt;
+&lt;h2&gt;Pièce de vie&lt;/h2&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-cuisine-img9739img9747-7-images-sans-tv-f6OkcuEYf9-__730__.avif 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-cuisine-img9739img9747-7-images-sans-tv-f6OkcuEYf9-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-cuisine-img9739img9747-7-images-sans-tv-f6OkcuEYf9-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-cuisine-img9739img9747-7-images-sans-tv-f6OkcuEYf9-__730__.webp&quot; alt=&quot;Salon cuisine&quot; width=&quot;2800&quot; height=&quot;1275&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-cuisine-img9739img9747-7-images-sans-tv-f6OkcuEYf9-__730__.webp 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-cuisine-img9739img9747-7-images-sans-tv-f6OkcuEYf9-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-cuisine-img9739img9747-7-images-sans-tv-f6OkcuEYf9-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Salon cuisine
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__730__.avif 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__730__.webp&quot; alt=&quot;Salon&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__730__.webp 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img00383940img0051-6-images-GErdX3WJ_7-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Salon
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img9739img9747-7-images-v7G3HitIE--__730__.avif 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img9739img9747-7-images-v7G3HitIE--__1400__.avif 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img9739img9747-7-images-v7G3HitIE--__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img9739img9747-7-images-v7G3HitIE--__730__.webp&quot; alt=&quot;Salon&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img9739img9747-7-images-v7G3HitIE--__730__.webp 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img9739img9747-7-images-v7G3HitIE--__1400__.webp 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-salon-img9739img9747-7-images-v7G3HitIE--__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Salon
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Cuisine&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-cuisine-img9734img9736-3-images-U0dMlcDzNL-__730__.avif 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-cuisine-img9734img9736-3-images-U0dMlcDzNL-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-cuisine-img9734img9736-3-images-U0dMlcDzNL-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-cuisine-img9734img9736-3-images-U0dMlcDzNL-__730__.webp&quot; alt=&quot;Cuisine&quot; width=&quot;2800&quot; height=&quot;2800&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-cuisine-img9734img9736-3-images-U0dMlcDzNL-__730__.webp 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-cuisine-img9734img9736-3-images-U0dMlcDzNL-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-cuisine-img9734img9736-3-images-U0dMlcDzNL-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Cuisine
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Chambres&lt;/h2&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9757img9758-2-images-dkvaO6qq6B-__730__.avif 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9757img9758-2-images-dkvaO6qq6B-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9757img9758-2-images-dkvaO6qq6B-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9757img9758-2-images-dkvaO6qq6B-__730__.webp&quot; alt=&quot;Chambre 1&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9757img9758-2-images-dkvaO6qq6B-__730__.webp 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9757img9758-2-images-dkvaO6qq6B-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9757img9758-2-images-dkvaO6qq6B-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Chambre 1
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9759img9767-9-images-fXdJx6xPlx-__730__.avif 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9759img9767-9-images-fXdJx6xPlx-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9759img9767-9-images-fXdJx6xPlx-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9759img9767-9-images-fXdJx6xPlx-__730__.webp&quot; alt=&quot;Chambre 1&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9759img9767-9-images-fXdJx6xPlx-__730__.webp 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9759img9767-9-images-fXdJx6xPlx-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9759img9767-9-images-fXdJx6xPlx-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Chambre 1
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9769img9777-9-images-WS6ohSFvBU-__730__.avif 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9769img9777-9-images-WS6ohSFvBU-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9769img9777-9-images-WS6ohSFvBU-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9769img9777-9-images-WS6ohSFvBU-__730__.webp&quot; alt=&quot;Chambre 2&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9769img9777-9-images-WS6ohSFvBU-__730__.webp 730w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9769img9777-9-images-WS6ohSFvBU-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ste-foy-station-appartement-chambre-img9769img9777-9-images-WS6ohSFvBU-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Chambre 2
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+        </entry>
+        <entry>
+            <title>Restaurant le Panoramic</title>
+            <link href="https://olivier3lanc.github.io/blog/restaurant-le-panoramic/" />
+            <updated>2012-12-14T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/restaurant-le-panoramic/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__1400__.webp&quot; alt=&quot;Restaurant le Panoramic&quot;&gt;
+                &lt;p&gt;Série de photos réalisée dans le cadre d’un projet avec &lt;a href=&quot;https://wearemerci.com/&quot;&gt;l’agence Merci!&lt;/a&gt; de Bourg Saint Maurice.&lt;/p&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9665-EF-MsWSElJ-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9665-EF-MsWSElJ-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9665-EF-MsWSElJ-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9665-EF-MsWSElJ-__730__.webp&quot; alt=&quot;M. Bouvier propriétaire du restaurant le Panoramic&quot; width=&quot;2800&quot; height=&quot;4200&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9665-EF-MsWSElJ-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9665-EF-MsWSElJ-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9665-EF-MsWSElJ-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        M. Bouvier propriétaire du restaurant le Panoramic
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9675-_XrHC3JyLt-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9675-_XrHC3JyLt-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9675-_XrHC3JyLt-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9675-_XrHC3JyLt-__730__.webp&quot; alt=&quot;M. Bouvier propriétaire du restaurant le Panoramic&quot; width=&quot;2800&quot; height=&quot;4200&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9675-_XrHC3JyLt-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9675-_XrHC3JyLt-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-m-bouvier-img9675-_XrHC3JyLt-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        M. Bouvier propriétaire du restaurant le Panoramic
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-personnel-img9654-OX6VpduJmv-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-personnel-img9654-OX6VpduJmv-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-personnel-img9654-OX6VpduJmv-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-personnel-img9654-OX6VpduJmv-__730__.webp&quot; alt=&quot;Le personnel du restaurant&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-personnel-img9654-OX6VpduJmv-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-personnel-img9654-OX6VpduJmv-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-personnel-img9654-OX6VpduJmv-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Le personnel du restaurant
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-plateau-fromages-img9523-55xjwDExhn-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-plateau-fromages-img9523-55xjwDExhn-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-plateau-fromages-img9523-55xjwDExhn-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-plateau-fromages-img9523-55xjwDExhn-__730__.webp&quot; alt=&quot;Plateau de fromage&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-plateau-fromages-img9523-55xjwDExhn-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-plateau-fromages-img9523-55xjwDExhn-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-plateau-fromages-img9523-55xjwDExhn-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Plateau de fromage
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9434img9447-12-images-eHIaafTOZ--__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9434img9447-12-images-eHIaafTOZ--__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9434img9447-12-images-eHIaafTOZ--__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9434img9447-12-images-eHIaafTOZ--__730__.webp&quot; alt=&quot;Panoramique de la salle de restaurant&quot; width=&quot;2800&quot; height=&quot;708&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9434img9447-12-images-eHIaafTOZ--__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9434img9447-12-images-eHIaafTOZ--__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9434img9447-12-images-eHIaafTOZ--__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Panoramique de la salle de restaurant
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9452-dUxwFOgBep-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9452-dUxwFOgBep-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9452-dUxwFOgBep-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9452-dUxwFOgBep-__730__.webp&quot; alt=&quot;Salle de restaurant&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9452-dUxwFOgBep-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9452-dUxwFOgBep-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9452-dUxwFOgBep-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Salle de restaurant
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9563-_2UawStCEq-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9563-_2UawStCEq-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9563-_2UawStCEq-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9563-_2UawStCEq-__730__.webp&quot; alt=&quot;Salle de restaurant&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9563-_2UawStCEq-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9563-_2UawStCEq-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9563-_2UawStCEq-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Salle de restaurant
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9603-e1je-42wOW-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9603-e1je-42wOW-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9603-e1je-42wOW-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9603-e1je-42wOW-__730__.webp&quot; alt=&quot;Salle de restaurant&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9603-e1je-42wOW-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9603-e1je-42wOW-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9603-e1je-42wOW-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Salle de restaurant
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__730__.avif 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__1400__.avif 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__730__.webp&quot; alt=&quot;Salle de restaurant&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__730__.webp 730w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__1400__.webp 1400w, https://olivier3lanc.github.io/img/restaurant-le-panoramic-salle-img9606-CkHii5AV6v-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Salle de restaurant
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+        </entry>
+        <entry>
+            <title>Bourg-Saint-Maurice les Arcs vus du Ciel</title>
+            <link href="https://olivier3lanc.github.io/blog/bourg-saint-maurice-les-arcs-vus-du-ciel/" />
+            <updated>2012-08-15T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/bourg-saint-maurice-les-arcs-vus-du-ciel/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/img5289--bb56JOejq-__1400__.avif&quot; alt=&quot;Bourg-Saint-Maurice les Arcs vus du Ciel&quot;&gt;
+                &lt;p&gt;Sortie photo pour l’&lt;a href=&quot;https://wearemerci.com/&quot;&gt;Agence Merci!&lt;/a&gt;. Départ en hélicoptère le 27 juillet 2012 pour une séance photo d’une demi-heure. Passage sur l’ensemble des massifs du domaine skiable de Bourg St Maurice Les Arcs. On peut voir les stations Les Arcs 1800, les Arcs 2000 et 1950, l’Aiguille Rouge, le Mont Pourri, le Col de la Chal, le Mont Blanc, le Roignais, le Dôme de Vaugelaz, Bourg St Maurice, le Col du Petit St Bernard et la Rosière. Un grand merci au responsable de l’agence Merci!, David Morille, pour sa confiance accordée dans ce projet.&lt;/p&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/img5289--bb56JOejq-__730__.avif 730w, https://olivier3lanc.github.io/img/img5289--bb56JOejq-__1400__.avif 1400w, https://olivier3lanc.github.io/img/img5289--bb56JOejq-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/img5289--bb56JOejq-__730__.webp&quot; alt=&quot;Bourg Saint Maurice vu du ciel&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/img5289--bb56JOejq-__730__.webp 730w, https://olivier3lanc.github.io/img/img5289--bb56JOejq-__1400__.webp 1400w, https://olivier3lanc.github.io/img/img5289--bb56JOejq-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Bourg Saint Maurice vu du ciel
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-1-img5166img5175-10-images-zm767H6zxP-__730__.avif 730w, https://olivier3lanc.github.io/img/group-1-img5166img5175-10-images-zm767H6zxP-__1400__.avif 1400w, https://olivier3lanc.github.io/img/group-1-img5166img5175-10-images-zm767H6zxP-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/group-1-img5166img5175-10-images-zm767H6zxP-__730__.webp&quot; alt=&quot;Les Arcs 1950 et 2000 vus du ciel&quot; width=&quot;2800&quot; height=&quot;1421&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-1-img5166img5175-10-images-zm767H6zxP-__730__.webp 730w, https://olivier3lanc.github.io/img/group-1-img5166img5175-10-images-zm767H6zxP-__1400__.webp 1400w, https://olivier3lanc.github.io/img/group-1-img5166img5175-10-images-zm767H6zxP-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Les Arcs 1950 et 2000 vus du ciel
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/img5244-3r8sFNuD05-__730__.avif 730w, https://olivier3lanc.github.io/img/img5244-3r8sFNuD05-__1400__.avif 1400w, https://olivier3lanc.github.io/img/img5244-3r8sFNuD05-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/img5244-3r8sFNuD05-__730__.webp&quot; alt=&quot;Point de vue aérien du col du Petit Saint Bernard et du Mont Blanc&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/img5244-3r8sFNuD05-__730__.webp 730w, https://olivier3lanc.github.io/img/img5244-3r8sFNuD05-__1400__.webp 1400w, https://olivier3lanc.github.io/img/img5244-3r8sFNuD05-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Point de vue aérien du col du Petit Saint Bernard et du Mont Blanc
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-1-img5186img5194-9-images-18NdUMu9On-__730__.avif 730w, https://olivier3lanc.github.io/img/group-1-img5186img5194-9-images-18NdUMu9On-__1400__.avif 1400w, https://olivier3lanc.github.io/img/group-1-img5186img5194-9-images-18NdUMu9On-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/group-1-img5186img5194-9-images-18NdUMu9On-__730__.webp&quot; alt=&quot;Panorama les Arcs 2000 vus du ciel&quot; width=&quot;2800&quot; height=&quot;933&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-1-img5186img5194-9-images-18NdUMu9On-__730__.webp 730w, https://olivier3lanc.github.io/img/group-1-img5186img5194-9-images-18NdUMu9On-__1400__.webp 1400w, https://olivier3lanc.github.io/img/group-1-img5186img5194-9-images-18NdUMu9On-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Panorama les Arcs 2000 vus du ciel
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-1-img5302img5310-9-images-o_zZ8xsGuz-__730__.avif 730w, https://olivier3lanc.github.io/img/group-1-img5302img5310-9-images-o_zZ8xsGuz-__1400__.avif 1400w, https://olivier3lanc.github.io/img/group-1-img5302img5310-9-images-o_zZ8xsGuz-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/group-1-img5302img5310-9-images-o_zZ8xsGuz-__730__.webp&quot; alt=&quot;Panorama de la Haute-Tarentaise vue du ciel depuis le col du Petit Saint Bernard&quot; width=&quot;2800&quot; height=&quot;1143&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-1-img5302img5310-9-images-o_zZ8xsGuz-__730__.webp 730w, https://olivier3lanc.github.io/img/group-1-img5302img5310-9-images-o_zZ8xsGuz-__1400__.webp 1400w, https://olivier3lanc.github.io/img/group-1-img5302img5310-9-images-o_zZ8xsGuz-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Panorama de la Haute-Tarentaise vue du ciel depuis le col du Petit Saint Bernard
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-2-img5222img5231-10-images-yWBF5pcPKd-__730__.avif 730w, https://olivier3lanc.github.io/img/group-2-img5222img5231-10-images-yWBF5pcPKd-__1400__.avif 1400w, https://olivier3lanc.github.io/img/group-2-img5222img5231-10-images-yWBF5pcPKd-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/group-2-img5222img5231-10-images-yWBF5pcPKd-__730__.webp&quot; alt=&quot;Panorama de la Haute-Tarentaise vue du ciel depuis Landry&quot; width=&quot;2800&quot; height=&quot;931&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-2-img5222img5231-10-images-yWBF5pcPKd-__730__.webp 730w, https://olivier3lanc.github.io/img/group-2-img5222img5231-10-images-yWBF5pcPKd-__1400__.webp 1400w, https://olivier3lanc.github.io/img/group-2-img5222img5231-10-images-yWBF5pcPKd-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Panorama de la Haute-Tarentaise vue du ciel depuis Landry
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-2-img5266img5276-11-images-_nWYZwj2sM-__730__.avif 730w, https://olivier3lanc.github.io/img/group-2-img5266img5276-11-images-_nWYZwj2sM-__1400__.avif 1400w, https://olivier3lanc.github.io/img/group-2-img5266img5276-11-images-_nWYZwj2sM-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/group-2-img5266img5276-11-images-_nWYZwj2sM-__730__.webp&quot; alt=&quot;Panorama de la Haute-Tarentaise vue du ciel depuis la vallée du Fort&quot; width=&quot;2800&quot; height=&quot;931&quot; srcset=&quot;https://olivier3lanc.github.io/img/group-2-img5266img5276-11-images-_nWYZwj2sM-__730__.webp 730w, https://olivier3lanc.github.io/img/group-2-img5266img5276-11-images-_nWYZwj2sM-__1400__.webp 1400w, https://olivier3lanc.github.io/img/group-2-img5266img5276-11-images-_nWYZwj2sM-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Panorama de la Haute-Tarentaise vue du ciel depuis la vallée du Fort
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+        </entry>
+        <entry>
+            <title>VTT Les Arcs</title>
+            <link href="https://olivier3lanc.github.io/blog/vtt-les-arcs/" />
+            <updated>2012-07-27T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/vtt-les-arcs/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/vtt-img5535-cssCljjlFO-__1400__.webp&quot; alt=&quot;VTT Les Arcs&quot;&gt;
+                &lt;p&gt;Série de photos réalisée dans le cadre d’un projet avec &lt;a href=&quot;https://wearemerci.com/&quot;&gt;l’agence Merci!&lt;/a&gt; de Bourg Saint Maurice.&lt;/p&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5501-Wb1lYeoULT-__730__.avif 730w, https://olivier3lanc.github.io/img/vtt-img5501-Wb1lYeoULT-__1067__.avif 1067w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/vtt-img5501-Wb1lYeoULT-__730__.webp&quot; alt=&quot;Descente VTT en forêt&quot; width=&quot;1067&quot; height=&quot;1600&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5501-Wb1lYeoULT-__730__.webp 730w, https://olivier3lanc.github.io/img/vtt-img5501-Wb1lYeoULT-__1067__.webp 1067w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Descente VTT en forêt
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5535-cssCljjlFO-__730__.avif 730w, https://olivier3lanc.github.io/img/vtt-img5535-cssCljjlFO-__1400__.avif 1400w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/vtt-img5535-cssCljjlFO-__730__.webp&quot; alt=&quot;Descente VTT en forêt&quot; width=&quot;1400&quot; height=&quot;933&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5535-cssCljjlFO-__730__.webp 730w, https://olivier3lanc.github.io/img/vtt-img5535-cssCljjlFO-__1400__.webp 1400w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Descente VTT en forêt
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5541-yywJpVeN2b-__730__.avif 730w, https://olivier3lanc.github.io/img/vtt-img5541-yywJpVeN2b-__1067__.avif 1067w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/vtt-img5541-yywJpVeN2b-__730__.webp&quot; alt=&quot;Saut VTT&quot; width=&quot;1067&quot; height=&quot;1600&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5541-yywJpVeN2b-__730__.webp 730w, https://olivier3lanc.github.io/img/vtt-img5541-yywJpVeN2b-__1067__.webp 1067w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Saut VTT
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5549-p8Y6p38h9Z-__730__.avif 730w, https://olivier3lanc.github.io/img/vtt-img5549-p8Y6p38h9Z-__1067__.avif 1067w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/vtt-img5549-p8Y6p38h9Z-__730__.webp&quot; alt=&quot;Saut VTT&quot; width=&quot;1067&quot; height=&quot;1600&quot; srcset=&quot;https://olivier3lanc.github.io/img/vtt-img5549-p8Y6p38h9Z-__730__.webp 730w, https://olivier3lanc.github.io/img/vtt-img5549-p8Y6p38h9Z-__1067__.webp 1067w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Saut VTT
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+        </entry>
+        <entry>
+            <title>Rencontre avec une sittelle torchepot</title>
+            <link href="https://olivier3lanc.github.io/blog/rencontre-avec-une-sittelle-torchepot/" />
+            <updated>2007-05-18T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/rencontre-avec-une-sittelle-torchepot/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/P1010101.webp&quot; alt=&quot;Rencontre avec une sittelle torchepot&quot;&gt;
+                &lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010101-nsblUlX6v1-__730__.avif 730w, https://olivier3lanc.github.io/img/p1010101-nsblUlX6v1-__1400__.avif 1400w, https://olivier3lanc.github.io/img/p1010101-nsblUlX6v1-__2133__.avif 2133w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/p1010101-nsblUlX6v1-__730__.webp&quot; alt=&quot;Jeune Sittelle Torchepot&quot; width=&quot;2133&quot; height=&quot;1600&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010101-nsblUlX6v1-__730__.webp 730w, https://olivier3lanc.github.io/img/p1010101-nsblUlX6v1-__1400__.webp 1400w, https://olivier3lanc.github.io/img/p1010101-nsblUlX6v1-__2133__.webp 2133w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Jeune Sittelle Torchepot - &lt;em&gt;Sitta europaea&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010108-YdlsCXJIWT-__730__.avif 730w, https://olivier3lanc.github.io/img/p1010108-YdlsCXJIWT-__1200__.avif 1200w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/p1010108-YdlsCXJIWT-__730__.webp&quot; alt=&quot;Jeune Sittelle Torchepot&quot; width=&quot;1200&quot; height=&quot;1600&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010108-YdlsCXJIWT-__730__.webp 730w, https://olivier3lanc.github.io/img/p1010108-YdlsCXJIWT-__1200__.webp 1200w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Jeune Sittelle Torchepot - &lt;em&gt;Sitta europaea&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010115-RQFElBKAI3-__730__.avif 730w, https://olivier3lanc.github.io/img/p1010115-RQFElBKAI3-__1400__.avif 1400w, https://olivier3lanc.github.io/img/p1010115-RQFElBKAI3-__2133__.avif 2133w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/p1010115-RQFElBKAI3-__730__.webp&quot; alt=&quot;Jeune Sittelle Torchepot&quot; width=&quot;2133&quot; height=&quot;1600&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010115-RQFElBKAI3-__730__.webp 730w, https://olivier3lanc.github.io/img/p1010115-RQFElBKAI3-__1400__.webp 1400w, https://olivier3lanc.github.io/img/p1010115-RQFElBKAI3-__2133__.webp 2133w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Jeune Sittelle Torchepot - &lt;em&gt;Sitta europaea&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010114-T67ls0_EUQ-__730__.avif 730w, https://olivier3lanc.github.io/img/p1010114-T67ls0_EUQ-__1200__.avif 1200w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/p1010114-T67ls0_EUQ-__730__.webp&quot; alt=&quot;Jeune Sittelle Torchepot&quot; width=&quot;1200&quot; height=&quot;1600&quot; srcset=&quot;https://olivier3lanc.github.io/img/p1010114-T67ls0_EUQ-__730__.webp 730w, https://olivier3lanc.github.io/img/p1010114-T67ls0_EUQ-__1200__.webp 1200w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Jeune Sittelle Torchepot - &lt;em&gt;Sitta europaea&lt;/em&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;</content>
+        </entry>
+</feed>

@@ -9,6 +9,10 @@
     "blogAuthor": "Olivier 3lanc",
     "customLinks": [
         {
+            "url": "/feed.xml",
+            "text": "Atom"
+        },
+        {
             "url": "https://github.com/olivier3lanc",
             "text": "GitHub"
         },
@@ -24,5 +28,6 @@
     "ogImageUrl": "https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png",
     "htmlBasePathPrefix": "",
     "imgBgColorLightMode": "black",
-    "imgBgColorDarkMode": "black"
+    "imgBgColorDarkMode": "black",
+    "productionUrl": "https://olivier3lanc.github.io"
 }

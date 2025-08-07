@@ -210,13 +210,13 @@
             "description": " "
         },
         {
-            "url": "/core/assets/fonts/icomoon/demo/",
-            "title": "./core/assets/fonts/icomoon/demo.html",
+            "url": "/tags/",
+            "title": "./core/libdoc_tags.liquid",
             "description": " "
         },
         {
-            "url": "/tags/",
-            "title": "./core/libdoc_tags.liquid",
+            "url": "/core/assets/fonts/icomoon/demo/",
+            "title": "./core/assets/fonts/icomoon/demo.html",
             "description": " "
         }
 ]
