@@ -4,11 +4,46 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2025-07-24T00:00:00Z</updated>
+    <updated>2025-08-21T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links August 2025</title>
+            <link href="https://olivier3lanc.github.io/blog/new-frontend-links-august-2025/" />
+            <updated>2025-08-21T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/new-frontend-links-august-2025/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**August%202025.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links August 2025&quot;&gt;
+                &lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;widget widget-alert&quot;&gt;
+&lt;div class=&quot;alert alert-success&quot; data-title=&quot;Incredible results!&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/upscayl/upscayl&quot;&gt;Upscayl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/aside&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Desktop software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/upscayl/upscayl&quot;&gt;Upscayl&lt;/a&gt; Upscayl lets you enlarge and enhance low-resolution images using advanced AI algorithms. Enlarge images without losing quality. It&#39;s almost like magic! 🎩🪄&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/localsend/localsend&quot;&gt;LocalSend&lt;/a&gt; LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/andreruffert/syntax-highlight-element&quot;&gt;syntax-highlight element&lt;/a&gt; Syntax Highlighting using the CSS Custom Highlight API. Test status npm version npm downloads jsDelivr hits (npm) The code is highlighted without having to wrap a bunch of &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; elements around each token, thanks to Prism&#39;s tokenizer and the CSS Custom Highlight API.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jsonblob.com/&quot;&gt;JSON Blob&lt;/a&gt; JSON Blob was created to help parallelize client/server development. Mock JSON responses can be defined using the online editor and then clients can use the JSON Blob API to retrieve and update the mock responses. Blobs that are not accessed in 30 days will be removed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/typicode/json-server&quot;&gt;JSON Server&lt;/a&gt; Get a full fake REST API with zero coding in less than 30 seconds (seriously).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Other links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.webdesignmuseum.org/&quot;&gt;Web Design Museum&lt;/a&gt; Web Design Museum exhibits thousands of screens and videos of old websites, mobile apps and software from 1990s to mid-00s.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://panoramax.fr&quot;&gt;Panoramax&lt;/a&gt; The free alternative to photo-mapping territories. Panoramax is a digital resource for sharing and using field photos. Anyone can take photographs of places visible from public roads and contribute them to the Panoramax database. This data is then freely accessible and reusable by everyone.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links July 2025</title>
             <link href="https://olivier3lanc.github.io/blog/new-frontend-links-july-2025/" />
