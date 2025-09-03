@@ -223,5 +223,20 @@
             "url": "/blog/new-frontend-links-august-2025/",
             "title": "Frontend Links August 2025",
             "description": "Newly added links post frontend-links"
+        },
+        {
+            "url": "/blog/ancien-village-de-roselend/",
+            "title": "L’ancien village de Roselend",
+            "description": "Galerie de photographies de l’ancien village de Roselend avant la construction du barrage post roselend"
+        },
+        {
+            "url": "/blog/la-construction-du-barrage-de-roselend/",
+            "title": "La construction du barrage de Roselend",
+            "description": "Galerie de photographies anciennes de la construction du barrage de Roselend post roselend"
+        },
+        {
+            "url": "/blog/upscayl-models-comparisons-with-old-photos/",
+            "title": "Upscayl examples with old photos",
+            "description": "Before and after comparisons results of Upscayl AI image upscaler software with old and low resolution photos post upscale"
         }
 ]

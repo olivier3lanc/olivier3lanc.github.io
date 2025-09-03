@@ -8,8 +8,8 @@ eleventyNavigation:
     order: 92
 date: git Last Modified
 ---
-<link rel="stylesheet" href="/assets/orphans.css">
-<script type="text/javascript" src="/assets/orphans.js"></script>
+<link rel="stylesheet" href="/assets/css/orphans.css">
+<script type="text/javascript" src="/assets/js/orphans.js"></script>
 
 1.  *Développeur Front-end hybride UI et UX* <br>@ votre société ? [Contact {% icon 'arrow-square-out' %}](mailto:olivier3lanc@gmail.com)
 1.  **Actuellement**

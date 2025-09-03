@@ -1,0 +1,72 @@
+:root {
+    --current-year: "2025"
+}
+
+/* TIMELINE */
+main > ol > li > p:has(strong) {
+    display: none;
+}
+main > ol > li > aside {
+    margin-top: var(--ita-spacings-7);
+}
+main > ol:not(:has(ul)) > li:first-child {
+    padding-bottom: 1em;
+}
+main > ol:not(:has(ul)) > li:first-child::before {
+    content: '20**';
+    background-color: var(--ita-colors-primary-200);
+    color: var(--ita-colors-primary-500);
+}
+main > ol:not(:has(ul)) > li:nth-child(2)::before {
+    content: var(--current-year);
+}
+main > ol:not(:has(ul)) > li:nth-child(3)::before {
+    content: '2018';
+}
+main > ol:not(:has(ul)) > li:nth-child(4)::before {
+    content: '2015';
+}
+main > ol:not(:has(ul)) > li:nth-child(5)::before {
+    content: '2013';
+}
+main > ol:not(:has(ul)) > li:nth-child(6)::before {
+    content: '2008';
+}
+main > ol:not(:has(ul)) > li:nth-child(7)::before {
+    content: '2001';
+}
+
+
+/* PRINT */
+@media print {
+    body {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    main > ol:not(:has(ul)) > li:first-child {
+        display: none;
+    }
+    :root {
+        --ita-fontSizes-1: 10px;
+        --ita-fontSizes-2: 11px;
+        --ita-fontSizes-3: 13px;
+        --ita-fontSizes-4: 14px;
+        --ita-fontSizes-5: 16px;
+        --ita-fontSizes-6: 18px;
+        --ita-fontSizes-7: 22px;
+        --ita-fontSizes-8: 24px;
+        --ita-fontSizes-9: 32px;
+        --ita-fontSizes-10: 44px;
+        --ita-spacings-1: 4px;
+        --ita-spacings-2: 6px;
+        --ita-spacings-3: 8px;
+        --ita-spacings-4: 10px;
+        --ita-spacings-5: 14px;
+        --ita-spacings-6: 16px;
+        --ita-spacings-7: 24px;
+        --ita-spacings-8: 32px;
+        --ita-spacings-9: 40px;
+        --ita-spacings-10: 50px;
+        --ita-spacings-11: 64px;
+    }
+}

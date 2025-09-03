@@ -4,11 +4,1020 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2025-08-21T00:00:00Z</updated>
+    <updated>2025-09-01T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Upscayl examples with old photos</title>
+            <link href="https://olivier3lanc.github.io/blog/upscayl-models-comparisons-with-old-photos/" />
+            <updated>2025-09-01T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/upscayl-models-comparisons-with-old-photos/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/ogimage-upscayl-models-comparisons-with-old-photos.avif&quot; alt=&quot;Upscayl examples with old photos&quot;&gt;
+                &lt;p&gt;Testing awesome &lt;a href=&quot;https://github.com/upscayl/upscayl&quot;&gt;Upscayl AI image upscaler&lt;/a&gt; (or &lt;a href=&quot;https://upscayl.org&quot;&gt;https://upscayl.org&lt;/a&gt;) with its built-in different models. Here are the before and after results with few old photos.&lt;/p&gt;
+&lt;p&gt;Defaults models are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;upscayl-standard&lt;/strong&gt;: Suitable for most images.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;upscayl-lite&lt;/strong&gt;: Suitable for most images. High-speed upscaling with minimal quality loss.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;high-fidelity&lt;/strong&gt;: For all kinds of images with a focus on realistic details and smooth textures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;remacri&lt;/strong&gt;: For natural images. Added sharpness and detail. No commercial use.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ultramix-balanced&lt;/strong&gt;: For natural images with a balance of sharpness and detail.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ultrasharp&lt;/strong&gt;: For natural images with a focus on sharpness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;digital-art&lt;/strong&gt;: For digital art and illustrations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Upscayls allows to add custom models. The following examples includes defaults and two of this additional set of &lt;a href=&quot;https://github.com/upscayl/custom-models&quot;&gt;custom models&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;4xLSDIRplusC&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;4xNMKD-Superscale-SP_178000_G&lt;/code&gt;: NMKD Superscale - Perfect upscaling of clean (artifact-free) real-world images.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script src=&quot;https://olivier3lanc.github.io/assets/js/image-compare-viewer.min.js&quot;&gt;&lt;/script&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://olivier3lanc.github.io/assets/css/image-compare-viewer.min.css&quot;&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with upscayl-standard&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: upscayl-standard 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with upscayl-lite&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: upscayl-lite 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with high-fidelity&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: high-fidelity 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with remacri&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: remacri 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with ultramix-balanced&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: ultramix-balanced 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with ultrasharp&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: ultrasharp 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with digital-art&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: digital-art 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with LSDIRplusC&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: LSDIRplusC 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 1 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with upscayl-standard&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: upscayl-standard 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with upscayl-lite&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: upscayl-lite 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with high-fidelity&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: high-fidelity 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with remacri&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: remacri 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with ultramix-balanced&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: ultramix-balanced 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with ultrasharp&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: ultrasharp 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with digital-art&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: digital-art 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with LSDIRplusC&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: LSDIRplusC 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
+&lt;figure class=&quot;&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 2 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with upscayl-standard&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: upscayl-standard 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with upscayl-lite&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: upscayl-lite 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with high-fidelity&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: high-fidelity 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with remacri&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: remacri 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with ultramix-balanced&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: ultramix-balanced 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with ultrasharp&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: ultrasharp 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with digital-art&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: digital-art 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with LSDIRplusC&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: LSDIRplusC 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 3 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with upscayl-standard&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: upscayl-standard 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with upscayl-lite&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: upscayl-lite 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with high-fidelity&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: high-fidelity 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with remacri&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: remacri 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with ultramix-balanced&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: ultramix-balanced 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with ultrasharp&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: ultrasharp 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with digital-art&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: digital-art 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with LSDIRplusC&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: LSDIRplusC 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
+&lt;figure class=&quot;wide&quot;&gt;
+&lt;div class=&quot;image-compare w-100&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;/div&gt;
+&lt;figcaption&gt;
+Roselend 4 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+Original file
+&lt;/a&gt; 
+&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+Upscaled file
+&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
+&lt;script src=&quot;https://olivier3lanc.github.io/assets/js/image-compare.js&quot;&gt;&lt;/script&gt;
+&lt;h2&gt;Wrapping up&lt;/h2&gt;
+&lt;p&gt;Even for a single category of picture, there is no single &amp;quot;best&amp;quot; model. For each image, the model giving the best results depends on what you expect and what the model is made for.&lt;/p&gt;
+</content>
+        </entry>
+        <entry>
+            <title>La construction du barrage de Roselend</title>
+            <link href="https://olivier3lanc.github.io/blog/la-construction-du-barrage-de-roselend/" />
+            <updated>2025-09-01T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/la-construction-du-barrage-de-roselend/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/ogimage-la-construction-du-barrage-de-roselend.avif&quot; alt=&quot;La construction du barrage de Roselend&quot;&gt;
+                &lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;widget widget-alert&quot;&gt;
+&lt;div class=&quot;alert alert-info&quot; data-title=&quot;Info&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Cette page est une réédition de ma page &lt;a href=&quot;https://web.archive.org/web/20120115174542/http://www.olivewhite.com/blog/les-50-ans-de-roselend-la-bathie/&quot;&gt;les 50 ans de Roselend la Bathie&lt;/a&gt; dépubliée.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/aside&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-1961-2011-VexAHvvxzS-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-1961-2011-VexAHvvxzS-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-1961-2011-VexAHvvxzS-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-1961-2011-VexAHvvxzS-__730__.webp&quot; alt=&quot;Composition abstraite 1961 - 2011 Barrage de Roselend&quot; width=&quot;2800&quot; height=&quot;1370&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-1961-2011-VexAHvvxzS-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-1961-2011-VexAHvvxzS-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-1961-2011-VexAHvvxzS-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;h2&gt;Chronologie&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;1956&lt;/strong&gt; &lt;br&gt;Début des travaux&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7 mai 1960&lt;/strong&gt; &lt;br&gt;Première mise en eau du barrage de Roselend et démarrage de la centrale de La Bâthie&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;16 décembre 1960&lt;/strong&gt; &lt;br&gt;Premier kWh produit&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;17 mars 1961&lt;/strong&gt; &lt;br&gt;Mise en service complète de la centrale de La Bâthie&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Août 1962&lt;/strong&gt; &lt;br&gt;Dernier m³ de béton coulé au barrage de Roselend&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Galerie d’images&lt;/h2&gt;
+&lt;p&gt;Sélection de photographies anciennes de la construction du barrage de Roselend.&lt;/p&gt;
+&lt;h3&gt;Début de la construction du barrage de Roselend, vue côté Roc du Biolley&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.webp&quot; alt=&quot;Début de la construction du barrage de Roselend, vue côté Roc du Biolley&quot; width=&quot;2800&quot; height=&quot;1921&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Début de la construction du barrage de Roselend, vue côté Roc du Biolley&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vue belvédère côté col du pré de la construction&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-2-8EMEenmwPh-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-2-8EMEenmwPh-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-2-8EMEenmwPh-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-2-8EMEenmwPh-__730__.webp&quot; alt=&quot;Vue belvédère côté col du pré de la construction&quot; width=&quot;2800&quot; height=&quot;1977&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-2-8EMEenmwPh-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-2-8EMEenmwPh-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-2-8EMEenmwPh-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue belvédère côté col du pré de la construction&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vue belvédère côté col du pré de la construction&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-tquRV8AM3g-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-tquRV8AM3g-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-tquRV8AM3g-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-tquRV8AM3g-__730__.webp&quot; alt=&quot;Vue belvédère côté col du pré de la construction&quot; width=&quot;2800&quot; height=&quot;2176&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-tquRV8AM3g-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-tquRV8AM3g-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-belvedere-tquRV8AM3g-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue belvédère côté col du pré de la construction&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vue de la construction du barrage côté lac&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-cote-lac-W-J7KxWrbr-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-cote-lac-W-J7KxWrbr-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-cote-lac-W-J7KxWrbr-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-cote-lac-W-J7KxWrbr-__730__.webp&quot; alt=&quot;Vue de la construction du barrage côté lac&quot; width=&quot;2800&quot; height=&quot;1960&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-cote-lac-W-J7KxWrbr-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-cote-lac-W-J7KxWrbr-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-cote-lac-W-J7KxWrbr-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue de la construction du barrage côté lac&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vue de la construction côté lac&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ceJ0xxW8jn-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ceJ0xxW8jn-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ceJ0xxW8jn-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ceJ0xxW8jn-__730__.webp&quot; alt=&quot;Vue de la construction côté lac&quot; width=&quot;2800&quot; height=&quot;1568&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ceJ0xxW8jn-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ceJ0xxW8jn-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ceJ0xxW8jn-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue de la construction côté lac&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vue de la construction côté Méraillet&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__730__.webp&quot; alt=&quot;Vue de la construction côté Méraillet&quot; width=&quot;2800&quot; height=&quot;1981&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue de la construction côté Méraillet&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Ancien pont Duret / Gorge des Tines&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ancien-pont-des-tines-VdRJhZNmWv-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ancien-pont-des-tines-VdRJhZNmWv-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ancien-pont-des-tines-VdRJhZNmWv-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ancien-pont-des-tines-VdRJhZNmWv-__730__.webp&quot; alt=&quot;Ancien pont Duret / Gorge des Tines&quot; width=&quot;2800&quot; height=&quot;1773&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ancien-pont-des-tines-VdRJhZNmWv-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ancien-pont-des-tines-VdRJhZNmWv-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ancien-pont-des-tines-VdRJhZNmWv-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Ancien pont Duret / Gorge des Tines&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Bâtiments des travailleurs du chantier&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-batiments-travailleurs-1DByKCSE6_-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-batiments-travailleurs-1DByKCSE6_-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-batiments-travailleurs-1DByKCSE6_-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-batiments-travailleurs-1DByKCSE6_-__730__.webp&quot; alt=&quot;Bâtiments des travailleurs du chantier&quot; width=&quot;2800&quot; height=&quot;1792&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-batiments-travailleurs-1DByKCSE6_-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-batiments-travailleurs-1DByKCSE6_-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-batiments-travailleurs-1DByKCSE6_-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Bâtiments des travailleurs du chantier&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Coupure de presse de 1960&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-coupure-presse-1960--WMBQLzBfE-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-coupure-presse-1960--WMBQLzBfE-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-coupure-presse-1960--WMBQLzBfE-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-coupure-presse-1960--WMBQLzBfE-__730__.webp&quot; alt=&quot;Coupure de presse de 1960&quot; width=&quot;2800&quot; height=&quot;2190&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-coupure-presse-1960--WMBQLzBfE-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-coupure-presse-1960--WMBQLzBfE-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-coupure-presse-1960--WMBQLzBfE-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Coupure de presse de 1960&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vue de la construction côté lac et ancien pont Duret / Gorge des Tines&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ancien-pont-H5TRvXpqg7-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ancien-pont-H5TRvXpqg7-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ancien-pont-H5TRvXpqg7-__2000__.avif 2000w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ancien-pont-H5TRvXpqg7-__730__.webp&quot; alt=&quot;Vue de la construction côté lac et ancien pont Duret / Gorge des Tines&quot; width=&quot;2000&quot; height=&quot;856&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ancien-pont-H5TRvXpqg7-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ancien-pont-H5TRvXpqg7-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-cote-lac-ancien-pont-H5TRvXpqg7-__2000__.webp 2000w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue de la construction côté lac et ancien pont Duret / Gorge des Tines&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Travaux de terrassement de la conduite forcée qui mène à la centrale de La Bathie&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__2236__.avif 2236w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__730__.webp&quot; alt=&quot;Travaux de terrassement de la conduite forcée qui mène à la centrale de La Bathie&quot; width=&quot;2236&quot; height=&quot;1680&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__2236__.webp 2236w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Travaux de terrassement de la conduite forcée qui mène à la centrale de La Bathie&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;À l’intérieur d’une galerie souterraine, une conduite collecteur de 3 mètres de diamètre&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-collecteur-3m-YbbBTewzLV-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-collecteur-3m-YbbBTewzLV-__1270__.avif 1270w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-collecteur-3m-YbbBTewzLV-__730__.webp&quot; alt=&quot;À l’intérieur d’une galerie souterraine, une conduite collecteur de 3 mètres de diamètre&quot; width=&quot;1270&quot; height=&quot;1722&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-collecteur-3m-YbbBTewzLV-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-collecteur-3m-YbbBTewzLV-__1270__.webp 1270w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;À l’intérieur d’une galerie souterraine, une conduite collecteur de 3 mètres de diamètre&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Fin de construction avec vaches Tarines en pâturage&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vache-paturages-hNnd9kKFnE-__730__.avif 730w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vache-paturages-hNnd9kKFnE-__1400__.avif 1400w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vache-paturages-hNnd9kKFnE-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vache-paturages-hNnd9kKFnE-__730__.webp&quot; alt=&quot;Fin de construction avec vaches Tarines en pâturage&quot; width=&quot;2800&quot; height=&quot;1711&quot; srcset=&quot;https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vache-paturages-hNnd9kKFnE-__730__.webp 730w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vache-paturages-hNnd9kKFnE-__1400__.webp 1400w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vache-paturages-hNnd9kKFnE-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Fin de construction avec vaches Tarines en pâturage&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Fin de construction vue côté Roche Parstire et le Roc du Vent en arrière-plan&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vue-roche-parstire-9bOgi7OyvF-__730__.avif 730w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vue-roche-parstire-9bOgi7OyvF-__1400__.avif 1400w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vue-roche-parstire-9bOgi7OyvF-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vue-roche-parstire-9bOgi7OyvF-__730__.webp&quot; alt=&quot;Fin de construction vue côté Roche Parstire et le Roc du Vent en arrière-plan&quot; width=&quot;2800&quot; height=&quot;1942&quot; srcset=&quot;https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vue-roche-parstire-9bOgi7OyvF-__730__.webp 730w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vue-roche-parstire-9bOgi7OyvF-__1400__.webp 1400w, https://olivier3lanc.github.io/img/fin-construction-barrage-de-roselend-vue-roche-parstire-9bOgi7OyvF-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Fin de construction vue côté Roche Parstire et le Roc du Vent en arrière-plan&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vue de la fin de construction côté col du pré&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-col-du-pre-P6fpXtbztt-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-col-du-pre-P6fpXtbztt-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-col-du-pre-P6fpXtbztt-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-col-du-pre-P6fpXtbztt-__730__.webp&quot; alt=&quot;Vue de la fin de construction côté col du pré&quot; width=&quot;2800&quot; height=&quot;1953&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-col-du-pre-P6fpXtbztt-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-col-du-pre-P6fpXtbztt-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-col-du-pre-P6fpXtbztt-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue de la fin de construction côté col du pré&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Lac et barrage en septembre 1967&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/lac-et-barrage-septembre-1967-CnIankHaWC-__730__.avif 730w, https://olivier3lanc.github.io/img/lac-et-barrage-septembre-1967-CnIankHaWC-__1400__.avif 1400w, https://olivier3lanc.github.io/img/lac-et-barrage-septembre-1967-CnIankHaWC-__2790__.avif 2790w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/lac-et-barrage-septembre-1967-CnIankHaWC-__730__.webp&quot; alt=&quot;Lac et barrage en septembre 1967&quot; width=&quot;2790&quot; height=&quot;2634&quot; srcset=&quot;https://olivier3lanc.github.io/img/lac-et-barrage-septembre-1967-CnIankHaWC-__730__.webp 730w, https://olivier3lanc.github.io/img/lac-et-barrage-septembre-1967-CnIankHaWC-__1400__.webp 1400w, https://olivier3lanc.github.io/img/lac-et-barrage-septembre-1967-CnIankHaWC-__2790__.webp 2790w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Lac et barrage en septembre 1967&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Le lac de Roselend vu de la berge côté col du pré en septembre 1967&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-2-septembre-1967-_yxQthRsO2-__730__.avif 730w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-2-septembre-1967-_yxQthRsO2-__1400__.avif 1400w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-2-septembre-1967-_yxQthRsO2-__2792__.avif 2792w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-2-septembre-1967-_yxQthRsO2-__730__.webp&quot; alt=&quot;Le lac de Roselend vu de la berge côté col du pré en septembre 1967&quot; width=&quot;2792&quot; height=&quot;1960&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-2-septembre-1967-_yxQthRsO2-__730__.webp 730w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-2-septembre-1967-_yxQthRsO2-__1400__.webp 1400w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-2-septembre-1967-_yxQthRsO2-__2792__.webp 2792w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Le lac de Roselend vu de la berge côté col du pré en septembre 1967&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Le lac de Roselend vu de la berge côté col du pré en septembre 1967 (2)&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-septembre-1967-QGzP-JAkhB-__730__.avif 730w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-septembre-1967-QGzP-JAkhB-__1400__.avif 1400w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-septembre-1967-QGzP-JAkhB-__2787__.avif 2787w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-septembre-1967-QGzP-JAkhB-__730__.webp&quot; alt=&quot;Le lac de Roselend vu de la berge côté col du pré en septembre 1967 (2)&quot; width=&quot;2787&quot; height=&quot;1955&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-septembre-1967-QGzP-JAkhB-__730__.webp 730w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-septembre-1967-QGzP-JAkhB-__1400__.webp 1400w, https://olivier3lanc.github.io/img/roselend-berge-col-du-pre-septembre-1967-QGzP-JAkhB-__2787__.webp 2787w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Le lac de Roselend vu de la berge côté col du pré en septembre 1967 (2)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Le lac de Roselend en 1967&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-septembre-1967-tknD001qcV-__730__.avif 730w, https://olivier3lanc.github.io/img/roselend-septembre-1967-tknD001qcV-__1400__.avif 1400w, https://olivier3lanc.github.io/img/roselend-septembre-1967-tknD001qcV-__2798__.avif 2798w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/roselend-septembre-1967-tknD001qcV-__730__.webp&quot; alt=&quot;Le lac de Roselend en 1967&quot; width=&quot;2798&quot; height=&quot;1954&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-septembre-1967-tknD001qcV-__730__.webp 730w, https://olivier3lanc.github.io/img/roselend-septembre-1967-tknD001qcV-__1400__.webp 1400w, https://olivier3lanc.github.io/img/roselend-septembre-1967-tknD001qcV-__2798__.webp 2798w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Le lac de Roselend en 1967&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - avant&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-avant-J-T29h2j2X-__730__.avif 730w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-avant-J-T29h2j2X-__1400__.avif 1400w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-avant-J-T29h2j2X-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-avant-J-T29h2j2X-__730__.webp&quot; alt=&quot;Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - avant&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-avant-J-T29h2j2X-__730__.webp 730w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-avant-J-T29h2j2X-__1400__.webp 1400w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-avant-J-T29h2j2X-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - avant&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - arrière&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-arriere-wA-TjbwK4Z-__730__.avif 730w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-arriere-wA-TjbwK4Z-__1400__.avif 1400w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-arriere-wA-TjbwK4Z-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-arriere-wA-TjbwK4Z-__730__.webp&quot; alt=&quot;Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - arrière&quot; width=&quot;2800&quot; height=&quot;1866&quot; srcset=&quot;https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-arriere-wA-TjbwK4Z-__730__.webp 730w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-arriere-wA-TjbwK4Z-__1400__.webp 1400w, https://olivier3lanc.github.io/img/maquette-en-bois-barrage-roselend-arriere-wA-TjbwK4Z-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - arrière&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Montage photo 2011 et maquette&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-maquette-1961-2011-o1_g6x0zAH-__730__.avif 730w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/roselend-maquette-1961-2011-o1_g6x0zAH-__730__.webp&quot; alt=&quot;Montage photo 2011 et maquette&quot; width=&quot;730&quot; height=&quot;357&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Montage photo 2011 et maquette&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Historique&lt;/h2&gt;
+&lt;p&gt;&lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.webp&quot; alt=&quot;Chantier de construction du barrage&quot; style=&quot;float:left; width:40%; margin: 0em 1.5em 0.5em 0em&quot; width=&quot;2800&quot; height=&quot;1921&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt; Le barrage de Roselend est construit dans la gorge de Tines. Les travaux de construction du barrage de ont nécessité l’engloutissement du village d’alpage dont il tire son nom (Roseland étant lui-même probablement issu du nom d’un ancien propriétaire : Rozelindus, attesté au Xe siècle). L’histoire de l’hydroélectricité en Beaufortain remonte à la fin du 19e siècle, époque à laquelle les deux Savoie se lancent dans l’exploitation de la « houille blanche » (utilisation de l’énergie produite par les chutes d’eau). Ce sont d’abord des petits barrages qui sont aménagés sur des chutes moyennes et permettent de produire de l’hydroélectricité. Puis, &lt;strong&gt;après la seconde guerre mondiale, la demande en électricité connaît une croissance très importante : entre 1950 et 1980, elle double tous les 7 ans !&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__730__.webp&quot; alt=&quot;Vue construction côté Méraillet&quot; style=&quot;float:left; width:40%; margin: 0em 1.5em 0.5em 0em&quot; width=&quot;2800&quot; height=&quot;1981&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-meraillet-6aOhKOxCpm-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt; Dès 1947, des études sont engagées pour trouver une solution qui permettrait de créer, dans la cuvette de Roselend, une immense réserve d’eau, et de profiter de la chute de 1200 m obtenue par la différence d’altitude avec la vallée de la Tarentaise. Après plusieurs années d’études et de reconnaissances, &lt;strong&gt;la construction de Roselend démarre véritablement en 1956&lt;/strong&gt;. Sa conception, très originale, combine un barrage voûte, pour barrer la gorge, et un barrage poids avec contreforts, pour le prolonger sur l’éperon rocheux du Méraillet.&lt;/p&gt;
+&lt;p&gt;Simultanément, la centrale souterraine de La Bâthie est construite dans une caverne de très grandes dimensions : 135m de long, 35m de haut et 25m de large. Sa salle des machines est équipée de &lt;strong&gt;6 turbines géantes pour l’époque, qui permettent de délivrer une puissance de 550MW&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Installation du chantier&lt;/h2&gt;
+&lt;figure&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/installation-generale-chantier-roselend-6g5Y4xOUfB-__730__.avif 730w, https://olivier3lanc.github.io/img/installation-generale-chantier-roselend-6g5Y4xOUfB-__1400__.avif 1400w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/installation-generale-chantier-roselend-6g5Y4xOUfB-__730__.webp&quot; alt=&quot;Ancienne carrière de nos jours&quot; width=&quot;1400&quot; height=&quot;1639&quot; srcset=&quot;https://olivier3lanc.github.io/img/installation-generale-chantier-roselend-6g5Y4xOUfB-__730__.webp 730w, https://olivier3lanc.github.io/img/installation-generale-chantier-roselend-6g5Y4xOUfB-__1400__.webp 1400w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Installation générale du chantier de Roselend.
+        &lt;ol&gt;
+            &lt;li&gt;Carrière&lt;/li&gt;
+            &lt;li&gt;Concassage primaire&lt;/li&gt;
+            &lt;li&gt;Transport des pré-concassés&lt;/li&gt;
+            &lt;li&gt;Silos&lt;/li&gt;
+            &lt;li&gt;Concassage secondaire&lt;/li&gt;
+            &lt;li&gt;Concassage tertiaire&lt;/li&gt;
+            &lt;li&gt;Transporteur de mise en silos et stock secondaire agrégats classés&lt;/li&gt;
+            &lt;li&gt;Station lavage continu des agrégats&lt;/li&gt;
+            &lt;li&gt;Transporteurs d&#39;alimentation&lt;/li&gt;
+            &lt;li&gt;Tours à béton&lt;/li&gt;
+            &lt;li&gt;Tour à béton&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;De grosses quantités de matières premières étaient extraites directement de la montagne juste au dessus du col du Méraillet, entre le col et le barrage exactement. Aujourd’hui la carrière a laissé place à une immense plaine artificielle sur laquelle la nature a repris peu à peu ses droits (on y trouve notamment des marmottes, des renards et des buses variables). Vous trouverez sur les photos suivantes l’avant après de la carrière du chantier.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/carriere-pdt-chantier-Ioau8YaAOP-__730__.avif 730w, https://olivier3lanc.github.io/img/carriere-pdt-chantier-Ioau8YaAOP-__1400__.avif 1400w, https://olivier3lanc.github.io/img/carriere-pdt-chantier-Ioau8YaAOP-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/carriere-pdt-chantier-Ioau8YaAOP-__730__.webp&quot; alt=&quot;Carrière durant le chantier&quot; width=&quot;2800&quot; height=&quot;1811&quot; srcset=&quot;https://olivier3lanc.github.io/img/carriere-pdt-chantier-Ioau8YaAOP-__730__.webp 730w, https://olivier3lanc.github.io/img/carriere-pdt-chantier-Ioau8YaAOP-__1400__.webp 1400w, https://olivier3lanc.github.io/img/carriere-pdt-chantier-Ioau8YaAOP-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Carrière durant le chantier&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/carriere-contemporaine-6aLldU8l21-__730__.avif 730w, https://olivier3lanc.github.io/img/carriere-contemporaine-6aLldU8l21-__1400__.avif 1400w, https://olivier3lanc.github.io/img/carriere-contemporaine-6aLldU8l21-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/carriere-contemporaine-6aLldU8l21-__730__.webp&quot; alt=&quot;Ancienne carrière de nos jours&quot; width=&quot;2800&quot; height=&quot;1811&quot; srcset=&quot;https://olivier3lanc.github.io/img/carriere-contemporaine-6aLldU8l21-__730__.webp 730w, https://olivier3lanc.github.io/img/carriere-contemporaine-6aLldU8l21-__1400__.webp 1400w, https://olivier3lanc.github.io/img/carriere-contemporaine-6aLldU8l21-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Ancienne carrière de nos jours&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Points techniques&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Avant le barrage de Roselend, il y avait déjà un barrage: Beaucoup plus petit, un barrage-poids de 240 000 m³ fut mis en place par la &lt;a href=&quot;https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d&#39;%C3%A9lectrochimie,_d&#39;%C3%A9lectrom%C3%A9tallurgie_et_des_aci%C3%A9ries_%C3%A9lectriques_d&#39;Ugine&quot;&gt;SECEMAEU&lt;/a&gt;. L’eau était turbinée 450 mètres en dessous par l’usine des Fontanus.&lt;/li&gt;
+&lt;li&gt;Début des travaux en 1956.&lt;/li&gt;
+&lt;li&gt;Conception originale qui combine barrage voûte et barrage poids avec contreforts.&lt;/li&gt;
+&lt;li&gt;Chute de 1 200 mètres jusqu&#39;à la centrale de La Bathie.&lt;/li&gt;
+&lt;li&gt;Hauteur 135 mètres.&lt;/li&gt;
+&lt;li&gt;Longueur en crète 804 mètres.&lt;/li&gt;
+&lt;li&gt;Le barrage n’a pas été rempli à sa côte maximale tout de suite après les travaux, mais par palier, pour atteindre finalement sa côte maximale 1457 mètres en 1978.&lt;/li&gt;
+&lt;li&gt;Le barrage de Roselend est le plus gros barrage de France en volume de béton.&lt;/li&gt;
+&lt;li&gt;Le remplissage complet du barrage représente 187 millions de m³.&lt;/li&gt;
+&lt;li&gt;Le remplissage a nécessité la construction de plus de 40 km de galeries souterraines, afin de collecter 28 torrents sur 10 communes différentes.&lt;/li&gt;
+&lt;li&gt;Puissance d’origine 550 MW.&lt;/li&gt;
+&lt;li&gt;L’aménagement hydroélectrique de Roselend La Bâthie produit chaque année l’équivalent de la consommation résidentielle de 400 000 habitants.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Les hommes du chantier&lt;/h2&gt;
+&lt;p&gt;Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sur le chantier, un ouvrier du barrage de Roselend touchait un salaire mensuel équivalent à 6 mois de revenu d’un agriculteur du coin.&lt;/li&gt;
+&lt;li&gt;60% des travailleurs du barrage de Roselend étaient italiens.&lt;/li&gt;
+&lt;li&gt;800 ouvriers travaillaient sur le barrage et 2 600 sur l’aménagement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Ouvriers à l’oeuvre au marteau piqueur&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs-jkNJFTVmsn-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs-jkNJFTVmsn-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs-jkNJFTVmsn-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs-jkNJFTVmsn-__730__.webp&quot; alt=&quot;Ouvriers à l’oeuvre au marteau piqueur&quot; width=&quot;2800&quot; height=&quot;1949&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs-jkNJFTVmsn-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs-jkNJFTVmsn-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs-jkNJFTVmsn-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Ouvriers à l’oeuvre au marteau piqueur&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Travailleurs / ouvriers sur le chantier de creusement des galeries&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-5tdwx7Zueo-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-5tdwx7Zueo-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-5tdwx7Zueo-__2600__.avif 2600w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-5tdwx7Zueo-__730__.webp&quot; alt=&quot;Travailleurs / ouvriers sur le chantier de creusement des galeries&quot; width=&quot;2600&quot; height=&quot;1356&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-5tdwx7Zueo-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-5tdwx7Zueo-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-5tdwx7Zueo-__2600__.webp 2600w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Travailleurs / ouvriers sur le chantier de creusement des galeries&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Travailleurs / ouvriers sur le chantier de creusement des galeries (2)&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-2-53KqH7ctdb-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-2-53KqH7ctdb-__1330__.avif 1330w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-2-53KqH7ctdb-__730__.webp&quot; alt=&quot;Travailleurs / ouvriers sur le chantier de creusement des galeries (2)&quot; width=&quot;1330&quot; height=&quot;1300&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-2-53KqH7ctdb-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-2-53KqH7ctdb-__1330__.webp 1330w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Travailleurs / ouvriers sur le chantier de creusement des galeries (2)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Deux travailleurs / ouvriers qui prennent la pose dans une galerie&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-deux-ouvriers-creusement-conduite-5IQh47zdN1-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-deux-ouvriers-creusement-conduite-5IQh47zdN1-__1174__.avif 1174w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-deux-ouvriers-creusement-conduite-5IQh47zdN1-__730__.webp&quot; alt=&quot;Deux travailleurs / ouvriers qui prennent la pose dans une galerie&quot; width=&quot;1174&quot; height=&quot;1258&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-deux-ouvriers-creusement-conduite-5IQh47zdN1-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-deux-ouvriers-creusement-conduite-5IQh47zdN1-__1174__.webp 1174w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Deux travailleurs / ouvriers qui prennent la pose dans une galerie&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Étayage d’une grande galerie&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-etayage-galeries-Sa9g1mhRtx-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-etayage-galeries-Sa9g1mhRtx-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-etayage-galeries-Sa9g1mhRtx-__2616__.avif 2616w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-etayage-galeries-Sa9g1mhRtx-__730__.webp&quot; alt=&quot;Étayage d’une grande galerie&quot; width=&quot;2616&quot; height=&quot;1366&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-etayage-galeries-Sa9g1mhRtx-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-etayage-galeries-Sa9g1mhRtx-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-etayage-galeries-Sa9g1mhRtx-__2616__.webp 2616w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Étayage d’une grande galerie&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Travailleurs / ouvriers sur le terrassement de la conduite qui mène à La Bathie&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-ouvriers-terrassement-conduite-IQdUs780nk-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-ouvriers-terrassement-conduite-IQdUs780nk-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-ouvriers-terrassement-conduite-IQdUs780nk-__2592__.avif 2592w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-ouvriers-terrassement-conduite-IQdUs780nk-__730__.webp&quot; alt=&quot;Travailleurs / ouvriers sur le terrassement de la conduite qui mène à La Bathie&quot; width=&quot;2592&quot; height=&quot;1324&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-ouvriers-terrassement-conduite-IQdUs780nk-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-ouvriers-terrassement-conduite-IQdUs780nk-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-ouvriers-terrassement-conduite-IQdUs780nk-__2592__.webp 2592w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Travailleurs / ouvriers sur le terrassement de la conduite qui mène à La Bathie&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Les coûts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;23 août 1949 le conseil municipal vote la vente des 121 hectares communaux de Roselend (d’une valeur de 43 millions de francs de l’époque soit 70 000 euros en équivalent d’aujourd’hui). La commune de Beaufort a également obtenu d’EDF l’électrification des cloches et l’agrandissement du cimetière.&lt;/li&gt;
+&lt;li&gt;Coût des travaux du barrage de Roselend: 50 milliards de francs anciens (soit 70 millions d’euros).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Sources&lt;/h2&gt;
+&lt;p&gt;Les images de faible définition ont été agrandies à l’aide &lt;a href=&quot;https://upscayl.org/&quot;&gt;d’Upscayl&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collection personnelle de &lt;cite&gt;Patrick Guillois&lt;/cite&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Barrage_de_Roselend&quot;&gt;Le barrage de Roselend sur Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Archives de la Haute-Savoie &lt;a href=&quot;https://archives.hautesavoie.fr/&quot;&gt;https://archives.hautesavoie.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Archives départementales de la Savoie &lt;a href=&quot;https://recherche-archives.savoie.fr/&quot;&gt;https://recherche-archives.savoie.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Musée Savoisien &lt;a href=&quot;https://museesavoisien-collections.savoie.fr&quot;&gt;https://museesavoisien-collections.savoie.fr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Barrage de Roselend – Aménagement hydroélectrique de Roselend La Bâthie &lt;a href=&quot;https://www.edf.fr/hydraulique-pays-de-savoie/barrage-de-roselend-amenagement-hydroelectrique-de-roselend-la-bathie&quot;&gt;EDF Hydro Alpes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vidéo &lt;a href=&quot;https://www.youtube.com/watch?v=Mzgu97CAbcg&quot;&gt;Barrage de Roselend - Centrale de La Bâthie – Présentation de l’aménagement hydroélectrique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vidéo &lt;a href=&quot;https://www.cimalpes.fr/films-de-montagne-barrage-de-roselend-le-752-214-0-0.html&quot;&gt;Le Barrage de Roselend&lt;/a&gt; - documentaire de Henri Antoine&lt;/li&gt;
+&lt;li&gt;Document PDF &lt;a href=&quot;https://www.shf-lhb.org/articles/lhb/pdf/1960/03/lhb1960020.pdf&quot;&gt;Aménagement hydroélectrique de Roselend (Savoie) conduite forcée de l&#39;usine de La Bâthie&lt;/a&gt; par R. Cartier&lt;/li&gt;
+&lt;li&gt;Document PDF &lt;a href=&quot;https://www.shf-lhb.org/articles/lhb/abs/1960/05/lhb1960041/lhb1960041.html&quot;&gt;La Houille Blanche, N°3 (Mai 1960)&lt;/a&gt; &lt;a href=&quot;https://www.shf-lhb.org/articles/lhb/pdf/1960/05/lhb1960041.pdf&quot;&gt;supplément graphique&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+        <entry>
+            <title>L’ancien village de Roselend</title>
+            <link href="https://olivier3lanc.github.io/blog/ancien-village-de-roselend/" />
+            <updated>2025-09-01T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/ancien-village-de-roselend/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/ogimage-ancien-village-de-roselend.avif&quot; alt=&quot;L’ancien village de Roselend&quot;&gt;
+                &lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;widget widget-alert&quot;&gt;
+&lt;div class=&quot;alert alert-info&quot; data-title=&quot;Info&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Cette page est une réédition de ma page &lt;a href=&quot;https://web.archive.org/web/20120115174542/http://www.olivewhite.com/blog/les-50-ans-de-roselend-la-bathie/&quot;&gt;les 50 ans de Roselend la Bathie&lt;/a&gt; dépubliée.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;/aside&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Galerie&lt;/h2&gt;
+&lt;p&gt;Sélection de photographies de l’ancien village de Roselend.&lt;/p&gt;
+&lt;h3&gt;Roselend et le Rocher du Vent 1901-1904&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent 1901-1904&quot; width=&quot;2800&quot; height=&quot;2062&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Vent 1901-1904&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Roselend et le Rocher du Vent en septembre 1937&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937-swjykMcGmw-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937-swjykMcGmw-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937-swjykMcGmw-__2778__.avif 2778w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937-swjykMcGmw-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent en septembre 1937&quot; width=&quot;2778&quot; height=&quot;1836&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937-swjykMcGmw-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937-swjykMcGmw-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937-swjykMcGmw-__2778__.webp 2778w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Vent en septembre 1937&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Roselend et le Rocher du Vent avec l’hôtel Coutter au premier plan en septembre 1937&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-1937-2v-BEOGKSC-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-1937-2v-BEOGKSC-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-1937-2v-BEOGKSC-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-1937-2v-BEOGKSC-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent avec l’hôtel Coutter au premier plan en septembre 1937&quot; width=&quot;2800&quot; height=&quot;1894&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-1937-2v-BEOGKSC-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-1937-2v-BEOGKSC-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-1937-2v-BEOGKSC-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Vent avec l’hôtel Coutter au premier plan en septembre 1937&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Roselend et le Rocher du Vent en juillet 1937&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-juillet-1937-zsrKWY2h1y-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-juillet-1937-zsrKWY2h1y-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-juillet-1937-zsrKWY2h1y-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-juillet-1937-zsrKWY2h1y-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent en juillet 1937&quot; width=&quot;2800&quot; height=&quot;1879&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-juillet-1937-zsrKWY2h1y-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-juillet-1937-zsrKWY2h1y-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-du-vent-juillet-1937-zsrKWY2h1y-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Vent en juillet 1937&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Roselend et le Rocher du Vent&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00052482-F1ocHl5T3--__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00052482-F1ocHl5T3--__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00052482-F1ocHl5T3--__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00052482-F1ocHl5T3--__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent&quot; width=&quot;2800&quot; height=&quot;1799&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00052482-F1ocHl5T3--__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00052482-F1ocHl5T3--__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00052482-F1ocHl5T3--__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Vent&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Le troupeau à l’abreuvoir (1)&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-le-troupeau-a-l-abreuvoir-R0aPrLH-fS-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-le-troupeau-a-l-abreuvoir-R0aPrLH-fS-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-le-troupeau-a-l-abreuvoir-R0aPrLH-fS-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-le-troupeau-a-l-abreuvoir-R0aPrLH-fS-__730__.webp&quot; alt=&quot;Le troupeau à l’abreuvoir (1)&quot; width=&quot;2800&quot; height=&quot;1778&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-le-troupeau-a-l-abreuvoir-R0aPrLH-fS-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-le-troupeau-a-l-abreuvoir-R0aPrLH-fS-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-le-troupeau-a-l-abreuvoir-R0aPrLH-fS-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Le troupeau à l’abreuvoir (1)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Troupeau à l’abreuvoir dans la vallée de Roselend en 1937 (2)&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-troupeau-a-l-abreuvoir-1937-hRpPpuMUas-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-troupeau-a-l-abreuvoir-1937-hRpPpuMUas-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-troupeau-a-l-abreuvoir-1937-hRpPpuMUas-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-troupeau-a-l-abreuvoir-1937-hRpPpuMUas-__730__.webp&quot; alt=&quot;Troupeau à l’abreuvoir dans la vallée de Roselend en 1937 (2)&quot; width=&quot;2800&quot; height=&quot;1869&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-troupeau-a-l-abreuvoir-1937-hRpPpuMUas-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-troupeau-a-l-abreuvoir-1937-hRpPpuMUas-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-troupeau-a-l-abreuvoir-1937-hRpPpuMUas-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Troupeau à l’abreuvoir dans la vallée de Roselend en 1937 (2)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Troupeau de vaches Tarines dans la vallée de Roselend, le long du ruisseau en 1937&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-dans-les-alpages-1937-vioOXD16wF-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-dans-les-alpages-1937-vioOXD16wF-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-dans-les-alpages-1937-vioOXD16wF-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-dans-les-alpages-1937-vioOXD16wF-__730__.webp&quot; alt=&quot;Troupeau de vaches Tarines dans la vallée de Roselend, le long du ruisseau en 1937&quot; width=&quot;2800&quot; height=&quot;1878&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-dans-les-alpages-1937-vioOXD16wF-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-dans-les-alpages-1937-vioOXD16wF-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-dans-les-alpages-1937-vioOXD16wF-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Troupeau de vaches Tarines dans la vallée de Roselend, le long du ruisseau en 1937&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;L’hôtel Couttet en 1937&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-1937-fSykEowEO7-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-1937-fSykEowEO7-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-1937-fSykEowEO7-__2797__.avif 2797w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-1937-fSykEowEO7-__730__.webp&quot; alt=&quot;L’hôtel Couttet en 1937&quot; width=&quot;2797&quot; height=&quot;1896&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-1937-fSykEowEO7-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-1937-fSykEowEO7-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-1937-fSykEowEO7-__2797__.webp 2797w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;L’hôtel Couttet en 1937&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;L’ancien pont Duret présent à l’endroit exact du barrage&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-pont-duret-vyyTL3Elgk-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-pont-duret-vyyTL3Elgk-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-pont-duret-vyyTL3Elgk-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-pont-duret-vyyTL3Elgk-__730__.webp&quot; alt=&quot;L’ancien pont Duret présent à l’endroit exact du barrage&quot; width=&quot;2800&quot; height=&quot;1798&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-pont-duret-vyyTL3Elgk-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-pont-duret-vyyTL3Elgk-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-pont-duret-vyyTL3Elgk-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;L’ancien pont Duret présent à l’endroit exact du barrage&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vallée et village de Roselend vus de la route du cormet : Roche Parstire et Mont Mirantin&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-route-du-cormet-roche-parstire-et-mirantin-septembre-1937-Y6Ynmy1Nd_-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-route-du-cormet-roche-parstire-et-mirantin-septembre-1937-Y6Ynmy1Nd_-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-route-du-cormet-roche-parstire-et-mirantin-septembre-1937-Y6Ynmy1Nd_-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-route-du-cormet-roche-parstire-et-mirantin-septembre-1937-Y6Ynmy1Nd_-__730__.webp&quot; alt=&quot;Vallée et village de Roselend vus de la route du cormet : Roche Parstire et Mont Mirantin&quot; width=&quot;2800&quot; height=&quot;1742&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-route-du-cormet-roche-parstire-et-mirantin-septembre-1937-Y6Ynmy1Nd_-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-route-du-cormet-roche-parstire-et-mirantin-septembre-1937-Y6Ynmy1Nd_-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-route-du-cormet-roche-parstire-et-mirantin-septembre-1937-Y6Ynmy1Nd_-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vallée et village de Roselend vus de la route du cormet : Roche Parstire et Mont Mirantin&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Vaches au pâturage et Rocher du vent an arrière-plan&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-vache-paturage-rocher-du-vent-lkzNFdiTsa-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-vache-paturage-rocher-du-vent-lkzNFdiTsa-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-vache-paturage-rocher-du-vent-lkzNFdiTsa-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-vache-paturage-rocher-du-vent-lkzNFdiTsa-__730__.webp&quot; alt=&quot;Vaches au pâturage et Rocher du vent an arrière-plan&quot; width=&quot;2800&quot; height=&quot;1785&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-vache-paturage-rocher-du-vent-lkzNFdiTsa-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-vache-paturage-rocher-du-vent-lkzNFdiTsa-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-vache-paturage-rocher-du-vent-lkzNFdiTsa-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vaches au pâturage et Rocher du vent an arrière-plan&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Roselend et le Rocher du Vent&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-et-rocher-du-vent-DpKZ8X3TtA-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-et-rocher-du-vent-DpKZ8X3TtA-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-et-rocher-du-vent-DpKZ8X3TtA-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-et-rocher-du-vent-DpKZ8X3TtA-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent&quot; width=&quot;2800&quot; height=&quot;1777&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-et-rocher-du-vent-DpKZ8X3TtA-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-et-rocher-du-vent-DpKZ8X3TtA-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-et-rocher-du-vent-DpKZ8X3TtA-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Vent&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Roselend et le Rocher du Biolley&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00031268-LdmtHX2H-u-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00031268-LdmtHX2H-u-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00031268-LdmtHX2H-u-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00031268-LdmtHX2H-u-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Biolley&quot; width=&quot;2800&quot; height=&quot;1774&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00031268-LdmtHX2H-u-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00031268-LdmtHX2H-u-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-frad07457fi00031268-LdmtHX2H-u-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Biolley&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;La chapelle Sainte Marie Madeleine de Roselend&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-8A7VVyiAd7-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-8A7VVyiAd7-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-8A7VVyiAd7-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-8A7VVyiAd7-__730__.webp&quot; alt=&quot;La chapelle Sainte Marie Madeleine de Roselend&quot; width=&quot;2800&quot; height=&quot;1756&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-8A7VVyiAd7-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-8A7VVyiAd7-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-8A7VVyiAd7-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;La chapelle Sainte Marie Madeleine de Roselend&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;L’hôtel Couttet en hiver&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-hiver-aBkEu_kLPT-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-hiver-aBkEu_kLPT-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-hiver-aBkEu_kLPT-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-hiver-aBkEu_kLPT-__730__.webp&quot; alt=&quot;L’hôtel Couttet en hiver&quot; width=&quot;2800&quot; height=&quot;1676&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-hiver-aBkEu_kLPT-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-hiver-aBkEu_kLPT-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-couttet-hiver-aBkEu_kLPT-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;L’hôtel Couttet en hiver&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Hôtel Mont Blanc juillet 1935&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1896__.avif 1896w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__730__.webp&quot; alt=&quot;Hôtel Mont Blanc juillet 1935&quot; width=&quot;1896&quot; height=&quot;2819&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1896__.webp 1896w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Hôtel Mont Blanc juillet 1935&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;L’hôtel Mont Blanc et quelques habitants ou visiteurs devant&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-mont-blanc-dy45FSfHPc-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-mont-blanc-dy45FSfHPc-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-mont-blanc-dy45FSfHPc-__2072__.avif 2072w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-mont-blanc-dy45FSfHPc-__730__.webp&quot; alt=&quot;L’hôtel Mont Blanc et quelques habitants ou visiteurs devant&quot; width=&quot;2072&quot; height=&quot;3200&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-mont-blanc-dy45FSfHPc-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-mont-blanc-dy45FSfHPc-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-hotel-mont-blanc-dy45FSfHPc-__2072__.webp 2072w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;L’hôtel Mont Blanc et quelques habitants ou visiteurs devant&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Pont dans le village de Roselend&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow &quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-roseland-le-pont-7NHTHXydXN-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-roseland-le-pont-7NHTHXydXN-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-roseland-le-pont-7NHTHXydXN-__2060__.avif 2060w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-roseland-le-pont-7NHTHXydXN-__730__.webp&quot; alt=&quot;Pont dans le village de Roselend&quot; width=&quot;2060&quot; height=&quot;3200&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-roseland-le-pont-7NHTHXydXN-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-roseland-le-pont-7NHTHXydXN-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-roseland-le-pont-7NHTHXydXN-__2060__.webp 2060w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Pont dans le village de Roselend&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Un berger et son troupeau devant l’hôtel Couttet&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-berger-hotel-couttet-3YDaPjVDH9-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-berger-hotel-couttet-3YDaPjVDH9-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-berger-hotel-couttet-3YDaPjVDH9-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-berger-hotel-couttet-3YDaPjVDH9-__730__.webp&quot; alt=&quot;Un berger et son troupeau devant l’hôtel Couttet&quot; width=&quot;2800&quot; height=&quot;1827&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-berger-hotel-couttet-3YDaPjVDH9-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-berger-hotel-couttet-3YDaPjVDH9-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-troupeau-berger-hotel-couttet-3YDaPjVDH9-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Un berger et son troupeau devant l’hôtel Couttet&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;Roselend et le Rocher du Vent en septembre 1937&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-des-vents-septembre-1937-3SLRHwRPIM-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-des-vents-septembre-1937-3SLRHwRPIM-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-des-vents-septembre-1937-3SLRHwRPIM-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-des-vents-septembre-1937-3SLRHwRPIM-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent en septembre 1937&quot; width=&quot;2800&quot; height=&quot;2058&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-des-vents-septembre-1937-3SLRHwRPIM-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-des-vents-septembre-1937-3SLRHwRPIM-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-rocher-des-vents-septembre-1937-3SLRHwRPIM-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Roselend et le Rocher du Vent en septembre 1937&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3&gt;La chapelle Sainte Marie Madeleine et le Roc du Biolley en arrière-plan&lt;/h3&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-et-roc-biolley-Yzja3VPklu-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-et-roc-biolley-Yzja3VPklu-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-et-roc-biolley-Yzja3VPklu-__2781__.avif 2781w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-et-roc-biolley-Yzja3VPklu-__730__.webp&quot; alt=&quot;La chapelle Sainte Marie Madeleine et le Roc du Biolley en arrière-plan&quot; width=&quot;2781&quot; height=&quot;1873&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-et-roc-biolley-Yzja3VPklu-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-et-roc-biolley-Yzja3VPklu-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-roselend-chapelle-et-roc-biolley-Yzja3VPklu-__2781__.webp 2781w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;La chapelle Sainte Marie Madeleine et le Roc du Biolley en arrière-plan&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Quelques brèves&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A deux pas de l’Hôtel Couttet, il y avait la buvette casse-croûte de Marie-Rose Martin.&lt;/li&gt;
+&lt;li&gt;Le village de Roseland comptait trois hôtels:
+&lt;ul&gt;
+&lt;li&gt;L’Hôtel Mont Blanc: 1er hôtel construit en 1870 par Constant Gachet dans le coeur du village.&lt;/li&gt;
+&lt;li&gt;L’Hôtel Couttet: Le plus important, construit par Alfred Couttet, un hôtelier chamoniard. L’hôtel Couttet était situé légèrement en  retrait du village. Des clients de grande renommée ont séjourné à l’Hôtel Couttet: Jacques Prévert, Irène Joliot-Curie.&lt;/li&gt;
+&lt;li&gt;Hôtel La Rose des Alpes: La construction a débuté en 1938 mais le projet fut abandonné à cause de la guerre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La vallée était déjà un site touristique important avant la construction du barrage, fréquenté par une clientèle aisée.&lt;/li&gt;
+&lt;li&gt;Alfred Couttet, le responsable de l’Hôtel Couttet, avait l’intention de faire du site de Roselend une station de ski.&lt;/li&gt;
+&lt;li&gt;En 1938, la commune de Beaufort reçoit des propositions d’installations de remontées mécanique de G. Dandelot, constructeur des * Monte-Pentes Alta à Annecy.&lt;/li&gt;
+&lt;li&gt;Malgré les différentes propositions d’installations de remontées mécaniques, le projet de la station de Roselend tombe à l’eau avec  l’entrée en guerre de la France.&lt;/li&gt;
+&lt;li&gt;1938: Le conseil municipal vote l’électrification de Roselend.&lt;/li&gt;
+&lt;li&gt;L’ancienne route de Roselend passait par Beaubois et montait dans le vallon escarpé du barrage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Sources&lt;/h2&gt;
+&lt;p&gt;Les images de faible définition ont été agrandies à l’aide &lt;a href=&quot;https://upscayl.org/&quot;&gt;d’Upscayl&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collection personnelle de &lt;cite&gt;Patrick Guillois&lt;/cite&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Barrage_de_Roselend&quot;&gt;Le barrage de Roselend sur Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Archives de la Haute-Savoie &lt;a href=&quot;https://archives.hautesavoie.fr/&quot;&gt;https://archives.hautesavoie.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Archives départementales de la Savoie &lt;a href=&quot;https://recherche-archives.savoie.fr/&quot;&gt;https://recherche-archives.savoie.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Musée Savoisien &lt;a href=&quot;https://museesavoisien-collections.savoie.fr&quot;&gt;https://museesavoisien-collections.savoie.fr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links August 2025</title>
             <link href="https://olivier3lanc.github.io/blog/new-frontend-links-august-2025/" />
