@@ -8,7 +8,7 @@ ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources
 tags:
     - post
     - roselend
-date: 2025-09-01
+date: 2025-09-04
 photos:
     -   text: "Début de la construction du barrage de Roselend, vue côté Roc du Biolley"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-biolley.png"
@@ -54,24 +54,32 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/maquette-en-bois-barrage-roselend-avant.png"
     -   text: "Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - arrière"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/maquette-en-bois-barrage-roselend-arriere.jpg"
-    -   text: "Montage photo 2011 et maquette"
-        url: "/sources/blog/la-construction-du-barrage-de-roselend/roselend-maquette-1961-2011.jpg"
-        wide: false
 hommes:
     -   text: "Ouvriers à l’oeuvre au marteau piqueur"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs.png"
-    -   text: "Travailleurs / ouvriers sur le chantier de creusement des galeries"
+        wide: false
+    -   text: "Ouvriers à l’oeuvre dans l’étayage des galeries"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite.png"
-    -   text: "Travailleurs / ouvriers sur le chantier de creusement des galeries (2)"
+    -   text: "Ouvriers sur le chantier de creusement des galeries"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite-2.png"
         wide: false
-    -   text: "Deux travailleurs / ouvriers qui prennent la pose dans une galerie"
+    -   text: "Deux ouvriers qui prennent la pose dans une galerie"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-deux-ouvriers-creusement-conduite.png"
         wide: false
-    -   text: "Étayage d’une grande galerie"
+    -   text: "Étayage et creusement de la centrale de La Bathie"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-etayage-galeries.png"
-    -   text: "Travailleurs / ouvriers sur le terrassement de la conduite qui mène à La Bathie"
+    -   text: "Ouvriers sur le terrassement de la conduite qui mène à La Bathie"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-ouvriers-terrassement-conduite.png"
+hommesAnims:
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-ouvrier-creusement-galerie.avif"
+        alt: "Ouvrier en train de creuser une galerie"
+        figcaption: "Sur le chantier, un ouvrier du barrage de Roselend touchait un salaire mensuel équivalent à 6 mois de revenu d’un agriculteur du coin"
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-ouvriers-pompage-manivelles.avif"
+        alt: "Ouvriers sur le chantier du barrage"
+        figcaption: "60% des travailleurs du barrage de Roselend étaient italiens"
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-creusement-barrage.avif"
+        alt: "Ouvriers sur le terrassement qui servira d'assise au barrage"
+        figcaption: "800 ouvriers travaillaient sur le barrage et 2 600 sur l’aménagement"
 ---
 {% alertAlt 'info', 'Info' %}
 Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](https://web.archive.org/web/20120115174542/http://www.olivewhite.com/blog/les-50-ans-de-roselend-la-bathie/) dépubliée. 
@@ -102,17 +110,29 @@ Sélection de photographies anciennes de la construction du barrage de Roselend.
 
 ## Historique
 
-<img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-biolley.png"
-alt="Chantier de construction du barrage"
-style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em"> Le barrage de Roselend est construit dans la gorge de Tines. Les travaux de construction du barrage de ont nécessité l’engloutissement du village d’alpage dont il tire son nom (Roseland étant lui-même probablement issu du nom d’un ancien propriétaire : Rozelindus, attesté au Xe siècle). L’histoire de l’hydroélectricité en Beaufortain remonte à la fin du 19e siècle, époque à laquelle les deux Savoie se lancent dans l’exploitation de la « houille blanche » (utilisation de l’énergie produite par les chutes d’eau). Ce sont d’abord des petits barrages qui sont aménagés sur des chutes moyennes et permettent de produire de l’hydroélectricité. Puis, **après la seconde guerre mondiale, la demande en électricité connaît une croissance très importante : entre 1950 et 1980, elle double tous les 7 ans !**
+<img src="/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-chantier-vue-belvedere-col-du-pre.avif"
+alt="Le chantier du barrage vu du belvédère côté col du pré"
+loading="lazy"
+decoding="async"
+eleventy:ignore
+style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em"> Le barrage de Roselend est construit dans la gorge de Tines. Les travaux de construction du barrage de ont nécessité l’engloutissement du village d’alpage dont il tire son nom (Roseland étant lui-même probablement issu du nom d’un ancien propriétaire : Rozelindus, attesté au Xe siècle). 
 
-<img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-meraillet.png"
-alt="Vue construction côté Méraillet"
-style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em"> Dès 1947, des études sont engagées pour trouver une solution qui permettrait de créer, dans la cuvette de Roselend, une immense réserve d’eau, et de profiter de la chute de 1200 m obtenue par la différence d’altitude avec la vallée de la Tarentaise. Après plusieurs années d’études et de reconnaissances, **la construction de Roselend démarre véritablement en 1956**. Sa conception, très originale, combine un barrage voûte, pour barrer la gorge, et un barrage poids avec contreforts, pour le prolonger sur l’éperon rocheux du Méraillet.
+<img src="/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-chantier-barrage-arrivee-beton.avif"
+alt="Arrivée du béton sur le chantier"
+loading="lazy"
+eleventy:ignore
+style="float:right; width:40%; margin: 0em 0em 0.5em 1.5em"> L’histoire de l’hydroélectricité en Beaufortain remonte à la fin du 19e siècle, époque à laquelle les deux Savoie se lancent dans l’exploitation de la « houille blanche » (utilisation de l’énergie produite par les chutes d’eau). Ce sont d’abord des petits barrages qui sont aménagés sur des chutes moyennes et permettent de produire de l’hydroélectricité. Puis, **après la seconde guerre mondiale, la demande en électricité connaît une croissance très importante : entre 1950 et 1980, elle double tous les 7 ans !**
+
+<img src="/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-vue-cote-lac-chantier-hiver.avif"
+alt="Le chantier sous la neige vu côté lac"
+loading="lazy"
+decoding="async"
+eleventy:ignore
+style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em">  Dès 1947, des études sont engagées pour trouver une solution qui permettrait de créer, dans la cuvette de Roselend, une immense réserve d’eau, et de profiter de la chute de 1200 m obtenue par la différence d’altitude avec la vallée de la Tarentaise. Après plusieurs années d’études et de reconnaissances, **la construction de Roselend démarre véritablement en 1956**. Sa conception, très originale, combine un barrage voûte, pour barrer la gorge, et un barrage poids avec contreforts, pour le prolonger sur l’éperon rocheux du Méraillet.
 
 Simultanément, la centrale souterraine de La Bâthie est construite dans une caverne de très grandes dimensions : 135m de long, 35m de haut et 25m de large. Sa salle des machines est équipée de **6 turbines géantes pour l’époque, qui permettent de délivrer une puissance de 550MW**.
 
-## Installation du chantier
+## Installations du chantier
 
 <figure>
     <img src="/sources/blog/la-construction-du-barrage-de-roselend/installation-generale-chantier-roselend.png"
@@ -135,18 +155,42 @@ Simultanément, la centrale souterraine de La Bâthie est construite dans une ca
     </figcaption>
 </figure>
 
-De grosses quantités de matières premières étaient extraites directement de la montagne juste au dessus du col du Méraillet, entre le col et le barrage exactement. Aujourd’hui la carrière a laissé place à une immense plaine artificielle sur laquelle la nature a repris peu à peu ses droits (on y trouve notamment des marmottes, des renards et des buses variables). Vous trouverez sur les photos suivantes l’avant après de la carrière du chantier.
+De grosses quantités de matières premières étaient extraites directement de la montagne juste au dessus du col du Méraillet, entre le col et le barrage exactement. Aujourd’hui la carrière a laissé place à une immense plaine artificielle sur laquelle la nature a repris peu à peu ses droits (on y trouve notamment des marmottes, des renards et des buses variables).
 
-<figure>
-    <img src="/sources/blog/la-construction-du-barrage-de-roselend/carriere-pdt-chantier.png"
-        alt="Carrière durant le chantier">
-    <figcaption>Carrière durant le chantier</figcaption>
+<figure class="wide long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-panoramique-film-debut-des-travaux.jpg"
+        alt="Panoramique des premières fondations">
+    <figcaption>
+        Panoramique côté lac des premières fondations réalisé à partir d'images extraites du film
+        <cite>
+            <a href="https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html">
+                Au coeur de la Savoie, Roselend
+            </a>
+        </cite> de Claudine Lenoir
 </figure>
 
-<figure>
-    <img src="/sources/blog/la-construction-du-barrage-de-roselend/carriere-contemporaine.png"
-        alt="Ancienne carrière de nos jours">
-    <figcaption>Ancienne carrière de nos jours</figcaption>
+<figure class="wide long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-panoramique-film-debut-des-travaux-barrage.jpg"
+        alt="Panoramique des débuts du chantier">
+    <figcaption>
+        Panoramique côté lac des débuts du chantier réalisé à partir d'images extraites du film
+        <cite>
+            <a href="https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html">
+                Au coeur de la Savoie, Roselend
+            </a>
+        </cite> de Claudine Lenoir
+</figure>
+
+<figure class="wide long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-panoramique-film-installation-virolles-la-bathie.jpg"
+        alt="Panoramique des travaux de terrassement de la conduite côté La Bathie">
+    <figcaption>
+        Panoramique des travaux de terrassement de la conduite côté La Bathie réalisé à partir d'images extraites du film
+        <cite>
+            <a href="https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html">
+                Au coeur de la Savoie, Roselend
+            </a>
+        </cite> de Claudine Lenoir
 </figure>
 
 ## Points techniques
@@ -168,9 +212,19 @@ De grosses quantités de matières premières étaient extraites directement de 
 
 Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde :
 
-* Sur le chantier, un ouvrier du barrage de Roselend touchait un salaire mensuel équivalent à 6 mois de revenu d’un agriculteur du coin.
-* 60% des travailleurs du barrage de Roselend étaient italiens.
-* 800 ouvriers travaillaient sur le barrage et 2 600 sur l’aménagement.
+{% for item in hommesAnims %}
+### {{ item.alt }}
+
+<figure class="long-shadow">
+    <img src="{{ item.url }}"
+        alt="{{ item.alt }}"
+        loading="lazy"
+        decoding="async"
+        class="w-100"
+        eleventy:ignore>
+    <figcaption>{{ item.figcaption }}</figcaption>
+</figure>
+{% endfor %}
 
 {% for item in hommes %}
 ### {{ item.text }}
@@ -191,6 +245,7 @@ Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde :
 Les images de faible définition ont été agrandies à l’aide [d’Upscayl](https://upscayl.org/).
 
 * Collection personnelle de <cite>Patrick Guillois</cite>.
+* Photographies de Henri Baranger - <abbr title="Electricité de France">EDF</abbr>
 * [Le barrage de Roselend sur Wikipedia](https://fr.wikipedia.org/wiki/Barrage_de_Roselend)
 * Archives de la Haute-Savoie <https://archives.hautesavoie.fr/>
 * Archives départementales de la Savoie <https://recherche-archives.savoie.fr/>

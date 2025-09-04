@@ -175,16 +175,6 @@
             "description": "Photographies d’animaux sauvages de montagne "
         },
         {
-            "url": "/portfolio/",
-            "title": "Portfolio",
-            "description": "Réalisations web dans le cadre de mon travail "
-        },
-        {
-            "url": "/parcours/",
-            "title": "Olivier Blanc",
-            "description": "Développeur Front-end hybride UI et UX "
-        },
-        {
             "url": "/webdesign-personnel/demos/",
             "title": "Démos",
             "description": "Réalisations personnelles de pages web basées sur un thème "
@@ -230,13 +220,23 @@
             "description": "Galerie de photographies de l’ancien village de Roselend avant la construction du barrage post roselend"
         },
         {
-            "url": "/blog/la-construction-du-barrage-de-roselend/",
-            "title": "La construction du barrage de Roselend",
-            "description": "Galerie de photographies anciennes de la construction du barrage de Roselend post roselend"
-        },
-        {
             "url": "/blog/upscayl-models-comparisons-with-old-photos/",
             "title": "Upscayl examples with old photos",
             "description": "Before and after comparisons results of Upscayl AI image upscaler software with old and low resolution photos post upscale"
+        },
+        {
+            "url": "/portfolio/",
+            "title": "Portfolio",
+            "description": "Réalisations web dans le cadre de mon travail "
+        },
+        {
+            "url": "/parcours/",
+            "title": "Olivier Blanc",
+            "description": "Développeur Front-end hybride UI et UX "
+        },
+        {
+            "url": "/blog/la-construction-du-barrage-de-roselend/",
+            "title": "La construction du barrage de Roselend",
+            "description": "Galerie de photographies anciennes de la construction du barrage de Roselend post roselend"
         }
 ]
