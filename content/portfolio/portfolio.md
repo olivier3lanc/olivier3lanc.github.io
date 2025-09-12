@@ -43,7 +43,7 @@ Les intégrations web responsive qui suivent on été réalisées en tenant comp
     <figcaption>Site e-commerce web, plate-forme Hyundai (MOCEAN Rent) de réservation de véhicules. Intégration HTML, CSS basée sur <a href="#bricss">BRiCSS</a>, Vanilla JavaScript.</figcaption>
 </figure>
 
-<a href="https://mocean-rent.hyundai.fr" class="btn btn-primary pe-none opa-5">Bientôt en ligne</a>
+<a href="https://mocean-rent.hyundai.fr" class="btn btn-primary">Site web Hyundai Rent</a>
 
 ### Eleventy LibDoc
 
