@@ -50,6 +50,8 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/roselend-berge-col-du-pre-septembre-1967.png"
     -   text: "Le lac de Roselend en 1967"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/roselend-septembre-1967.png"
+    -   text: "Lac et barrage vus depuis Treicol en 1969"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/lac-et-barrage-septembre-1969.png"
     -   text: "Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - avant"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/maquette-en-bois-barrage-roselend-avant.png"
     -   text: "Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - arrière"
@@ -70,16 +72,31 @@ hommes:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-etayage-galeries.png"
     -   text: "Ouvriers sur le terrassement de la conduite qui mène à La Bathie"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-ouvriers-terrassement-conduite.png"
-hommesAnims:
+animationsCourtes:
     -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-ouvrier-creusement-galerie.avif"
         alt: "Ouvrier en train de creuser une galerie"
-        figcaption: "Sur le chantier, un ouvrier du barrage de Roselend touchait un salaire mensuel équivalent à 6 mois de revenu d’un agriculteur du coin"
+        figcaption: "Animation courte - Sur le chantier, un ouvrier du barrage de Roselend touchait un salaire mensuel équivalent à 6 mois de revenu d’un agriculteur du coin"
     -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-ouvriers-pompage-manivelles.avif"
         alt: "Ouvriers sur le chantier du barrage"
-        figcaption: "60% des travailleurs du barrage de Roselend étaient italiens"
+        figcaption: "Animation courte - 60% des travailleurs du barrage de Roselend étaient italiens"
     -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-creusement-barrage.avif"
         alt: "Ouvriers sur le terrassement qui servira d'assise au barrage"
-        figcaption: "800 ouvriers travaillaient sur le barrage et 2 600 sur l’aménagement"
+        figcaption: "Animation courte - 800 ouvriers travaillaient sur le barrage et 2 600 sur l’aménagement"
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-batiments-ouvriers.avif"
+        alt: "Bâtiments ouvriers"
+        figcaption: "Animation courte - Logements construits par EDF, destinés à loger les ouvriers travaillant sur le chantier du barrage"
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-couple-contemple-travaux.avif"
+        alt: "Couple de personnes contemplant le chantier."
+        figcaption: "Animation courte - Couple de personnes sur les pentes du col du Pré, contemplant le chantier."
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-ouvriers-manivelles.avif"
+        alt: "Ouvriers actionnant des manivelles"
+        figcaption: "Animation courte - Ouvrier actionnant des manivelles sur les immenses coffrages du chantier du barrage"
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-public-belvedere-col-du-pre.avif"
+        alt: "Badauds sur le bélvédère"
+        figcaption: "Animation courte - Badauds contemplant le chantier du barrage depuis le belvédère prévu à cet effet"
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-vue-treicol.avif"
+        alt: "Chantier vu depuis Treicol"
+        figcaption: "Animation courte - Vue du chantier depuis le sentier de Treicol"
 ---
 {% alertAlt 'info', 'Info' %}
 Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](https://web.archive.org/web/20120115174542/http://www.olivewhite.com/blog/les-50-ans-de-roselend-la-bathie/) dépubliée. 
@@ -157,17 +174,7 @@ Simultanément, la centrale souterraine de La Bâthie est construite dans une ca
 
 De grosses quantités de matières premières étaient extraites directement de la montagne juste au dessus du col du Méraillet, entre le col et le barrage exactement. Aujourd’hui la carrière a laissé place à une immense plaine artificielle sur laquelle la nature a repris peu à peu ses droits (on y trouve notamment des marmottes, des renards et des buses variables).
 
-<figure class="wide long-shadow">
-    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-panoramique-film-debut-des-travaux.jpg"
-        alt="Panoramique des premières fondations">
-    <figcaption>
-        Panoramique côté lac des premières fondations réalisé à partir d'images extraites du film
-        <cite>
-            <a href="https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html">
-                Au coeur de la Savoie, Roselend
-            </a>
-        </cite> de Claudine Lenoir
-</figure>
+## Panoramique côté lac des débuts du chantier
 
 <figure class="wide long-shadow">
     <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-panoramique-film-debut-des-travaux-barrage.jpg"
@@ -179,7 +186,10 @@ De grosses quantités de matières premières étaient extraites directement de 
                 Au coeur de la Savoie, Roselend
             </a>
         </cite> de Claudine Lenoir
+    </figcaption>
 </figure>
+
+## Panoramique des travaux de terrassement de la conduite côté La Bathie
 
 <figure class="wide long-shadow">
     <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-panoramique-film-installation-virolles-la-bathie.jpg"
@@ -191,6 +201,82 @@ De grosses quantités de matières premières étaient extraites directement de 
                 Au coeur de la Savoie, Roselend
             </a>
         </cite> de Claudine Lenoir
+    </figcaption>
+</figure>
+
+## Panoramique du chantier côté lac
+
+<figure class="long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-du-lac.jpg"
+        alt="Panoramique de la contruction côté lac">
+    <figcaption>
+        Panoramique du chantier côté lac réalisé à partir d'images extraites du documentaire
+        <cite>
+            <a href="https://www.youtube.com/watch?v=JMLujS19OGw">
+                Un monstre de béton
+            </a>
+        </cite> de RMC Découverte
+    </figcaption>
+</figure>
+
+## Panoramique de la construction de la voûte du barrage de Roselend
+
+<figure class="long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-fondations-voute.jpg"
+        alt="Panoramique construction de la voûte du barrage de Roselend">
+    <figcaption>
+        Panoramique de la construction de la voûte du barrage de Roselend réalisé à partir d'images extraites du documentaire
+        <cite>
+            <a href="https://www.youtube.com/watch?v=JMLujS19OGw">
+                Un monstre de béton
+            </a>
+        </cite> de RMC Découverte
+    </figcaption>
+</figure>
+
+## Panoramique noir et blanc du chantier vu côté lac
+
+<figure class="long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-edf-vue-lac-col-pre.jpg"
+        alt="Panoramique noir et blanc de la contruction côté lac">
+    <figcaption>
+        Panoramique noir et blanc du chantier vu côté lac réalisé à partir d'images extraites du documentaire
+        <cite>
+            <a href="https://www.youtube.com/watch?v=zaz9VfH5-2E">
+                La construction du barrage de Roselend
+            </a>
+        </cite> par EDF
+    </figcaption>
+</figure>
+
+## Panoramique vertical noir et blanc de la construction de la voûte
+
+<figure class="long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-pied-voute-femme-qui-contemple.jpg"
+        alt="Panoramique vertical noir et blanc de la contruction de la voûte">
+    <figcaption>
+        Panoramique vertical noir et blanc de la construction de la voûte avec une personne en premier plan, contemplant le travail, réalisé à partir d'images extraites du documentaire
+        <cite>
+            <a href="https://www.youtube.com/watch?v=zaz9VfH5-2E">
+                La construction du barrage de Roselend
+            </a>
+        </cite> par EDF
+    </figcaption>
+</figure>
+
+## Panoramique vu depuis le lac
+
+<figure class="wide long-shadow">
+    <img src="/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-depuis-lac.jpg"
+        alt="Panoramique de la construction du barrage vu depuis le lac">
+    <figcaption>
+        Panoramique de la construction du barrage vu depuis le lac réalisé à partir d'images extraites du documentaire
+        <cite>
+            <a href="https://www.youtube.com/watch?v=B5Q3NhRUcnY">
+                Après 1945, la construction des barrages EDF participe à la modernisation de la France
+            </a>
+        </cite> par EDF
+    </figcaption>
 </figure>
 
 ## Points techniques
@@ -212,7 +298,7 @@ De grosses quantités de matières premières étaient extraites directement de 
 
 Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde :
 
-{% for item in hommesAnims %}
+{% for item in animationsCourtes %}
 ### {{ item.alt }}
 
 <figure class="long-shadow">
@@ -240,6 +326,25 @@ Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde :
 * 23 août 1949 le conseil municipal vote la vente des 121 hectares communaux de Roselend (d’une valeur de 43 millions de francs de l’époque soit 70 000 euros en équivalent d’aujourd’hui). La commune de Beaufort a également obtenu d’EDF l’électrification des cloches et l’agrandissement du cimetière.
 * Coût des travaux du barrage de Roselend: 50 milliards de francs anciens (soit 70 millions d’euros).
 
+## Vidéo EDF la construction du barrage de Roselend
+
+{{ 'https://www.youtube-nocookie.com/embed/zaz9VfH5-2E'|embed }}
+
+Voir sur [YouTube](https://www.youtube.com/watch?v=zaz9VfH5-2E)
+
+## Vidéo RMC Découverte, un monstre de béton
+
+{{ 'https://www.youtube-nocookie.com/embed/JMLujS19OGw'|embed }}
+
+Voir sur [YouTube](https://www.youtube.com/watch?v=JMLujS19OGw)
+
+## Vidéo Productions de la Lanterne - Michel Garnier, ROSELEND, mémoires d’un barrage
+
+{{ 'https://www.youtube-nocookie.com/embed/ovFknXYPw8g'|embed }}
+
+Voir sur [YouTube](https://www.youtube.com/watch?v=ovFknXYPw8g)
+
+
 ## Sources
 
 Les images de faible définition ont été agrandies à l’aide [d’Upscayl](https://upscayl.org/).
@@ -252,6 +357,10 @@ Les images de faible définition ont été agrandies à l’aide [d’Upscayl](h
 * Musée Savoisien <https://museesavoisien-collections.savoie.fr>
 * Barrage de Roselend – Aménagement hydroélectrique de Roselend La Bâthie [EDF Hydro Alpes](https://www.edf.fr/hydraulique-pays-de-savoie/barrage-de-roselend-amenagement-hydroelectrique-de-roselend-la-bathie)
 * Vidéo [Barrage de Roselend - Centrale de La Bâthie – Présentation de l’aménagement hydroélectrique](https://www.youtube.com/watch?v=Mzgu97CAbcg)
+* Vidéo [EDF la construction du barrage de Roselend](https://www.youtube.com/watch?v=zaz9VfH5-2E)
+* Vidéo [Après 1945, la construction des barrages EDF participe à la modernisation de la France](https://www.youtube.com/watch?v=B5Q3NhRUcnY)
+* Vidéo [RMC Découverte, un monstre de béton](https://www.youtube.com/watch?v=JMLujS19OGw)
+* Vidéo [Productions de la Lanterne - Michel Garnier, ROSELEND, mémoires d un barrage](https://www.youtube.com/watch?v=ovFknXYPw8g)
 * Vidéo [Le Barrage de Roselend](https://www.cimalpes.fr/films-de-montagne-barrage-de-roselend-le-752-214-0-0.html) - documentaire de Henri Antoine 
 * Vidéo [Au coeur de la Savoie, Roselend](https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html) de Claudine Lenoir
 * Document PDF [Aménagement hydroélectrique de Roselend (Savoie) conduite forcée de l'usine de La Bâthie](https://www.shf-lhb.org/articles/lhb/pdf/1960/03/lhb1960020.pdf) par R. Cartier

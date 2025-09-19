@@ -225,11 +225,6 @@
             "description": "Before and after comparisons results of Upscayl AI image upscaler software with old and low resolution photos post upscale"
         },
         {
-            "url": "/portfolio/",
-            "title": "Portfolio",
-            "description": "Réalisations web dans le cadre de mon travail "
-        },
-        {
             "url": "/parcours/",
             "title": "Olivier Blanc",
             "description": "Développeur Front-end hybride UI et UX "
@@ -243,5 +238,10 @@
             "url": "/blog/2025-09-new-frontend-links-september-2025/",
             "title": "Frontend Links September 2025",
             "description": "Newly added links post frontend-links"
+        },
+        {
+            "url": "/portfolio/",
+            "title": "Portfolio",
+            "description": "Réalisations web dans le cadre de mon travail "
         }
 ]
