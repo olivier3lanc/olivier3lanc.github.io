@@ -10,6 +10,7 @@ tags:
     - roselend
 date: 2025-09-04
 photos:
+
     -   text: "Début de la construction du barrage de Roselend, vue côté Roc du Biolley"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-biolley.png"
     -   text: "Vue belvédère côté col du pré de la construction"
@@ -18,7 +19,7 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-belvedere.png"
     -   text: "Vue de la construction du barrage côté lac"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-cote-lac.png"
-    -   text: "Vue de la construction côté lac"
+    -   text: "Vue de la construction côté amont (lac)"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-cote-lac.png"
     -   text: "Vue de la construction côté Méraillet"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-meraillet.png"
@@ -26,16 +27,40 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-ancien-pont-des-tines.png"
     -   text: "Bâtiments des travailleurs du chantier"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-batiments-travailleurs.png"
-    -   text: "Coupure de presse de 1960"
-        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-coupure-presse-1960.png"
     -   text: "Vue de la construction côté lac et ancien pont Duret / Gorge des Tines"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-cote-lac-ancien-pont.png"
-    -   text: "Travaux de terrassement de la conduite forcée qui mène à la centrale de La Bathie"
-        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-travaux-terrassement-conduite.png"
+    
+
+    -   text: "Construction dans des conditions difficile du barrage sous la neige"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-travaux-neige-meraillet.png"
+    -   text: "Tours à béton et tapis roulants transportant les agrégats"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-tours-a-beton-tapis-roulants.jpg"
+    -   text: "Travaux de terrassement du barrage avec la Pierra Menta en arrière-plan"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-terrassement-pierra-menta.jpg"
+    -   text: "Vue globale côté col du pré de la construction du barrage"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-chantier-de-jour.jpg"
         wide: false
+    -   text: "Vue nocture globale côté col du Pré de la construction du barrage"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-chantier-de-nuit.jpg"
+        wide: false
+    -   text: "Autre vue nocture globale côté col du Pré de la construction du barrage"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-nuit-cote-col-pre.jpg"
+        wide: false
+    -   text: "Carrières et installations de concassage et de stockage des agrégats"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-le-beton.jpg"
+        wide: false
+    -   text: "Grues et blondins. Systèmes de distribution du béton."
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-grues-et-blondins.jpg"
+
+    # Pente La Bathie
     -   text: "À l’intérieur d’une galerie souterraine, une conduite collecteur de 3 mètres de diamètre"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-conduite-collecteur-3m.png"
         wide: false
+    -   text: "Travaux de terrassement de la conduite forcée qui mène à la centrale de La Bathie"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-travaux-terrassement-conduite.png"
+        wide: false
+
+    # FIN de construction
     -   text: "Fin de construction avec vaches Tarines en pâturage"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/fin-construction-barrage-de-roselend-vache-paturages.png"
     -   text: "Fin de construction vue côté Roche Parstire et le Roc du Vent en arrière-plan"
@@ -52,13 +77,28 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/roselend-septembre-1967.png"
     -   text: "Lac et barrage vus depuis Treicol en 1969"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/lac-et-barrage-septembre-1969.png"
+    -   text: "Vue aérienne côté amont de la fin de la construction"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-amont.jpg"
+        wide: false
+    
+    # Annexes
     -   text: "Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - avant"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/maquette-en-bois-barrage-roselend-avant.png"
     -   text: "Maquette en bois du barrage de Roselend exposée pour le cinquantenaire de la construction - arrière"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/maquette-en-bois-barrage-roselend-arriere.jpg"
+    -   text: "Schéma des adductions ou l’ensemble des galeries souterraines acheminant l’eau dans le système"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-schema-adductions.jpg"
+    -   text: "Carte de la vue d’ensemble des installations hydrauliques proches de Roselend"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-plan-vue-ensemble.jpg"
+    -   text: "Coupure de presse de 1960"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-coupure-presse-1960.png"
+        wide: false
 hommes:
     -   text: "Ouvriers à l’oeuvre au marteau piqueur"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs.png"
+        wide: false
+    -   text: "Ouvrier en train d’effectuer une vidange d’un blondin"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vidange-blondin.jpg"
         wide: false
     -   text: "Ouvriers à l’oeuvre dans l’étayage des galeries"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-conduite-travailleurs-ouvriers-galerie-conduite.png"
@@ -84,7 +124,7 @@ animationsCourtes:
         figcaption: "Animation courte - 800 ouvriers travaillaient sur le barrage et 2 600 sur l’aménagement"
     -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-batiments-ouvriers.avif"
         alt: "Bâtiments ouvriers"
-        figcaption: "Animation courte - Logements construits par EDF, destinés à loger les ouvriers travaillant sur le chantier du barrage"
+        figcaption: "Animation courte - Logements construits par EDF au col du Méraillet, destinés à loger les ouvriers travaillant sur le chantier du barrage"
     -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-couple-contemple-travaux.avif"
         alt: "Couple de personnes contemplant le chantier."
         figcaption: "Animation courte - Couple de personnes sur les pentes du col du Pré, contemplant le chantier."
@@ -104,27 +144,6 @@ Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](htt
 
 ![Composition abstraite 1961 - 2011 Barrage de Roselend](/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-1961-2011.png)
 
-## Chronologie
-
-1. **1956** <br>Début des travaux
-1. **7 mai 1960** <br>Première mise en eau du barrage de Roselend et démarrage de la centrale de La Bâthie
-1. **16 décembre 1960** <br>Premier kWh produit
-1. **17 mars 1961** <br>Mise en service complète de la centrale de La Bâthie
-1. **Août 1962** <br>Dernier m³ de béton coulé au barrage de Roselend
-
-## Galerie d’images
-
-Sélection de photographies anciennes de la construction du barrage de Roselend.
-
-{% for item in photos %}
-### {{ item.text }}
-
-<figure class="long-shadow {% if item.wide == false %}{% else %}wide{% endif %}">
-    <img src="{{ item.url }}" alt="{{ item.text }}">
-    <figcaption>{{ item.text }}</figcaption>
-</figure>
-{% endfor %}
-
 ## Historique
 
 <img src="/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-chantier-vue-belvedere-col-du-pre.avif"
@@ -132,7 +151,7 @@ alt="Le chantier du barrage vu du belvédère côté col du pré"
 loading="lazy"
 decoding="async"
 eleventy:ignore
-style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em"> Le barrage de Roselend est construit dans la gorge de Tines. Les travaux de construction du barrage de ont nécessité l’engloutissement du village d’alpage dont il tire son nom (Roseland étant lui-même probablement issu du nom d’un ancien propriétaire : Rozelindus, attesté au Xe siècle). 
+style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em"> Conçu par les architectes [André Coyne](https://fr.wikipedia.org/wiki/Andr%C3%A9_Coyne) et [Jean Bellier](https://structurae.net/fr/personnes/jean-bellier)Le barrage de Roselend est construit dans la gorge de Tines. Les travaux ont nécessité l’engloutissement du village d’alpage dont il tire son nom (Roseland étant lui-même probablement issu du nom d’un ancien propriétaire : Rozelindus, attesté au Xe siècle). 
 
 <img src="/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-chantier-barrage-arrivee-beton.avif"
 alt="Arrivée du béton sur le chantier"
@@ -149,7 +168,17 @@ style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em">  Dès 1947, des étu
 
 Simultanément, la centrale souterraine de La Bâthie est construite dans une caverne de très grandes dimensions : 135m de long, 35m de haut et 25m de large. Sa salle des machines est équipée de **6 turbines géantes pour l’époque, qui permettent de délivrer une puissance de 550MW**.
 
+## Chronologie
+
+1. **1956** <br>Début des travaux
+1. **7 mai 1960** <br>Première mise en eau du barrage de Roselend et démarrage de la centrale de La Bâthie
+1. **16 décembre 1960** <br>Premier kWh produit
+1. **17 mars 1961** <br>Mise en service complète de la centrale de La Bâthie
+1. **Août 1962** <br>Dernier m³ de béton coulé au barrage de Roselend
+
 ## Installations du chantier
+
+De grosses quantités de matières premières étaient extraites directement de la montagne juste au dessus du col du Méraillet, entre le col et le barrage exactement. Aujourd’hui la carrière a laissé place à une immense plaine artificielle sur laquelle la nature a repris peu à peu ses droits.
 
 <figure>
     <img src="/sources/blog/la-construction-du-barrage-de-roselend/installation-generale-chantier-roselend.png"
@@ -172,7 +201,36 @@ Simultanément, la centrale souterraine de La Bâthie est construite dans une ca
     </figcaption>
 </figure>
 
-De grosses quantités de matières premières étaient extraites directement de la montagne juste au dessus du col du Méraillet, entre le col et le barrage exactement. Aujourd’hui la carrière a laissé place à une immense plaine artificielle sur laquelle la nature a repris peu à peu ses droits (on y trouve notamment des marmottes, des renards et des buses variables).
+## Vues aériennes 1950-1965 - 2025
+
+<script src="/assets/js/image-compare-viewer.min.js"></script>
+<link rel="stylesheet" href="/assets/css/image-compare-viewer.min.css">
+<figure class="wide" id="avant-apres-vues-aeriennes">
+    <div class="image-compare w-100">
+        <img src="/assets/img/la-construction-du-barrage-de-roselend/vue-aerienne-1950-1965.avif"
+            alt="Vue aérienne ancienne"
+            loading="lazy"
+            eleventy:ignore>
+        <img src="/assets/img/la-construction-du-barrage-de-roselend/vue-aerienne-2025.avif"
+            alt="Vue aérienne récente"
+            loading="lazy"
+            eleventy:ignore>
+    </div>
+    <figcaption>
+        Avant après des vues aériennes réalisées entre 1950-1965 et 2025. Voir sur <a href="https://remonterletemps.ign.fr/comparer/?lon=6.623377&lat=45.687309&z=15.5&layer1=19&layer2=10&mode=split-h">IGN - Remonter le temps</a>
+    </figcaption>
+</figure>
+<script src="/assets/js/image-compare.js"></script>
+<script src="/assets/js/la-construction-du-barrage-de-roselend.js"></script>
+
+{% for item in photos %}
+## {{ item.text }}
+
+<figure class="long-shadow {% if item.wide == false %}{% else %}wide{% endif %}">
+    <img src="{{ item.url }}" alt="{{ item.text }}">
+    <figcaption>{{ item.text }}</figcaption>
+</figure>
+{% endfor %}
 
 ## Panoramique côté lac des débuts du chantier
 
@@ -279,24 +337,14 @@ De grosses quantités de matières premières étaient extraites directement de 
     </figcaption>
 </figure>
 
-## Points techniques
-
-* Avant le barrage de Roselend, il y avait déjà un barrage: Beaucoup plus petit, un barrage-poids de 240 000 m³ fut mis en place par la [SECEMAEU](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d'%C3%A9lectrochimie,_d'%C3%A9lectrom%C3%A9tallurgie_et_des_aci%C3%A9ries_%C3%A9lectriques_d'Ugine). L’eau était turbinée 450 mètres en dessous par l’usine des Fontanus.
-* Début des travaux en 1956.
-* Conception originale qui combine barrage voûte et barrage poids avec contreforts.
-* Chute de 1 200 mètres jusqu'à la centrale de La Bathie.
-* Hauteur 135 mètres.
-* Longueur en crète 804 mètres.
-* Le barrage n’a pas été rempli à sa côte maximale tout de suite après les travaux, mais par palier, pour atteindre finalement sa côte maximale 1457 mètres en 1978.
-* Le barrage de Roselend est le plus gros barrage de France en volume de béton.
-* Le remplissage complet du barrage représente 187 millions de m³.
-* Le remplissage a nécessité la construction de plus de 40 km de galeries souterraines, afin de collecter 28 torrents sur 10 communes différentes.
-* Puissance d’origine 550 MW.
-* L’aménagement hydroélectrique de Roselend La Bâthie produit chaque année l’équivalent de la consommation résidentielle de 400 000 habitants. 
-
 ## Les hommes du chantier
 
-Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde :
+Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde. Les conditions de travail du chantier sont pénibles:
+
+* Éloignement familial pour les ouvriers qui vivent à la cantine du Méraillet.
+* Travail jour et nuit par équipes.
+* Difficultés météo, il faut travailler dans des condition d'altitude difficile avec le gel, la neige, le vent, les fortes chaleurs en été.
+* S'adapter à travailler à des hauteurs dangereuses et s'adapter aux vertiges notamment pour certains coffrages.
 
 {% for item in animationsCourtes %}
 ### {{ item.alt }}
@@ -320,6 +368,24 @@ Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde :
     <figcaption>{{ item.text }}</figcaption>
 </figure>
 {% endfor %}
+
+## Points techniques
+
+* Avant le barrage de Roselend, il y avait déjà un barrage: Beaucoup plus petit, un barrage-poids de 240 000 m³ fut mis en place par la [SECEMAEU](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d'%C3%A9lectrochimie,_d'%C3%A9lectrom%C3%A9tallurgie_et_des_aci%C3%A9ries_%C3%A9lectriques_d'Ugine). L’eau était turbinée 450 mètres en dessous par l’usine des Fontanus.
+* **Début des travaux en 1956**.
+* Conception originale qui **combine barrage voûte et barrage poids avec contreforts**.
+* **Chute de 1 200 mètres** jusqu'à la centrale de La Bathie.
+* Barrage d’une **hauteur de 135 mètres**.
+* En crète, le barrage fait une **longueur de 804 mètres**.
+* Le barrage n’a pas été rempli à sa côte maximale tout de suite après les travaux, mais par palier, pour atteindre finalement sa **côte maximale 1457 mètres en 1978**.
+* Le barrage de Roselend est **le plus gros barrage de France en volume de béton**.
+* Le remplissage complet du barrage représente **187 millions de m³**.
+* Le remplissage a nécessité la construction de plus de **40 km de galeries souterraines**, afin de collecter 28 torrents sur 10 communes différentes.
+* Puissance d’origine **550 MW**.
+* L’aménagement hydroélectrique de Roselend La Bâthie **produit chaque année l’équivalent de la consommation résidentielle de 400 000 habitants**. 
+* La circulation sur la crête du barrage a été autorisée en août 1963.
+* Le bétonnage ne pouvait se faire que de mai à novembre.
+* En volumne de béton, pendant les mois intensifs, **la cadence moyenne était de 2 200 à 2 300 m³ de béton par jour**.
 
 ## Les coûts
 
@@ -365,3 +431,7 @@ Les images de faible définition ont été agrandies à l’aide [d’Upscayl](h
 * Vidéo [Au coeur de la Savoie, Roselend](https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html) de Claudine Lenoir
 * Document PDF [Aménagement hydroélectrique de Roselend (Savoie) conduite forcée de l'usine de La Bâthie](https://www.shf-lhb.org/articles/lhb/pdf/1960/03/lhb1960020.pdf) par R. Cartier
 * Document PDF [La Houille Blanche, N°3 (Mai 1960)](https://www.shf-lhb.org/articles/lhb/abs/1960/05/lhb1960041/lhb1960041.html) [supplément graphique](https://www.shf-lhb.org/articles/lhb/pdf/1960/05/lhb1960041.pdf)
+* [Remonter le temps par IGN](https://remonterletemps.ign.fr/)
+* [Médiathèque d’Arêches](https://www.areches-beaufort.com/equipement/bibliotheque-dareches/)
+* [Médiathèque de Beaufort](https://www.areches-beaufort.com/equipement/mediatheque-de-beaufort/)
+* Magazine bi-mensuel "bibliothèque de travail" numéro 593 du 1er novembre 1964 "Le Barrage de Roselend"

@@ -491,6 +491,7 @@ const libdocUi = {
                         br-0="xs,sm">`;
             libdocUi.el.ftocHeadings = [];
             libdocUi.el.tocMainOl.querySelectorAll('a').forEach(function(el) {
+                console.log(el.getAttribute(`href`))
                 const   headingReference = el.getAttribute(`href`),
                         elHeading = libdocUi.el.main.querySelector(headingReference);
                 libdocUi.el.ftocHeadings.push(elHeading);

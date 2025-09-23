@@ -62,6 +62,13 @@ photos:
 Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](https://web.archive.org/web/20120115174542/http://www.olivewhite.com/blog/les-50-ans-de-roselend-la-bathie/) dépubliée. 
 {% endalertAlt %}
 
+<figure class="long-shadow">
+    <img    src="/assets/img/ancien-village-de-roselend/animation-courte-village-et-2-habitants.avif"
+            alt="Animation courte village et habitants"
+            eleventy:ignore>
+    <figcaption>Animation courte du coeur du village de Roselend avec quelques habitant et sa chapelle en arrière-plan</figcaption>
+</figure>
+
 ## Galerie
 
 Sélection de photographies de l’ancien village de Roselend.
@@ -98,3 +105,4 @@ Les images de faible définition ont été agrandies à l’aide [d’Upscayl](h
 * Archives de la Haute-Savoie <https://archives.hautesavoie.fr/>
 * Archives départementales de la Savoie <https://recherche-archives.savoie.fr/>
 * Musée Savoisien <https://museesavoisien-collections.savoie.fr>
+* Vidéo [Productions de la Lanterne - Michel Garnier, ROSELEND, mémoires d un barrage](https://www.youtube.com/watch?v=ovFknXYPw8g)
