@@ -31,7 +31,7 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-cote-lac-ancien-pont.png"
     
 
-    -   text: "Construction dans des conditions difficile du barrage sous la neige"
+    -   text: "Construction dans des conditions difficiles du barrage sous la neige"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-travaux-neige-meraillet.png"
     -   text: "Tours à béton et tapis roulants transportant les agrégats"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-tours-a-beton-tapis-roulants.jpg"
