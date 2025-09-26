@@ -13,21 +13,29 @@ photos:
 
     -   text: "Début de la construction du barrage de Roselend, vue côté Roc du Biolley"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-biolley.png"
+    -   text: "Tunnel construit dans les années 1950 qui permettait d’éviter le passage par la gorge. Photo de août 1959."
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-tunnel-construit-annees-50.png"
+    -   text: "Blondins ainsi que deux tours octogonales en bas et la carrière en arrière-plan"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-2-tours-octogonales-et-carriere-arriere-plan.png"
+        wide: false
+    -   text: "Vue belvédère côté col du pré des débuts du chantier"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-belvedere.png"
     -   text: "Vue belvédère côté col du pré de la construction"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-belvedere-2.png"
-    -   text: "Vue belvédère côté col du pré de la construction"
-        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-belvedere.png"
+    -   text: "Vue du belvédère côté col du Pré, les tests de vidange et la mise en eau du barrage en mai 1960"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-tests-vidange-1960.png"
+        wide: false
     -   text: "Vue de la construction du barrage côté lac"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-cote-lac.png"
     -   text: "Vue de la construction côté amont (lac)"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-cote-lac.png"
     -   text: "Vue de la construction côté Méraillet"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-meraillet.png"
-    -   text: "Ancien pont Duret / Gorge des Tines"
+    -   text: "Ancien pont Du Rey (ou Duret) / Gorge des Tines"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-ancien-pont-des-tines.png"
-    -   text: "Bâtiments des travailleurs du chantier"
+    -   text: "Bâtiments des travailleurs du chantier situés au col du Méraillet"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-batiments-travailleurs.png"
-    -   text: "Vue de la construction côté lac et ancien pont Duret / Gorge des Tines"
+    -   text: "Vue de la construction côté lac et ancien pont du Rey (ou Duret) / Gorge des Tines"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-cote-lac-ancien-pont.png"
     
 
@@ -61,6 +69,14 @@ photos:
         wide: false
 
     # FIN de construction
+    -   text: "Derniers mètres cubes de béton coulés en octobre 1962"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-derniers-metres-cubes-beton-octobre-1962.png"
+    -   text: "Mise en eau mai 1960 vue du côté col du Pré"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-col-du-pre-mai-1960.png"
+    -   text: "Vue depuis la chapelle Sainte Marie-Madeleine fin 1960"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-chapelle-fin-1960.png"
+    -   text: "Vue aérienne côté aval de la fin de la construction"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-aval-fin-construction.png"
     -   text: "Fin de construction avec vaches Tarines en pâturage"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/fin-construction-barrage-de-roselend-vache-paturages.png"
     -   text: "Fin de construction vue côté Roche Parstire et le Roc du Vent en arrière-plan"
@@ -167,14 +183,6 @@ eleventy:ignore
 style="float:left; width:40%; margin: 0em 1.5em 0.5em 0em">  Dès 1947, des études sont engagées pour trouver une solution qui permettrait de créer, dans la cuvette de Roselend, une immense réserve d’eau, et de profiter de la chute de 1200 m obtenue par la différence d’altitude avec la vallée de la Tarentaise. Après plusieurs années d’études et de reconnaissances, **la construction de Roselend démarre véritablement en 1956**. Sa conception, très originale, combine un barrage voûte, pour barrer la gorge, et un barrage poids avec contreforts, pour le prolonger sur l’éperon rocheux du Méraillet.
 
 Simultanément, la centrale souterraine de La Bâthie est construite dans une caverne de très grandes dimensions : 135m de long, 35m de haut et 25m de large. Sa salle des machines est équipée de **6 turbines géantes pour l’époque, qui permettent de délivrer une puissance de 550MW**.
-
-## Chronologie
-
-1. **1956** <br>Début des travaux
-1. **7 mai 1960** <br>Première mise en eau du barrage de Roselend et démarrage de la centrale de La Bâthie
-1. **16 décembre 1960** <br>Premier kWh produit
-1. **17 mars 1961** <br>Mise en service complète de la centrale de La Bâthie
-1. **Août 1962** <br>Dernier m³ de béton coulé au barrage de Roselend
 
 ## Installations du chantier
 
@@ -322,6 +330,26 @@ De grosses quantités de matières premières étaient extraites directement de 
     </figcaption>
 </figure>
 
+## Animation courte panoramique vue depuis le lac
+
+<figure class="long-shadow">
+    <img src="/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-construction-courte-panoramique-gorges-tines.avif"
+        alt="Panoramique de la construction du barrage vue depuis le lac"
+        width="750"
+        width="576"
+        loading="lazy"
+        decoding="async"
+        eleventy:ignore>
+    <figcaption>
+        Animation courte des débuts du chantier issu de la vidéo
+        <cite>
+            <a href="https://www.youtube.com/watch?v=ovFknXYPw8g">
+                Roselend, mémoires d’un barrage
+            </a>
+        </cite> par Michel Garnier
+    </figcaption>
+</figure>
+
 ## Panoramique vu depuis le lac
 
 <figure class="wide long-shadow">
@@ -386,11 +414,42 @@ Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde. Les co
 * La circulation sur la crête du barrage a été autorisée en août 1963.
 * Le bétonnage ne pouvait se faire que de mai à novembre.
 * En volumne de béton, pendant les mois intensifs, **la cadence moyenne était de 2 200 à 2 300 m³ de béton par jour**.
+* **Le creusement du tunnel de 13,5 km reliant Roselend à La Bathie fut célébré le 11 décembre 1958**
+
+## Brèves
+
+* Au col du Méraillet, on construit un ensemble de bâtiments destiné à héberger 450 ouvriers, projet cédé plus tard à l’Éducation Nationale pour l’installation de classes de Nature.
+* 1956 - 1957
+    * Jour et nuit, un millier d’ouvriers travaillent dans des conditions rudes, parfois jusque -30°C.
+    * Le chantier est fermé du 15 décembre au 15 janvier, période durant laquelle les ouvriers retrouvent leurs familles.
+    * Durant cette période, deux italiens se portent volontaires pour rester seuls au Méraillet pour surveiller le chantier.
+* Le béton créé à partir des agrégats extraits sur place est un béton particulier qui résiste au gel et qui dispose même de son propre nom : **Roselend 303**
+* La carrière produit 3 agrégats différents
+    * Les pré-concassés
+    * Les cailloux et graviers
+    * Le sable stocké dans des silos
+* La mise en place du béton se fait au moyen de deux **Blondins** qui tirent leur nom du funambule *Jean-François Blondin* qui au XIX<sup>ème</sup> siècle, traversa les chutes du Niagara sur un fil.
+* Ultimatum fin août 1959, les habitants ont jusqu’au 15 octobre 1959 pour entreprendre la démolition de leurs habitations, date au-delà de laquelle ils ne seront plus propriétaires de leurs biens.
+* Mai 1960 - pendant que la Savoie célèbre le centième anniversaire de son rattachement à la France, l’eau commence à s’écouler dans les galeries. **Le 7 mai 1960, c’est la mise en eau**.
+* Octobre 1962 - On coule les derniers mètres cubes de béton dans le barrage.
+* Fin octobre 1960 - Le niveau d’eau efface peu à peu à tout jamais l’ancienne vallée de Roselend.
 
 ## Les coûts
 
 * 23 août 1949 le conseil municipal vote la vente des 121 hectares communaux de Roselend (d’une valeur de 43 millions de francs de l’époque soit 70 000 euros en équivalent d’aujourd’hui). La commune de Beaufort a également obtenu d’EDF l’électrification des cloches et l’agrandissement du cimetière.
 * Coût des travaux du barrage de Roselend: 50 milliards de francs anciens (soit 70 millions d’euros).
+
+## Vidéo témoignage de Brice Wong
+
+<figure>
+    <video src="/assets/videos/la-construction-du-barrage-de-roselend/temoignage-brice-wong-ingenieur-edf.mp4"
+        controls
+        width="748"
+        height="526"
+        preload="auto"
+        class="brad-2 o-hidden"></video>
+    <figcaption>Témoignage de <em>Brice Wong, ancien ingénieur EDF</em></figcaption>
+</figure>
 
 ## Vidéo EDF la construction du barrage de Roselend
 
@@ -426,12 +485,13 @@ Les images de faible définition ont été agrandies à l’aide [d’Upscayl](h
 * Vidéo [EDF la construction du barrage de Roselend](https://www.youtube.com/watch?v=zaz9VfH5-2E)
 * Vidéo [Après 1945, la construction des barrages EDF participe à la modernisation de la France](https://www.youtube.com/watch?v=B5Q3NhRUcnY)
 * Vidéo [RMC Découverte, un monstre de béton](https://www.youtube.com/watch?v=JMLujS19OGw)
-* Vidéo [Productions de la Lanterne - Michel Garnier, ROSELEND, mémoires d un barrage](https://www.youtube.com/watch?v=ovFknXYPw8g)
 * Vidéo [Le Barrage de Roselend](https://www.cimalpes.fr/films-de-montagne-barrage-de-roselend-le-752-214-0-0.html) - documentaire de Henri Antoine 
 * Vidéo [Au coeur de la Savoie, Roselend](https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html) de Claudine Lenoir
+* Vidéo [Roselend, mémoires d’un barrage](https://www.youtube.com/watch?v=ovFknXYPw8g) par Michel Garnier, Productions de la Lanterne.
 * Document PDF [Aménagement hydroélectrique de Roselend (Savoie) conduite forcée de l'usine de La Bâthie](https://www.shf-lhb.org/articles/lhb/pdf/1960/03/lhb1960020.pdf) par R. Cartier
 * Document PDF [La Houille Blanche, N°3 (Mai 1960)](https://www.shf-lhb.org/articles/lhb/abs/1960/05/lhb1960041/lhb1960041.html) [supplément graphique](https://www.shf-lhb.org/articles/lhb/pdf/1960/05/lhb1960041.pdf)
 * [Remonter le temps par IGN](https://remonterletemps.ign.fr/)
 * [Médiathèque d’Arêches](https://www.areches-beaufort.com/equipement/bibliotheque-dareches/)
 * [Médiathèque de Beaufort](https://www.areches-beaufort.com/equipement/mediatheque-de-beaufort/)
 * Magazine bi-mensuel "bibliothèque de travail" numéro 593 du 1er novembre 1964 "Le Barrage de Roselend"
+* Livre [Quand les sources chantaient dans la vallée des Rhododendrons](https://librairiespeleo.com/produit_details.php?id=6050) de Claudette Martin-Heitzmann
