@@ -184,7 +184,7 @@ Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](htt
 
 > Sur l’étroite route en lacets qui depuis Beaufort monte à l'assaut de Roselend, les bulldozers s'époumonent, disputant au rocher la largeur d’un virage. Leurs râles prolongés couvrent le chant des torrents et le touriste dedaignant la poésie des petites sources qui bredouilent observe plus volontiers la marche audacieuse de ces engins lancés contre les flancs abrupts de la montagne. Il a tort le touriste, car ces torrents tumultueux, ces cascades écumantes qui dégringolent entre les sapins s’effaceront bientôt du paysage. Ils vivent aujourd’hui leurs derniers instants de liberté.
 > 
-> <small>Article de Albert Eysseric dans le "Dauphiné Libéré" en 1955
+> <small>Article de Albert Eysseric dans le "Dauphiné Libéré" en 1955</small>
 
 ## Vidéo témoignage de Claudette Martin-Heitzmann
 
