@@ -82,53 +82,39 @@ photos:
 
 animationsCourtes:
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-berger-enfant-troupeau.avif"
-        alt: "Animation courte berger enfant et troupeau"
+        alt: "Animation courte d’un berger, d’un enfant et du troupeau"
         figcaption: "Animation courte de la vie pastorale dans l’ancien vallon de Roselend avec un berger, un enfant et leur troupeau."
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-chalet-torrent-village.avif"
-        alt: "Animation courte chalet torrent le Doron"
+        alt: "Animation courte d’un chalet au bord du torrent le Doron"
         figcaption: "Animation courte d’un chalet du village de Roselend près du torrent le Doron"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-enfant-paturages-chevres-vaches.avif"
-        alt: "Animation courte enfant chèvre vache"
+        alt: "Animation courte d’un enfant avec une chèvre des vaches"
         figcaption: "Animation courte d’un berger, d’un enfant et de leur troupeau dans la vallée de Roselend"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-panneau-roselend.avif"
-        alt: "Animation courte panneau Roselend"
+        alt: "Animation courte du panneau de signalisation Roselend"
         figcaption: "Animation courte du panneau de signalisation “Roselend”"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-panoramique-ensemble-village-2.avif"
-        alt: "Animation courte panoramique village"
+        alt: "Animation courte d’un panoramique du village"
         figcaption: "Animation courte vue panoramique de l’ensemble de l’ancien village de Roselend"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-panoramique-ensemble-village.avif"
-        alt: "Animation courte village"
+        alt: "Animation courte du village dans son ensemble côté cormet"
         figcaption: "Animation courte vue panoramique de l’ensemble de l’ancien village de Roselend"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-panoramique-village.avif"
-        alt: "Animation courte panoramique village"
-        figcaption: "Animation courte d’un panoramique de l’ancien village de Roselend"
+        alt: "Animation courte au coeur du village"
+        figcaption: "Animation courte d’un panoramique au coeur de l’ancien village de Roselend"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-vue-ensemble-village-roselend.avif"
-        alt: "Animation courte panoramique village"
+        alt: "Animation courte du village dans son ensemble côté Treicol"
         figcaption: "Animation courte d’un panoramique de l’ancien village de Roselend"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-vaches-tarines-roc-du-vent.avif"
-        alt: "Animation courte vaches tarines roc du vent"
+        alt: "Animation courte d’un troupeau"
         figcaption: "Animation courte d’un troupeau de vaches Tarines au pâturage avec le Roc du Vent en arrière-plan"
     -   url: "/assets/img/ancien-village-de-roselend/animation-courte-village-et-2-habitants.avif"
-        alt: "Animation courte village et habitants"
+        alt: "Animation courte du village et quelques habitants"
         figcaption: "Animation courte du coeur du village de Roselend avec quelques habitant et sa chapelle en arrière-plan"
 ---
 {% alertAlt 'info', 'Info' %}
 Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](https://web.archive.org/web/20120115174542/http://www.olivewhite.com/blog/les-50-ans-de-roselend-la-bathie/) dépubliée. 
 {% endalertAlt %}
-
-{% for item in animationsCourtes %}
-## {{ item.alt }}
-
-<figure class="long-shadow">
-    <img src="{{ item.url }}"
-        alt="{{ item.alt }}"
-        loading="lazy"
-        decoding="async"
-        class="w-100"
-        eleventy:ignore>
-    <figcaption>{{ item.figcaption }}</figcaption>
-</figure>
-{% endfor %}
 
 {% for item in photos %}
 ## {{ item.text }}
@@ -194,9 +180,24 @@ Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](htt
         width="748"
         height="526"
         preload="auto"
-        class="brad-2 o-hidden"></video>
+        class="brad-2 o-hidden"
+        poster="/assets/videos/ancien-village-de-roselend/temoignage-claudette-martin-heitzmann.jpg"></video>
     <figcaption>Témoignage de la vie d’enfant de <em>Claudette Martin-Heitzmann</em> dans la vallée de Roselend avant et pendant la construction du barrage, auteure du livre “Quand les sources chantaient dans la vallée des Rhododendrons”</figcaption>
 </figure>
+
+{% for item in animationsCourtes %}
+## {{ item.alt }}
+
+<figure class="">
+    <img src="{{ item.url }}"
+        alt="{{ item.alt }}"
+        loading="lazy"
+        decoding="async"
+        class="w-100"
+        eleventy:ignore>
+    <figcaption>{{ item.figcaption }}</figcaption>
+</figure>
+{% endfor %}
 
 ## Sources
 

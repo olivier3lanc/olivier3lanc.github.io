@@ -447,7 +447,8 @@ Pour creuser plus de 40 km de galeries souterraines, il a fallu du monde. Les co
         width="748"
         height="526"
         preload="auto"
-        class="brad-2 o-hidden"></video>
+        class="brad-2 o-hidden"
+        poster="/assets/videos/la-construction-du-barrage-de-roselend/temoignage-brice-wong-ingenieur-edf.jpg"></video>
     <figcaption>Témoignage de <em>Brice Wong, ancien ingénieur EDF</em></figcaption>
 </figure>
 

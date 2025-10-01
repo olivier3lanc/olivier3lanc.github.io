@@ -43,6 +43,8 @@ export default {
         //             .replace(/\s+/g, '-') // replace spaces with hyphens
         //             .replace(/-+/g, '-'); // remove consecutive hyphens
         // return str;
+
+        // https://jasonwatmore.com/vanilla-js-slugify-a-string-in-javascript
         // make lower case and trim
         let slug = str.toLowerCase().trim();
 
