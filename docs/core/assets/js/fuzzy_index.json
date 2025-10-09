@@ -243,5 +243,10 @@
             "url": "/portfolio/",
             "title": "Portfolio",
             "description": "Réalisations web dans le cadre de mon travail "
+        },
+        {
+            "url": "/blog/2025-10-new-frontend-links-october-2025/",
+            "title": "Frontend Links October 2025",
+            "description": "Newly added links: web tools, JavaScript, articles and fun post frontend-links"
         }
 ]

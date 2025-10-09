@@ -4,11 +4,50 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2025-09-12T00:00:00Z</updated>
+    <updated>2025-10-03T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links October 2025</title>
+            <link href="https://olivier3lanc.github.io/blog/2025-10-new-frontend-links-october-2025/" />
+            <updated>2025-10-03T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/2025-10-new-frontend-links-october-2025/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**October%202025.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links October 2025&quot;&gt;
+                &lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tooooools.app/&quot;&gt;Tooooools&lt;/a&gt; Tooooools (exactly 6 o&#39;s), free minimalist and lo-fi effects for image and video processing online.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://crawlercheck.com/&quot;&gt;CrawlerCheck&lt;/a&gt; Instantly check if Google bots and AI crawlers can access your website.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pictiler.com/&quot;&gt;PicTiler&lt;/a&gt; Transform Your Photos Into Mosaics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Vanilagy/mediabunny&quot;&gt;MediaBunny&lt;/a&gt; Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mifi/lossless-cut&quot;&gt;Lossless Cut&lt;/a&gt; The swiss army knife of lossless video/audio editing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://asciiflow.com/&quot;&gt;ASCII Flow&lt;/a&gt; Infinite ASCII diagrams, save to Google Drive, resize, freeform draw, and export straight to text/html.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/stanko/dual-range-input&quot;&gt;Dual Range Input&lt;/a&gt; Native dual range input in 60 lines of JavaScript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/andreruffert/range-slider-element&quot;&gt;Range Slider Element&lt;/a&gt; 🎚 A cross browser customizable and accessible &lt;code&gt;&amp;lt;range-slider&amp;gt;&lt;/code&gt; web component&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://codeberg.org/chrisn/peaks.js&quot;&gt;Peak.js&lt;/a&gt; JavaScript UI component for interacting with audio waveforms&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/shikijs/shiki&quot;&gt;Shiki.js&lt;/a&gt; A beautiful yet powerful syntax highlighter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://muffinman.io/blog/scrubbing-videos-using-javascript/&quot;&gt;Scrubbing videos using JavaScript&lt;/a&gt; JavaScript part is actually pretty easy, it is more about preparing the video file correctly.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.joshwcomeau.com/javascript/promises/&quot;&gt;Promises From The Ground Up&lt;/a&gt; Great article to learn JavaScript Promises&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fun&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://messenger.abeto.co/&quot;&gt;Messenger&lt;/a&gt; It&#39;s a small planet, but someone&#39;s gotta make the deliveries.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://michaelbach.de/ot/&quot;&gt;Visual Phenomena &amp;amp; Optical Illusions&lt;/a&gt; 152 Visual Phenomena &amp;amp; Optical Illusions with explanations by Michael Bach. Optical illusions don’t “trick the eye”, nor “fool the brain”, nor reveal that “our brain sucks”, … but are fascinating!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links September 2025</title>
             <link href="https://olivier3lanc.github.io/blog/2025-09-new-frontend-links-september-2025/" />
@@ -1200,6 +1239,16 @@ Upscaled file
 &lt;p&gt;Cette page est une réédition de ma page &lt;a href=&quot;https://web.archive.org/web/20120115174542/http://www.olivewhite.com/blog/les-50-ans-de-roselend-la-bathie/&quot;&gt;les 50 ans de Roselend la Bathie&lt;/a&gt; dépubliée.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/aside&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Vallée de Roselend et le Roc du Vent vers 1885. Debout à gauche, Bruno Chabrier de Lafongt&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/vallee-de-roselend-beaufortain-et-le-roc-du-vent-vers-1885-k_-P_s-gdp-__730__.avif 730w, https://olivier3lanc.github.io/img/vallee-de-roselend-beaufortain-et-le-roc-du-vent-vers-1885-k_-P_s-gdp-__1400__.avif 1400w, https://olivier3lanc.github.io/img/vallee-de-roselend-beaufortain-et-le-roc-du-vent-vers-1885-k_-P_s-gdp-__2268__.avif 2268w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/vallee-de-roselend-beaufortain-et-le-roc-du-vent-vers-1885-k_-P_s-gdp-__730__.webp&quot; alt=&quot;Vallée de Roselend et le Roc du Vent vers 1885. Debout à gauche, Bruno Chabrier de Lafongt&quot; width=&quot;2268&quot; height=&quot;1668&quot; srcset=&quot;https://olivier3lanc.github.io/img/vallee-de-roselend-beaufortain-et-le-roc-du-vent-vers-1885-k_-P_s-gdp-__730__.webp 730w, https://olivier3lanc.github.io/img/vallee-de-roselend-beaufortain-et-le-roc-du-vent-vers-1885-k_-P_s-gdp-__1400__.webp 1400w, https://olivier3lanc.github.io/img/vallee-de-roselend-beaufortain-et-le-roc-du-vent-vers-1885-k_-P_s-gdp-__2268__.webp 2268w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vallée de Roselend et le Roc du Vent vers 1885. Debout à gauche, Bruno Chabrier de Lafongt&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Habitants prenant la pose dans l’ancien village de Roselend et sa chapelle vers 1885&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-beaufortain-le-roc-du-vent-l-ancien-village-de-roselend-et-sa-chapelle-vers-1885-YpeOV5Yuet-__730__.avif 730w, https://olivier3lanc.github.io/img/roselend-beaufortain-le-roc-du-vent-l-ancien-village-de-roselend-et-sa-chapelle-vers-1885-YpeOV5Yuet-__1400__.avif 1400w, https://olivier3lanc.github.io/img/roselend-beaufortain-le-roc-du-vent-l-ancien-village-de-roselend-et-sa-chapelle-vers-1885-YpeOV5Yuet-__2163__.avif 2163w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/roselend-beaufortain-le-roc-du-vent-l-ancien-village-de-roselend-et-sa-chapelle-vers-1885-YpeOV5Yuet-__730__.webp&quot; alt=&quot;Habitants prenant la pose dans l’ancien village de Roselend et sa chapelle vers 1885&quot; width=&quot;2163&quot; height=&quot;1551&quot; srcset=&quot;https://olivier3lanc.github.io/img/roselend-beaufortain-le-roc-du-vent-l-ancien-village-de-roselend-et-sa-chapelle-vers-1885-YpeOV5Yuet-__730__.webp 730w, https://olivier3lanc.github.io/img/roselend-beaufortain-le-roc-du-vent-l-ancien-village-de-roselend-et-sa-chapelle-vers-1885-YpeOV5Yuet-__1400__.webp 1400w, https://olivier3lanc.github.io/img/roselend-beaufortain-le-roc-du-vent-l-ancien-village-de-roselend-et-sa-chapelle-vers-1885-YpeOV5Yuet-__2163__.webp 2163w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Habitants prenant la pose dans l’ancien village de Roselend et sa chapelle vers 1885&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;h2&gt;Roselend et le Rocher du Vent 1901-1904&lt;/h2&gt;
 &lt;figure class=&quot;long-shadow wide&quot;&gt;
     &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__730__.webp&quot; alt=&quot;Roselend et le Rocher du Vent 1901-1904&quot; width=&quot;2800&quot; height=&quot;2062&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-roc-du-vent-2-HbbgBIp9bi-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
@@ -1458,6 +1507,7 @@ Mais je ne suis pas seul. L&#39;Hôtel du Mont-Blanc, le restaurant La Manon et 
 &lt;li&gt;Livre &lt;a href=&quot;https://librairiespeleo.com/produit_details.php?id=6050&quot;&gt;Quand les sources chantaient dans la vallée des Rhododendrons&lt;/a&gt; de Claudette Martin-Heitzmann.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.areches-beaufort.com/equipement/bibliotheque-dareches/&quot;&gt;Médiathèque d’Arêches&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.areches-beaufort.com/equipement/mediatheque-de-beaufort/&quot;&gt;Médiathèque de Beaufort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://saint.memoire.free.fr/Chabrier/&quot;&gt;Fonds photographique de Franceline Chabrier de Lafongt&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         </entry>

@@ -10,7 +10,10 @@ tags:
     - roselend
 date: 2025-09-01
 photos:
-
+    -   text: "Vallée de Roselend et le Roc du Vent vers 1885. Debout à gauche, Bruno Chabrier de Lafongt"
+        url: "/sources/blog/ancien-village-de-roselend/Vallée de Roselend (Beaufortain) et le Roc du Vent vers 1885. Debout à gauche, Bruno Chabrier de Lafongt (et caniche blanc).jpg"
+    -   text: "Habitants prenant la pose dans l’ancien village de Roselend et sa chapelle vers 1885"
+        url: "/sources/blog/ancien-village-de-roselend/Roselend (Beaufortain) - Le Roc du Vent, l'ancien village de Roselend et sa chapelle vers 1885.jpg"
     -   text: "Roselend et le Rocher du Vent 1901-1904"
         url: "/sources/blog/ancien-village-de-roselend/ancien-village-de-roselend-roc-du-vent-2.jpeg"
     -   text: "La vallée de Roselend en 1917"
@@ -212,3 +215,4 @@ Les images de faible définition ont été agrandies à l’aide [d’Upscayl](h
 * Livre [Quand les sources chantaient dans la vallée des Rhododendrons](https://librairiespeleo.com/produit_details.php?id=6050) de Claudette Martin-Heitzmann.
 * [Médiathèque d’Arêches](https://www.areches-beaufort.com/equipement/bibliotheque-dareches/)
 * [Médiathèque de Beaufort](https://www.areches-beaufort.com/equipement/mediatheque-de-beaufort/)
+* [Fonds photographique de Franceline Chabrier de Lafongt](http://saint.memoire.free.fr/Chabrier/)
