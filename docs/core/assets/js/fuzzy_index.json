@@ -150,11 +150,6 @@
             "description": "Images créatives et compositions avec effets réalisés dans Photoshop "
         },
         {
-            "url": "/",
-            "title": "Olivier 3lanc",
-            "description": "Développeur front-end hybride UI et UX "
-        },
-        {
             "url": "/photographies/paysages/elements/",
             "title": "Les Éléments",
             "description": "Gros plans extérieurs sur la végétation, l’eau, etc "
@@ -248,5 +243,15 @@
             "url": "/blog/2025-10-new-frontend-links-october-2025/",
             "title": "Frontend Links October 2025",
             "description": "Newly added links: web tools, JavaScript, articles and fun post frontend-links"
+        },
+        {
+            "url": "/",
+            "title": "Olivier 3lanc",
+            "description": "Développeur front-end hybride UI et UX "
+        },
+        {
+            "url": "/blog/2025-11-new-frontend-links-november-2025/",
+            "title": "Frontend Links November 2025",
+            "description": "Newly added links with tools and article post frontend-links"
         }
 ]

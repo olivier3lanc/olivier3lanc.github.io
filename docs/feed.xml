@@ -4,11 +4,45 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2025-10-03T00:00:00Z</updated>
+    <updated>2025-11-15T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links November 2025</title>
+            <link href="https://olivier3lanc.github.io/blog/2025-11-new-frontend-links-november-2025/" />
+            <updated>2025-11-15T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/2025-11-new-frontend-links-november-2025/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**November%202025.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links November 2025&quot;&gt;
+                &lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://harmonizer.evilmartians.com&quot;&gt;Harmonizer&lt;/a&gt; OKLCH Color palette generator for UI&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://doodad.dev/dither-me-this/&quot;&gt;Dither Me This&lt;/a&gt; Use this tool to reduce the file size of an image… but in a stylish old-school way. It uses dithering to reduce the colors in an image, and places dots to emulate the missing shades. Dithering is used to display images on screens with limited colors palettes — it has the modern advantage of making web pages load faster. Upload an image and click the preset buttons to see what it can do.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ogimage.click/&quot;&gt;Free OG Image Generator&lt;/a&gt; Create beautiful OG Images, Twitter/X Header Images, Blog Featured Images &amp;amp; more for free, in simple clicks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.embedpdf.com/&quot;&gt;Embed PDF files without the pain&lt;/a&gt; A lightweight, customizable PDF viewer that works seamlessly with any JavaScript project. No dependencies, no hassle.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://makegraph.app/&quot;&gt;Make Graph&lt;/a&gt; Create Beautiful Charts and Graphs Online. Transform your data into stunning visualizations with our free, powerful chart maker. No downloads, no sign-ups—just beautiful charts in seconds.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lucide.dev/icons/&quot;&gt;Lucide Icons&lt;/a&gt; Beautiful &amp;amp; consistent icon toolkit made by the community.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://icons.obra.studio/&quot;&gt;Obra Icons&lt;/a&gt; A simple, consistent set of icons, perfect for user interfaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://formatjsononline.com/&quot;&gt;Complete Toolkit for JSON &amp;amp; Data Processing&lt;/a&gt; Professional JSON platform with 40+ free tools. Format, validate, convert to CSV/XML/PDF. Features AI-powered error fixing, API testing, and code generation. ✓ No signup required&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/toorshia/justgage&quot;&gt;JustGage&lt;/a&gt; ustGage is a handy JavaScript plugin for generating and animating nice &amp;amp; clean dashboard gauges. It is based on Raphaël library for vector drawing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.delopsu.com/draw&quot;&gt;ASCII Drawing Board&lt;/a&gt; Set a brush (almost any unicode character), canvas size and export art as a text file.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://oklch.fyi/&quot;&gt;Explore color as we see it&lt;/a&gt; Discover how the OKLCH color model works. Learn, experiment and create more consistent and perceptually uniform color palettes.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://raw.githack.com/&quot;&gt;raw.githack.com&lt;/a&gt; CDN for your source code A decade proven way to serve files from source code hostings with proper Content-Type headers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/shajidhasan/spoilerjs&quot;&gt;spoilerjs&lt;/a&gt; A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kagi.com/&quot;&gt;Kagi&lt;/a&gt; Liberate your search. Free of ads. Free of surveillance. Free of noise. With Kagi, you are the customer, not the product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://frontendmasters.com/blog/modern-css-round-out-tabs/&quot;&gt;Modern CSS Round-Out Tabs &lt;/a&gt; Chris Coyier: &lt;q&gt;Quite a while back I made a set of “round out” tabs, where the literal tab part of the UI would connect to the content below with a rounded edge that flared out as it connected. A bit tricky of a situation, even now! That old school solution used four additional elements per tab. Two to place a square on the bottom edges of the tab, and then larger circles to hide everything but the flared part.&lt;/q&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links October 2025</title>
             <link href="https://olivier3lanc.github.io/blog/2025-10-new-frontend-links-october-2025/" />
