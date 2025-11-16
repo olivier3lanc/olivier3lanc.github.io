@@ -226,7 +226,7 @@ Création de librairies JavaScript pour les usages les plus courants.
 </figure>
 
 <a href="https://github.com/ita-design-system/c-toggle.js" class="btn">GitHub</a>
-<a href="https://ita-design-system.github.io/c-toggle.js/" class="btn btn-primary">Site web</a>
+<a href="https://c-togglejs.netlify.app/" class="btn btn-primary">Site web</a>
 
 ### c-tabs.js
 
@@ -237,7 +237,7 @@ Création de librairies JavaScript pour les usages les plus courants.
 </figure>
 
 <a href="https://github.com/ita-design-system/c-tabs.js" class="btn">GitHub</a>
-<a href="https://ita-design-system.github.io/c-tabs.js/" class="btn btn-primary">Site web</a>
+<a href="https://c-tabsjs.netlify.app/" class="btn btn-primary">Site web</a>
 
 ### c-preview.js
 
@@ -248,7 +248,7 @@ Création de librairies JavaScript pour les usages les plus courants.
 </figure>
 
 <a href="https://github.com/ita-design-system/c-preview.js" class="btn">GitHub</a>
-<a href="https://ita-design-system.github.io/c-preview.js/" class="btn btn-primary">Site web</a>
+<a href="https://c-previewjs.netlify.app/" class="btn btn-primary">Site web</a>
 
 ### c-scrollsyncbar.js
 
@@ -259,7 +259,7 @@ Création de librairies JavaScript pour les usages les plus courants.
 </figure>
 
 <a href="https://github.com/ita-design-system/c-scrollsyncbar.js" class="btn">GitHub</a>
-<a href="https://ita-design-system.github.io/c-scrollsyncbar.js/" class="btn btn-primary">Site web</a>
+<a href="https://c-scrollsyncbarjs.netlify.app/" class="btn btn-primary">Site web</a>
 
 ### c-scrollspy.js
 
@@ -270,7 +270,7 @@ Création de librairies JavaScript pour les usages les plus courants.
 </figure>
 
 <a href="https://github.com/ita-design-system/c-scrollspy.js" class="btn">GitHub</a>
-<a href="https://ita-design-system.github.io/c-scrollspy.js/" class="btn btn-primary">Site web</a>
+<a href="https://c-scrollspyjs.netlify.app/" class="btn btn-primary">Site web</a>
 
 ## UI et UX
 
