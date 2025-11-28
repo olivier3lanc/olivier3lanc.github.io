@@ -18,7 +18,7 @@ date: git Last Modified
 </figure>
 
 <a href="https://github.com/olivier3lanc/Scroll-Btween" class="btn">GitHub</a>
-<a href="https://olivier3lanc.github.io/Scroll-Btween/" class="btn btn-primary">Site web</a>
+<a href="https://olivier3lanc.me/Scroll-Btween/" class="btn btn-primary">Site web</a>
 
 ## Scroll Frames
 
@@ -29,4 +29,4 @@ date: git Last Modified
 </figure>
 
 <a href="https://github.com/olivier3lanc/Scroll-Frames" class="btn">GitHub</a>
-<a href="https://olivier3lanc.github.io/Scroll-Frames/" class="btn btn-primary">Site web</a>
+<a href="https://olivier3lanc.me/Scroll-Frames/" class="btn btn-primary">Site web</a>

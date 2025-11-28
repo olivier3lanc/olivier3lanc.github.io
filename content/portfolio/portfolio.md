@@ -153,7 +153,7 @@ Autres pages :
     <figcaption>Générateur de documentation avec bac à sable JavaScript et recherche intégrée. Réalisation complète Ruby, Liquid, design et intégration HTML, CSS et JavaScript.</figcaption>
 </figure>
 
-<a href="https://olivier3lanc.github.io/Jekyll-LibDoc/" class="btn btn-primary">Site web Jekyll LibDoc</a>
+<a href="https://olivier3lanc.me/Jekyll-LibDoc/" class="btn btn-primary">Site web Jekyll LibDoc</a>
 
 
 ### Sidr
@@ -164,7 +164,7 @@ Autres pages :
     <figcaption>Template portfolio pour Kolor Panotour 2.0.</figcaption>
 </figure>
 
-<a href="https://olivier3lanc.github.io/folio-sidr/" class="btn btn-primary">Démo</a>
+<a href="https://olivier3lanc.me/folio-sidr/" class="btn btn-primary">Démo</a>
 
 ### Bubbles
 
@@ -174,7 +174,7 @@ Autres pages :
     <figcaption>Template pour Kolor Panotour 2.0.</figcaption>
 </figure>
 
-<a href="https://olivier3lanc.github.io/folio-bubbles/" class="btn btn-primary">Démo</a>
+<a href="https://olivier3lanc.me/folio-bubbles/" class="btn btn-primary">Démo</a>
 
 ### GoPro VR
 
@@ -184,22 +184,22 @@ Autres pages :
     <figcaption>Page d’accueil du site web officiel GoPro <abbr title="Virtual Reality">VR</abbr>. Intégration HTML, CSS et JavaScript.</figcaption>
 </figure>
 
-<a href="https://olivier3lanc.github.io/folio-gopro-vr" class="btn btn-primary">Démo</a>
+<a href="https://olivier3lanc.me/folio-gopro-vr" class="btn btn-primary">Démo</a>
 
 Autres pages:
 
-* [Create](https://olivier3lanc.github.io/folio-gopro-vr/create.html)
-* [Browse content](https://olivier3lanc.github.io/folio-gopro-vr/browse.html)
-* [Categories](https://olivier3lanc.github.io/folio-gopro-vr/category.html)
-* [Log in](https://olivier3lanc.github.io/folio-gopro-vr/log-in.html)
-* [Create account](https://olivier3lanc.github.io/folio-gopro-vr/create-account.html)
-* [FAQ](https://olivier3lanc.github.io/folio-gopro-vr/faq.html)
-* [Upload step 1](https://olivier3lanc.github.io/folio-gopro-vr/upload.html)
-* [Upload step 2](https://olivier3lanc.github.io/folio-gopro-vr/upload-step-2.html)
-* [Upload success](https://olivier3lanc.github.io/folio-gopro-vr/upload-success.html)
-* [Deprecated style guide](https://olivier3lanc.github.io/folio-gopro-vr/style-guide.html)
-* [404](https://olivier3lanc.github.io/folio-gopro-vr/404.html)
-* [Error](https://olivier3lanc.github.io/folio-gopro-vr/error.html)
+* [Create](https://olivier3lanc.me/folio-gopro-vr/create.html)
+* [Browse content](https://olivier3lanc.me/folio-gopro-vr/browse.html)
+* [Categories](https://olivier3lanc.me/folio-gopro-vr/category.html)
+* [Log in](https://olivier3lanc.me/folio-gopro-vr/log-in.html)
+* [Create account](https://olivier3lanc.me/folio-gopro-vr/create-account.html)
+* [FAQ](https://olivier3lanc.me/folio-gopro-vr/faq.html)
+* [Upload step 1](https://olivier3lanc.me/folio-gopro-vr/upload.html)
+* [Upload step 2](https://olivier3lanc.me/folio-gopro-vr/upload-step-2.html)
+* [Upload success](https://olivier3lanc.me/folio-gopro-vr/upload-success.html)
+* [Deprecated style guide](https://olivier3lanc.me/folio-gopro-vr/style-guide.html)
+* [404](https://olivier3lanc.me/folio-gopro-vr/404.html)
+* [Error](https://olivier3lanc.me/folio-gopro-vr/error.html)
 
 ### Paris 26 Gigapixels v2.0
 
@@ -209,7 +209,7 @@ Autres pages:
     <figcaption>Initiative GoPro non déployée. Intégration HTML, CSS et JavaScript.</figcaption>
 </figure>
 
-<a href="https://olivier3lanc.github.io/p26g-interface/" class="btn btn-primary">Démo</a>
+<a href="https://olivier3lanc.me/p26g-interface/" class="btn btn-primary">Démo</a>
 
 <sub>Crédits photo [Arnaud Frich](https://www.arnaudfrichphoto.com/paris-26-gigapixels.htm), propulsé par [ForgeJS](https://github.com/gopro/forgejs).</sub>
 

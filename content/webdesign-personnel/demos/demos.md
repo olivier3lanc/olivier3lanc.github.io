@@ -27,7 +27,7 @@ date: git Last Modified
     <figcaption>Démo La Casa de Papel réalisée à partir des cinématiques présentes dans le générique des épisodes.</figcaption>
 </figure>
 
-<a href="https://olivier3lanc.github.io/folio-casa-de-papel/" class="btn btn-primary">Démarrer</a>
+<a href="https://olivier3lanc.me/folio-casa-de-papel/" class="btn btn-primary">Démarrer</a>
 
 ## D A R K
 
@@ -37,4 +37,4 @@ date: git Last Modified
     <figcaption>Démo de la série D A R K réalisée à partir des cinématiques présentes dans le générique des épisodes.</figcaption>
 </figure>
 
-<a href="https://olivier3lanc.github.io/folio-dark/" class="btn btn-primary">Démarrer</a>
+<a href="https://olivier3lanc.me/folio-dark/" class="btn btn-primary">Démarrer</a>

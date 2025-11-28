@@ -235,11 +235,6 @@
             "description": "Newly added links post frontend-links"
         },
         {
-            "url": "/portfolio/",
-            "title": "Portfolio",
-            "description": "Réalisations web dans le cadre de mon travail "
-        },
-        {
             "url": "/blog/2025-10-new-frontend-links-october-2025/",
             "title": "Frontend Links October 2025",
             "description": "Newly added links: web tools, JavaScript, articles and fun post frontend-links"
@@ -253,5 +248,10 @@
             "url": "/blog/2025-11-new-frontend-links-november-2025/",
             "title": "Frontend Links November 2025",
             "description": "Newly added links with tools and article post frontend-links"
+        },
+        {
+            "url": "/portfolio/",
+            "title": "Portfolio",
+            "description": "Réalisations web dans le cadre de mon travail "
         }
 ]
