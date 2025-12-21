@@ -4,11 +4,44 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2025-11-15T00:00:00Z</updated>
+    <updated>2025-12-21T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links December 2025</title>
+            <link href="https://olivier3lanc.github.io/blog/2025-12-new-frontend-links-december-2025/" />
+            <updated>2025-12-21T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/2025-12-new-frontend-links-december-2025/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%21**December%202025.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links December 2025&quot;&gt;
+                &lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://vispero.com/resources/accessible-names-and-labels-understanding-what-works-and-what-doesnt/&quot;&gt;Accessible Names and Labels: Understanding What Works and What Doesn’t&lt;/a&gt; This article explores how to correctly define and associate labels and accessible names for UI elements to ensure that all users, including those relying on assistive technologies, can understand the purpose of each control.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://olliewilliams.xyz/blog/guide-to-html-number-input/&quot;&gt;A complete guide to the HTML number input&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/zachleat/browser-window&quot;&gt;browser-window&lt;/a&gt; Used in demos as a way to fake a Safari-esque web browser window.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://colorpalette.pro&quot;&gt;Color Palette Pro - A Synthesizer for Color Palettes&lt;/a&gt; Generate customizable color palettes in advanced color spaces that can be easily shared, downloaded, or exported.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://grid-paper.daverupert.com/&quot;&gt;Printable Grid Paper&lt;/a&gt; I made this because every time I searched for a printout of graph paper I only get weird low-res JPGs with URLs making it ugly. Or I could buy a pallet of graph papaer on Amazon. Then you gotta know how many inches or centimeters it needs to be and I dunno, I&#39;m not a scientist. So I made this app with a few options you can play with.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.projectwallace.com/&quot;&gt;Project Wallace - The best CSS analyzer out there.&lt;/a&gt; Project Wallace is a set of CSS analyzers that check your complexity, specificity, performance, Design Tokens and much more. And all of that in a single web app.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/tholman/cursor-effects&quot;&gt;Cursor Effects&lt;/a&gt; Old-school cursor effects for your browser built with modern JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/pengzhanbo/caniuse-embed&quot;&gt;Canisuse Embed&lt;/a&gt; Embed the CanIUse compatibility table in your site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fun&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://vole.wtf/&quot;&gt;VOLE.wtf 🐹⁉️ working towards a dafter internet&lt;/a&gt; The home of Styscraper, DayBrix, Dog Poo Golf, Penga, Kick the Ball Back, Crisp Sandwich Day and oodles more.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://explorables.scienceetonnante.com/&quot;&gt;Interactive Scientific Simulations&lt;/a&gt; Interactive scientific explorations - Physics, biology simulations and more&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://harrisonbroadbent.com/blog/cool-native-html-elements/&quot;&gt;Cool native HTML elements you should already be using&lt;/a&gt; Learn how to use native HTML to implement features like modals &amp;amp; accordions, image captions, grouped lists and more.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links November 2025</title>
             <link href="https://olivier3lanc.github.io/blog/2025-11-new-frontend-links-november-2025/" />
