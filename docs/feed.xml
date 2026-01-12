@@ -4,11 +4,36 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2025-12-21T00:00:00Z</updated>
+    <updated>2026-01-11T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Albertville le 11 janvier 2026</title>
+            <link href="https://olivier3lanc.github.io/blog/albertville/" />
+            <updated>2026-01-11T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/albertville/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__1400__.webp&quot; alt=&quot;Albertville le 11 janvier 2026&quot;&gt;
+                &lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__730__.avif 730w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__1400__.avif 1400w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__730__.webp&quot; alt=&quot;Panoramique noir et blanc Albertville le 11 janvier 2026&quot; width=&quot;2800&quot; height=&quot;1106&quot; srcset=&quot;https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__730__.webp 730w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__1400__.webp 1400w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Albertville - Massif des Bauges enneigé - Noir et blanc
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&quot;wide long-shadow&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-oJm6WRr1pF-__730__.avif 730w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-oJm6WRr1pF-__1400__.avif 1400w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-oJm6WRr1pF-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-oJm6WRr1pF-__730__.webp&quot; alt=&quot;Panoramique couleurs Albertville le 11 janvier 2026&quot; width=&quot;2800&quot; height=&quot;1106&quot; srcset=&quot;https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-oJm6WRr1pF-__730__.webp 730w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-oJm6WRr1pF-__1400__.webp 1400w, https://olivier3lanc.github.io/img/2026-01-11-panoramique-albertville-oJm6WRr1pF-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;
+        Albertville - Massif des Bauges enneigé - Couleurs
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links December 2025</title>
             <link href="https://olivier3lanc.github.io/blog/2025-12-new-frontend-links-december-2025/" />
