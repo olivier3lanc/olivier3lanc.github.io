@@ -4,11 +4,51 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2026-01-11T00:00:00Z</updated>
+    <updated>2026-01-23T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links January 2026</title>
+            <link href="https://olivier3lanc.github.io/blog/2026-01-new-frontend-links-january-2026/" />
+            <updated>2026-01-23T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/2026-01-new-frontend-links-january-2026/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%21**January%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links January 2026&quot;&gt;
+                &lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jgthms/picknplace.js/&quot;&gt;picknplace.js&lt;/a&gt; A proof of concept of a viable drag and drop alternative&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/github/relative-time-element&quot;&gt;relative-time-element&lt;/a&gt; Web component extensions to the standard &lt;code&gt;&amp;lt;time&amp;gt;&lt;/code&gt; element.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/argyleink/css-color-component&quot;&gt;css-color-component&lt;/a&gt; a modern color picker for the web with support for all spaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/floating-ui/floating-ui&quot;&gt;floating-ui&lt;/a&gt; A JavaScript library to position floating elements and create interactions for them.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/muxinc/media-chrome&quot;&gt;media-chrome&lt;/a&gt; Custom elements (web components) for making audio and video player controls that look great in your website or app.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://regex-vis.com/&quot;&gt;Regex Vis&lt;/a&gt; Regex visualizer &amp;amp; editor, make the regular expression easier.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://icon-sets.iconify.design/&quot;&gt;Iconify Design&lt;/a&gt; All popular icon sets, one framework. All popular icon sets, one framework.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/anvaka/city-roads&quot;&gt;city-roads&lt;/a&gt; Visualization of all roads within any city.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wikipedia25.org/en/&quot;&gt;25 years of Wikipedia&lt;/a&gt; From dial-up days to now, travel through Wikipedia&#39;s history. Today, Wikipedia is the backbone of knowledge on the internet—but everything has to start somewhere. For Wikipedia, that was a blank website and a dream.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://almanac.httparchive.org/en/2025/&quot;&gt;Web Almanac 2025&lt;/a&gt; HTTP Archive’s annual state of the web report&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cssauthor.com/best-data-visualization-libraries-for-web/&quot;&gt;20 Best Data Visualization Libraries for Web in 2025&lt;/a&gt; How to pick between lightweight and powerful libraries without analysis paralysis. Which library handles your data size (hint: not all of them). Real performance benchmarks that matter.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs&quot;&gt;How to Favicon in 2026&lt;/a&gt; &lt;em&gt;Three files that fit most needs&lt;/em&gt;. It’s time to rethink how we cook a set of favicons for modern browsers and stop the icon generator madness. Frontend developers currently have to deal with 20+ static PNG files just to display a tiny website logo in a browser tab or on a touchscreen. Read on to see how to take a smarter approach and adopt a minimal set of icons that fits most modern needs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://evilmartians.com/chronicles/how-to-detect-safari-and-ios-versions-with-ease&quot;&gt;How to detect Safari and iOS versions with ease in 2026&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;p&gt;Incredible 🤩🤩&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;widget widget-embed&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/mfv0V1SxbNA?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; loading=&quot;lazy&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/aside&gt;&lt;p&gt;&lt;/p&gt;
+</content>
+        </entry>
         <entry>
             <title>Albertville le 11 janvier 2026</title>
             <link href="https://olivier3lanc.github.io/blog/albertville/" />
