@@ -30,9 +30,9 @@ data:
     -   url: "/sources/blog/albertville/20260111_091631_PANO_BW.jpg"
         title: "2026-01-11 Le massif des Bauges enneigé noir et blanc"
         class: "wide long-shadow"
-    -   url: "/sources/blog/albertville/20251214_113309.jpg"
-        title: "2025-12-14 Mer de nuages sur la Combe de Savoie"
-        class: "wide long-shadow"
+    # -   url: "/sources/blog/albertville/20251214_113309.jpg"
+    #     title: "2025-12-14 Mer de nuages sur la Combe de Savoie"
+    #     class: "wide long-shadow"
     -   url: "/sources/blog/albertville/20251208_170731.jpg"
         title: "2025-12-08 Coucher de soleil sur la Combe de Savoie"
         class: "wide long-shadow"
@@ -78,6 +78,11 @@ data:
     -   url: "/sources/blog/albertville/20251108_092956.jpg"
         title: "2025-11-08 Lune sur les versants de la Belle Étoile"
         class: "wide long-shadow"
+
+    -   url: "/assets/videos/albertville-depuis-la-fenetre/20250921_hirondelles.mp4"
+        title: "2025-09-21 Ballet d’hirondelles"
+        class: "long-shadow"
+
     -   url: "/sources/blog/albertville/20250915_201121.jpg"
         title: "2025-09-15 Soirée nuageuse sur les Bauges"
         class: "wide long-shadow"
@@ -150,6 +155,11 @@ data:
     -   url: "/sources/blog/albertville/20230102_080405.jpg"
         title: "2023-01-02 Lever de soleil sur la Tarentaise 1"
         class: "wide long-shadow"
+
+    -   url: "/assets/videos/albertville-depuis-la-fenetre/20221001_ballet_hirondelles.mp4"
+        title: "2022-10-01 Ballet d’hirondelles"
+        class: "long-shadow"
+
     -   url: "/sources/blog/albertville/20220915_080533.jpg"
         title: "2022-09-15 Lever de soleil sur la Belle Étoile"
         class: "wide long-shadow"
@@ -446,21 +456,29 @@ data:
     -   url: "/sources/blog/albertville/20170115_121800.jpg"
         title: "2017-01-15 Panoramique hivernal sur la Tarentaise"
         class: "wide long-shadow"
+    -   url: "https://www.youtube-nocookie.com/embed/ftSmLcRF5Z4?controls=0"
+        title: "2015-08-15 Timelapse de nuages sur Albertville et le massif des Bauges en été"
+        class: ""
+    -   url: "https://www.youtube-nocookie.com/embed/zuYEY5-vsl4?controls=0"
+        title: "2015-07-22 Timelapse d’une formation d’orage au dessus de Conflans"
+        class: ""
 ---
-<!-- https://media.githubusercontent.com/media/olivier3lanc/cinematics-resources/master/20250921_hirondelles.mp4 -->
-<video src="/assets/videos/albertville-depuis-la-fenetre/20221001_ballet_hirondelles.mp4"
-    poster="/assets/videos/albertville-depuis-la-fenetre/20221001_ballet_hirondelles.jpg" controls></video>
-<video src="/assets/videos/albertville-depuis-la-fenetre/20250921_hirondelles.mp4"
-    poster="/assets/videos/albertville-depuis-la-fenetre/20250921_hirondelles.jpg" controls></video>
-
 {% for item in data %}
     <h2>{{ item.title|default: item.url }}</h2>
-
-    <figure class="{{ item.class|default: '' }}">
-        <img    src="{{ item.url }}"
-                alt="{{ item.title|default: item.url }}">
-        <figcaption>
-            {{ item.title|default: item.url }}
-        </figcaption>
-    </figure>
+    {% if item.url contains 'https://www.youtube' %}
+        {{ item.url | embed }}
+    {% else %}
+        <figure class="{{ item.class|default: '' }}">
+            {% if item.url contains '/assets/videos/' %}
+                <video  src="{{ item.url }}"
+                        poster="{{ item.url|replace: '.mp4', '.jpg' }}" controls></video>
+            {% else %}
+                <img    src="{{ item.url }}"
+                        alt="{{ item.title|default: item.url }}">
+            {% endif %}
+            <figcaption>
+                {{ item.title|default: item.url }}
+            </figcaption>
+        </figure>
+    {% endif %}
 {% endfor %}
