@@ -260,13 +260,13 @@
             "description": "Newly added links with tools, articles and fun post frontend-links"
         },
         {
-            "url": "/blog/albertville/",
-            "title": "Albertville le 11 janvier 2026",
-            "description": "Panoramiques couleur et noir et blanc post albertville neige noir-et-blanc"
-        },
-        {
             "url": "/blog/2026-01-new-frontend-links-january-2026/",
             "title": "Frontend Links January 2026",
             "description": "Newly added links with JavaScript, tools, articles and video post frontend-links"
+        },
+        {
+            "url": "/blog/albertville-depuis-la-fenetre/",
+            "title": "Albertville depuis la fenêtre",
+            "description": "Photographies réalisées depuis un dixième étage à Albertville post albertville"
         }
 ]
