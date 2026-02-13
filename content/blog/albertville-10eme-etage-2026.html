@@ -1,0 +1,52 @@
+---
+title: Albertville 10ème étage - 2026
+description: Photographies réalisées depuis un dixième étage à Albertville durant l’année 2026
+layout: libdoc_page.liquid
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
+ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/2026-01-11-panoramique-albertville-noir-et-blanc-EMGra1Kjhi-__1400__.webp"
+tags:
+    - post
+    - albertville-10eme-etage
+date: 2026-02-13
+data:
+    -   url: "/sources/blog/albertville/20260203_084055_PANO.jpg"
+        title: "2026-02-03 Arc-en-ciel sur les Bauges"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20260203_084055_PANO_BW.jpg"
+        title: "2026-02-03 Arc-en-ciel sur les Bauges noir et blanc"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20260203_080714_PANO.jpg"
+        title: "2026-02-03 Coucher de soleil sur les Bauges"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20260127_075322.jpg"
+        title: "2026-01-27 Lever de soleil sur la Tarentaise"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20260121_080353_PANO.jpg"
+        title: "2026-01-21 Lever de soleil sur la Tarentaise"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20260111_091631_PANO.jpg"
+        title: "2026-01-11 Le massif des Bauges enneigé"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20260111_091631_PANO_BW.jpg"
+        title: "2026-01-11 Le massif des Bauges enneigé noir et blanc"
+        class: "wide long-shadow"
+---
+{% for item in data %}
+    <h2>{{ item.title|default: item.url }}</h2>
+    {% if item.url contains 'https://www.youtube' %}
+        {{ item.url | embed }}
+    {% else %}
+        <figure class="{{ item.class|default: '' }}">
+            {% if item.url contains '/assets/videos/' %}
+                <video  src="{{ item.url }}"
+                        poster="{{ item.url|replace: '.mp4', '.jpg' }}" controls></video>
+            {% else %}
+                <img    src="{{ item.url }}"
+                        alt="{{ item.title|default: item.url }}">
+            {% endif %}
+            <figcaption>
+                {{ item.title|default: item.url }}
+            </figcaption>
+        </figure>
+    {% endif %}
+{% endfor %}
