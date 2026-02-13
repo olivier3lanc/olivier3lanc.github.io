@@ -1,0 +1,42 @@
+---
+title: Albertville 10ème étage - 2015
+description: Vidéos réalisées depuis un dixième étage à Albertville durant l’année 2015
+layout: libdoc_page.liquid
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
+ogImageUrl: "https://cdn.jsdelivr.net/gh/olivier3lanc/cinematics-resources@master/albertville-10e-etage-2015.webp"
+tags:
+    - post
+    - albertville-10eme-etage
+date: 2015-12-31
+data:
+    -   url: "https://www.youtube-nocookie.com/embed/ftSmLcRF5Z4?controls=1"
+        title: "2015-08-15 Timelapse de nuages sur Albertville et le massif des Bauges en été"
+        class: ""
+    -   url: "https://www.youtube-nocookie.com/embed/zuYEY5-vsl4?controls=1"
+        title: "2015-07-22 Timelapse d’une formation d’orage au dessus de Conflans"
+        class: ""
+---
+{% for item in data %}
+    <h2>{{ item.title|default: item.url }}</h2>
+    {% if item.url contains 'https://www.youtube' %}
+        {{ item.url | embed }}
+    {% else %}
+        <figure class="{{ item.class|default: '' }}">
+            {% if item.url contains '/assets/videos/' %}
+                <video  src="{{ item.url }}"
+                        poster="{{ item.url|replace: '.mp4', '.jpg' }}" controls></video>
+            {% else %}
+                <img    src="{{ item.url }}"
+                        alt="{{ item.title|default: item.url }}">
+            {% endif %}
+            <figcaption>
+                {{ item.title|default: item.url }}
+            </figcaption>
+        </figure>
+    {% endif %}
+{% endfor %}
+
+<nav class="d-flex jc-space-between | mt-10">
+    <a href="/content/blog/albertville-10eme-etage-2014.html" class="btn"><span class="icon-caret-left"></span> 2014</a>
+    <a href="/content/blog/albertville-10eme-etage-2017.html" class="btn">2017 <span class="icon-caret-right"></span></a>
+</nav>

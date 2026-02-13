@@ -1,0 +1,108 @@
+---
+title: Albertville 10ème étage - 2025
+description: Photographies réalisées depuis un dixième étage à Albertville durant l’année 2025
+layout: libdoc_page.liquid
+permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
+ogImageUrl: "https://cdn.jsdelivr.net/gh/olivier3lanc/cinematics-resources@master/albertville-10e-etage-2025.avif"
+tags:
+    - post
+    - albertville-10eme-etage
+date: 2025-12-31
+data:
+    -   url: "/sources/blog/albertville/20251208_170731.jpg"
+        title: "2025-12-08 Coucher de soleil sur la Combe de Savoie"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251122_163100.jpg"
+        title: "2025-11-22 Coucher de soleil sur Conflans noir et blanc"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251122_162355.jpg"
+        title: "2025-11-22 Coucher de soleil sur Conflans"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251120_130913-2.jpg"
+        title: "2025-11-20 Lever de soleil sur Conflans noir et blanc"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251120_122327.jpg"
+        title: "2025-11-20 Lever de soleil sur les versants enneigés de Conflans"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251116_165501.jpg"
+        title: "2025-11-16 Coucher de soleil sur la Combe de Savoie 3"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251116_164850.jpg"
+        title: "2025-11-16 Coucher de soleil sur la Combe de Savoie 2"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251116_164712.jpg"
+        title: "2025-11-16 Coucher de soleil sur la Combe de Savoie 1"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251115_155115.jpg"
+        title: "2025-11-15 Coucher de soleil sur la Combe de Savoie"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251110_171744_PANO.jpg"
+        title: "2025-11-10 Coucher de soleil sur les Bauges 2"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251110_171601.jpg"
+        title: "2025-11-10 Nuages"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251110_171520_PANO.jpg"
+        title: "2025-11-10 Coucher de soleil sur les Bauges 1"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251110_171328.jpg"
+        title: "2025-11-10 Coucher de soleil sur la Tarentaise"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251110_170852.jpg"
+        title: "2025-11-10 Coucher de soleil sur la Combe de Savoie"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20251108_092956.jpg"
+        title: "2025-11-08 Lune sur les versants de la Belle Étoile"
+        class: "wide long-shadow"
+    -   url: "/assets/videos/albertville-depuis-la-fenetre/20250921_hirondelles.mp4"
+        title: "2025-09-21 Ballet d’hirondelles"
+        class: "long-shadow"
+    -   url: "/sources/blog/albertville/20250915_201121.jpg"
+        title: "2025-09-15 Soirée nuageuse sur les Bauges"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20250901_IMG_0045.jpg"
+        title: "2025-09-01 La Combe de Savoie pendant l’orage"
+        class: "long-shadow"
+    -   url: "/sources/blog/albertville/20250829_094349_edit_3285547636998.jpg"
+        title: "2025-08-29 Le massif des Bauges caché derrière les nuages noir et blanc"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20250726_091556_edit_107694465087.jpg"
+        title: "2025-07-26 Matinée sur le massif Bauges"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20250716_083633_edit_1843179613260.jpg"
+        title: "2025-07-16 Matinée sur le massif Bauges"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20250716_083525_edit_1958629323659.jpg"
+        title: "2025-07-16 Nuages"
+        class: "long-shadow"
+    -   url: "/sources/blog/albertville/20250418_071553_edit_836938172787.jpg"
+        title: "2025-04-18 Lever de soleil sur les Bauges enneigés"
+        class: "wide long-shadow"
+    -   url: "/sources/blog/albertville/20250404_071243_edit_762581547278.jpg"
+        title: "2025-04-04 Coucher de soleil sur les Bauges"
+        class: "wide long-shadow"
+---
+{% for item in data %}
+    <h2>{{ item.title|default: item.url }}</h2>
+    {% if item.url contains 'https://www.youtube' %}
+        {{ item.url | embed }}
+    {% else %}
+        <figure class="{{ item.class|default: '' }}">
+            {% if item.url contains '/assets/videos/' %}
+                <video  src="{{ item.url }}"
+                        poster="{{ item.url|replace: '.mp4', '.jpg' }}" controls></video>
+            {% else %}
+                <img    src="{{ item.url }}"
+                        alt="{{ item.title|default: item.url }}">
+            {% endif %}
+            <figcaption>
+                {{ item.title|default: item.url }}
+            </figcaption>
+        </figure>
+    {% endif %}
+{% endfor %}
+
+<nav class="d-flex jc-space-between | mt-10">
+    <a href="/content/blog/albertville-10eme-etage-2024.html" class="btn"><span class="icon-caret-left"></span> 2024</a>
+    <a href="/content/blog/albertville-10eme-etage-2026.html" class="btn">2026 <span class="icon-caret-right"></span></a>
+</nav>

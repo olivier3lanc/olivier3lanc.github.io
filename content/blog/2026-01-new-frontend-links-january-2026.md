@@ -3,7 +3,7 @@ title: "Frontend Links January 2026"
 description: "Newly added links with JavaScript, tools, articles and video"
 layout: libdoc_page.liquid
 permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
-ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links%21**January%202026.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px"
+ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links%20**January%202026.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px"
 tags:
     - post
     - frontend-links
