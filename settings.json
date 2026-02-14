@@ -29,5 +29,8 @@
     "htmlBasePathPrefix": "",
     "imgBgColorLightMode": "black",
     "imgBgColorDarkMode": "black",
-    "productionUrl": "https://olivier3lanc.github.io"
+    "productionUrl": "https://olivier3lanc.github.io",
+    "ogImageUrlForEachTag": {
+        "albertville-10eme-etage": "https://cdn.jsdelivr.net/gh/olivier3lanc/cinematics-resources@master/ogimage-albertville-10e-etage.avif"
+    }
 }
