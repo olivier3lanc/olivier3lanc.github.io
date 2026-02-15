@@ -54,9 +54,13 @@ data:
     -   url: "/sources/blog/albertville/20251108_092956.jpg"
         title: "2025-11-08 Lune sur les versants de la Belle Étoile"
         class: "wide long-shadow"
-    -   url: "/assets/videos/albertville-depuis-la-fenetre/20250921_hirondelles.mp4"
+    -   url: "https://res.cloudinary.com/doufg1wen/video/upload/v1771183431/20250921_hirondelles_abhgtn.mp4"
+        poster: "/assets/videos/albertville-depuis-la-fenetre/20250921_hirondelles.jpg"
         title: "2025-09-21 Ballet d’hirondelles"
-        class: "long-shadow"
+        class: ""
+    # -   url: "https://www.youtube-nocookie.com/embed/DFdOpOeoxO8?controls=0"
+    #     title: "2025-09-21 Ballet d’hirondelles"
+    #     class: "long-shadow"
     -   url: "/sources/blog/albertville/20250915_201121.jpg"
         title: "2025-09-15 Soirée nuageuse sur les Bauges"
         class: "wide long-shadow"
@@ -88,9 +92,9 @@ data:
         {{ item.url | embed }}
     {% else %}
         <figure class="{{ item.class|default: '' }}">
-            {% if item.url contains '/assets/videos/' %}
+            {% if item.url contains 'https://' %}
                 <video  src="{{ item.url }}"
-                        poster="{{ item.url|replace: '.mp4', '.jpg' }}" controls></video>
+                        poster="{{ item.poster }}" controls></video>
             {% else %}
                 <img    src="{{ item.url }}"
                         alt="{{ item.title|default: item.url }}">

@@ -9,7 +9,8 @@ tags:
     - albertville-10eme-etage
 date: 2022-12-31
 data:
-    -   url: "/assets/videos/albertville-depuis-la-fenetre/20221001_ballet_hirondelles.mp4"
+    -   url: "https://res.cloudinary.com/doufg1wen/video/upload/v1771182527/20221001_ballet_hirondelles_znj3hd.mp4"
+        poster: "/assets/videos/albertville-depuis-la-fenetre/20221001_ballet_hirondelles.jpg"
         title: "2022-10-01 Ballet d’hirondelles"
         class: "long-shadow"
     -   url: "/sources/blog/albertville/20220915_080533.jpg"
@@ -37,9 +38,9 @@ data:
         {{ item.url | embed }}
     {% else %}
         <figure class="{{ item.class|default: '' }}">
-            {% if item.url contains '/assets/videos/' %}
+            {% if item.url contains 'https://' %}
                 <video  src="{{ item.url }}"
-                        poster="{{ item.url|replace: '.mp4', '.jpg' }}" controls></video>
+                        poster="{{ item.poster }}" controls></video>
             {% else %}
                 <img    src="{{ item.url }}"
                         alt="{{ item.title|default: item.url }}">
