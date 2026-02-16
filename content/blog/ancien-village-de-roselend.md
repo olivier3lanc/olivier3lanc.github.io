@@ -178,7 +178,7 @@ Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](htt
 ## Vidéo témoignage de Claudette Martin-Heitzmann
 
 <figure>
-    <video src="/assets/videos/ancien-village-de-roselend/temoignage-claudette-martin-heitzmann.mp4"
+    <video src="https://res.cloudinary.com/doufg1wen/video/upload/v1771230251/temoignage-claudette-martin-heitzmann_ho0mbm.mp4"
         controls
         width="748"
         height="526"

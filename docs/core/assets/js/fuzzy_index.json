@@ -275,11 +275,6 @@
             "description": "Newly added links: web tools, JavaScript, articles and fun post frontend-links"
         },
         {
-            "url": "/",
-            "title": "Olivier 3lanc",
-            "description": "Développeur front-end hybride UI et UX "
-        },
-        {
             "url": "/blog/2025-11-new-frontend-links-november-2025/",
             "title": "Frontend Links November 2025",
             "description": "Newly added links with tools and article post frontend-links"
@@ -318,5 +313,10 @@
             "url": "/blog/albertville-10eme-etage-2026/",
             "title": "Albertville 10ème étage - 2026",
             "description": "Photographies réalisées depuis un dixième étage à Albertville durant l’année 2026 post albertville-10eme-etage"
+        },
+        {
+            "url": "/",
+            "title": "Olivier 3lanc",
+            "description": "Développeur front-end hybride UI et UX "
         }
 ]
