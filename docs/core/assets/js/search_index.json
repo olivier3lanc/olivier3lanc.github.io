@@ -442,6 +442,16 @@
         {
             "url": "/",
             "title": "Olivier 3lanc",
-            "content": "Développeur front-end hybride UI et UX  Je conçois des interfaces web responsive avec une approche UI et UX. Anciennement ingénieur du son, je me suis reconverti dans le web design et le développement front-end, m&#39;inspirant du son, de la musique, du cinéma et de la photographie.PortfolioRéalisations web dans le cadre de mon travailWebdesignCréation personnelles HTML, CSS et JavaScriptPhotographiesAlbums de photographies créations photo personnellesSVG ArtCollection de SVG d’animaux low-poly crées à partir de photographies personnellesBlogFil d’articles sur le web design, la photo et le son."
+            "content": "Développeur front-end hybride UI et UX  Je conçois des interfaces web responsive avec une approche UI et UX. Anciennement ingénieur du son, je me suis reconverti dans le web design et le développement front-end, m&#39;inspirant du son, de la musique, du cinéma et de la photographie.BlogFil d’articles sur le web design, la photo et le son.Derniers articles du blog: 2026-02-13 Albertville 10ème étage - 2026 Photographies réalisées depuis un dixième étage à Albertville durant l’année 2026 2026-01-23 Frontend Links January 2026 Newly added links with JavaScript, tools, articles and video 2025-12-31 Albertville 10ème étage - 2025 Photographies réalisées depuis un dixième étage à Albertville durant l’année 2025PortfolioRéalisations web dans le cadre de mon travailWebdesignCréation personnelles HTML, CSS et JavaScriptPhotographiesAlbums de photographies créations photo personnellesSVG ArtCollection de SVG d’animaux low-poly crées à partir de photographies personnelles"
+        },
+        {
+            "url": "/404.html",
+            "title": "404",
+            "content": "La page n’existe pas (ou plus)  Par Jérémy Toma"
+        },
+        {
+            "url": "/blog/albertville/",
+            "title": "Albertville",
+            "content": "  Cette page a changé d’adresse Albertville 10ème étage"
         }
 ]

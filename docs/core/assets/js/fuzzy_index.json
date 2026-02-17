@@ -318,5 +318,15 @@
             "url": "/",
             "title": "Olivier 3lanc",
             "description": "Développeur front-end hybride UI et UX "
+        },
+        {
+            "url": "/404.html",
+            "title": "404",
+            "description": "La page n’existe pas (ou plus) "
+        },
+        {
+            "url": "/blog/albertville/",
+            "title": "Albertville",
+            "description": " "
         }
 ]
