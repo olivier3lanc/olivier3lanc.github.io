@@ -1,4 +1,5 @@
 ---
+language: en
 title: Frontend Links July 2025
 description: Newly added links
 layout: libdoc_page.liquid

@@ -15,6 +15,14 @@ date: git Last Modified
 
 Les intégrations web responsive qui suivent on été réalisées en tenant compte de l’ergonomie, de l’accessibilité et des performances. 
 
+### BOS UI
+
+<figure>
+    <img src="/sources/pro/bosui.png"
+        alt="Écrans BOS UI">
+    <figcaption>Bundle <a href="https://symfony.com/">Symfony</a> contenant des ressources UI dédiées aux back-offices.</figcaption>
+</figure>
+
 ### Open Hive
 
 <figure>

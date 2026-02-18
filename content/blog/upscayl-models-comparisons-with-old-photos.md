@@ -1,7 +1,7 @@
 ---
+language: en
 title: Upscayl examples with old photos
 description: Before and after comparisons results of Upscayl AI image upscaler software with old and low resolution photos
-lang: en
 layout: libdoc_page.liquid
 permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
 ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources/refs/heads/master/ogimage-upscayl-models-comparisons-with-old-photos.avif"

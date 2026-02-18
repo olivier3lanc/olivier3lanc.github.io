@@ -8,6 +8,8 @@ permalink: "blog/albertville/index.html"
 #     - albertville-10eme-etage
 # date: 2014-12-31
 ---
+<meta http-equiv="refresh" content="0; url=/tags/albertville-10eme-etage" />
+<link rel="canonical" href="/tags/albertville-10eme-etage" />   
 {% alertAlt 'info', 'Redirection' %}
 Cette page a changé d’adresse [Albertville 10ème étage](/tags/albertville-10eme-etage)
 {% endalertAlt %}

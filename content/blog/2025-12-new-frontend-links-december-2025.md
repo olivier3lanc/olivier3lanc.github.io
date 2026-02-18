@@ -1,4 +1,5 @@
 ---
+language: en
 title: "Frontend Links December 2025"
 description: "Newly added links with tools, articles and fun"
 layout: libdoc_page.liquid

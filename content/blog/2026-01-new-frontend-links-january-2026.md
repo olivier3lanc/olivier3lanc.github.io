@@ -1,4 +1,5 @@
 ---
+language: en
 title: "Frontend Links January 2026"
 description: "Newly added links with JavaScript, tools, articles and video"
 layout: libdoc_page.liquid

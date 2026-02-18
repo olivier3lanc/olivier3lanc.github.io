@@ -1,4 +1,5 @@
 ---
+language: en
 title: Frontend links
 description: A curated list of useful front-end tools, libraries and nice web things.
 layout: libdoc_page.liquid
@@ -22,14 +23,44 @@ lang: en
 * [GitHub](https://github.com/) GitHub is where over 73 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and feat...
 * [Bitwarden](https://bitwarden.com/) Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
 * [Proton Pass](https://proton.me/fr/pass) Stockez, partagez et synchronisez des mots de passe, des clés d\'accès, des alias d\'adresse e-mail et plus encore, sur n\'importe quel appareil, avec notre gestionnaire de mots de passe open source gratuit. Pas d\'essai, juste gratuit pour toujours.
+* [LocalSend](https://github.com/localsend/localsend) An open-source cross-platform alternative to AirDrop
 
 ## Accessibility
 
+* [Spätzi](https://spatzi.alsacreations.com) Spätzi, l'assistant contrastes. Vérifiez et optimisez le contraste de vos couleurs selon les standards d'accessibilité (WCAG et APCA). Explorez les variations de couleurs en OKLCH pour créer des palettes accessibles. 
 * [A11y accessibility check for text colour on background image](https://www.brandwood.com/a11y/) This is a guide to foreground colour accessibility on a background image. It is intended as guide for designers and developers to test if their design solution is accessible.
 * [Web Accessibility Manual by Mike Mai](https://mikemai.net/a11y-manual/) Practical tips on upping your web accessibility skills 10x.
 * [Color & Contrast](https://colorandcontrast.com/#/) Color & Contrast is a comprehensive guide to color for user interface designers.
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. 
 * [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
+
+## Animation
+
+* [Frame Zero](https://www.framezero.app/) The Whiteboard Video Editor. A simpler way to create animated videos. Built for explaining ideas visually. 
+
+## Articles
+
+* General purpose
+    * [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
+    * [25 years of Wikipedia](https://wikipedia25.org/en/) From dial-up days to now, travel through Wikipedia's history. Today, Wikipedia is the backbone of knowledge on the internet—but everything has to start somewhere. For Wikipedia, that was a blank website and a dream.
+    * [Web Design Museum](https://www.webdesignmuseum.org/) Unlock Your Digital Memories. Web Design Museum exhibits thousands of screenshots and videos of websites, apps, software, and Flash games from the 1990s to the late 2000s.
+* HTML
+    * [Performance-Optimized Video Embeds with Zero JavaScript](https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript/)
+    * [How to Favicon in 2026: Three files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+    * [Cool native HTML elements you should already be using](https://harrisonbroadbent.com/blog/cool-native-html-elements/)
+    * [A complete guide to the HTML number input](https://olliewilliams.xyz/blog/guide-to-html-number-input/)
+    * [Accessible Names and Labels: Understanding What Works and What Doesn’t](https://vispero.com/resources/accessible-names-and-labels-understanding-what-works-and-what-doesnt/)
+    * [You’re loading fonts wrong (and it’s crippling your performance)](https://www.jonoalderson.com/performance/youre-loading-fonts-wrong/) Fonts are one of the most visible, most powerful parts of the web. They carry our brands, shape our identities, and define how every word feels. They’re the connective tissue between design, content, and experience.
+    * [Make any website load faster with 6 lines of HTML](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html) Ever clicked a link and had the next page appear almost instantly? That magical, speedy experience is becoming easier to achieve thanks to the Chrome Speculation Rules API. This new browser feature helps make navigation feel instant with just a few lines of HTML.
+* JavaScript
+    * [Beyond the Mouse: Animating with Mobile Accelerometers](https://frontendmasters.com/blog/beyond-the-mouse-animating-with-mobile-accelerometers/)
+    * [Animating with Mobile Accelerometers](https://codepen.io/amit_sheen/pen/ZYOGpQy/fd55aa73bfdc6b21a3ba15d81cbc59a4)
+    * [Open close dialog without JavaScript](https://pawelgrzybek.com/more-invoker-commands-and-more-reasons-not-to-use-javascript-please/) More invoker commands, and more reasons not to use JavaScript please
+    * [A Brief History of JavaScript](https://deno.com/blog/history-of-javascript) May 22, 2025. This year, JavaScript turns 30.
+    * [20 Best Data Visualization Libraries for Web in 2025](https://cssauthor.com/best-data-visualization-libraries-for-web/)
+    * [How to detect Safari and iOS versions with ease in 2026](https://evilmartians.com/chronicles/how-to-detect-safari-and-ios-versions-with-ease)
+    * [Create a Draggable Element in JavaScript](https://www.kirupa.com/html5/drag.htm) A common gesture we use all the time and take for granted is the ability to drag an element around on screen. Despite how common this drag gesture is, there is no good built-in support for making an element draggable on the web.
+    * [Ditch Mouse/Touch Event please](https://duyhd.com/blog/mouse-touch-pointer-events/) Ditch Mouse/Touch Event please. You may ask yourself: what are those? I only use 'onClick'. Yeah that fair, 99% of the time you only need onClick event. But what if you need add some fancy animations that follow your mouse and touch movements?
 
 ## Audio waveforms
 
@@ -40,6 +71,12 @@ lang: en
 
 * [Avamake](https://avamake.com) Avatar creator / generator.
 * [PixelMe - Make your Pixel Avatar in no time](http://xsgames.co/pixelme/) Make your 8bit pixel avatar and sell it as an NFT!
+
+## Benchmarks
+
+* [Project Wallace](https://www.projectwallace.com/) Project Wallace is a set of CSS analyzers that check your complexity, specificity, performance, Design Tokens and much more. And all of that in a single web app.
+* [CrawlerCheck](https://crawlercheck.com/) Instantly check if Google bots and AI crawlers can access your website.
+* [Browser Score](https://browserscore.dev/) How does my Browser Score?
 
 ## Backgrounds and patterns
 
@@ -67,6 +104,11 @@ lang: en
 * [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/) Patrick Weaver’s Website
 * [Sample markup containing all HTML5 elements](https://github.com/dbox/html5-kitchen-sink/) :potable_water: Sample markup containing all HTML5 elements for jumpstarting/testing css - GitHub - dbox/html5-kitchen-sink: Sample markup containing all HTML5 elements for jumpstarting/testing css
 
+## CDN
+
+* [JS delivr](https://www.jsdelivr.com/) A free CDN for open source project. Optimized for JS and ESM delivery from npm and GitHub. Works with all web formats.
+* [raw.githack.com](https://raw.githack.com/)  CDN for your source code. A decade proven way to serve files from source code hostings with proper Content-Type headers 
+
 ## Characters and glyphs
 
 * [SYMBL (◕‿◕)](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
@@ -77,8 +119,12 @@ lang: en
 * [Webmoji](https://webmoji.xyz/) Explore thousands of emojis right in your web browser. Search, copy, and use. All for free, accessible to all.
 * [Kaomoji Cool Club](https://kaomojicool.club/) Welcome to club ヾ(𐂲◡𐂲)ゞ
 
-## Charts
+## Charts and diagrams
 
+* [Wiretext — Unicode Wireframe Design Tool](https://wiretext.app/) A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
+* [ASCII Drawing Board](https://www.delopsu.com/draw) Set a brush (almost any unicode character), canvas size and export art as a text file.
+* [Make Graph](https://makegraph.app/) Create Beautiful Charts and Graphs Online. Transform your data into stunning visualizations with our free, powerful chart maker. No downloads, no sign-ups—just beautiful charts in seconds.
+* [ASCIIFLOW](https://asciiflow.com) Draw boxes by dragging from one corner to another. Boxes can be resized and moved with the Select & Move tool. Pan around the canvas by holding space and dragging with the mouse. Use cmd + z to undo and cmd + shift + z to redo. View shortcuts by pressing alt.
 * [CASCII](https://github.com/casparwylie/cascii-core) A web-based ASCII and Unicode diagram builder written in vanilla Javascript 
 * [Chart.xkcd](https://timqian.com/chart.xkcd/) Chart.xkcd is a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts.
 * [ApexCharts.js - Open Source JavaScript Charts for your website](https://apexcharts.com/) ApexCharts is a a free and open-source modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
@@ -106,6 +152,14 @@ lang: en
 * [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/) Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!
 * [Simple.css - A classless CSS framework](https://simplecss.org/) A classless CSS framework that makes semantic HTML look good.
 
+## CSS Animations
+
+* [ease-master](https://github.com/satishkumarsajjan/ease-master) Design motion that feels real. The ultimate easing visualization and generation tool for modern frontend development. 
+
+## CSS Backgrounds
+
+* [css-doodle](https://github.com/css-doodle/css-doodle) A web component designed to explore the creative potential of CSS in a simple and expressive manner. It facilitates the creation of graphic patterns, visual backgrounds, handcrafted icons, and random decorations.
+
 ## CSS Borders
 
 * [Inverted border-radius using CSS mask](https://css-tip.com/inverted-radius/) One property and 4 gradients to invert the corner of any element with a radius
@@ -127,6 +181,7 @@ lang: en
 
 ## CSS Printing
 
+* [Printable Grid Paper](https://grid-paper.daverupert.com/) I made this because every time I searched for a printout of graph paper I only get weird low-res JPGs with URLs making it ugly. Or I could buy a pallet of graph papaer on Amazon. Then you gotta know how many inches or centimeters it needs to be and I dunno, I'm not a scientist. So I made this app with a few options you can play with.
 * [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 
 ## CSS Reset
@@ -150,6 +205,10 @@ lang: en
 
 ## Color tools
 
+* [Color Palette Pro — A Synthesizer for Color Palettes](https://colorpalette.pro) Generate customizable color palettes in advanced color spaces that can be easily shared, downloaded, or exported.
+* [Harmonizer](https://harmonizer.evilmartians.com) Color palette generator for UI
+* [What are OKLCH colors?](https://jakub.kr/components/oklch-colors) oklch is a newer color model that is designed to be perceptually uniform. This means that colors are much more accurate in terms of how humans perceive them and it makes working with them much easier.
+* [oklch.fyi](https://oklch.fyi/) Explore color as we see it. Discover how the OKLCH color model works. Learn, experiment and create more consistent and perceptually uniform color palettes.
 * [Colors Between](https://hexcolor.co/colors-between) Get interpolated colors between specified colors steps.
 * [OKLCH Color Picker & Converter](https://oklch.com/#70,0.1,192,100) OKLCH is a new way to encode colors (like hex, RGBA, or HSL)
 * [Physically Based - The PBR values database](https://physicallybased.info/) A database of physically based values for CG artists
@@ -181,6 +240,10 @@ lang: en
 * [Scale — color scale generator](https://hihayk.github.io/scale/#6/6/42/58/-51/146/-45/74/1D8C6C/29/140/108) Color scale generator by Hayk An
 * [ColorBox](https://colorbox.io/) Create amazing color sets superfast.
 * [Palettte App](https://palettte.app/) The definitive palette editing and remapping tool
+
+## Database
+
+* [PocketBase - Open Source backend in 1 file](https://pocketbase.io/) Open Source backend in 1 file with realtime database, authentication, file storage and admin dashboard
 
 ## Documentation tools
 
@@ -228,6 +291,8 @@ lang: en
 
 ## Fonts
 
+* [Sweetfont](https://sweetfont.com/) The sweetest way to find Google Fonts. Explore Google Fonts by personality, vibe, and style using interactive controls. Find your perfect typeface.
+* [Programming Fonts](https://github.com/braver/programmingfonts) Test drive programming fonts online: the definitive list of fonts for code
 * [Font to SVG](https://xoihazard.com/tools/fontsvg/) Get vector graphics from OpenType & TrueType fonts without installing.
 * [Fontsource](https://fontsource.org/) Download and self-host 1500+ open-source fonts in neatly bundled NPM packages. Access a comprehensive library of web typefaces for free.
 * [Best Free Fonts](https://bestfreefonts.com/) Best Free Fonts is a curated selection of free fonts. Including serif, sans serif, script and monospace.
@@ -252,8 +317,17 @@ lang: en
 * [fontshare](https://www.fontshare.com/) Fontshare is a free fonts service from ITF, making quality fonts accessible to all.
 * [Font Squirrel | Create Your Own @font-face Kits](https://www.fontsquirrel.com/tools/webfont-generator) Create Your Own @font-face Kits by uploading the fonts you want to use.
 
+## Forms
+
+* [formsubmit.co](https://formsubmit.co/) Easy form endpoints for your HTML forms. Connect your form to our form endpoint and we’ll email you the submissions. No PHP, Javascript or any backend code required.
+* [Letterbird](https://letterbird.co/) A free contact form on the web that’s Good Enough. Give people a better experience getting in touch with you. Letterbird makes it fast and easy for anyone to get a well-designed, good ol’ fashioned email contact form. 
+
 ## Fun to try
 
+* [drawmote](https://github.com/dulnan/drawmote) Draw remotely with your phone
+* [city-roads](https://github.com/anvaka/city-roads) Visualization of all roads within any city. Render every single road in any city at once.
+* [VOLE.wtf](https://vole.wtf/)  🐹⁉️ working towards a dafter internet
+* [Toooools](https://www.tooooools.app/effects/ascii) Upload an image → Select and adjust effect → Export
 * [How i experience the web today](https://how-i-experience-web-today.com/) 
 * [Terminal Gif Maker](https://www.terminalgif.com/) Terminal Gif Maker is a tool for creating code sample in terminal interface. You can create gif for your projects and you can show that in your README of your project. Many application and project using this in Github, Gitlab and Bitbucket.
 * [Lissajous Curve SVG Generator](https://lissajous.eva.town/) Generate and export SVGs of Lissajous curves. A tool by Eva Decker.
@@ -314,6 +388,14 @@ lang: en
 * [Host Yo Self](https://hostyoself.com/) Need a web host? Host your self! Use this page to host a website or a file directly from your computer / phone / smartwatch / toaster!
 * [localhost.run | localhost.run](https://localhost.run/) Connect web applications running on your computer to the internet instantly
 
+## Icon sets
+
+* [Griddy Icons](https://griddyicons.com/) Griddy Icons is free open-source icon family with unique utilitarian vibe
+* [All SVG Icons](https://allsvgicons.com/) Browse and download 250,000+ free SVG icons for your projects that are free to use and customizable. Copy Raw SVG code or download as PNG, SVG, JSX or Base64 formats. Alternative of Flaticon, Iconmonstr, SVG Repo.
+* [Iconify](https://icon-sets.iconify.design/) Open source vector icons from all popular icon sets
+* [OBRA Icons](https://icons.obra.studio/) A simple, consistent set of icons, perfect for user interfaces.
+* [Lucide](https://lucide.dev/icons/) Beautiful consistent icon toolkit made by the community.
+
 ## Icon fonts
 
 * [IcoMoon](https://icomoon.io/) IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites. Browse among thousands of pixel perfect icons or import your own vectors.
@@ -322,6 +404,7 @@ lang: en
 
 ## Image services
 
+* [Dither Me This](https://doodad.dev/dither-me-this/) Use this tool to reduce the file size of an image… but in a stylish old-school way. It uses dithering to reduce the colors in an image, and places dots to emulate the missing shades. Dithering is used to display images on screens with limited colors palettes — it has the modern advantage of making web pages load faster. Upload an image and click the preset buttons to see what it can do.
 * [Image cache & resize service](https://images.weserv.nl/) Manipulate images on-the-fly with a worldwide cache
 * [TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/) Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!
 * [Compressor.io - optimize and compress JPEG photos and PNG images](https://compressor.io/) Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool.
@@ -341,6 +424,7 @@ lang: en
 
 ## Image conversion desktop
 
+* [Upscayl](https://github.com/upscayl/upscayl) Free and Open Source AI Image Upscaler for Linux, MacOS and Windows. 
 * [Crunch](https://github.com/chrissimpkins/Crunch) Insane(ly slow but wicked good) PNG image optimization - GitHub - chrissimpkins/Crunch: Insane(ly slow but wicked good) PNG image optimization
 * [Trimage (lossless) image compressor](https://trimage.org/) A cross-platform tool for losslessly optimizing PNG and JPG files for web.
 * [image-optimizer](https://github.com/antonreshetov/image-optimizer) A free and open source tool for optimizing images and vector graphics. - GitHub - antonreshetov/image-optimizer: A free and open source tool for optimizing images and vector graphics.
@@ -355,6 +439,7 @@ lang: en
 
 ## JS Animation
 
+* [Spoiler JS](https://github.com/shajidhasan/spoilerjs) A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations
 * [The Pixel Canvas Shimmer Effect](https://ryanmulligan.dev/blog/pixel-canvas/) The one about a Web Component that reveals a shimmering pixel background when its parent element is hovered.
 * [lax.js](https://github.com/alexfoxy/lax.js)  Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll. 
 * [simpleParallax.js](https://simpleparallax.com/#example-orientation) Easy Parallax Effect for React & JavaScript. simpleParallax.js is a lightweight and easy-to-use JS & React library that adds parallax animations to any image.
@@ -383,8 +468,22 @@ lang: en
 
 * [JSCanify](https://github.com/puffinsoft/jscanify) The Javascript document scanning library. 
 
+## JS Charts
+
+* [ChartGPU](https://github.com/ChartGPU/ChartGPU) Beautiful, open source, WebGPU-based charting library 
+* [Just Gage](https://github.com/toorshia/justgage) JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing. 
+
+## JS Colors
+
+* [css-color-component](https://github.com/argyleink/css-color-component) a modern color picker for the web with support for all spaces
+
+## JS Cursor
+
+* [Cursor Effects](https://github.com/tholman/cursor-effects) Old-school cursor effects for your browser built with modern JavaScript 
+
 ## JS Date pickers
 
+* [relative-time-element](https://github.com/github/relative-time-element) Web component extensions to the standard `<time>` element. Formats a timestamp as a localized string or as relative text that auto-updates in the user's browser. This allows the server to cache HTML fragments containing dates and lets the browser choose how to localize the displayed time according to the user's preferences.
 * [hotel-datepicker](https://github.com/benitolopez/hotel-datepicker) Date range picker for hotels.
 * [tiny-date-picker](https://github.com/chrisdavies/tiny-date-picker) A small, modern, dependency-free date picker.
 * [air-datepicker](https://github.com/t1m0n/air-datepicker) Lightweight, dependency-free JavaScript datepicker
@@ -395,6 +494,8 @@ lang: en
 
 ## JS Drag n Drop and upload
 
+* [picknplace.js](https://github.com/jgthms/picknplace.js) A proof of concept of a viable drag and drop alternative
+* [jgthms/picknplace.js](https://github.com/jgthms/picknplace.js): A proof of concept of a viable drag and drop alternative
 * [interact.js](https://interactjs.io/) JavaScript drag and drop, resizing and multi-touch gestures for modern browsers. JavaScript drag and drop, resizing, and multi-touch gestures for modern browsers (and also IE9+)
 * [Dropify](https://jeremyfagis.github.io/dropify/) Override your input files with style.
 * [Uppy](https://uppy.io/) Sleek, modular open source JavaScript file uploader. Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliability and ease of use, Uppy is truly your best friend in file uploading.
@@ -404,14 +505,26 @@ lang: en
 
 ## JS Draw
 
+* [lazy-brush](https://github.com/dulnan/lazy-brush) Smooth drawing with mouse, finger or other pointing device 
 * [CSS Doodle](https://github.com/css-doodle/css-doodle) 🎨 A web component for drawing patterns with CSS. 
+
+## JS Embeds
+
+* [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) A faster youtube embed.
 
 ## JS Favicons
 
 * [favico.js](https://github.com/ejci/favico.js) Make use of your favicon with badges, images or videos
 
+## JS Forms
+
+* [Range Slider Element](https://github.com/andreruffert/range-slider-element) 🎚 A cross browser customizable and accessible <range-slider> web component 
+* [Dual Range Input](https://github.com/stanko/dual-range-input) Native dual range input in 60 lines of JavaScript. 
+
 ## JS Images
 
+* [image-js](https://github.com/image-js/image-js) Image processing and manipulation in JavaScript 
+* [Image Compare Viewer](https://github.com/kylewetton/image-compare-viewer) Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies. 
 * [snapDOM](https://github.com/zumerlab/snapdom) snapDOM captures DOM nodes as images with exceptional speed and accuracy. 
 
 ## JS Input Masks
@@ -440,12 +553,38 @@ lang: en
 * [Chocolat](https://chocolat.insipi.de/) Responsive lightbox
 * [drift](https://github.com/strawdynamics/drift) Easily add \"zoom on hover\" functionality to your site’s images. Lightweight, no-dependency JavaScript.
 
+## JS Maps
+
+* [Utiliser les tuiles vectorielles](https://guides.data.gouv.fr/reutiliser-des-donnees/utiliser-les-api-geographiques/utiliser-les-tuiles-vectorielles) Qu'est-ce que les tuiles vectorielles ? Pour mieux comprendre ce que sont que les tuiles vectorielles et leurs usages, rendez-vous sur la documentation de l’IGN.
+* [Terra Draw](https://github.com/JamesLMilner/terra-draw) A JavaScript library for frictionless drawing on web maps
+* [openfreemap](https://github.com/hyperknot/openfreemap) Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data - hyperknot/openfreemap
+* [OpenFreeMap](https://openfreemap.org/) OpenFreeMap – Open-Source Map Hosting lets you display custom maps on your website and apps for free.
+* [Turn images into contour maps](https://benjdd.com/posts/turn-images-into-contour-maps/) Take a look at how I turn images into a contour map in the browser with the element.
+* [Bright - TileServer GL](https://openmaptiles.geo.data.gouv.fr/styles/osm-bright/?vector#1.37/0/0) 
+
+## JS Markdown
+
+* [OverType](https://overtype.dev/) HE MARKDOWN EDITOR THAT'S A TEXTAREA. OverType is a transparent textarea over rendered markdown. Plain text simplicity, WYSIWYG beauty, zero complexity. 
+
+## JS Mockups
+
+* [Browser Window](https://github.com/zachleat/browser-window) A small themed zero-dependency Web Component for demos with a fake browser window (Safari-esque).
+
+## JS Media
+
+* [MediaBunny](https://github.com/Vanilagy/mediabunny) Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser. 
+
 ## JS Mouse
 
 * [magic-mouse-js](https://github.com/dshongphuc/magic-mouse-js) A lightweight javascript library to create some amazing effects for the mouse (cursor) on your website
 
+## JS PDF
+
+* [Embed PDF](https://www.embedpdf.com/) Embed PDF files without the pain. The ultimate Open Source PDF viewer for JavaScript. Choose our drop-in component for instant results, or use our headless library to build a completely custom UI.
+
 ## JS Players
 
+* [media-chrome](https://github.com/muxinc/media-chrome) Custom elements (web components) for making audio and video player controls that look great in your website or app
 * [howler.js](https://github.com/goldfire/howler.js) Javascript audio library for the modern web.
 * [Buzz](https://github.com/jaysalvat/buzz) Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element. It tries to degrade silently on non-modern browsers.
 * [Plyr](https://plyr.io/) A simple, customizable HTML5 Video, Audio, YouTube and Vimeo player. A simple HTML5 media player with custom controls and WebVTT captions.
@@ -467,6 +606,11 @@ lang: en
 
 * [SortableJS](https://github.com/SortableJS/Sortable) Reorderable drag-and-drop lists for modern browsers and touch devices.
 
+## JS Syntax highlight
+
+* [Shiki](https://github.com/shikijs/shiki) A beautiful yet powerful syntax highlighter 
+* [syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element) Syntax Highlighting using the CSS Custom Highlight API. The code is highlighted without having to wrap a bunch of `<span>` elements around each token, thanks to Prism's tokenizer and the CSS Custom Highlight API.
+
 ## JS Text
 
 * [baffle.js](https://camwiegert.github.io/baffle/) a tiny (~1.8kb) javascript library for obfuscating and revealing text in DOM elements.
@@ -483,6 +627,7 @@ lang: en
 
 ## JS Tooltips
 
+* [Floating UI](https://github.com/floating-ui/floating-ui) A JavaScript library to position floating elements and create interactions for them. 
 * [tippyjs](https://github.com/atomiks/tippyjs) Tooltip, popover, dropdown, and menu library. Tooltip, popover, dropdown, and menu library.
 
 ## JS Tours
@@ -496,12 +641,21 @@ lang: en
 * [between.js](https://github.com/sasha240100/between.js) Lightweight JavaScript (ES6) tweening engine.
 * [ola](https://github.com/franciscop/ola) 🌊 Smooth animation library for interpolating numbers - franciscop/ola
 
-## JS Embeds
+## JS Waveform
 
-* [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) A faster youtube embed.
+* [peak.js](https://codeberg.org/chrisn/peaks.js) A client-side JavaScript component to display and interact with audio waveforms in the browser
+
+## JSON
+
+* [JSON Format Online](https://formatjsononline.com/) Format JSON Online is a free, browser-based JSON toolkit that formats, validates, and minifies JSON data without requiring account registration. It processes files up to 100MB entirely client-side using Web Workers, ensuring user data never leaves the browser. The platform includes 60+ tools including an AI-powered error fixer, visual diff checker, and converters for XML, YAML, CSV, and 15+ other
+* [JSON Editor](https://github.com/json-editor/json-editor) JSON Schema Based Editor 
+* [JSON blob](https://jsonblob.com/) create, edit, view, format, and share JSON
+* [JSON Server](https://github.com/typicode/json-server) Get a full fake REST API with zero coding in less than 30 seconds (seriously) 
 
 ## Learning
 
+* [Modern CSS Round-Out Tabs](https://frontendmasters.com/blog/modern-css-round-out-tabs/) Quite a while back I made a set of “round out” tabs, where the literal tab part of the UI would connect to the content below with a rounded edge that flared out as it connected. A bit tricky of a situation, even now! 
+* [Exercism](https://exercism.org/) Get really good at programming. Develop fluency in 79 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
 * [Dark Design Patterns Catalog](https://jakobnielsenphd.substack.com/p/dark-design) New regulations from the Government of India prohibit the use of 12 common dark design patterns. These sneaky practices are unethical applications of established UX knowledge to make interface designs that harm users instead of helping them.
 * [Defensive CSS](https://defensivecss.dev/) Practical CSS and design tips that helps in building future-proof user interfaces.
 * [Creative Coding - SVG](https://svg.bradwoods.io/lessons/viewbox) How the SVG viewBox works.
@@ -527,15 +681,6 @@ lang: en
 * [DevDocs](https://devdocs.io/) Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.
 * [A Quick Guide to Get Started with JavaScript Classes](https://blog.alexdevero.com/get-started-with-javascript-classes/?ref=webdesignernews.com) Learn what need to get started with JavaScript classes. Learn about class constructor, properties (public, static and private) and methods.
 
-## Maps
-
-* [Terra Draw](https://github.com/JamesLMilner/terra-draw) A JavaScript library for frictionless drawing on web maps
-* [openfreemap](https://github.com/hyperknot/openfreemap) Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data - hyperknot/openfreemap
-* [OpenFreeMap](https://openfreemap.org/) OpenFreeMap – Open-Source Map Hosting lets you display custom maps on your website and apps for free.
-* [Turn images into contour maps](https://benjdd.com/posts/turn-images-into-contour-maps/) Take a look at how I turn images into a contour map in the browser with the element.
-* [Bright - TileServer GL](https://openmaptiles.geo.data.gouv.fr/styles/osm-bright/?vector#1.37/0/0) 
-* [Tuiles vectorielles | guides.etalab.gouv.fr](https://guides.etalab.gouv.fr/apis-geo/3-tuiles-vecteur.html) Les guides d\'Etalab : vous accompagner dans la réalisation de vos projets relatifs aux données, algorithmes et codes sources.
-
 ## Markdown and notes
 
 * [Joplin](https://joplinapp.org/) Joplin, the open source note-taking application
@@ -552,6 +697,7 @@ lang: en
 
 ## Metadata
 
+* [Free OG Image Generator](https://myogimage.com/) Create beautiful OG Images, Twitter/X Header Images, Blog Featured Images & more for free.
 * [OpenGraph](https://www.opengraph.xyz/) Preview Social Media Share and Generate Metatags. OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
 * [Open Graph Image generator](https://www.jitbit.com/imgen/) Generate social images via http-GET API
 * [GitHub Socialify](https://socialify.git.ci/) 💞 Socialify your project. 🌐 Share with the world!
@@ -583,16 +729,14 @@ lang: en
 * [Free mockup templates and photos](https://mockup.photos/freebies) Browse 100% free iPhone, iPad, Android, tablet, poster mockup templates
 * [Screen — Screenshot Creator for Product Pages](https://screen.traction.one/) The fastest way to create screenshots of your app for product pages on Apple App Store, Google Play Store, Microsoft Store, etc.
 
-## No database
-
-* [PocketBase - Open Source backend in 1 file](https://pocketbase.io/) Open Source backend in 1 file with realtime database, authentication, file storage and admin dashboard
-
 ## Notifications
 
 * [ntfy.sh | Push notifications to your phone or desktop via PUT/POST](https://ntfy.sh/) ntfy is a simple HTTP-based pub-sub notification service. It allows you to send notifications to your phone or desktop via scripts from any computer, and/or using a REST API.
 
 ## Open Source Alternatives to Popular Software
 
+* [Panoramax](https://panoramax.fr) L’alternative libre pour photo-cartographier les territoires. Panoramax est une ressource numérique permettant la mise en commun et l'utilisation de photos de terrain. Toute personne peut photographier des lieux visibles depuis la voie publique afin d’alimenter la base de données de Panoramax. Ces données sont ensuite librement accessibles et réutilisables.
+* [LocalSend](https://github.com/localsend/localsend) An open-source cross-platform alternative to AirDrop
 * [OpenAlternative](https://openalternative.co/) Open Source Alternatives to Popular Software – A curated collection of the best open source alternatives to everyday SaaS products. Save money with reliable tools hand-picked for you.
 * [bruno](https://www.usebruno.com/) Postman alternative
 
@@ -638,8 +782,13 @@ lang: en
 * [Observable](https://observablehq.com/) Explore, analyze, and explain data. As a team.
 * [JSFiddle - Code Playground](https://jsfiddle.net/) Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 
+## Publish
+
+* [PinMe](https://pinme.eth.limo/) Publish Sites in Seconds. From folder to live in one step. No cloud configuration. No Server. No maintenance.
+
 ## Regex
 
+* [RegEx Vis](https://regex-vis.com/) Regex visualizer & editor, make the regular expression easier.
 * [In search of the perfect URL validation regex](https://mathiasbynens.be/demo/url-regex) 
 * [regex101: build, test, and debug regex](https://regex101.com/) Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.
 * [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
@@ -653,6 +802,7 @@ lang: en
 
 ## SVG
 
+* [SVG Studio](https://www.svg.studio/) Inspect, edit, and optimize SVGs in the browser
 * [Hyvector](https://www.hyvector.com/) Your friendly vector editor.
 * [How to Perfectly Fit an SVG to its Contents Using JavaScript](https://typeofnan.dev/how-to-perfectly-fit-an-svg-to-its-contents-using-javascript/) Using the SVG tag on websites is handy, but its interface can be different than we\'re used to. Here\'s a handy way to fit the viewport of an SVG to its contents every time.
 * [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
@@ -682,6 +832,7 @@ lang: en
 
 ## SVG Waves
 
+* [Mossaik](https://mossaik.app/) Create beautiful abstract SVG images for your designs. Stunning SVG waves, for your design, devices and websites!
 * [Wavelry](https://wavelry.vercel.app/)
 * [Get Waves – Create SVG waves for your next design](https://getwaves.io/) A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!
 * [Shape Divider App](https://www.shapedivider.app/) Create fully responsive shape dividers for your next web project
@@ -711,6 +862,7 @@ lang: en
 
 ## Video
 
+* [Lossless Cut](https://github.com/mifi/lossless-cut) The swiss army knife of lossless video/audio editing 
 * [Pikimov](https://pikimov.com/) Online motion design and video editor | 100% Free | No sign up | No file uploads | No AI 
 * [AVPress](https://avpress.zaps.dev/) AVPress is an in-browser video compressor that leverages FFMPEG.wasm
 * [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/) a friend to help you build ffmpeg commands Press is an in-browser video compressor that leverages FFMPEG.wasm

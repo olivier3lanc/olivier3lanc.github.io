@@ -4,11 +4,49 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2026-02-13T00:00:00Z</updated>
+    <updated>2026-02-18T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links February 2026</title>
+            <link href="https://olivier3lanc.github.io/blog/2026-02-new-frontend-links-february-2026/" />
+            <updated>2026-02-18T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/2026-02-new-frontend-links-february-2026/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**February%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links February 2026&quot;&gt;
+                &lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ChartGPU/ChartGPU&quot;&gt;ChartGPU&lt;/a&gt; Beautiful, open source, WebGPU-based charting library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dulnan/lazy-brush&quot;&gt;lazy-brush&lt;/a&gt; Smooth drawing with mouse, finger or other pointing device&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/image-js/image-js&quot;&gt;image-js&lt;/a&gt; Image processing and manipulation in JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://codepen.io/amit_sheen/pen/ZYOGpQy/fd55aa73bfdc6b21a3ba15d81cbc59a4&quot;&gt;Animating with Mobile Accelerometers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiretext.app/&quot;&gt;Wiretext — Unicode Wireframe Design Tool&lt;/a&gt; A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dulnan/drawmote&quot;&gt;drawmote&lt;/a&gt; Draw remotely with your phone&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/braver/programmingfonts&quot;&gt;Programming Fonts&lt;/a&gt; Test drive programming fonts online: the definitive list of fonts for code&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sweetfont.com/&quot;&gt;Sweetfont&lt;/a&gt; The sweetest way to find Google Fonts. Explore Google Fonts by personality, vibe, and style using interactive controls. Find your perfect typeface.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/satishkumarsajjan/ease-master&quot;&gt;ease-master&lt;/a&gt; Design motion that feels real. The ultimate easing visualization and generation tool for modern frontend development.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.svg.studio/&quot;&gt;SVG Studio&lt;/a&gt; Inspect, edit, and optimize SVGs in the browser&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://allsvgicons.com/&quot;&gt;All SVG Icons&lt;/a&gt; Browse and download 250,000+ free SVG icons for your projects that are free to use and customizable. Copy Raw SVG code or download as PNG, SVG, JSX or Base64 formats. Alternative of Flaticon, Iconmonstr, SVG Repo.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://griddyicons.com/&quot;&gt;Griddy Icons&lt;/a&gt; Griddy Icons is free open-source icon family with unique utilitarian vibe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://tonsky.me/blog/tahoe-icons/&quot;&gt;It’s hard to justify Tahoe icons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pawelgrzybek.com/more-invoker-commands-and-more-reasons-not-to-use-javascript-please/&quot;&gt;Open close dialog without JavaScript&lt;/a&gt; More invoker commands, and more reasons not to use JavaScript please&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://frontendmasters.com/blog/beyond-the-mouse-animating-with-mobile-accelerometers/&quot;&gt;Beyond the Mouse: Animating with Mobile Accelerometers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript/&quot;&gt;Performance-Optimized Video Embeds with Zero JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Albertville 10ème étage - 2026</title>
             <link href="https://olivier3lanc.github.io/blog/albertville-10eme-etage-2026/" />
