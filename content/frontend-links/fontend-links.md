@@ -7,11 +7,10 @@ permalink: frontend-links/index.html
 eleventyNavigation:
     key: Frontend links
     order: 120
-date: git Last Modified
+date: 2026-02-18
 tags:
     - frontend-links
 ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=140px"
-lang: en
 ---
 ## Everyday use
 

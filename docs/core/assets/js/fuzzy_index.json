@@ -210,11 +210,6 @@
             "description": "Newly added links post frontend-links"
         },
         {
-            "url": "/frontend-links/",
-            "title": "Frontend links",
-            "description": "A curated list of useful front-end tools, libraries and nice web things. frontend-links"
-        },
-        {
             "url": "/photographies/animaux/sauvages/",
             "title": "Animaux sauvages",
             "description": "Photographies d’animaux sauvages de montagne "
@@ -280,11 +275,6 @@
             "description": "Newly added links with tools and article post frontend-links"
         },
         {
-            "url": "/portfolio/",
-            "title": "Portfolio",
-            "description": "Réalisations web dans le cadre de mon travail "
-        },
-        {
             "url": "/webdesign-personnel/demos/",
             "title": "Démos",
             "description": "Réalisations personnelles de pages web basées sur un thème "
@@ -333,5 +323,15 @@
             "url": "/blog/2026-02-new-frontend-links-february-2026/",
             "title": "Frontend Links February 2026",
             "description": "Newly added links with CSS, JavaScript and articles post frontend-links"
+        },
+        {
+            "url": "/frontend-links/",
+            "title": "Frontend links",
+            "description": "A curated list of useful front-end tools, libraries and nice web things. frontend-links"
+        },
+        {
+            "url": "/portfolio/",
+            "title": "Portfolio",
+            "description": "Réalisations web dans le cadre de mon travail "
         }
 ]
