@@ -10,6 +10,72 @@ tags:
     - roselend
 date: 2025-09-04
 photos:
+    # Patrimoine Beaufortain
+    -   text: "Station de concassage"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-station-de-concassage.png"
+    -   text: "Coffrages d’angle"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-coffrages-d-angle.jpg"
+    -   text: "Ancrages sur le rocher"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-ancrages-sur-le-rocher.jpg"
+        wide: false
+    -   text: "Conditions d’accès aux coffrages"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-conditions-de-travail-conditions-acces-coffrages.jpg"
+        wide: false
+    -   text: "Dépôts de matériels"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-depots-de-materiels.jpg"
+        wide: false
+    -   text: "Surplomb en béton et grues de construction"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-surplomb-en-beton-et-grues-de-construction.jpg"
+        wide: false
+    -   text: "Vue côté Méraillet - août 1960"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-cote-meraillet-08-1960.jpg"
+        wide: false
+    -   text: "Vue aérienne"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne.jpg"
+    -   text: "Têtes de contreforts et système de grues et blondins"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-tetes-des-contreforts-systeme-de-grues-et-blondins.jpg"
+    -   text: "Système de grues et blondins à l’aplomb des contreforts"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-systeme-grues-et-blondins-aplomb-contreforts.jpg"
+    -   text: "Contreforts et accès des camions"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-base-contreforts-et-acces-camions.jpg"
+    -   text: "Ramassage des bois flottants"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-ramassage-bois-flottants.jpg"
+        wide: false
+    -   text: "Mise en eau partielle"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-mise-en-eau-partielle.jpg"
+    -   text: "Prise d’eau vers la centrale de La Bathie"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-prise-d-eau-vers-centrale-la-bathie.jpg"
+        wide: false
+    -   text: "Appui latéral de la voûte"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-appui-lateral-de-la-voute.jpg"
+        wide: false
+    -   text: "Mise en eau partielle vue côté voûte"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-mise-en-eau-partielle-vue-cote-voute.jpg"
+    -   text: "Contreforts côté Méraillet"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-contreforts-cote-meraillet.jpg"
+    -   text: "Coffrages sur la voûte"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-coffrages-sur-la-voute.jpg"
+        wide: false
+    -   text: "Coffrages de la voûte"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-coffrages-de-la-voute.jpg"
+        wide: false
+    -   text: "Vue aérienne de la voûte et de la vanne de vidange"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-voute-et-vanne-vidange.jpg"
+        wide: false
+    -   text: "Appui gauche de la voûte et vanne de vidange"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-appui-gauche-voute-et-vanne-vidange.jpg"
+        wide: false
+    -   text: "Vallée de Roselend et son village durant la construction du barrage"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vallee-roselend-village-barrage.jpg"
+    -   text: "Centrales à béton"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-centrales-a-beton.png"
+        wide: false
+    -   text: "Voûte sur le rocher de l’appui latéral"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-voute-sur-rocher-appui-lateral.png"
+        wide: false
+    -   text: "Fouilles pour les fondations de la voûte"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-fouilles-pour-fondations-voute.png"
+
 
     -   text: "Début de la construction du barrage de Roselend, vue côté Roc du Biolley"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-biolley.png"
@@ -110,6 +176,19 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-coupure-presse-1960.png"
         wide: false
 hommes:
+    -   text: "Galeries"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-galeries.jpg"
+    -   text: "Galeries et tubages"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-galeries-et-tubages.jpg"
+        wide: false
+    -   text: "Tubages"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-tubages.jpg"
+    -   text: "Équipe d’ouvriers en train de couler un plot de soutènement"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-equipe-conception-plot-soutenement.jpg"
+    -   text: "Coulage de béton"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-coulage-de-beton-alt.jpg"
+    -   text: "Coulage de béton"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-coulage-de-beton.jpg"
     -   text: "Ouvriers à l’oeuvre au marteau piqueur"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-ouvriers-marteaux-piqueurs.png"
         wide: false
@@ -475,7 +554,7 @@ Voir sur [YouTube](https://www.youtube.com/watch?v=ovFknXYPw8g)
 
 Les images de faible définition ont été agrandies à l’aide [d’Upscayl](https://upscayl.org/).
 
-* Collection personnelle de <cite>Patrick Guillois</cite>.
+* Photographies issues de l’association <cite>Patrimoine Beaufortain</cite>.
 * Photographies de Henri Baranger - <abbr title="Electricité de France">EDF</abbr>
 * [Le barrage de Roselend sur Wikipedia](https://fr.wikipedia.org/wiki/Barrage_de_Roselend)
 * Archives de la Haute-Savoie <https://archives.hautesavoie.fr/>
