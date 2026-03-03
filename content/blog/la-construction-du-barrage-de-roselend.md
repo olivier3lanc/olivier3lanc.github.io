@@ -8,7 +8,7 @@ ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources
 tags:
     - post
     - roselend
-date: 2025-09-04
+date: 2026-03-03
 photos:
     # Patrimoine Beaufortain
     -   text: "Station de concassage"
@@ -135,6 +135,12 @@ photos:
         wide: false
 
     # FIN de construction
+    -   text: "Vue aérienne du barrage de Roselend depuis le col du Pré"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-depuis-col-du-pre.jpg"
+    -   text: "Vue du barrage de Roselend depuis la route de Treicol"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-depuis-route-de-treicol.jpg"
+    -   text: "Vue couleurs du barrage de Roselend depuis le belvédère côté col du Pré - estimation de date années 60"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-du-belvedere-col-du-pre-couleurs.jpg"
     -   text: "Derniers mètres cubes de béton coulés en octobre 1962"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-derniers-metres-cubes-beton-octobre-1962.png"
     -   text: "Mise en eau mai 1960 vue du côté col du Pré"

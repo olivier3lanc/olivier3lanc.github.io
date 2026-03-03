@@ -8,8 +8,9 @@ ogImageUrl: "https://raw.githubusercontent.com/olivier3lanc/cinematics-resources
 tags:
     - post
     - roselend
-date: 2025-09-01
+date: 2026-03-03
 photos:
+
     -   text: "Vallée de Roselend et le Roc du Vent vers 1885. Debout à gauche, Bruno Chabrier de Lafongt"
         url: "/sources/blog/ancien-village-de-roselend/Vallée de Roselend (Beaufortain) et le Roc du Vent vers 1885. Debout à gauche, Bruno Chabrier de Lafongt (et caniche blanc).jpg"
     -   text: "Habitants prenant la pose dans l’ancien village de Roselend et sa chapelle vers 1885"
@@ -43,11 +44,17 @@ photos:
     -   text: "Roselend dans le livre La Montagne de Willy Ronis page 72, photographie de 1939."
         url: "/sources/blog/ancien-village-de-roselend/roselend-la-montagne-de-willy-ronis-page-page-72-1939.png"
         wide: false
+    -   text: "Vue de la vallée de Roselend enneigée depuis le col du Pré"
+        url: "/sources/blog/ancien-village-de-roselend/vue-vallee-roselend-enneigee-depuis-col-du-pre.jpg"
+        wide: false
     -   text: "Roselend dans le livre La Montagne de Willy Ronis page 51, photographie de 1939."
         url: "/sources/blog/ancien-village-de-roselend/roselend-la-montagne-de-willy-ronis-page-51-1939.png"
         wide: false
     -   text: "Entrée du village de Roselend en hiver et son panneau à la fin des années 30"
         url: "/sources/blog/ancien-village-de-roselend/entree-village-roselend-hiver-fin-annees-30.png"
+    -   text: "Août 1909 - lieu estimé Gorge des Tines"
+        url: "/sources/blog/ancien-village-de-roselend/gorge-des-tines-aout-1909.png"
+        wide: false
     
     # années 50
     -   text: "Rare photographie couleur du village de Roselend et son torrent le Doron"
@@ -57,6 +64,11 @@ photos:
         url: "/sources/blog/ancien-village-de-roselend/vaches-famille-duret-fin-annees-1950.png"
         
     # sans date
+    -   text: "Lac et vue sur Treicol"
+        url: "/sources/blog/ancien-village-de-roselend/lac-vue-treicol-2.jpg"
+        wide: false
+    -   text: "Lac et vue sur Treicol"
+        url: "/sources/blog/ancien-village-de-roselend/lac-vue-treicol.jpg"
     -   text: "Pont du Rey (ou pont Duret) construit entre 1905 et 1914, il est situé au pied du barrage actuel côté amont."
         url: "/sources/blog/ancien-village-de-roselend/ancien-village-roselend-hiver-ancien-pont-du-rey-construit-entre-1905-1914.png"
     -   text: "Vallée de Roselend et ses vaches en pâture vue depuis le chalet de La Culaz"
@@ -174,6 +186,14 @@ Cette page est une réédition de ma page [les 50 ans de Roselend la Bathie](htt
 > Sur l’étroite route en lacets qui depuis Beaufort monte à l'assaut de Roselend, les bulldozers s'époumonent, disputant au rocher la largeur d’un virage. Leurs râles prolongés couvrent le chant des torrents et le touriste dedaignant la poésie des petites sources qui bredouilent observe plus volontiers la marche audacieuse de ces engins lancés contre les flancs abrupts de la montagne. Il a tort le touriste, car ces torrents tumultueux, ces cascades écumantes qui dégringolent entre les sapins s’effaceront bientôt du paysage. Ils vivent aujourd’hui leurs derniers instants de liberté.
 > 
 > <small>Article de Albert Eysseric dans le "Dauphiné Libéré" en 1955</small>
+
+## Audio la vie dans la vallée de Roselend depuis le Moyen-âge
+
+<figure>
+    <audio src="/assets/audio/20110805_203825.mp3" controls style="width: 100%"></audio>
+    <figcaption>Audio issu d’une conférence donnée par une archiviste du département le <time>5 août 2011</time> lors de la célébration des 50 ans du barrage de Roselend.</figcaption>
+</figure>
+
 
 ## Vidéo témoignage de Claudette Martin-Heitzmann
 
