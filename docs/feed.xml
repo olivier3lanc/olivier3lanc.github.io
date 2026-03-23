@@ -4,11 +4,53 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2026-03-03T00:00:00Z</updated>
+    <updated>2026-03-23T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links March 2026</title>
+            <link href="https://olivier3lanc.github.io/blog/2026-03-new-frontend-links-march-2026/" />
+            <updated>2026-03-23T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/2026-03-new-frontend-links-march-2026/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**March%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links March 2026&quot;&gt;
+                &lt;h2&gt;CSS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://modern-css.com/&quot;&gt;Modern CSS&lt;/a&gt; Modern CSS code snippets, side by side with the old hacks they replace. Every technique you still Google has a clean, native replacement now.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/knadh/oat&quot;&gt;OAT&lt;/a&gt; Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Toheeb/base&quot;&gt;Base.css&lt;/a&gt; The web&#39;s first multipurpose classless stylesheet, with the most semantic rules, for complete customization and personalization of a webpage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://svgconverter.online/&quot;&gt;Convert PNG and JPG to SVG.&lt;/a&gt; Convert PNG and JPG to SVG.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://p2r3.github.io/convert/&quot;&gt;Convert to it!&lt;/a&gt; Truly universal online file converter. Private, on-device conversion across mediums.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pagegym.com/&quot;&gt;The Page Speed Optimization Tool&lt;/a&gt; Website speed analysis and optimization&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://eztrimmer.io/&quot;&gt;EZTrimmer&lt;/a&gt; Cut videos online for free — trim, split and export in seconds. No signup required.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.thecolorapi.com/&quot;&gt;TheColorAPI&lt;/a&gt; The best color conversion, naming and scheming API out there.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sightengine.com/detect-ai-generated-images&quot;&gt;Detect AI-generated images at scale&lt;/a&gt; Our AI image detector automatically detects images from popular AI generators. No watermarks needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fun&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://yuyz0112.github.io/glitch-art-maker/&quot;&gt;Glitch Art Maker&lt;/a&gt; 100% client-side. No upload. Process local video or webcam in real time and export WebM.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/fiduswriter/simple-datatables&quot;&gt;simple-datatables&lt;/a&gt; A lightweight, extendable, JavaScript HTML table library written in TypeScript and transpilled to Vanilla JavaScript. Similar to jQuery DataTables for use in modern browsers, but without the jQuery dependency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://css-tricks.com/approximating-contrast-color-with-other-css-features/&quot;&gt;Approximating contrast-color() With Other CSS Features&lt;/a&gt; You have an element with a configurable background color, and you’d like to calculate whether the foreground text should be light or dark. Seems easy enough, especially knowing how mindful we ought to be with accessibility.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://thatshubham.com/blog/news-audit&quot;&gt;The 49MB Web Page &lt;/a&gt;  If active distraction of readers of your own website was an Olympic Sport, news publications would top the charts every time. I went to the New York Times to glimpse at four headlines and was greeted with 422 network requests and 49 megabytes of data. It took two minutes before the page settled. And then you wonder why every sane tech person has an adblocker installed on systems of all their loved ones.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.keithcirkel.co.uk/i-dont-have-time-to-learn-react/&quot;&gt;No time to learn React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>La construction du barrage de Roselend</title>
             <link href="https://olivier3lanc.github.io/blog/la-construction-du-barrage-de-roselend/" />
@@ -191,6 +233,26 @@
     &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-fouilles-pour-fondations-voute-_-s8mV7ulO-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-fouilles-pour-fondations-voute-_-s8mV7ulO-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-fouilles-pour-fondations-voute-_-s8mV7ulO-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-fouilles-pour-fondations-voute-_-s8mV7ulO-__730__.webp&quot; alt=&quot;Fouilles pour les fondations de la voûte&quot; width=&quot;2800&quot; height=&quot;1805&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-fouilles-pour-fondations-voute-_-s8mV7ulO-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-fouilles-pour-fondations-voute-_-s8mV7ulO-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-fouilles-pour-fondations-voute-_-s8mV7ulO-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
     &lt;figcaption&gt;Fouilles pour les fondations de la voûte&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;h2&gt;Vue aérienne du début des travaux depuis le bélvédère côté col du Pré le 30 mai 1958&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-30-05-1958-TjKpUKm3No-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-30-05-1958-TjKpUKm3No-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-30-05-1958-TjKpUKm3No-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-30-05-1958-TjKpUKm3No-__730__.webp&quot; alt=&quot;Vue aérienne du début des travaux depuis le bélvédère côté col du Pré le 30 mai 1958&quot; width=&quot;2800&quot; height=&quot;1362&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-30-05-1958-TjKpUKm3No-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-30-05-1958-TjKpUKm3No-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-30-05-1958-TjKpUKm3No-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue aérienne du début des travaux depuis le bélvédère côté col du Pré le 30 mai 1958&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Début des travaux, vue depuis le lac, pont des Reys permettant de se rendre à Treicol&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-pont-des-reys-x7EQMbl_XA-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-pont-des-reys-x7EQMbl_XA-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-pont-des-reys-x7EQMbl_XA-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-pont-des-reys-x7EQMbl_XA-__730__.webp&quot; alt=&quot;Début des travaux, vue depuis le lac, pont des Reys permettant de se rendre à Treicol&quot; width=&quot;2800&quot; height=&quot;2076&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-pont-des-reys-x7EQMbl_XA-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-pont-des-reys-x7EQMbl_XA-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-pont-des-reys-x7EQMbl_XA-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Début des travaux, vue depuis le lac, pont des Reys permettant de se rendre à Treicol&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Début des travaux, installations du chantier côté Méraillet - 27-09-1956&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-27-09-1956-ZAPs5cpmJz-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-27-09-1956-ZAPs5cpmJz-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-27-09-1956-ZAPs5cpmJz-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-27-09-1956-ZAPs5cpmJz-__730__.webp&quot; alt=&quot;Début des travaux, installations du chantier côté Méraillet - 27-09-1956&quot; width=&quot;2800&quot; height=&quot;2094&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-27-09-1956-ZAPs5cpmJz-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-27-09-1956-ZAPs5cpmJz-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-27-09-1956-ZAPs5cpmJz-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Début des travaux, installations du chantier côté Méraillet - 27-09-1956&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Début des travaux, construction d’un pont dans les gorges des Tines - 27-09-1956&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956-tOYE60z1KI-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956-tOYE60z1KI-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956-tOYE60z1KI-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956-tOYE60z1KI-__730__.webp&quot; alt=&quot;Début des travaux, construction d’un pont dans les gorges des Tines - 27-09-1956&quot; width=&quot;2800&quot; height=&quot;2066&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956-tOYE60z1KI-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956-tOYE60z1KI-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956-tOYE60z1KI-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Début des travaux, construction d’un pont dans les gorges des Tines - 27-09-1956&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;h2&gt;Début de la construction du barrage de Roselend, vue côté Roc du Biolley&lt;/h2&gt;
 &lt;figure class=&quot;long-shadow wide&quot;&gt;
     &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.webp&quot; alt=&quot;Début de la construction du barrage de Roselend, vue côté Roc du Biolley&quot; width=&quot;2800&quot; height=&quot;1921&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-de-roselend-vue-biolley-1ynK3DmI42-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
@@ -300,6 +362,11 @@
 &lt;figure class=&quot;long-shadow &quot;&gt;
     &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__2236__.avif 2236w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__730__.webp&quot; alt=&quot;Travaux de terrassement de la conduite forcée qui mène à la centrale de La Bathie&quot; width=&quot;2236&quot; height=&quot;1680&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-travaux-terrassement-conduite-5T2tG9sX-T-__2236__.webp 2236w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
     &lt;figcaption&gt;Travaux de terrassement de la conduite forcée qui mène à la centrale de La Bathie&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Vue aérienne du barrage côté Méraillet le 6 novembre 1961&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961-eCw9xD8ZyK-__730__.avif 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961-eCw9xD8ZyK-__1400__.avif 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961-eCw9xD8ZyK-__2800__.avif 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961-eCw9xD8ZyK-__730__.webp&quot; alt=&quot;Vue aérienne du barrage côté Méraillet le 6 novembre 1961&quot; width=&quot;2800&quot; height=&quot;2008&quot; srcset=&quot;https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961-eCw9xD8ZyK-__730__.webp 730w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961-eCw9xD8ZyK-__1400__.webp 1400w, https://olivier3lanc.github.io/img/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961-eCw9xD8ZyK-__2800__.webp 2800w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue aérienne du barrage côté Méraillet le 6 novembre 1961&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2&gt;Vue aérienne du barrage de Roselend depuis le col du Pré&lt;/h2&gt;
 &lt;figure class=&quot;long-shadow wide&quot;&gt;
@@ -752,9 +819,14 @@
     &lt;figcaption&gt;Terrasse de l’hôtel le Mont Blanc au coeur du village de Roselend en 1921&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2&gt;Hôtel Mont Blanc juillet 1935&lt;/h2&gt;
-&lt;figure class=&quot;long-shadow &quot;&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
     &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1400__.avif 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1896__.avif 1896w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__730__.webp&quot; alt=&quot;Hôtel Mont Blanc juillet 1935&quot; width=&quot;1896&quot; height=&quot;2819&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1400__.webp 1400w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935-V_5tgSa6Ze-__1896__.webp 1896w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
     &lt;figcaption&gt;Hôtel Mont Blanc juillet 1935&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Vue depuis le col de sur Frêtes en juillet 1937&lt;/h2&gt;
+&lt;figure class=&quot;long-shadow wide&quot;&gt;
+    &lt;picture class=&quot;eleventy-image&quot;&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-col-sur-fretes-07-1935-8CKVXObYVE-__730__.avif 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-col-sur-fretes-07-1935-8CKVXObYVE-__1400__.avif 1400w&quot; sizes=&quot;auto&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-col-sur-fretes-07-1935-8CKVXObYVE-__730__.webp&quot; alt=&quot;Vue depuis le col de sur Frêtes en juillet 1937&quot; width=&quot;1400&quot; height=&quot;1045&quot; srcset=&quot;https://olivier3lanc.github.io/img/ancien-village-de-roselend-col-sur-fretes-07-1935-8CKVXObYVE-__730__.webp 730w, https://olivier3lanc.github.io/img/ancien-village-de-roselend-col-sur-fretes-07-1935-8CKVXObYVE-__1400__.webp 1400w&quot; sizes=&quot;auto&quot;&gt;&lt;/picture&gt;
+    &lt;figcaption&gt;Vue depuis le col de sur Frêtes en juillet 1937&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2&gt;Roselend et le Rocher du Vent en septembre 1937&lt;/h2&gt;
 &lt;figure class=&quot;long-shadow wide&quot;&gt;

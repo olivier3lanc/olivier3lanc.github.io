@@ -77,6 +77,15 @@ photos:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-fouilles-pour-fondations-voute.png"
 
 
+
+    -   text: "Vue aérienne du début des travaux depuis le bélvédère côté col du Pré le 30 mai 1958"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-30-05-1958.jpg"
+    -   text: "Début des travaux, vue depuis le lac, pont des Reys permettant de se rendre à Treicol"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-debut-travaux-pont-des-reys.jpg"
+    -   text: "Début des travaux, installations du chantier côté Méraillet - 27-09-1956"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-debut-travaux-27-09-1956.jpg"
+    -   text: "Début des travaux, construction d’un pont dans les gorges des Tines - 27-09-1956"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-debut-travaux-gorges-des-tines-27-09-1956.jpg"
     -   text: "Début de la construction du barrage de Roselend, vue côté Roc du Biolley"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-de-roselend-vue-biolley.png"
     -   text: "Tunnel construit dans les années 1950 qui permettait d’éviter le passage par la gorge. Photo de août 1959."
@@ -135,6 +144,8 @@ photos:
         wide: false
 
     # FIN de construction
+    -   text: "Vue aérienne du barrage côté Méraillet le 6 novembre 1961"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-vue-meraillet-06-11-1961.png"
     -   text: "Vue aérienne du barrage de Roselend depuis le col du Pré"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-depuis-col-du-pre.jpg"
     -   text: "Vue du barrage de Roselend depuis la route de Treicol"

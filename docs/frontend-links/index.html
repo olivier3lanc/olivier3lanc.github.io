@@ -143,6 +143,7 @@
                 width: `Width`,
         }
         const libdocConfig = {
+            htmlBasePathPrefix: ``,
             blogTitle: `Blog`,
             blogDescription: `Fil d’articles sur le web design, la photo et le son.`,
             displayTagsListLink: true
@@ -151,7 +152,7 @@
             searchIndexUrl: `/core/assets/js/search_index.json`,
             fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
             productionUrl: `eleventy-libdoc.netlify.app`,
-            blogPostsCount: `30`
+            blogPostsCount: `31`
         }
     </script>
 </head>
@@ -397,13 +398,13 @@
                         
                             <p class="d-flex ai-center gap-2 | m-0 pr-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs">
                                 <span class="icon-calendar-dots fs-6"></span>
-                                <span ws-nowrap="sm,md">
+                                <time ws-nowrap="sm,md">
                                     
                                     
                                         
                                         2026-02-18
                                     
-                                </span>
+                                </time>
                             </p>
                         
                         <div class="pl-5 w-100 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
@@ -442,13 +443,13 @@
                             </a>
                         </li>
                         <li class="d-flex">
-                            <a href="#animation" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
-                                Animation
+                            <a href="#ai" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                AI
                             </a>
                         </li>
                         <li class="d-flex">
-                            <a href="#articles" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
-                                Articles
+                            <a href="#animation" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Animation
                             </a>
                         </li>
                         <li class="d-flex">
@@ -504,6 +505,11 @@
                         <li class="d-flex">
                             <a href="#classless-css-frameworks" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
                                 Classless CSS frameworks
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#converters" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                Converters
                             </a>
                         </li>
                         <li class="d-flex">
@@ -782,6 +788,11 @@
                             </a>
                         </li>
                         <li class="d-flex">
+                            <a href="#js-tables" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                JS Tables
+                            </a>
+                        </li>
+                        <li class="d-flex">
                             <a href="#js-timelines" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
                                 JS Timelines
                             </a>
@@ -799,6 +810,11 @@
                         <li class="d-flex">
                             <a href="#js-tweening" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
                                 JS Tweening
+                            </a>
+                        </li>
+                        <li class="d-flex">
+                            <a href="#js-ui" class="pl-5 pt-1 pb-1 | fs-4 lsp-3 lh-5 fvs-wght-400 wb-break-word | blwidth-1 blstyle-dashed bcolor-neutral-500">
+                                JS UI
                             </a>
                         </li>
                         <li class="d-flex">
@@ -951,6 +967,15 @@
 <li><a href="https://contrast-grid.eightshapes.com/">EightShapes Contrast Grid</a> Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.</li>
 </ul>
 
+                        <h2 id="ai" pl-9="xs,sm">
+                            <a href="#ai" title="AI" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    AI</h2>
+<ul>
+<li><a href="https://sightengine.com/detect-ai-generated-images">Detect AI-generated images at scale</a> Our AI image detector automatically detects images from popular AI generators. No watermarks needed.</li>
+</ul>
+
                         <h2 id="animation" pl-9="xs,sm">
                             <a href="#animation" title="Animation" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
                                 <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
@@ -958,44 +983,6 @@
                     Animation</h2>
 <ul>
 <li><a href="https://www.framezero.app/">Frame Zero</a> The Whiteboard Video Editor. A simpler way to create animated videos. Built for explaining ideas visually.</li>
-</ul>
-
-                        <h2 id="articles" pl-9="xs,sm">
-                            <a href="#articles" title="Articles" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
-                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
-                            </a>
-                    Articles</h2>
-<ul>
-<li>General purpose
-<ul>
-<li><a href="https://tonsky.me/blog/tahoe-icons/">It’s hard to justify Tahoe icons</a></li>
-<li><a href="https://wikipedia25.org/en/">25 years of Wikipedia</a> From dial-up days to now, travel through Wikipedia's history. Today, Wikipedia is the backbone of knowledge on the internet—but everything has to start somewhere. For Wikipedia, that was a blank website and a dream.</li>
-<li><a href="https://www.webdesignmuseum.org/">Web Design Museum</a> Unlock Your Digital Memories. Web Design Museum exhibits thousands of screenshots and videos of websites, apps, software, and Flash games from the 1990s to the late 2000s.</li>
-</ul>
-</li>
-<li>HTML
-<ul>
-<li><a href="https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript/">Performance-Optimized Video Embeds with Zero JavaScript</a></li>
-<li><a href="https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs">How to Favicon in 2026: Three files that fit most needs</a></li>
-<li><a href="https://harrisonbroadbent.com/blog/cool-native-html-elements/">Cool native HTML elements you should already be using</a></li>
-<li><a href="https://olliewilliams.xyz/blog/guide-to-html-number-input/">A complete guide to the HTML number input</a></li>
-<li><a href="https://vispero.com/resources/accessible-names-and-labels-understanding-what-works-and-what-doesnt/">Accessible Names and Labels: Understanding What Works and What Doesn’t</a></li>
-<li><a href="https://www.jonoalderson.com/performance/youre-loading-fonts-wrong/">You’re loading fonts wrong (and it’s crippling your performance)</a> Fonts are one of the most visible, most powerful parts of the web. They carry our brands, shape our identities, and define how every word feels. They’re the connective tissue between design, content, and experience.</li>
-<li><a href="https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html">Make any website load faster with 6 lines of HTML</a> Ever clicked a link and had the next page appear almost instantly? That magical, speedy experience is becoming easier to achieve thanks to the Chrome Speculation Rules API. This new browser feature helps make navigation feel instant with just a few lines of HTML.</li>
-</ul>
-</li>
-<li>JavaScript
-<ul>
-<li><a href="https://frontendmasters.com/blog/beyond-the-mouse-animating-with-mobile-accelerometers/">Beyond the Mouse: Animating with Mobile Accelerometers</a></li>
-<li><a href="https://codepen.io/amit_sheen/pen/ZYOGpQy/fd55aa73bfdc6b21a3ba15d81cbc59a4">Animating with Mobile Accelerometers</a></li>
-<li><a href="https://pawelgrzybek.com/more-invoker-commands-and-more-reasons-not-to-use-javascript-please/">Open close dialog without JavaScript</a> More invoker commands, and more reasons not to use JavaScript please</li>
-<li><a href="https://deno.com/blog/history-of-javascript">A Brief History of JavaScript</a> May 22, 2025. This year, JavaScript turns 30.</li>
-<li><a href="https://cssauthor.com/best-data-visualization-libraries-for-web/">20 Best Data Visualization Libraries for Web in 2025</a></li>
-<li><a href="https://evilmartians.com/chronicles/how-to-detect-safari-and-ios-versions-with-ease">How to detect Safari and iOS versions with ease in 2026</a></li>
-<li><a href="https://www.kirupa.com/html5/drag.htm">Create a Draggable Element in JavaScript</a> A common gesture we use all the time and take for granted is the ability to drag an element around on screen. Despite how common this drag gesture is, there is no good built-in support for making an element draggable on the web.</li>
-<li><a href="https://duyhd.com/blog/mouse-touch-pointer-events/">Ditch Mouse/Touch Event please</a> Ditch Mouse/Touch Event please. You may ask yourself: what are those? I only use 'onClick'. Yeah that fair, 99% of the time you only need onClick event. But what if you need add some fancy animations that follow your mouse and touch movements?</li>
-</ul>
-</li>
 </ul>
 
                         <h2 id="audio-waveforms" pl-9="xs,sm">
@@ -1024,6 +1011,7 @@
                             </a>
                     Benchmarks</h2>
 <ul>
+<li><a href="https://pagegym.com/">The Page Speed Optimization Tool</a> Website speed analysis and optimization</li>
 <li><a href="https://www.projectwallace.com/">Project Wallace</a> Project Wallace is a set of CSS analyzers that check your complexity, specificity, performance, Design Tokens and much more. And all of that in a single web app.</li>
 <li><a href="https://crawlercheck.com/">CrawlerCheck</a> Instantly check if Google bots and AI crawlers can access your website.</li>
 <li><a href="https://browserscore.dev/">Browser Score</a> How does my Browser Score?</li>
@@ -1133,6 +1121,7 @@
                             </a>
                     Classless CSS frameworks</h2>
 <ul>
+<li><a href="https://github.com/Toheeb/base">Base.css</a> The web's first multipurpose classless stylesheet, with the most semantic rules, for complete customization and personalization of a webpage.</li>
 <li><a href="https://matcha.mizu.sh/">matcha.css</a> Drop-in semantic styling library in pure CSS. matcha.css is a pure CSS library designed to style HTML elements similarly to a default browser stylesheet, eliminating the need for users to manually patch their documents.</li>
 <li><a href="https://mikemai.net/mcss/">The MCSS by Mike Mai</a> A modern classless CSS framework inspired by the typefaces of Matthew Carter.</li>
 <li><a href="https://github.com/dbohdan/classless-css">GitHub - dbohdan/classless-css</a> A list of classless CSS themes/frameworks with screenshots - dbohdan/classless-css</li>
@@ -1141,6 +1130,15 @@
 <li><a href="https://newcss.net/">new.css</a> A classless CSS framework to write modern websites using only HTML.</li>
 <li><a href="https://picocss.com/">Pico.css • Minimal CSS Framework for semantic HTML</a> Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!</li>
 <li><a href="https://simplecss.org/">Simple.css - A classless CSS framework</a> A classless CSS framework that makes semantic HTML look good.</li>
+</ul>
+
+                        <h2 id="converters" pl-9="xs,sm">
+                            <a href="#converters" title="Converters" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    Converters</h2>
+<ul>
+<li><a href="https://p2r3.github.io/convert/">Convert to it!</a> Truly universal online file converter. Private, on-device conversion across mediums.</li>
 </ul>
 
                         <h2 id="css-animations" pl-9="xs,sm">
@@ -1245,6 +1243,7 @@
                             </a>
                     Color tools</h2>
 <ul>
+<li><a href="https://www.thecolorapi.com/">TheColorAPI</a> The best color conversion, naming and scheming API out there.</li>
 <li><a href="https://colorpalette.pro">Color Palette Pro — A Synthesizer for Color Palettes</a> Generate customizable color palettes in advanced color spaces that can be easily shared, downloaded, or exported.</li>
 <li><a href="https://harmonizer.evilmartians.com">Harmonizer</a> Color palette generator for UI</li>
 <li><a href="https://jakub.kr/components/oklch-colors">What are OKLCH colors?</a> oklch is a newer color model that is designed to be perceptually uniform. This means that colors are much more accurate in terms of how humans perceive them and it makes working with them much easier.</li>
@@ -1404,6 +1403,7 @@
                             </a>
                     Fun to try</h2>
 <ul>
+<li><a href="https://yuyz0112.github.io/glitch-art-maker/">Glitch Art Maker</a> 100% client-side. No upload. Process local video or webcam in real time and export WebM.</li>
 <li><a href="https://github.com/dulnan/drawmote">drawmote</a> Draw remotely with your phone</li>
 <li><a href="https://github.com/anvaka/city-roads">city-roads</a> Visualization of all roads within any city. Render every single road in any city at once.</li>
 <li><a href="https://vole.wtf/">VOLE.wtf</a>  🐹⁉️ working towards a dafter internet</li>
@@ -1886,6 +1886,15 @@
 <li><a href="https://bennettfeely.com/ztext/">ztext.js</a> 3D Typography for the WebEasy to implement, 3D typography for any website and every font.</li>
 </ul>
 
+                        <h2 id="js-tables" pl-9="xs,sm">
+                            <a href="#js-tables" title="JS Tables" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    JS Tables</h2>
+<ul>
+<li><a href="https://github.com/fiduswriter/simple-datatables">simple-datatables</a> A lightweight, extendable, JavaScript HTML table library written in TypeScript and transpilled to Vanilla JavaScript. Similar to jQuery DataTables for use in modern browsers, but without the jQuery dependency.</li>
+</ul>
+
                         <h2 id="js-timelines" pl-9="xs,sm">
                             <a href="#js-timelines" title="JS Timelines" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
                                 <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
@@ -1925,6 +1934,15 @@
 <ul>
 <li><a href="https://github.com/sasha240100/between.js">between.js</a> Lightweight JavaScript (ES6) tweening engine.</li>
 <li><a href="https://github.com/franciscop/ola">ola</a> 🌊 Smooth animation library for interpolating numbers - franciscop/ola</li>
+</ul>
+
+                        <h2 id="js-ui" pl-9="xs,sm">
+                            <a href="#js-ui" title="JS UI" class="pos-absolute top-50 left-0 t-tY-50 | p-4 ml-1 | td-none | brad-4 bc-neutral-100 bwidth-1 bstyle-dashed bcolor-neutral-500 __hover-1 __soft-shadow" ml-3="xs,sm">
+                                <span class="icon-link-simple | pos-absolute top-50 left-50 t-tY-50 t-tX-50 | fs-4"></span>
+                            </a>
+                    JS UI</h2>
+<ul>
+<li><a href="https://github.com/knadh/oat">OAT</a> Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.</li>
 </ul>
 
                         <h2 id="js-waveform" pl-9="xs,sm">
@@ -2238,6 +2256,7 @@
                             </a>
                     Vectorization</h2>
 <ul>
+<li><a href="https://svgconverter.online/">Convert PNG and JPG to SVG.</a> Convert PNG and JPG to SVG.</li>
 <li><a href="https://vectormaker.co/">vectormaker | Convert PNG-to-SVG Vectors</a> Convert images to SVG vectors, PNG-to-SVG Vectors. Vectormaker outlines your pixel based images and turns them into colored SVG vector files.</li>
 <li><a href="https://svgco.de/">SVGcode</a> SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.</li>
 <li><a href="https://vectorizer.com/">Free Image Vectorization</a> Automatically convert JPG, PNG and BMP raster images into scalable SVG vector images.</li>
@@ -2251,6 +2270,7 @@
                             </a>
                     Video</h2>
 <ul>
+<li><a href="https://eztrimmer.io/">EZTrimmer</a> Cut videos online for free — trim, split and export in seconds. No signup required.</li>
 <li><a href="https://github.com/mifi/lossless-cut">Lossless Cut</a> The swiss army knife of lossless video/audio editing</li>
 <li><a href="https://pikimov.com/">Pikimov</a> Online motion design and video editor | 100% Free | No sign up | No file uploads | No AI</li>
 <li><a href="https://avpress.zaps.dev/">AVPress</a> AVPress is an in-browser video compressor that leverages FFMPEG.wasm</li>
@@ -2265,7 +2285,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.14.3
+                        11ty LibDoc 0.14.6
                     </a>
                 </nav>
             </footer>

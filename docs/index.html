@@ -143,6 +143,7 @@
                 width: `Largeur`,
         }
         const libdocConfig = {
+            htmlBasePathPrefix: ``,
             blogTitle: `Blog`,
             blogDescription: `Fil d’articles sur le web design, la photo et le son.`,
             displayTagsListLink: true
@@ -151,7 +152,7 @@
             searchIndexUrl: `/core/assets/js/search_index.json`,
             fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
             productionUrl: `eleventy-libdoc.netlify.app`,
-            blogPostsCount: `30`
+            blogPostsCount: `31`
         }
     </script>
 </head>
@@ -382,13 +383,13 @@
                         
                             <p class="d-flex ai-center gap-2 | m-0 pr-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs">
                                 <span class="icon-calendar-dots fs-6"></span>
-                                <span ws-nowrap="sm,md">
+                                <time ws-nowrap="sm,md">
                                     
                                     
                                         Dernière modification
                                         2026-02-17
                                     
-                                </span>
+                                </time>
                             </p>
                         
                         <div class="pl-5 w-100 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
@@ -429,6 +430,11 @@
 <p>Derniers articles du blog:</p>
 <ul>
 <li>
+    <a href="/blog/2026-03-new-frontend-links-march-2026/">
+        2026-03-23 Frontend Links March 2026
+    </a> <br>
+    Newly added links with CSS, JavaScript, articles and fun
+</li><li>
     <a href="/blog/ancien-village-de-roselend/">
         2026-03-03 L’ancien village de Roselend
     </a> <br>
@@ -438,13 +444,9 @@
         2026-03-03 La construction du barrage de Roselend
     </a> <br>
     Galerie de photographies anciennes de la construction du barrage de Roselend
-</li><li>
-    <a href="/blog/2026-02-new-frontend-links-february-2026/">
-        2026-02-18 Frontend Links February 2026
-    </a> <br>
-    Newly added links with CSS, JavaScript and articles
 </li>
 </ul>
+<hr>
 <aside class="widget widget-iconCard">
 <p class="d-flex gap-5 | p-5 m-0 | brad-3 bwidth-1 bstyle-dashed bcolor-neutral-500">
 <span class="icon-star fs-10 | c-primary-500" fs-8="xs"></span>
@@ -490,7 +492,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.14.3
+                        11ty LibDoc 0.14.6
                     </a>
                 </nav>
             </footer>

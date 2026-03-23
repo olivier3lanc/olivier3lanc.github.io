@@ -33,33 +33,13 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. 
 * [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
 
+## AI
+
+* [Detect AI-generated images at scale](https://sightengine.com/detect-ai-generated-images) Our AI image detector automatically detects images from popular AI generators. No watermarks needed.
+
 ## Animation
 
 * [Frame Zero](https://www.framezero.app/) The Whiteboard Video Editor. A simpler way to create animated videos. Built for explaining ideas visually. 
-
-## Articles
-
-* General purpose
-    * [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
-    * [25 years of Wikipedia](https://wikipedia25.org/en/) From dial-up days to now, travel through Wikipedia's history. Today, Wikipedia is the backbone of knowledge on the internet—but everything has to start somewhere. For Wikipedia, that was a blank website and a dream.
-    * [Web Design Museum](https://www.webdesignmuseum.org/) Unlock Your Digital Memories. Web Design Museum exhibits thousands of screenshots and videos of websites, apps, software, and Flash games from the 1990s to the late 2000s.
-* HTML
-    * [Performance-Optimized Video Embeds with Zero JavaScript](https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript/)
-    * [How to Favicon in 2026: Three files that fit most needs](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
-    * [Cool native HTML elements you should already be using](https://harrisonbroadbent.com/blog/cool-native-html-elements/)
-    * [A complete guide to the HTML number input](https://olliewilliams.xyz/blog/guide-to-html-number-input/)
-    * [Accessible Names and Labels: Understanding What Works and What Doesn’t](https://vispero.com/resources/accessible-names-and-labels-understanding-what-works-and-what-doesnt/)
-    * [You’re loading fonts wrong (and it’s crippling your performance)](https://www.jonoalderson.com/performance/youre-loading-fonts-wrong/) Fonts are one of the most visible, most powerful parts of the web. They carry our brands, shape our identities, and define how every word feels. They’re the connective tissue between design, content, and experience.
-    * [Make any website load faster with 6 lines of HTML](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html) Ever clicked a link and had the next page appear almost instantly? That magical, speedy experience is becoming easier to achieve thanks to the Chrome Speculation Rules API. This new browser feature helps make navigation feel instant with just a few lines of HTML.
-* JavaScript
-    * [Beyond the Mouse: Animating with Mobile Accelerometers](https://frontendmasters.com/blog/beyond-the-mouse-animating-with-mobile-accelerometers/)
-    * [Animating with Mobile Accelerometers](https://codepen.io/amit_sheen/pen/ZYOGpQy/fd55aa73bfdc6b21a3ba15d81cbc59a4)
-    * [Open close dialog without JavaScript](https://pawelgrzybek.com/more-invoker-commands-and-more-reasons-not-to-use-javascript-please/) More invoker commands, and more reasons not to use JavaScript please
-    * [A Brief History of JavaScript](https://deno.com/blog/history-of-javascript) May 22, 2025. This year, JavaScript turns 30.
-    * [20 Best Data Visualization Libraries for Web in 2025](https://cssauthor.com/best-data-visualization-libraries-for-web/)
-    * [How to detect Safari and iOS versions with ease in 2026](https://evilmartians.com/chronicles/how-to-detect-safari-and-ios-versions-with-ease)
-    * [Create a Draggable Element in JavaScript](https://www.kirupa.com/html5/drag.htm) A common gesture we use all the time and take for granted is the ability to drag an element around on screen. Despite how common this drag gesture is, there is no good built-in support for making an element draggable on the web.
-    * [Ditch Mouse/Touch Event please](https://duyhd.com/blog/mouse-touch-pointer-events/) Ditch Mouse/Touch Event please. You may ask yourself: what are those? I only use 'onClick'. Yeah that fair, 99% of the time you only need onClick event. But what if you need add some fancy animations that follow your mouse and touch movements?
 
 ## Audio waveforms
 
@@ -73,6 +53,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Benchmarks
 
+* [The Page Speed Optimization Tool](https://pagegym.com/) Website speed analysis and optimization
 * [Project Wallace](https://www.projectwallace.com/) Project Wallace is a set of CSS analyzers that check your complexity, specificity, performance, Design Tokens and much more. And all of that in a single web app.
 * [CrawlerCheck](https://crawlercheck.com/) Instantly check if Google bots and AI crawlers can access your website.
 * [Browser Score](https://browserscore.dev/) How does my Browser Score?
@@ -142,6 +123,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Classless CSS frameworks
 
+* [Base.css](https://github.com/Toheeb/base) The web's first multipurpose classless stylesheet, with the most semantic rules, for complete customization and personalization of a webpage. 
 * [matcha.css](https://matcha.mizu.sh/) Drop-in semantic styling library in pure CSS. matcha.css is a pure CSS library designed to style HTML elements similarly to a default browser stylesheet, eliminating the need for users to manually patch their documents.
 * [The MCSS by Mike Mai](https://mikemai.net/mcss/) A modern classless CSS framework inspired by the typefaces of Matthew Carter.
 * [GitHub - dbohdan/classless-css](https://github.com/dbohdan/classless-css) A list of classless CSS themes/frameworks with screenshots - dbohdan/classless-css
@@ -150,6 +132,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [new.css](https://newcss.net/) A classless CSS framework to write modern websites using only HTML.
 * [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/) Elegant styles for all natives HTML elements without .classes and dark mode automatically enabled. 7.9 kB minified and gzipped!
 * [Simple.css - A classless CSS framework](https://simplecss.org/) A classless CSS framework that makes semantic HTML look good.
+
+## Converters
+
+* [Convert to it!](https://p2r3.github.io/convert/) Truly universal online file converter. Private, on-device conversion across mediums.
 
 ## CSS Animations
 
@@ -204,6 +190,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Color tools
 
+* [TheColorAPI](https://www.thecolorapi.com/) The best color conversion, naming and scheming API out there.
 * [Color Palette Pro — A Synthesizer for Color Palettes](https://colorpalette.pro) Generate customizable color palettes in advanced color spaces that can be easily shared, downloaded, or exported.
 * [Harmonizer](https://harmonizer.evilmartians.com) Color palette generator for UI
 * [What are OKLCH colors?](https://jakub.kr/components/oklch-colors) oklch is a newer color model that is designed to be perceptually uniform. This means that colors are much more accurate in terms of how humans perceive them and it makes working with them much easier.
@@ -323,6 +310,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Fun to try
 
+* [Glitch Art Maker](https://yuyz0112.github.io/glitch-art-maker/) 100% client-side. No upload. Process local video or webcam in real time and export WebM.
 * [drawmote](https://github.com/dulnan/drawmote) Draw remotely with your phone
 * [city-roads](https://github.com/anvaka/city-roads) Visualization of all roads within any city. Render every single road in any city at once.
 * [VOLE.wtf](https://vole.wtf/)  🐹⁉️ working towards a dafter internet
@@ -619,6 +607,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [ityped](https://github.com/luisvinicius167/ityped) Dead simple Javascript animated typing, with no dependencies.
 * [ztext.js](https://bennettfeely.com/ztext/) 3D Typography for the WebEasy to implement, 3D typography for any website and every font.
 
+## JS Tables
+
+* [simple-datatables](https://github.com/fiduswriter/simple-datatables) A lightweight, extendable, JavaScript HTML table library written in TypeScript and transpilled to Vanilla JavaScript. Similar to jQuery DataTables for use in modern browsers, but without the jQuery dependency.
+
 ## JS Timelines
 
 * [vis-timeline](https://github.com/visjs/vis-timeline) 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
@@ -639,6 +631,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 * [between.js](https://github.com/sasha240100/between.js) Lightweight JavaScript (ES6) tweening engine.
 * [ola](https://github.com/franciscop/ola) 🌊 Smooth animation library for interpolating numbers - franciscop/ola
+
+## JS UI
+
+* [OAT](https://github.com/knadh/oat) Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz. 
 
 ## JS Waveform
 
@@ -853,6 +849,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Vectorization
 
+* [Convert PNG and JPG to SVG.](https://svgconverter.online/) Convert PNG and JPG to SVG.
 * [vectormaker | Convert PNG-to-SVG Vectors](https://vectormaker.co/) Convert images to SVG vectors, PNG-to-SVG Vectors. Vectormaker outlines your pixel based images and turns them into colored SVG vector files.
 * [SVGcode](https://svgco.de/) SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
 * [Free Image Vectorization](https://vectorizer.com/) Automatically convert JPG, PNG and BMP raster images into scalable SVG vector images.
@@ -861,6 +858,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Video
 
+* [EZTrimmer](https://eztrimmer.io/) Cut videos online for free — trim, split and export in seconds. No signup required.
 * [Lossless Cut](https://github.com/mifi/lossless-cut) The swiss army knife of lossless video/audio editing 
 * [Pikimov](https://pikimov.com/) Online motion design and video editor | 100% Free | No sign up | No file uploads | No AI 
 * [AVPress](https://avpress.zaps.dev/) AVPress is an in-browser video compressor that leverages FFMPEG.wasm

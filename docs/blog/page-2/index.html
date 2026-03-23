@@ -157,6 +157,7 @@
                 width: `Largeur`,
         }
         const libdocConfig = {
+            htmlBasePathPrefix: ``,
             blogTitle: `Blog`,
             blogDescription: `Fil d’articles sur le web design, la photo et le son.`,
             displayTagsListLink: true
@@ -165,7 +166,7 @@
             searchIndexUrl: `/core/assets/js/search_index.json`,
             fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
             productionUrl: `eleventy-libdoc.netlify.app`,
-            blogPostsCount: `30`
+            blogPostsCount: `31`
         }
     </script>
 </head>
@@ -433,6 +434,27 @@
             <li class="d-flex ai-center">
                 <div class="pos-absolute t-tX-50 | p-1 | bc-primary-500 brad-4"></div>
                 <div class="pl-10 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" pl-5="xs"></div>
+                <a href="/blog/new-frontend-links-august-2025/" class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | brad-2 bwidth-1 bstyle-dashed | blog-post-link">
+                        <picture class="eleventy-image"><source type="image/avif" srcset="/blog/page-2/frontend-20links-20-august-202025-yD0OkWwswA-__1200__.avif 1200w"><img loading="lazy" decoding="async" src="/blog/page-2/frontend-20links-20-august-202025-yD0OkWwswA-__1200__.webp" alt="Frontend Links August 2025" class="w-100 h-auto | brad-2 bc-primary-200" width="1200" height="685"></picture>
+                    <span class="d-flex ai-center gap-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-primary-900" fs-2="xs">
+                        <span class="icon-calendar-dots fs-8 | c-neutral-500" fs-6="xs"></span>
+                        <span class="d-flex jc-space-between ai-center fg-1 gap-5 | c-neutral-700" ws-nowrap="sm,md">
+                            2025-08-21
+                            
+                        </span>
+                    </span>
+                    <strong class="fs-8 lsp-5 fvs-wght-600 lh-3" fs-5="xs">
+                        Frontend Links August 2025
+                    </strong>
+                    <span class="fs-4 fvs-wght-400 lh-5 | c-neutral-700" fs-3="xs">
+                        Newly added links
+                    </span>
+                </a>
+            </li>
+        
+            <li class="d-flex ai-center">
+                <div class="pos-absolute t-tX-50 | p-1 | bc-primary-500 brad-4"></div>
+                <div class="pl-10 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" pl-5="xs"></div>
                 <a href="/blog/new-frontend-links-july-2025/" class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | brad-2 bwidth-1 bstyle-dashed | blog-post-link">
                         <picture class="eleventy-image"><source type="image/avif" srcset="/blog/page-2/frontend-20links-20july-202025-RMJsPtNd3M-__1200__.avif 1200w"><img loading="lazy" decoding="async" src="/blog/page-2/frontend-20links-20july-202025-RMJsPtNd3M-__1200__.webp" alt="Frontend Links July 2025" class="w-100 h-auto | brad-2 bc-primary-200" width="1200" height="685"></picture>
                     <span class="d-flex ai-center gap-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-primary-900" fs-2="xs">
@@ -661,27 +683,6 @@
                 </a>
             </li>
         
-            <li class="d-flex ai-center">
-                <div class="pos-absolute t-tX-50 | p-1 | bc-primary-500 brad-4"></div>
-                <div class="pl-10 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" pl-5="xs"></div>
-                <a href="/blog/albertville-10eme-etage-2014/" class="d-flex fd-column gap-2 fg-1 | p-5 | td-none | brad-2 bwidth-1 bstyle-dashed | blog-post-link">
-                        <picture class="eleventy-image"><source type="image/avif" srcset="/blog/page-2/albertville-10e-etage-2014-p7APnzQGXG-__1200__.avif 1200w"><img loading="lazy" decoding="async" src="/blog/page-2/albertville-10e-etage-2014-p7APnzQGXG-__1200__.webp" alt="Albertville 10ème étage - 2014" class="w-100 h-auto | brad-2 bc-primary-200" width="1200" height="379"></picture>
-                    <span class="d-flex ai-center gap-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-primary-900" fs-2="xs">
-                        <span class="icon-calendar-dots fs-8 | c-neutral-500" fs-6="xs"></span>
-                        <span class="d-flex jc-space-between ai-center fg-1 gap-5 | c-neutral-700" ws-nowrap="sm,md">
-                            2014-12-31
-                            
-                        </span>
-                    </span>
-                    <strong class="fs-8 lsp-5 fvs-wght-600 lh-3" fs-5="xs">
-                        Albertville 10ème étage - 2014
-                    </strong>
-                    <span class="fs-4 fvs-wght-400 lh-5 | c-neutral-700" fs-3="xs">
-                        Photographies réalisées depuis un dixième étage à Albertville durant l’année 2014
-                    </span>
-                </a>
-            </li>
-        
     </ol>
 
     <nav class="d-flex gap-2 fw-wrap | pl-10 pt-10 | blwidth-1 blstyle-dashed bcolor-neutral-500" pl-5="xs,sm">
@@ -709,7 +710,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.14.3
+                        11ty LibDoc 0.14.6
                     </a>
                 </nav>
             </footer>

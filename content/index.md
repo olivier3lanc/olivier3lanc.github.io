@@ -19,7 +19,7 @@ Derniers articles du blog:
     {{ item.data.description }}
 </li>{% endfor %}
 </ul>
-
+<hr>
 {% iconCard '[Portfolio](/content/portfolio/portfolio.md)', 'Réalisations web dans le cadre de mon travail', 'star' %}
 {% iconCard '[Webdesign](/content/webdesign-personnel/webdesign-personnel.md)', 'Création personnelles HTML, CSS et JavaScript', 'code' %}
 {% iconCard '[Photographies](/content/photographies/photographies.md)', 'Albums de photographies créations photo personnelles', 'images' %}

@@ -143,6 +143,7 @@
                 width: `Largeur`,
         }
         const libdocConfig = {
+            htmlBasePathPrefix: ``,
             blogTitle: `Blog`,
             blogDescription: `Fil d’articles sur le web design, la photo et le son.`,
             displayTagsListLink: true
@@ -151,7 +152,7 @@
             searchIndexUrl: `/core/assets/js/search_index.json`,
             fuzzyIndexUrl: `/core/assets/js/fuzzy_index.json`,
             productionUrl: `eleventy-libdoc.netlify.app`,
-            blogPostsCount: `30`
+            blogPostsCount: `31`
         }
     </script>
 </head>
@@ -405,13 +406,13 @@
                         
                             <p class="d-flex ai-center gap-2 | m-0 pr-2 | fvs-wght-400 fs-3 lsp-3 lh-3 | c-neutral-700 bc-primary-100" fs-2="xs">
                                 <span class="icon-calendar-dots fs-6"></span>
-                                <span ws-nowrap="sm,md">
+                                <time ws-nowrap="sm,md">
                                     
                                     
                                         
                                         2022-12-31
                                     
-                                </span>
+                                </time>
                             </p>
                         
                         <div class="pl-5 w-100 | bbwidth-1 bbstyle-dashed bcolor-neutral-500"></div>
@@ -621,7 +622,7 @@
                     <div class="w-100" d-none="sm,md"></div>
                     <div class="pl-5 | bbwidth-1 bbstyle-dashed bcolor-neutral-500" w-100="sm,md"></div>
                     <a href="https://github.com/ita-design-system/eleventy-libdoc" target="_blank" class="d-flex ai-center gap-2 | pl-2 pr-2 | fvs-wght-400 fs-2 lsp-3 lh-3 td-none ws-nowrap">
-                        11ty LibDoc 0.14.3
+                        11ty LibDoc 0.14.6
                     </a>
                 </nav>
             </footer>

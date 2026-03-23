@@ -24,7 +24,8 @@ photos:
         wide: false
     -   text: "Hôtel Mont Blanc juillet 1935"
         url: "/sources/blog/ancien-village-de-roselend/ancien-village-de-roselend-hotel-mont-blanc-juillet-1935.png"
-        wide: false
+    -   text: "Vue depuis le col de sur Frêtes en juillet 1937"
+        url: "/sources/blog/ancien-village-de-roselend/ancien-village-de-roselend-col-sur-fretes-07-1935.jpg"
     -   text: "Roselend et le Rocher du Vent en septembre 1937"
         url: "/sources/blog/ancien-village-de-roselend/ancien-village-de-roselend-rocher-du-vent-6-septembre-1937.png"
     -   text: "Roselend et le Rocher du Vent avec l’hôtel Couttet au premier plan en septembre 1937"
