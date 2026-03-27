@@ -80,7 +80,7 @@ photos:
 
     -   text: "Vue aérienne du début des travaux depuis le bélvédère côté col du Pré le 30 mai 1958"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-vue-aerienne-30-05-1958.jpg"
-    -   text: "Début des travaux, vue depuis le lac, pont des Reys permettant de se rendre à Treicol"
+    -   text: "Début des travaux, vue depuis le lac, pont des Reys permettant de se rendre à Treicol - 05/09/1957"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-debut-travaux-pont-des-reys.jpg"
     -   text: "Début des travaux, installations du chantier côté Méraillet - 27-09-1956"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-debut-travaux-27-09-1956.jpg"
@@ -126,8 +126,8 @@ photos:
     -   text: "Vue nocture globale côté col du Pré de la construction du barrage"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-chantier-de-nuit.jpg"
         wide: false
-    -   text: "Autre vue nocture globale côté col du Pré de la construction du barrage"
-        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-nuit-cote-col-pre.jpg"
+    -   text: "Autre vue nocture globale côté col du Méraillet de la construction du barrage"
+        url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-nuit-cote-col-meraillet.jpg"
         wide: false
     -   text: "Carrières et installations de concassage et de stockage des agrégats"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-le-beton.jpg"
@@ -224,7 +224,14 @@ hommes:
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-etayage-galeries.png"
     -   text: "Ouvriers sur le terrassement de la conduite qui mène à La Bathie"
         url: "/sources/blog/la-construction-du-barrage-de-roselend/construction-barrage-roselend-ouvriers-terrassement-conduite.png"
+
 animationsCourtes:
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-belvedere-col-du-pre.avif"
+        alt: "Vue depuis le belvédère situé côté col du Pré"
+        figcaption: "Animation courte - Vue depuis le belvédère situé côté col du Pré"
+    -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-aval-contreforts.avif"
+        alt: "Chantier au pied des contreforts"
+        figcaption: "Animation courte - Circulation du chantier au pied des contreforts"
     -   url: "/assets/img/la-construction-du-barrage-de-roselend/construction-barrage-roselend-animation-courte-ouvrier-creusement-galerie.avif"
         alt: "Ouvrier en train de creuser une galerie"
         figcaption: "Animation courte - Sur le chantier, un ouvrier du barrage de Roselend touchait un salaire mensuel équivalent à 6 mois de revenu d’un agriculteur du coin"
@@ -585,6 +592,7 @@ Les images de faible définition ont été agrandies à l’aide [d’Upscayl](h
 * Vidéo [Le Barrage de Roselend](https://www.cimalpes.fr/films-de-montagne-barrage-de-roselend-le-752-214-0-0.html) - documentaire de Henri Antoine 
 * Vidéo [Au coeur de la Savoie, Roselend](https://www.letelepherique.org/Films-Au-coeur-de-la-Savoie-Roselend-672-1820-0-0.html) de Claudine Lenoir
 * Vidéo [Roselend, mémoires d’un barrage](https://www.youtube.com/watch?v=ovFknXYPw8g) par Michel Garnier, Productions de la Lanterne.
+* Vidéo [Appareils Dragon](https://www.cimalpes.fr/Films-de-montagne-Appareils-Dragon-752-3567-0-14.html) Documentaire disponible à la  [Cinémathèque d’images de Montagne](https://www.cimalpes.fr)
 * Document PDF [Aménagement hydroélectrique de Roselend (Savoie) conduite forcée de l'usine de La Bâthie](https://www.shf-lhb.org/articles/lhb/pdf/1960/03/lhb1960020.pdf) par R. Cartier
 * Document PDF [La Houille Blanche, N°3 (Mai 1960)](https://www.shf-lhb.org/articles/lhb/abs/1960/05/lhb1960041/lhb1960041.html) [supplément graphique](https://www.shf-lhb.org/articles/lhb/pdf/1960/05/lhb1960041.pdf)
 * [Remonter le temps par IGN](https://remonterletemps.ign.fr/)

@@ -305,11 +305,6 @@
             "description": " "
         },
         {
-            "url": "/",
-            "title": "Olivier 3lanc",
-            "description": "Développeur front-end hybride UI et UX "
-        },
-        {
             "url": "/blog/2026-02-new-frontend-links-february-2026/",
             "title": "Frontend Links February 2026",
             "description": "Newly added links with CSS, JavaScript and articles post frontend-links"
@@ -338,5 +333,10 @@
             "url": "/blog/2026-03-new-frontend-links-march-2026/",
             "title": "Frontend Links March 2026",
             "description": "Newly added links with CSS, JavaScript, articles and fun post frontend-links"
+        },
+        {
+            "url": "/",
+            "title": "Olivier 3lanc",
+            "description": "Développeur front-end hybride UI et UX "
         }
 ]
