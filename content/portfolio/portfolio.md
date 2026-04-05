@@ -127,10 +127,10 @@ Autres pages :
 <figure>
     <img src="/sources/pro/cosmobilis.png"
         alt="Écrans Cosmobilis">
-    <figcaption>Site web de la maison-mère de BYmyCAR et UCAR. Intégration complète HTML, CSS et Vanilla JavaScript.</figcaption>
+    <figcaption>Site web de la maison-mère de BYmyCAR et UCAR en 2022. Intégration complète HTML, CSS et Vanilla JavaScript.</figcaption>
 </figure>
 
-<a href="https://cosmobilis.eu/fr/" class="btn btn-primary">Site web Cosmobilis</a>
+<a href="#!" class="btn btn-primary pe-none opa-5">Site web Cosmobilis</a>
 
 ### Marcel Rent proto
 

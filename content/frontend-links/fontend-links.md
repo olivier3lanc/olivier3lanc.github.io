@@ -7,7 +7,7 @@ permalink: frontend-links/index.html
 eleventyNavigation:
     key: Frontend links
     order: 120
-date: 2026-02-18
+date: 2026-04-05
 tags:
     - frontend-links
 ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=140px"
@@ -15,7 +15,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 ## Everyday use
 
 * [MDN Web Docs](https://developer.mozilla.org) The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
-* [Visual Studio Code](https://code.visualstudio.com/) Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+* [VSCodium](https://vscodium.com/) Free/Libre Open Source Software Binaries of VS Code. Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) Faster page loading, less memory usage and packed with features, the new Firefox is here.
 * [Can I use](https://caniuse.com/) Support tables for HTML5, CSS3, etc. "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
@@ -40,6 +40,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 ## Animation
 
 * [Frame Zero](https://www.framezero.app/) The Whiteboard Video Editor. A simpler way to create animated videos. Built for explaining ideas visually. 
+
+## Archiving
+
+* [archive.today](https://archive.ph/) archive.ph allows you to create a copy of a webpage that will always be up even if the original link is down
 
 ## Audio waveforms
 
@@ -369,6 +373,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Hosting and domains
 
+* [slim.sh](https://slim.sh/)  Give your localhost a local or public URL. Turn localhost:3000 into https://app.test with path routing, HTTPS, HMR support, or get a public url without deployment. 
 * [Yunohost](https://yunohost.org/fr) Yunohost Documentation
 * [JS.ORG](https://js.org/) Dedicated to JavaScript and its awesome community since 2015
 * [Who is Hosting This?](https://www.whoishostingthis.com/) Is this domain available, or taken? Who is hosting this website? Find out using our domain tool, with full WHOIS records for registered domains.
@@ -377,6 +382,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Icon sets
 
+* [flag-icons](https://github.com/lipis/flag-icons) 🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration 
 * [Griddy Icons](https://griddyicons.com/) Griddy Icons is free open-source icon family with unique utilitarian vibe
 * [All SVG Icons](https://allsvgicons.com/) Browse and download 250,000+ free SVG icons for your projects that are free to use and customizable. Copy Raw SVG code or download as PNG, SVG, JSX or Base64 formats. Alternative of Flaticon, Iconmonstr, SVG Repo.
 * [Iconify](https://icon-sets.iconify.design/) Open source vector icons from all popular icon sets
@@ -642,6 +648,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## JSON
 
+* [visual-json](https://visual-json.dev/) The visual JSON editor. Schema-aware, embeddable, extensible.
 * [JSON Format Online](https://formatjsononline.com/) Format JSON Online is a free, browser-based JSON toolkit that formats, validates, and minifies JSON data without requiring account registration. It processes files up to 100MB entirely client-side using Web Workers, ensuring user data never leaves the browser. The platform includes 60+ tools including an AI-powered error fixer, visual diff checker, and converters for XML, YAML, CSV, and 15+ other
 * [JSON Editor](https://github.com/json-editor/json-editor) JSON Schema Based Editor 
 * [JSON blob](https://jsonblob.com/) create, edit, view, format, and share JSON
@@ -788,6 +795,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [regex101: build, test, and debug regex](https://regex101.com/) Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.
 * [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
+## Screen capture
+
+* [OpenScreen](https://github.com/siddharthvaddem/openscreen) Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+
 ## Sitemaps Timelines and Roadmaps
 
 * [StartTreeV2: 🌳](https://github.com/AlexW00/StartTreeV2) 🌳 A $tree styled start page generator! Contribute to AlexW00/StartTreeV2 development by creating an account on GitHub.
@@ -858,6 +869,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Video
 
+* [Tooscut](https://tooscut.app/) Professional video editing, right in your browser. A powerful NLE editor with GPU compositing, keyframe animation, and real-time preview. No installs required.
 * [EZTrimmer](https://eztrimmer.io/) Cut videos online for free — trim, split and export in seconds. No signup required.
 * [Lossless Cut](https://github.com/mifi/lossless-cut) The swiss army knife of lossless video/audio editing 
 * [Pikimov](https://pikimov.com/) Online motion design and video editor | 100% Free | No sign up | No file uploads | No AI 

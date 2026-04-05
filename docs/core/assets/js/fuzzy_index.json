@@ -310,11 +310,6 @@
             "description": "Newly added links with CSS, JavaScript and articles post frontend-links"
         },
         {
-            "url": "/frontend-links/",
-            "title": "Frontend links",
-            "description": "A curated list of useful front-end tools, libraries and nice web things. frontend-links"
-        },
-        {
             "url": "/portfolio/",
             "title": "Portfolio",
             "description": "Réalisations web dans le cadre de mon travail "
@@ -338,5 +333,15 @@
             "url": "/",
             "title": "Olivier 3lanc",
             "description": "Développeur front-end hybride UI et UX "
+        },
+        {
+            "url": "/blog/2026-04-new-frontend-links-april-2026/",
+            "title": "Frontend Links April 2026",
+            "description": "Newly added links tools and IDE post frontend-links"
+        },
+        {
+            "url": "/frontend-links/",
+            "title": "Frontend links",
+            "description": "A curated list of useful front-end tools, libraries and nice web things. frontend-links"
         }
 ]

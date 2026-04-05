@@ -4,11 +4,40 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2026-03-23T00:00:00Z</updated>
+    <updated>2026-04-05T00:00:00Z</updated>
     <id>https://olivier3lanc.github.io/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links April 2026</title>
+            <link href="https://olivier3lanc.github.io/blog/2026-04-new-frontend-links-april-2026/" />
+            <updated>2026-04-05T00:00:00Z</updated>
+            <id>https://olivier3lanc.github.io/blog/2026-04-new-frontend-links-april-2026/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**April%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links April 2026&quot;&gt;
+                &lt;h2&gt;IDE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://vscodium.com/&quot;&gt;VSCOdium&lt;/a&gt; Free/Libre Open Source Software Binaries of VS Code. Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://slim.sh/&quot;&gt;slim.sh&lt;/a&gt;  Give your localhost a local or public URL. Turn localhost:3000 into https://app.test with path routing, HTTPS, HMR support, or get a public url without deployment.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/siddharthvaddem/openscreen&quot;&gt;OpenScreen&lt;/a&gt; Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tooscut.app/&quot;&gt;Tooscut&lt;/a&gt; Professional video editing, right in your browser. A powerful NLE editor with GPU compositing, keyframe animation, and real-time preview. No installs required.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://visual-json.dev/&quot;&gt;visual-json&lt;/a&gt; The visual JSON editor. Schema-aware, embeddable, extensible.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://archive.ph/&quot;&gt;archive.today&lt;/a&gt; archive.ph allows you to create a copy of a webpage that will always be up even if the original link is down&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Icons&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/lipis/flag-icons&quot;&gt;flag-icons&lt;/a&gt; 🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links March 2026</title>
             <link href="https://olivier3lanc.github.io/blog/2026-03-new-frontend-links-march-2026/" />
