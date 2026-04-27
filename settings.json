@@ -23,6 +23,10 @@
         {
             "url": "mailto:olivier3lanc@gmail.com",
             "text": "email"
+        },
+        {
+            "url": "https://www.olivewhite.com",
+            "text": "Photographies"
         }
     ],
     "ogImageUrl": "https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png",
