@@ -4,9 +4,10 @@
     "siteDescription": "Développeur front-end hybride UI et UX",
     "author": "0livier 3lanc",
     "blogTitle": "Blog",
-    "blogDescription": "Fil d’articles sur le web design, la photo et le son.",
+    "blogDescription": "Fil d’articles sur le web design",
     "blogSlug": "blog",
     "blogAuthor": "Olivier 3lanc",
+    "displayTagsListLink": false,
     "customLinks": [
         {
             "url": "/feed.xml",
@@ -29,12 +30,9 @@
             "text": "Photographies"
         }
     ],
-    "ogImageUrl": "https://olivier3lanc.github.io/assets/ogimage-olivier-3lanc.png",
+    "ogImageUrl": "https://olivier3lanc.me/assets/ogimage-olivier-3lanc.png",
     "htmlBasePathPrefix": "",
     "imgBgColorLightMode": "black",
     "imgBgColorDarkMode": "black",
-    "productionUrl": "https://olivier3lanc.github.io",
-    "ogImageUrlForEachTag": {
-        "albertville-10eme-etage": "https://cdn.jsdelivr.net/gh/olivier3lanc/cinematics-resources@master/ogimage-albertville-10e-etage.avif"
-    }
+    "productionUrl": "https://olivier3lanc.me"
 }

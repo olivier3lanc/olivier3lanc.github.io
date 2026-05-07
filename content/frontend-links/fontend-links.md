@@ -6,7 +6,7 @@ layout: libdoc_page.liquid
 permalink: frontend-links/index.html
 eleventyNavigation:
     key: Frontend links
-    order: 120
+    order: 90
 date: 2026-04-05
 tags:
     - frontend-links
@@ -95,6 +95,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Characters and glyphs
 
+* [Charcuterie](https://charcuterie.elastiq.ch) Charcuterie is a visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
 * [SYMBL (◕‿◕)](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
 * [CopyChar](https://copychar.cc/) A basic app that allows you to find and copy special characters to your clipboard. Click or tap on a character and it will be copied to your clipboard.
 * [Glyphy](https://www.glyphy.io/) Glyphy is a simple online tool that allows you to easily copy popular ASCII characters & other symbols (also known as glyphs) to your device's clipboard, so that you can then paste them to any document or app you want. Copy and paste glyph's such as ‣ ÷ ½ → ✓ ♥ ⌘ … with ease!
@@ -105,6 +106,8 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Charts and diagrams
 
+* [DataType](https://github.com/franktisellano/datatype) Datatype is a variable font that turns text into charts.
+* [Mono Sketch](https://app.monosketch.io) An ASCII graph drawing app.
 * [Wiretext — Unicode Wireframe Design Tool](https://wiretext.app/) A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
 * [ASCII Drawing Board](https://www.delopsu.com/draw) Set a brush (almost any unicode character), canvas size and export art as a text file.
 * [Make Graph](https://makegraph.app/) Create Beautiful Charts and Graphs Online. Transform your data into stunning visualizations with our free, powerful chart maker. No downloads, no sign-ups—just beautiful charts in seconds.
@@ -166,6 +169,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## CSS Clip Paths
  
+* [Fancy Frames](https://css-generators.com/fancy-frame/) Use clip-path: shape() to create a lot of CSS-only fancy frames. Get an optimized & modern code in no time.
 * [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/) The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.
 
 ## CSS Printing
@@ -314,6 +318,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Fun to try
 
+* [100 Jumps](https://boredzebra.com/100jumps/) Hold to charge, release to jump. Land on 100 platforms to win — but one miss and it's over. How many attempts will it take you?
 * [Glitch Art Maker](https://yuyz0112.github.io/glitch-art-maker/) 100% client-side. No upload. Process local video or webcam in real time and export WebM.
 * [drawmote](https://github.com/dulnan/drawmote) Draw remotely with your phone
 * [city-roads](https://github.com/anvaka/city-roads) Visualization of all roads within any city. Render every single road in any city at once.
@@ -397,6 +402,8 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Image services
 
+* [BDFM](https://bitmap.designfamilymarket.com/) Bitmap generator
+* [SLITSCANNER](https://www.slitscanner.app/) Image and Text Distortion Art Creation Tool. Free slit-scan art creation tool. Works in your browser and on your phone. Distort, warp, and drag images, text, and selphies with this tool that simulates moving objects on a flatbed scanner.
 * [Dither Me This](https://doodad.dev/dither-me-this/) Use this tool to reduce the file size of an image… but in a stylish old-school way. It uses dithering to reduce the colors in an image, and places dots to emulate the missing shades. Dithering is used to display images on screens with limited colors palettes — it has the modern advantage of making web pages load faster. Upload an image and click the preset buttons to see what it can do.
 * [Image cache & resize service](https://images.weserv.nl/) Manipulate images on-the-fly with a worldwide cache
 * [TinyPNG – Compress WebP, PNG and JPEG images intelligently](https://tinypng.com/) Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!
@@ -500,6 +507,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 * [lazy-brush](https://github.com/dulnan/lazy-brush) Smooth drawing with mouse, finger or other pointing device 
 * [CSS Doodle](https://github.com/css-doodle/css-doodle) 🎨 A web component for drawing patterns with CSS. 
+
+## JS Effects
+
+* [liquid glass](https://github.com/ybouane/liquidglass) A liquid glass effect library for the web. Apply realistic glass refraction, blur, chromatic aberration, and lighting effects to any HTML element using WebGL shaders. 
 
 ## JS Embeds
 
@@ -656,6 +667,8 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Learning
 
+* [Hacker Laws](https://github.com/dwmkerr/hacker-laws) or [Hacker Laws](https://hacker-laws.com/) 🧠 Laws, Theories, Principles and Patterns for developers and technologists. 
+* [Laws of Software Engineering](https://lawsofsoftwareengineering.com/) A collection of principles and patterns that shape software systems, teams, and decisions.
 * [Modern CSS Round-Out Tabs](https://frontendmasters.com/blog/modern-css-round-out-tabs/) Quite a while back I made a set of “round out” tabs, where the literal tab part of the UI would connect to the content below with a rounded edge that flared out as it connected. A bit tricky of a situation, even now! 
 * [Exercism](https://exercism.org/) Get really good at programming. Develop fluency in 79 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever.
 * [Dark Design Patterns Catalog](https://jakobnielsenphd.substack.com/p/dark-design) New regulations from the Government of India prohibit the use of 12 common dark design patterns. These sneaky practices are unethical applications of established UX knowledge to make interface designs that harm users instead of helping them.
@@ -718,6 +731,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Mockups
 
+* [Mokkit](https://mokkit.co/) Create animated, transparent device mockups that convert. Ready in seconds, no design skills needed.
 * [PostSpark](https://postspark.app/) Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
 * [Mockup Creator](https://designstripe.com/mockups/) Create Better Mockup with Designstripe
 * [ImageFactory.io](https://imagefactory.io/) Personalisation done really well. Create videos, gifs or images in bulk

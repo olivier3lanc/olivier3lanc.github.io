@@ -3,17 +3,56 @@
     <title>Olivier 3lanc</title>
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
-    <link href="https://olivier3lanc.github.io/feed.xml" />
-    <updated>2026-04-05T00:00:00Z</updated>
-    <id>https://olivier3lanc.github.io/feed.xml</id>
+    <link href="https://olivier3lanc.me/feed.xml" />
+    <updated>2026-05-07T00:00:00Z</updated>
+    <id>https://olivier3lanc.me/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
         <entry>
+            <title>Frontend Links May 2026</title>
+            <link href="https://olivier3lanc.me/blog/2026-05-new-frontend-links-may-2026/" />
+            <updated>2026-05-07T00:00:00Z</updated>
+            <id>https://olivier3lanc.me/blog/2026-05-new-frontend-links-may-2026/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**May%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links May 2026&quot;&gt;
+                &lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mokkit.co/&quot;&gt;Mokkit&lt;/a&gt; Create animated, transparent device mockups that convert. Ready in seconds, no design skills needed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.slitscanner.app/&quot;&gt;SLITSCANNER&lt;/a&gt; Image and Text Distortion Art Creation Tool. Free slit-scan art creation tool. Works in your browser and on your phone. Distort, warp, and drag images, text, and selphies with this tool that simulates moving objects on a flatbed scanner.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://app.monosketch.io&quot;&gt;Mono Sketch&lt;/a&gt; An ASCII graph drawing app.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://charcuterie.elastiq.ch&quot;&gt;Charcuterie&lt;/a&gt; Charcuterie is a visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bitmap.designfamilymarket.com/&quot;&gt;BDFM&lt;/a&gt; Bitmap generator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://css-generators.com/fancy-frame/&quot;&gt;Fancy Frames&lt;/a&gt; Use clip-path: shape() to create a lot of CSS-only fancy frames. Get an optimized &amp;amp; modern code in no time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fun&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://boredzebra.com/100jumps/&quot;&gt;100 Jumps&lt;/a&gt; Hold to charge, release to jump. Land on 100 platforms to win — but one miss and it&#39;s over. How many attempts will it take you?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/dwmkerr/hacker-laws&quot;&gt;Hacker Laws&lt;/a&gt; or &lt;a href=&quot;https://hacker-laws.com/&quot;&gt;Hacker Laws&lt;/a&gt; 🧠 Laws, Theories, Principles and Patterns for developers and technologists.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lawsofsoftwareengineering.com/&quot;&gt;Laws of Software Engineering&lt;/a&gt; A collection of principles and patterns that shape software systems, teams, and decisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Javascript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ybouane/liquidglass&quot;&gt;liquid glass&lt;/a&gt; A liquid glass effect library for the web. Apply realistic glass refraction, blur, chromatic aberration, and lighting effects to any HTML element using WebGL shaders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fonts and graph&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/franktisellano/datatype&quot;&gt;DataType&lt;/a&gt; Datatype is a variable font that turns text into charts.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+        <entry>
             <title>Frontend Links April 2026</title>
-            <link href="https://olivier3lanc.github.io/blog/2026-04-new-frontend-links-april-2026/" />
+            <link href="https://olivier3lanc.me/blog/2026-04-new-frontend-links-april-2026/" />
             <updated>2026-04-05T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2026-04-new-frontend-links-april-2026/</id>
+            <id>https://olivier3lanc.me/blog/2026-04-new-frontend-links-april-2026/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -40,9 +79,9 @@
         </entry>
         <entry>
             <title>Frontend Links March 2026</title>
-            <link href="https://olivier3lanc.github.io/blog/2026-03-new-frontend-links-march-2026/" />
+            <link href="https://olivier3lanc.me/blog/2026-03-new-frontend-links-march-2026/" />
             <updated>2026-03-23T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2026-03-new-frontend-links-march-2026/</id>
+            <id>https://olivier3lanc.me/blog/2026-03-new-frontend-links-march-2026/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -82,9 +121,9 @@
         </entry>
         <entry>
             <title>Frontend Links February 2026</title>
-            <link href="https://olivier3lanc.github.io/blog/2026-02-new-frontend-links-february-2026/" />
+            <link href="https://olivier3lanc.me/blog/2026-02-new-frontend-links-february-2026/" />
             <updated>2026-02-18T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2026-02-new-frontend-links-february-2026/</id>
+            <id>https://olivier3lanc.me/blog/2026-02-new-frontend-links-february-2026/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -120,9 +159,9 @@
         </entry>
         <entry>
             <title>Frontend Links January 2026</title>
-            <link href="https://olivier3lanc.github.io/blog/2026-01-new-frontend-links-january-2026/" />
+            <link href="https://olivier3lanc.me/blog/2026-01-new-frontend-links-january-2026/" />
             <updated>2026-01-23T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2026-01-new-frontend-links-january-2026/</id>
+            <id>https://olivier3lanc.me/blog/2026-01-new-frontend-links-january-2026/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -160,9 +199,9 @@
         </entry>
         <entry>
             <title>Frontend Links December 2025</title>
-            <link href="https://olivier3lanc.github.io/blog/2025-12-new-frontend-links-december-2025/" />
+            <link href="https://olivier3lanc.me/blog/2025-12-new-frontend-links-december-2025/" />
             <updated>2025-12-21T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2025-12-new-frontend-links-december-2025/</id>
+            <id>https://olivier3lanc.me/blog/2025-12-new-frontend-links-december-2025/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -193,9 +232,9 @@
         </entry>
         <entry>
             <title>Frontend Links November 2025</title>
-            <link href="https://olivier3lanc.github.io/blog/2025-11-new-frontend-links-november-2025/" />
+            <link href="https://olivier3lanc.me/blog/2025-11-new-frontend-links-november-2025/" />
             <updated>2025-11-15T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2025-11-new-frontend-links-november-2025/</id>
+            <id>https://olivier3lanc.me/blog/2025-11-new-frontend-links-november-2025/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -227,9 +266,9 @@
         </entry>
         <entry>
             <title>Frontend Links October 2025</title>
-            <link href="https://olivier3lanc.github.io/blog/2025-10-new-frontend-links-october-2025/" />
+            <link href="https://olivier3lanc.me/blog/2025-10-new-frontend-links-october-2025/" />
             <updated>2025-10-03T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2025-10-new-frontend-links-october-2025/</id>
+            <id>https://olivier3lanc.me/blog/2025-10-new-frontend-links-october-2025/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -266,9 +305,9 @@
         </entry>
         <entry>
             <title>Frontend Links September 2025</title>
-            <link href="https://olivier3lanc.github.io/blog/2025-09-new-frontend-links-september-2025/" />
+            <link href="https://olivier3lanc.me/blog/2025-09-new-frontend-links-september-2025/" />
             <updated>2025-09-12T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/2025-09-new-frontend-links-september-2025/</id>
+            <id>https://olivier3lanc.me/blog/2025-09-new-frontend-links-september-2025/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -300,9 +339,9 @@
         </entry>
         <entry>
             <title>Upscayl examples with old photos</title>
-            <link href="https://olivier3lanc.github.io/blog/upscayl-models-comparisons-with-old-photos/" />
+            <link href="https://olivier3lanc.me/blog/upscayl-models-comparisons-with-old-photos/" />
             <updated>2025-09-01T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/upscayl-models-comparisons-with-old-photos/</id>
+            <id>https://olivier3lanc.me/blog/upscayl-models-comparisons-with-old-photos/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -325,20 +364,20 @@
 &lt;li&gt;&lt;code&gt;4xLSDIRplusC&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;4xNMKD-Superscale-SP_178000_G&lt;/code&gt;: NMKD Superscale - Perfect upscaling of clean (artifact-free) real-world images.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;script src=&quot;https://olivier3lanc.github.io/assets/js/image-compare-viewer.min.js&quot;&gt;&lt;/script&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;https://olivier3lanc.github.io/assets/css/image-compare-viewer.min.css&quot;&gt;
+&lt;script src=&quot;https://olivier3lanc.me/assets/js/image-compare-viewer.min.js&quot;&gt;&lt;/script&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://olivier3lanc.me/assets/css/image-compare-viewer.min.css&quot;&gt;
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with upscayl-standard&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: upscayl-standard 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -346,15 +385,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with upscayl-lite&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: upscayl-lite 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -362,15 +401,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with high-fidelity&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: high-fidelity 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -378,15 +417,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with remacri&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: remacri 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -394,15 +433,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with ultramix-balanced&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: ultramix-balanced 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -410,15 +449,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with ultrasharp&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: ultrasharp 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -426,15 +465,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with digital-art&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: digital-art 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -442,15 +481,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with LSDIRplusC&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: LSDIRplusC 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -458,15 +497,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 1 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 1 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/R4_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/R4_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -474,15 +513,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with upscayl-standard&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: upscayl-standard 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -490,15 +529,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with upscayl-lite&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: upscayl-lite 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -506,15 +545,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with high-fidelity&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: high-fidelity 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -522,15 +561,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with remacri&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: remacri 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -538,15 +577,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with ultramix-balanced&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: ultramix-balanced 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -554,15 +593,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with ultrasharp&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: ultrasharp 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -570,15 +609,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with digital-art&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: digital-art 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -586,15 +625,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with LSDIRplusC&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: LSDIRplusC 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -602,15 +641,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 2 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
 &lt;figure class=&quot;&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 2 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-16_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-16_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -618,15 +657,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with upscayl-standard&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: upscayl-standard 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -634,15 +673,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with upscayl-lite&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: upscayl-lite 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -650,15 +689,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with high-fidelity&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: high-fidelity 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -666,15 +705,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with remacri&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: remacri 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -682,15 +721,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with ultramix-balanced&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: ultramix-balanced 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -698,15 +737,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with ultrasharp&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: ultrasharp 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -714,15 +753,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with digital-art&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: digital-art 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -730,15 +769,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with LSDIRplusC&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: LSDIRplusC 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -746,15 +785,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 3 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 3 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-26_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-26_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -762,15 +801,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with upscayl-standard&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-standard-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-standard 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: upscayl-standard 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-standard-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -778,15 +817,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with upscayl-lite&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-lite-4x.avif&quot; alt=&quot;after Upscayl model: upscayl-lite 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: upscayl-lite 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_upscayl-lite-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -794,15 +833,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with high-fidelity&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_high-fidelity-4x.avif&quot; alt=&quot;after Upscayl model: high-fidelity 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: high-fidelity 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_high-fidelity-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -810,15 +849,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with remacri&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_remacri-4x.avif&quot; alt=&quot;after Upscayl model: remacri 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: remacri 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_remacri-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -826,15 +865,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with ultramix-balanced&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_ultramix-balanced-4x.avif&quot; alt=&quot;after Upscayl model: ultramix-balanced 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: ultramix-balanced 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_ultramix-balanced-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -842,15 +881,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with ultrasharp&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_ultrasharp-4x.avif&quot; alt=&quot;after Upscayl model: ultrasharp 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: ultrasharp 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_ultrasharp-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -858,15 +897,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with digital-art&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_digital-art-4x.avif&quot; alt=&quot;after Upscayl model: digital-art 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: digital-art 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_digital-art-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -874,15 +913,15 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with LSDIRplusC&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_LSDIRplusC-4x.avif&quot; alt=&quot;after Upscayl model: LSDIRplusC 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: LSDIRplusC 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_LSDIRplusC-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
@@ -890,29 +929,29 @@ Upscaled file
 &lt;p&gt;&lt;/p&gt;&lt;h2&gt;Roselend 4 with NMKD-Superscale-SP_178000_G&lt;/h2&gt;
 &lt;figure class=&quot;wide&quot;&gt;
 &lt;div class=&quot;image-compare w-100&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
-&lt;img src=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; alt=&quot;before Upscayl&quot; loading=&quot;lazy&quot;&gt;
+&lt;img src=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; alt=&quot;after Upscayl model: NMKD-Superscale-SP_178000_G 4x&quot; loading=&quot;lazy&quot;&gt;
 &lt;/div&gt;
 &lt;figcaption&gt;
 Roselend 4 with upscayl model: NMKD-Superscale-SP_178000_G 4x -
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36.jpg&quot; target=&quot;_blank&quot; title=&quot;Open source file in a new tab&quot;&gt;
 Original file
 &lt;/a&gt; 
-&lt;a href=&quot;https://olivier3lanc.github.io/assets/img/upscayl/roselend-36_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
+&lt;a href=&quot;https://olivier3lanc.me/assets/img/upscayl/roselend-36_upscayl_4x_NMKD-Superscale-SP_178000_G-4x.avif&quot; class=&quot;btn btn-primary-light&quot; target=&quot;_blank&quot; title=&quot;Open upscaled file in a new tab&quot;&gt;
 Upscaled file
 &lt;/a&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;script src=&quot;https://olivier3lanc.github.io/assets/js/image-compare.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://olivier3lanc.me/assets/js/image-compare.js&quot;&gt;&lt;/script&gt;
 &lt;h2&gt;Wrapping up&lt;/h2&gt;
 &lt;p&gt;Even for a single category of picture, there is no single &amp;quot;best&amp;quot; model. For each image, the model giving the best results depends on what you expect and what the model is made for.&lt;/p&gt;
 </content>
         </entry>
         <entry>
             <title>Frontend Links August 2025</title>
-            <link href="https://olivier3lanc.github.io/blog/new-frontend-links-august-2025/" />
+            <link href="https://olivier3lanc.me/blog/new-frontend-links-august-2025/" />
             <updated>2025-08-21T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/new-frontend-links-august-2025/</id>
+            <id>https://olivier3lanc.me/blog/new-frontend-links-august-2025/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
@@ -945,9 +984,9 @@ Upscaled file
         </entry>
         <entry>
             <title>Frontend Links July 2025</title>
-            <link href="https://olivier3lanc.github.io/blog/new-frontend-links-july-2025/" />
+            <link href="https://olivier3lanc.me/blog/new-frontend-links-july-2025/" />
             <updated>2025-07-24T00:00:00Z</updated>
-            <id>https://olivier3lanc.github.io/blog/new-frontend-links-july-2025/</id>
+            <id>https://olivier3lanc.me/blog/new-frontend-links-july-2025/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
