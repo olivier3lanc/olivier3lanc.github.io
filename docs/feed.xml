@@ -4,11 +4,55 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.me/feed.xml" />
-    <updated>2026-05-07T00:00:00Z</updated>
+    <updated>2026-06-11T00:00:00Z</updated>
     <id>https://olivier3lanc.me/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links June 2026</title>
+            <link href="https://olivier3lanc.me/blog/2026-06-new-frontend-links-june-2026/" />
+            <updated>2026-06-11T00:00:00Z</updated>
+            <id>https://olivier3lanc.me/blog/2026-06-new-frontend-links-june-2026/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**June%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links June 2026&quot;&gt;
+                &lt;p&gt;&lt;/p&gt;&lt;aside class=&quot;widget widget-embed&quot;&gt;
+&lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/Xpk7soxvOMY?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; loading=&quot;lazy&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/aside&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.whatcable.uk/&quot;&gt;Know what your USB-C cable can really do.&lt;/a&gt; WhatCable explains cable speed, charging limits, e-marker data, and connected devices in plain English. No more guessing why a cable charges slow or refuses to drive your display.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fileflan.com/&quot;&gt;FileFlan&lt;/a&gt; Instant universal file sharing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.svgstudio.org/studio/&quot;&gt;SVG Studio&lt;/a&gt; a free, browser-based SVG animation editor. No sign-up, no telemetry, no subscription.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nodeca/pica&quot;&gt;Pica&lt;/a&gt; Resize image in browser with high quality and high speed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Ionaru/easy-markdown-editor&quot;&gt;EasyMDE - Easy Markdown Editor&lt;/a&gt; A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nitroshare.net/&quot;&gt;NitroShare&lt;/a&gt; Any File. Any Device Cross-platform Network File Transfer Application.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/xs7/Pixelate&quot;&gt;Pixelate&lt;/a&gt; Pixlate image by SLIC.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/LayoutitStudio/polycss&quot;&gt;PolyCSS&lt;/a&gt; A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.fontself.app/&quot;&gt;FontSelf&lt;/a&gt; Self-hosted Google Fonts configurator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://qitejs.qount25.dev/&quot;&gt;Qite.js &lt;/a&gt; Frontend framework for people who hate React and love HTML. No build step, no Virtual DOM, no npm, no mixing JavaScript with HTML. DOM-first, SSR-first, and fully usable with plain browser APIs. Small, self-sufficient, and powerful enough for serious apps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Demos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://codepen.io/web-strategist/pen/emdZBea&quot;&gt;Browser APIs&lt;/a&gt;  The Browser Is Already a Supercomputer. Ten production-ready APIs built into every modern browser. No npm. No CDN. No dependencies. Just open the file and run.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://denodell.com/blog/browsers-treat-big-sites-differently&quot;&gt;Browsers Treat Big Sites Differently&lt;/a&gt; Safari and Firefox change how big sites render based on the domain. TikTok, Netflix, Instagram… even SeatGuru. Chrome doesn’t. Why is that?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://accessibilityforeveryone.site/disabilities-and-impairments/&quot;&gt;Disabilities and Impairments&lt;/a&gt; Accessibility For Everyone by Laura Kalbag.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.terrygodier.com/the-boring-internet&quot;&gt;The boring Internet&lt;/a&gt; The internet you grew up on isn&#39;t dying.
+A commercial veneer glued on top of it is.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://standblog.org/blog/post/2026/02/14/Comment-l-IA-tue-le-Web&quot;&gt;Comment l’IA tue le Web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links May 2026</title>
             <link href="https://olivier3lanc.me/blog/2026-05-new-frontend-links-may-2026/" />
