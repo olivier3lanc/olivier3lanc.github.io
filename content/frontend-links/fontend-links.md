@@ -95,6 +95,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Characters and glyphs
 
+* [MITOS](https://github.com/oxidecomputer/mitos) ASCII art generator for brand assets
 * [Charcuterie](https://charcuterie.elastiq.ch) Charcuterie is a visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
 * [SYMBL (◕‿◕)](https://symbl.cc/en/) Explore symbols, characters, hieroglyphs, scripts, and alphabets on SYMBL (◕‿◕). Find and copy 😎 Emojis, ❤ hearts, → arrows, ★ stars. Complete Unicode table, interesting facts, and technical information
 * [CopyChar](https://copychar.cc/) A basic app that allows you to find and copy special characters to your clipboard. Click or tap on a character and it will be copied to your clipboard.
@@ -143,6 +144,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 ## Converters
 
 * [Convert to it!](https://p2r3.github.io/convert/) Truly universal online file converter. Private, on-device conversion across mediums.
+
+## CSS 3D
+
+* [PolyCSS](https://github.com/LayoutitStudio/polycss) A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms. 
 
 ## CSS Animations
 
@@ -283,8 +288,14 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Icotar](https://icotar.com/) A free colorful icon avatar generator. Icotar generates simple, playful avatars for your app or website. Based on the lovable avatars from Yik Yak, each avatar consists of a colorful background and a recognizable symbol. All colors and icons are hand-picked from Material Design.
 * [Favicon & App Icon Generator](https://www.favicon-generator.org/) Convert PNG to ICO, JPG to ICO, GIF to ICO. Create favicon.ico and iOS / Android App Icons. Edit a favicon to fit your needs, or search our gallery.
 
+## File sharing
+
+* [FileFlan](https://fileflan.com/) Instant universal file sharing
+* [NitroShare](https://nitroshare.net/) Any File. Any Device Cross-platform Network File Transfer Application.
+
 ## Fonts
 
+* [FontSelf](https://www.fontself.app/) Self-hosted Google Fonts configurator.
 * [Sweetfont](https://sweetfont.com/) The sweetest way to find Google Fonts. Explore Google Fonts by personality, vibe, and style using interactive controls. Find your perfect typeface.
 * [Programming Fonts](https://github.com/braver/programmingfonts) Test drive programming fonts online: the definitive list of fonts for code
 * [Font to SVG](https://xoihazard.com/tools/fontsvg/) Get vector graphics from OpenType & TrueType fonts without installing.
@@ -318,6 +329,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Fun to try
 
+* [Browser APIs](https://codepen.io/web-strategist/pen/emdZBea)  The Browser Is Already a Supercomputer. Ten production-ready APIs built into every modern browser. No npm. No CDN. No dependencies. Just open the file and run. 
 * [100 Jumps](https://boredzebra.com/100jumps/) Hold to charge, release to jump. Land on 100 platforms to win — but one miss and it's over. How many attempts will it take you?
 * [Glitch Art Maker](https://yuyz0112.github.io/glitch-art-maker/) 100% client-side. No upload. Process local video or webcam in real time and export WebM.
 * [drawmote](https://github.com/dulnan/drawmote) Draw remotely with your phone
@@ -525,8 +537,13 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Range Slider Element](https://github.com/andreruffert/range-slider-element) 🎚 A cross browser customizable and accessible <range-slider> web component 
 * [Dual Range Input](https://github.com/stanko/dual-range-input) Native dual range input in 60 lines of JavaScript. 
 
+## JS Frameworks
+
+* [Qite.js ](https://qitejs.qount25.dev/) Frontend framework for people who hate React and love HTML. No build step, no Virtual DOM, no npm, no mixing JavaScript with HTML. DOM-first, SSR-first, and fully usable with plain browser APIs. Small, self-sufficient, and powerful enough for serious apps.
+
 ## JS Images
 
+* [Pica](https://github.com/nodeca/pica) Resize image in browser with high quality and high speed.
 * [image-js](https://github.com/image-js/image-js) Image processing and manipulation in JavaScript 
 * [Image Compare Viewer](https://github.com/kylewetton/image-compare-viewer) Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies. 
 * [snapDOM](https://github.com/zumerlab/snapdom) snapDOM captures DOM nodes as images with exceptional speed and accuracy. 
@@ -568,6 +585,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## JS Markdown
 
+* [EasyMDE - Easy Markdown Editor](https://github.com/Ionaru/easy-markdown-editor) A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 * [OverType](https://overtype.dev/) HE MARKDOWN EDITOR THAT'S A TEXTAREA. OverType is a transparent textarea over rendered markdown. Plain text simplicity, WYSIWYG beauty, zero complexity. 
 
 ## JS Mockups
@@ -576,6 +594,8 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## JS Media
 
+* [HYPERBLAM](https://hyperblam.how/) Make HTML make music
+* [tiks](https://github.com/rexa-developer/tiks) Procedural UI sounds for the web. Zero audio files. Pure synthesis.
 * [MediaBunny](https://github.com/Vanilagy/mediabunny) Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser. 
 
 ## JS Mouse
@@ -871,6 +891,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Typographic Hierarchy in Print, Web & App Design - Pimp my Type](https://pimpmytype.com/hierarchy/) Visual hierarchy makes or breaks your design. Learn how to guide the eye by intentionally using contrast and spacing in typography.
 * [Creating a Fluid Type Scale with CSS Clamp | Aleksandr Hovhannisyan](https://www.aleksandrhovhannisyan.com/blog/fluid-type-scale-with-css-clamp/) Understand the math behind fluid typography and learn how to programmatically generate a fluid type scale with CSS clamp and Sass.
 * [Interactive Typography Tutorial](https://learnui.design/tools/typography-tutorial.html) Learn the fundamentals of typography through this gamified walkthrough with real-time feedback and logic-based principles.
+
+## USB
+
+* [Know what your USB-C cable can really do.](https://www.whatcable.uk/) WhatCable explains cable speed, charging limits, e-marker data, and connected devices in plain English. No more guessing why a cable charges slow or refuses to drive your display. 
 
 ## Vectorization
 

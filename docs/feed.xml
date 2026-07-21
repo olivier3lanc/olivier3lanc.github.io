@@ -4,11 +4,37 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.me/feed.xml" />
-    <updated>2026-06-11T00:00:00Z</updated>
+    <updated>2026-07-21T00:00:00Z</updated>
     <id>https://olivier3lanc.me/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
+        <entry>
+            <title>Frontend Links July 2027</title>
+            <link href="https://olivier3lanc.me/blog/2026-07-new-frontend-links-july-2027/" />
+            <updated>2026-07-21T00:00:00Z</updated>
+            <id>https://olivier3lanc.me/blog/2026-07-new-frontend-links-july-2027/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**July%202027.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links July 2027&quot;&gt;
+                &lt;h2&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/oxidecomputer/mitos&quot;&gt;MITOS&lt;/a&gt; ASCII art generator for brand assets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rexa-developer/tiks&quot;&gt;tiks&lt;/a&gt; Procedural UI sounds for the web. Zero audio files. Pure synthesis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hyperblam.how/&quot;&gt;HYPERBLAM&lt;/a&gt; Make HTML make music&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://sinceyouarrived.world/taken&quot;&gt;taken. — Since You Arrived Vol. IV&lt;/a&gt; What the page already knows about you, revealed as you read it. No input. No permission. No exception.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
         <entry>
             <title>Frontend Links June 2026</title>
             <link href="https://olivier3lanc.me/blog/2026-06-new-frontend-links-june-2026/" />
