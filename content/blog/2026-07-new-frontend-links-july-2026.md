@@ -1,10 +1,10 @@
 ---
 language: en
-title: "Frontend Links July 2027"
+title: "Frontend Links July 2026"
 description: "Newly added links"
 layout: libdoc_page.liquid
 permalink: "{{ libdocConfig.blogSlug }}/{{ page.fileSlug }}/index.html"
-ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links%20**July%202027.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px"
+ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links%20**July%202026.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px"
 tags:
     - post
     - frontend-links

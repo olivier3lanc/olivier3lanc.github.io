@@ -17,7 +17,7 @@ date: git Last Modified
     <figcaption>Réplique HTML du générique de la série Breaking Bad.</figcaption>
 </figure>
 
-<a href="https://codepen.io/olivier3lanc/full/ZEgPNjb" class="btn btn-primary">Démarrer</a>
+<a href="/assets/breaking-bad/" class="btn btn-primary">Démarrer</a>
 
 ## La Casa de Papel
 

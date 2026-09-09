@@ -190,6 +190,11 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 * [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/) Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
 
+## CSS Text
+
+* [CSS Type Studio](https://www.csstypestudio.com/) Advanced Typography with CSS. Create layouts in HTML that are pleasurable to read. CSS Type Studio lets you quickly iterate through different typefaces, sizes, spacing attributes, and more.
+* [Improved CSS text stroke](https://tylersticka.com/journal/improved-css-text-stroke/) Arriving late to the party for this fun little CSS trick (with a few gotchas).
+
 ## Collections
 
 * [Sites et outils numériques proposés par Cédric Eyssette](https://eyssette.github.io/) Sites et outils numériques proposés par Cédric Eyssette : cours de philosophie, formations pédagogiques, logiciels en ligne libres et gratuits souvent fondés sur l’utilisation du Markdown et hébergés sur la Forge
@@ -295,6 +300,8 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Fonts
 
+* [Codeface](https://github.com/chrissimpkins/codeface) Typefaces for source code beautification
+* [Font with Built-In Syntax Highlighting ](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) An experiment in javascript-free syntax highlighting, made possible by opentype contextual alternates and COLR table.
 * [FontSelf](https://www.fontself.app/) Self-hosted Google Fonts configurator.
 * [Sweetfont](https://sweetfont.com/) The sweetest way to find Google Fonts. Explore Google Fonts by personality, vibe, and style using interactive controls. Find your perfect typeface.
 * [Programming Fonts](https://github.com/braver/programmingfonts) Test drive programming fonts online: the definitive list of fonts for code
@@ -329,6 +336,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Fun to try
 
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) Earth looked very different long ago. Search for addresses across 750 million years of Earth's history.
 * [Browser APIs](https://codepen.io/web-strategist/pen/emdZBea)  The Browser Is Already a Supercomputer. Ten production-ready APIs built into every modern browser. No npm. No CDN. No dependencies. Just open the file and run. 
 * [100 Jumps](https://boredzebra.com/100jumps/) Hold to charge, release to jump. Land on 100 platforms to win — but one miss and it's over. How many attempts will it take you?
 * [Glitch Art Maker](https://yuyz0112.github.io/glitch-art-maker/) 100% client-side. No upload. Process local video or webcam in real time and export WebM.
@@ -397,6 +405,12 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Host Yo Self](https://hostyoself.com/) Need a web host? Host your self! Use this page to host a website or a file directly from your computer / phone / smartwatch / toaster!
 * [localhost.run | localhost.run](https://localhost.run/) Connect web applications running on your computer to the internet instantly
 
+## HTML
+
+* [You don’t know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) This second installment in the "You don’t know HTML" series is going to be all about the ways that we put collections of things together.
+* [My HTML boilerplate in 2026](https://www.matuzo.at/blog/2026/html-boilerplate) Every element I use for the basic structure of a HTML document, with explanations why.
+* [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) HTML has been gobbling up swathes of what used to be JavaScript’s remit. This page lists a bunch of dynamic functionality that we can now achieve with just HTML.
+
 ## Icon sets
 
 * [flag-icons](https://github.com/lipis/flag-icons) 🎏 A curated collection of all country flags in SVG — plus the CSS for easier integration 
@@ -414,6 +428,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Image services
 
+* [Free Image & PDF Tools Right in Your Browser](https://freeimg.tools/) Resize, compress, convert, edit, remove backgrounds, merge and split — instantly. No account. Your files never leave your device.
 * [BDFM](https://bitmap.designfamilymarket.com/) Bitmap generator
 * [SLITSCANNER](https://www.slitscanner.app/) Image and Text Distortion Art Creation Tool. Free slit-scan art creation tool. Works in your browser and on your phone. Distort, warp, and drag images, text, and selphies with this tool that simulates moving objects on a flatbed scanner.
 * [Dither Me This](https://doodad.dev/dither-me-this/) Use this tool to reduce the file size of an image… but in a stylish old-school way. It uses dithering to reduce the colors in an image, and places dots to emulate the missing shades. Dithering is used to display images on screens with limited colors palettes — it has the modern advantage of making web pages load faster. Upload an image and click the preset buttons to see what it can do.
@@ -539,6 +554,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## JS Frameworks
 
+* [Jelly UI](https://jelly-ui.com/) Jelly UI is a dependency-free Web Components library for soft, tactile product interfaces. Real form controls meet soft-body physics, with dark mode, right-to-left support and WCAG AA color tokens built in. 
 * [Qite.js ](https://qitejs.qount25.dev/) Frontend framework for people who hate React and love HTML. No build step, no Virtual DOM, no npm, no mixing JavaScript with HTML. DOM-first, SSR-first, and fully usable with plain browser APIs. Small, self-sufficient, and powerful enough for serious apps.
 
 ## JS Images
@@ -657,6 +673,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 * [Floating UI](https://github.com/floating-ui/floating-ui) A JavaScript library to position floating elements and create interactions for them. 
 * [tippyjs](https://github.com/atomiks/tippyjs) Tooltip, popover, dropdown, and menu library. Tooltip, popover, dropdown, and menu library.
+
+## JS Tools
+
+* [JSTOOLS](https://www.jstools.space/) Developer Utilities. Small, focused tools for everyday development work. Format data, generate secure values, inspect tokens, and test snippets without sending your input to a server. No account or setup required. Open a tool, finish the task, and move on. 
 
 ## JS Tours
 
@@ -907,6 +927,8 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Video
 
+* [ffmpeg webCLI](https://tejaswigowda.com/ffmpeg-webCLI/) A progressive web app for video editing with ffmpeg.wasm. 100% local processing, no data leaves your browser.
+* [Open Cut](https://opencut.app/) The open source video editor. A simple but powerful video editor that gets the job done. Works on any platform.
 * [Tooscut](https://tooscut.app/) Professional video editing, right in your browser. A powerful NLE editor with GPU compositing, keyframe animation, and real-time preview. No installs required.
 * [EZTrimmer](https://eztrimmer.io/) Cut videos online for free — trim, split and export in seconds. No signup required.
 * [Lossless Cut](https://github.com/mifi/lossless-cut) The swiss army knife of lossless video/audio editing 

@@ -9,6 +9,17 @@ eleventyNavigation:
     order: 200
 date: git Last Modified
 ---
+## DPiCSS
+
+<figure>
+    <img src="/sources/webdesign/librairie-dpicss.png"
+        alt="Écrans Librairie CSS DPiCSS">
+    <figcaption>Une petite bibliothèque CSS permettant d'afficher des images animées ou en haute définition au clic.</figcaption>
+</figure>
+
+<a href="https://github.com/olivier3lanc/dpicss" class="btn">GitHub</a>
+<a href="https://dpicss.netlify.app" class="btn btn-primary">Site web</a>
+
 ## Scroll Btween
 
 <figure>

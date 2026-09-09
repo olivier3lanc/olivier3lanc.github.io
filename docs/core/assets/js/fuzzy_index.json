@@ -120,8 +120,13 @@
             "description": "Newly added links post frontend-links"
         },
         {
-            "url": "/blog/2026-07-new-frontend-links-july-2027/",
-            "title": "Frontend Links July 2027",
+            "url": "/blog/2026-07-new-frontend-links-july-2026/",
+            "title": "Frontend Links July 2026",
+            "description": "Newly added links post frontend-links"
+        },
+        {
+            "url": "/blog/2026-09-new-frontend-links-september-2026/",
+            "title": "Frontend Links September 2026",
             "description": "Newly added links post frontend-links"
         }
 ]

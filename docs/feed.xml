@@ -4,22 +4,71 @@
     <subtitle>Développeur front-end hybride UI et UX</subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://olivier3lanc.me/feed.xml" />
-    <updated>2026-07-21T00:00:00Z</updated>
+    <updated>2026-09-09T00:00:00Z</updated>
     <id>https://olivier3lanc.me/feed.xml</id>
     <author>
         <name>Olivier 3lanc</name>
     </author>
         <entry>
-            <title>Frontend Links July 2027</title>
-            <link href="https://olivier3lanc.me/blog/2026-07-new-frontend-links-july-2027/" />
-            <updated>2026-07-21T00:00:00Z</updated>
-            <id>https://olivier3lanc.me/blog/2026-07-new-frontend-links-july-2027/</id>
+            <title>Frontend Links September 2026</title>
+            <link href="https://olivier3lanc.me/blog/2026-09-new-frontend-links-september-2026/" />
+            <updated>2026-09-09T00:00:00Z</updated>
+            <id>https://olivier3lanc.me/blog/2026-09-new-frontend-links-september-2026/</id>
             <author>
                 <name>Olivier 3lanc</name>
             </author>
             <content type="html">
                 
-                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**July%202027.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links July 2027&quot;&gt;
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**September%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links September 2026&quot;&gt;
+                &lt;h2&gt;Apps&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://opencut.app/&quot;&gt;Open Cut&lt;/a&gt; The open source video editor. A simple but powerful video editor that gets the job done. Works on any platform.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jstools.space/&quot;&gt;JSTOOLS&lt;/a&gt; Developer Utilities. Small, focused tools for everyday development work. Format data, generate secure values, inspect tokens, and test snippets without sending your input to a server. No account or setup required. Open a tool, finish the task, and move on.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tejaswigowda.com/ffmpeg-webCLI/&quot;&gt;ffmpeg webCLI&lt;/a&gt; A progressive web app for video editing with ffmpeg.wasm. 100% local processing, no data leaves your browser.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://freeimg.tools/&quot;&gt;Free Image &amp;amp; PDF Tools Right in Your Browser&lt;/a&gt; Resize, compress, convert, edit, remove backgrounds, merge and split — instantly. No account. Your files never leave your device.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;HTML&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/&quot;&gt;You don’t know HTML Lists&lt;/a&gt; This second installment in the &amp;quot;You don’t know HTML&amp;quot; series is going to be all about the ways that we put collections of things together.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.matuzo.at/blog/2026/html-boilerplate&quot;&gt;My HTML boilerplate in 2026&lt;/a&gt; Every element I use for the basic structure of a HTML document, with explanations why.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrisburnell.com/html-can-do-that/&quot;&gt;HTML Can Do That&lt;/a&gt; HTML has been gobbling up swathes of what used to be JavaScript’s remit. This page lists a bunch of dynamic functionality that we can now achieve with just HTML.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;CSS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dpicss.netlify.app/&quot;&gt;DPiCSS&lt;/a&gt; Details Player for Image with CSS. A tiny CSS library to display animated or higher definition images on click.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.csstypestudio.com/&quot;&gt;CSS Type Studio&lt;/a&gt; Advanced Typography with CSS. Create layouts in HTML that are pleasurable to read. CSS Type Studio lets you quickly iterate through different typefaces, sizes, spacing attributes, and more.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tylersticka.com/journal/improved-css-text-stroke/&quot;&gt;Improved CSS text stroke&lt;/a&gt; Arriving late to the party for this fun little CSS trick (with a few gotchas).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://jelly-ui.com/&quot;&gt;Jelly UI&lt;/a&gt; Jelly UI is a dependency-free Web Components library for soft, tactile product interfaces. Real form controls meet soft-body physics, with dark mode, right-to-left support and WCAG AA color tokens built in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fonts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/chrissimpkins/codeface&quot;&gt;Codeface&lt;/a&gt; Typefaces for source code beautification&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/&quot;&gt;Font with Built-In Syntax Highlighting &lt;/a&gt; An experiment in javascript-free syntax highlighting, made possible by opentype contextual alternates and COLR table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Media&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://pdimagearchive.org/&quot;&gt;Public Domain Image Archive&lt;/a&gt; Explore our hand-picked collection of 11,216 out-of-copyright works, free for all to browse, download, and reuse. This is a living database with new images added every week.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Fun&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://dinosaurpictures.org/ancient-earth&quot;&gt;Ancient Earth&lt;/a&gt; Earth looked very different long ago. Search for addresses across 750 million years of Earth&#39;s history.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        </entry>
+        <entry>
+            <title>Frontend Links July 2026</title>
+            <link href="https://olivier3lanc.me/blog/2026-07-new-frontend-links-july-2026/" />
+            <updated>2026-07-21T00:00:00Z</updated>
+            <id>https://olivier3lanc.me/blog/2026-07-new-frontend-links-july-2026/</id>
+            <author>
+                <name>Olivier 3lanc</name>
+            </author>
+            <content type="html">
+                
+                    &lt;img src=&quot;https://og-image.vercel.app/**Frontend%20Links%20**July%202026.png?theme=dark&amp;md=1&amp;fontFamily=source-sans-pro&amp;fontSize=100px&quot; alt=&quot;Frontend Links July 2026&quot;&gt;
                 &lt;h2&gt;Tools&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/oxidecomputer/mitos&quot;&gt;MITOS&lt;/a&gt; ASCII art generator for brand assets&lt;/li&gt;

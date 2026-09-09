@@ -15,6 +15,14 @@ date: git Last Modified
 
 Les intégrations web responsive qui suivent on été réalisées en tenant compte de l’ergonomie, de l’accessibilité et des performances. 
 
+### Prospect
+
+<figure>
+    <img src="/sources/pro/prospect.png"
+        alt="Écrans application Prospect">
+    <figcaption>Interface responsive d’une application privée fournissant des informations stratégiques sur les flottes de véhicules.</figcaption>
+</figure>
+
 ### BOS UI
 
 <figure>
