@@ -15,6 +15,16 @@ date: git Last Modified
 
 Les intégrations web responsive qui suivent on été réalisées en tenant compte de l’ergonomie, de l’accessibilité et des performances. 
 
+### Macif Projet Auto
+
+<figure>
+    <img src="/sources/pro/macif-projet-auto.png"
+        alt="Écrans site Macif Projet Auto">
+    <figcaption>Application web de la <a href="https://macif.fr">Macif</a> dédiée à l’achat de véhicules neufs et d’occasion. Intégration HTML, CSS basée sur <a href="#bricss">BRiCSS</a>, Vanilla JavaScript.</figcaption>
+</figure>
+
+<a href="https://projetauto.macif.fr" class="btn btn-primary">Site web Macif Projet Auto</a>
+
 ### Prospect
 
 <figure>

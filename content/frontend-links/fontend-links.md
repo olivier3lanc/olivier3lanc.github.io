@@ -37,10 +37,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 * [Detect AI-generated images at scale](https://sightengine.com/detect-ai-generated-images) Our AI image detector automatically detects images from popular AI generators. No watermarks needed.
 
-## Animation
-
-* [Frame Zero](https://www.framezero.app/) The Whiteboard Video Editor. A simpler way to create animated videos. Built for explaining ideas visually. 
-
 ## Archiving
 
 * [archive.today](https://archive.ph/) archive.ph allows you to create a copy of a webpage that will always be up even if the original link is down
@@ -927,6 +923,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Video
 
+* [Frame Zero](https://www.framezero.app/) The Whiteboard Video Editor. A simpler way to create animated videos. Built for explaining ideas visually. 
 * [ffmpeg webCLI](https://tejaswigowda.com/ffmpeg-webCLI/) A progressive web app for video editing with ffmpeg.wasm. 100% local processing, no data leaves your browser.
 * [Open Cut](https://opencut.app/) The open source video editor. A simple but powerful video editor that gets the job done. Works on any platform.
 * [Tooscut](https://tooscut.app/) Professional video editing, right in your browser. A powerful NLE editor with GPU compositing, keyframe animation, and real-time preview. No installs required.
