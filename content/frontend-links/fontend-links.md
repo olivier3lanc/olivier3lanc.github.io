@@ -7,7 +7,7 @@ permalink: frontend-links/index.html
 eleventyNavigation:
     key: Frontend links
     order: 90
-date: 2026-04-05
+date: 2026-10-07
 tags:
     - frontend-links
 ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=140px"
@@ -31,7 +31,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Web Accessibility Manual by Mike Mai](https://mikemai.net/a11y-manual/) Practical tips on upping your web accessibility skills 10x.
 * [Color & Contrast](https://colorandcontrast.com/#/) Color & Contrast is a comprehensive guide to color for user interface designers.
 * [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. 
-* [EightShapes Contrast Grid](https://contrast-grid.eightshapes.com/) Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
 
 ## AI
 
@@ -98,7 +97,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Glyphy](https://www.glyphy.io/) Glyphy is a simple online tool that allows you to easily copy popular ASCII characters & other symbols (also known as glyphs) to your device's clipboard, so that you can then paste them to any document or app you want. Copy and paste glyph's such as ‣ ÷ ½ → ✓ ♥ ⌘ … with ease!
 * [Text symbols - MockoFUN 😎](https://www.mockofun.com/text-symbols/) Over 1000 text symbols that are free to copy and paste. MockoFun is an online text editor with fonts that you can use for free!
 * [¿©hara¢ter(s)! | A typographic cheat sheet.](https://characters.viktornuebel.com/?ref=tiny-helpers#/special-characters?font=) A typographic cheat sheet. Simple overview page for special characters and their shortcodes. Comes as an easy to use web app.
-* [Webmoji](https://webmoji.xyz/) Explore thousands of emojis right in your web browser. Search, copy, and use. All for free, accessible to all.
 * [Kaomoji Cool Club](https://kaomojicool.club/) Welcome to club ヾ(𐂲◡𐂲)ゞ
 
 ## Charts and diagrams
@@ -107,7 +105,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Mono Sketch](https://app.monosketch.io) An ASCII graph drawing app.
 * [Wiretext — Unicode Wireframe Design Tool](https://wiretext.app/) A spatial design tool where everything renders as Unicode box-drawing characters. Create wireframes, diagrams, and mockups. Share as text.
 * [ASCII Drawing Board](https://www.delopsu.com/draw) Set a brush (almost any unicode character), canvas size and export art as a text file.
-* [Make Graph](https://makegraph.app/) Create Beautiful Charts and Graphs Online. Transform your data into stunning visualizations with our free, powerful chart maker. No downloads, no sign-ups—just beautiful charts in seconds.
 * [ASCIIFLOW](https://asciiflow.com) Draw boxes by dragging from one corner to another. Boxes can be resized and moved with the Select & Move tool. Pan around the canvas by holding space and dragging with the mouse. Use cmd + z to undo and cmd + shift + z to redo. View shortcuts by pressing alt.
 * [CASCII](https://github.com/casparwylie/cascii-core) A web-based ASCII and Unicode diagram builder written in vanilla Javascript 
 * [Chart.xkcd](https://timqian.com/chart.xkcd/) Chart.xkcd is a chart library plots “sketchy”, “cartoony” or “hand-drawn” styled charts.
@@ -165,7 +162,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Grab yourself a gradient](https://www.grabient.com/) Beautiful and simple UI for generating web gradients.
 * [GradientArt - Advanced CSS Gradient Editor](https://gra.dient.art/) Advanced CSS Gradient Editor with layers, editing tools and free cloud storage
 * [Gradient Generator Tool](https://learnui.design/tools/gradient-generator.html) Create gorgeous, buttery-smooth color gradients for UI design. Export as CSS or SVG image.
-* [CSS Gradient Editor](https://www.cssgradienteditor.com/) Best CSS gradient generator online. You only need this tool for creating colorful CSS gradeint backgrounds and patterns for your website and blog.
 * [Gradientor](https://gradientor.app/) A minimalist, beautiful Radial Background Generator. Move your mouse and be inspired by infinite color possibilities!
 
 ## CSS Clip Paths
@@ -235,7 +231,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Color Lisa - Curated Color Palette Masterpieces.](http://colorlisa.com/) Color Lisa is a curated list of color palettes based on masterpieces of the worlds greatest artists. Each palette was painstakingly created by color obsessed designers, artists, museum curators, and masters of color theory.
 * [Colordot - A color picker for humans](https://color.hailpixel.com/) Simple color picker everyone
 * [Blend—Create and customize beautiful CSS3 gradients.](http://www.colinkeany.com/blend/?ref=webdesignernews.com) Blend—Create and customize beautiful CSS3 gradients.
-* [CSS Colour Gradients with GradPad, beautiful CSS color gradient generator for your designs](http://ourownthing.co.uk/gradpad.html) CSS gradient generator, create lovely CSS color gradients for web designs in the browser
 * [Chroma](https://chroma.spencerhamm.com/) A better color picker for the web
 * [Scale — color scale generator](https://hihayk.github.io/scale/#6/6/42/58/-51/146/-45/74/1D8C6C/29/140/108) Color scale generator by Hayk An
 * [ColorBox](https://colorbox.io/) Create amazing color sets superfast.
@@ -247,7 +242,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Documentation tools
 
-* [readme.so](https://readme.so/fr) Use readme.so's markdown editor and templates to easily create a ReadMe for your projects
+* [readme.so](https://readme.so) Use readme.so's markdown editor and templates to easily create a ReadMe for your projects
 * [README GEN](https://readme-gen.vercel.app/app) README generator
 * [tree.nathanfriend.com](https://tree.nathanfriend.io/) An online tree-like utility for generating ASCII folder structure diagrams.
 * [ASCII Tree Generator](https://ascii-tree-generator.com/) Online interactive folder structure generator. Easily create and visualise your development tree for your new projects and your documentations.
@@ -255,18 +250,15 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 ## Development tools
 
 * [Superposition: Use the design system you already have](https://superposition.design/) Extract your site's design tokens and use them everywhere
-* [httpstat.us](https://httpstat.us/) HTTP status testing. This is a super simple service for generating different HTTP codes. It's useful for testing how your own scripts deal with varying responses. Just add the status code you want to the URL, like this: httpstat.us/200
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
 * [Hoppscotch](https://hoppscotch.io/fr/) Open source API development ecosystem. Helps you create requests faster, saving precious time on development.
 * [All – Tiny Helpers](https://tiny-helpers.dev/) A collection of free single-purpose online tools for web developers...
-* [Coding on CSS-Tricks](https://coding-fonts.css-tricks.com/) Information about coding fonts: designers, character charts, features, and more.
 * [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/) Every element I use for the basic structure of a HTML document, with explanations why.
 * [HTML Boilerplates](https://htmlboilerplates.com/) Build and download your HTML boilerplate in seconds.
 * [strftime](https://www.strfti.me/) Reference and sandbox for Ruby, Python, PHP, and C programmers. Quickly test date and time formats in a strftime sandbox with a handy reference.
 * [Appydev](https://appydev.co/) Find awesome tools. Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts
 * [1 LOC](https://1loc.dev/) Favorite JavaScript utilities in single line of code
-* [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev/) Manage HTML DOM with vanilla JavaScript
 * [Transform](https://transform.tools/) A polyglot web converter that's going to save you a lot of time.
 
 ## Drawing
@@ -292,7 +284,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 ## File sharing
 
 * [FileFlan](https://fileflan.com/) Instant universal file sharing
-* [NitroShare](https://nitroshare.net/) Any File. Any Device Cross-platform Network File Transfer Application.
 
 ## Fonts
 
@@ -398,7 +389,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Yunohost](https://yunohost.org/fr) Yunohost Documentation
 * [JS.ORG](https://js.org/) Dedicated to JavaScript and its awesome community since 2015
 * [Who is Hosting This?](https://www.whoishostingthis.com/) Is this domain available, or taken? Who is hosting this website? Find out using our domain tool, with full WHOIS records for registered domains.
-* [Host Yo Self](https://hostyoself.com/) Need a web host? Host your self! Use this page to host a website or a file directly from your computer / phone / smartwatch / toaster!
 * [localhost.run | localhost.run](https://localhost.run/) Connect web applications running on your computer to the internet instantly
 
 ## HTML
@@ -441,7 +431,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Online Image Сompressor](https://imagecompressor.com/) Optimizilla is the ultimate image optimizer to compress your images in JPEG, GIF and PNG formats to the minimum possible size.
 * [Smart Image Hosting, 360 viewer and Image Zoom - Sirv](https://sirv.com/) Sirv helps you and your team manage, transform, optimize and deliver digital assets for faster websites and apps. Increase your conversions with Sirv today.
 * [Responsive Breakpoints Generator](https://www.responsivebreakpoints.com/) The Responsive Image Breakpoints Generator efficiently analyzes each hi-res image and finds the best dimensions for embedding in your website
-* [Image and PDF Compression for Website](https://www.imagerecycle.com/) ImageRecycle can optimize your website speed by making compression on images and PDF while keeping your original media quality
 * [Flyimg](http://flyimg.io/) Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system.
 * [Uploadcare](https://uploadcare.com/) File uploading, processing & delivery for web and mobile apps. Uploadcare provides companies with simple, powerful, developer-friendly building blocks to handle file uploading, processing, and delivery. A complete out-of-the-box solution, built for engineers by engineers.
 
@@ -458,7 +447,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Icograms 3D Map Online Designer](https://icograms.com/designer) Design 3D Maps, Infographics, Diagrams and Illustrations from Isometric Icons within minutes.
 * [iiisometric → 3D-like isometric design builder](https://fffuel.co/iiisometric/) Create isometric design constructions by placing blocks together to form complex 3D-looking shapes. Export your creations as SVG files.
 * [IsoCity](https://victorribeiro.com/isocity/) Isometric City Builder
-* [Isobuild](https://isoflat.com/explore-isobuild/) Isobuild is the best isometric design editor. Try it now and unleash your imagination - create maps, build cities, make infographics, illustrations & more!
 
 ## JS Animation
 
@@ -478,14 +466,12 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Granim.js](https://sarcadass.github.io/granim.js/) Create fluid and interactive gradients animations with this small javascript library.
 * [smoke.js](https://github.com/bijection/smoke.js) Small but good javascript smoke effect 🌬💨. Contribute to bijection/smoke.js development by creating an account on GitHub.
 * [Segment](https://lmgonzalves.github.io/segment/) A little JavaScript class (without dependencies) to draw and animate SVG path strokes
-* [Egg.js](https://thatmikeflynn.com/egg.js/) A Simple Way to Add Easter Eggs to Your Site
 * [RoughNotation](https://roughnotation.com/) A small JavaScript library to create and animate hand-drawn annotations on a web page
 
 ## JS Autocompletion
 
 * [Autosuggest](https://tomickigrzegorz.github.io/autocomplete/) Simple accessible autocomplete for vanilla javacript with support for remote & local data, ~3KB gzip 
 * [How To Create Autocomplete on an Input Field](https://www.w3schools.com/howto/howto_js_autocomplete.asp) W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.
-* [Awesomplete: Ultra lightweight, highly customizable, simple autocomplete, by Lea Verou](https://leaverou.github.io/awesomplete/#advanced-examples) 
 
 ## JS Camera
 
@@ -551,7 +537,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 ## JS Frameworks
 
 * [Jelly UI](https://jelly-ui.com/) Jelly UI is a dependency-free Web Components library for soft, tactile product interfaces. Real form controls meet soft-body physics, with dark mode, right-to-left support and WCAG AA color tokens built in. 
-* [Qite.js ](https://qitejs.qount25.dev/) Frontend framework for people who hate React and love HTML. No build step, no Virtual DOM, no npm, no mixing JavaScript with HTML. DOM-first, SSR-first, and fully usable with plain browser APIs. Small, self-sufficient, and powerful enough for serious apps.
 
 ## JS Images
 
@@ -588,7 +573,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## JS Maps
 
-* [Utiliser les tuiles vectorielles](https://guides.data.gouv.fr/reutiliser-des-donnees/utiliser-les-api-geographiques/utiliser-les-tuiles-vectorielles) Qu'est-ce que les tuiles vectorielles ? Pour mieux comprendre ce que sont que les tuiles vectorielles et leurs usages, rendez-vous sur la documentation de l’IGN.
 * [Terra Draw](https://github.com/JamesLMilner/terra-draw) A JavaScript library for frictionless drawing on web maps
 * [openfreemap](https://github.com/hyperknot/openfreemap) Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data - hyperknot/openfreemap
 * [OpenFreeMap](https://openfreemap.org/) OpenFreeMap – Open-Source Map Hosting lets you display custom maps on your website and apps for free.
@@ -720,7 +704,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [How to use requestAnimationFrame() with vanilla JS](https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/) The requestAnimationFrame() method tells the browser to run a callback function right before the next repaint happens.
 * [Crazy classnames in HTML 4.01](https://mathiasbynens.be/demo/crazy-class) See “The id and class attributes in HTML5” for more information. You can view this page with ids instead of classes if you wish.
 * [Euismod](https://www.euismod.dev/#/learn) Learn about css grid in a quick, easy, and interactive way!
-* [](https://fifty.user-interface.io/50_ui_tips.pdf) 
 * [The Ultimate CSS Grid Tutorial for Beginners (With Interactive Examples)](https://www.codeinwp.com/blog/css-grid-tutorial-layout/) A CSS grid tutorial for beginners, discussing the various parts of the Grid Layout spec with lots of interactive examples via CodePen.
 * [CSS Layout Generator](https://layout.bradwoods.io/) A CSS Grid & Flexbox generator for creating layout components.
 * [Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/) Find thousands of incredible, original programming cheat sheets, all free to download.
@@ -730,7 +713,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [GitHub - AllThingsSmitty/jquery-tips-everyone-should-know: A collection of tips to help up your jQuery game](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) A collection of tips to help up your jQuery game. Contribute to AllThingsSmitty/jquery-tips-everyone-should-know development by creating an account on GitHub.
 * [Understanding This, Bind, Call, and Apply in JavaScript | DigitalOcean](https://www.digitalocean.com/community/conceptual_articles/understanding-this-bind-call-and-apply-in-javascript) The this keyword is a very important concept in JavaScript, and also a particularly confusing one to both new developers and those who have experience in other programming languages. In JavaScript, this is a reference to an object. In this article, yo
 * [DevDocs](https://devdocs.io/) Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, and many more.
-* [A Quick Guide to Get Started with JavaScript Classes](https://blog.alexdevero.com/get-started-with-javascript-classes/?ref=webdesignernews.com) Learn what need to get started with JavaScript classes. Learn about class constructor, properties (public, static and private) and methods.
 
 ## Markdown and notes
 
@@ -759,23 +741,19 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Modern-HTML-Starter-Template](https://github.com/harryheman/Modern-HTML-Starter-Template/blob/main/index.html) Modern HTML Starter Template. Contribute to harryheman/Modern-HTML-Starter-Template development by creating an account on GitHub.
 * [HEAD: A simple guide to HTML elements](https://github.com/joshbuchea/HEAD) A simple guide to HTML elements. Contribute to joshbuchea/HEAD development by creating an account on GitHub.
 * [GitHub Socialify](https://socialify.git.ci/olivier3lanc/Jekyll-LibDoc?description=1&language=1&owner=1&stargazers=1&theme=Light) 💞 Socialify your project. 🌐 Share with the world!
-* [Vytal](https://vytal.io/) Vytal shows you what traces your browser leaves behind while surfing the web.
 * [Meta Tags — Preview, Edit and Generate](https://metatags.io/) With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 * [Web Code Tools](https://webcode.tools/) The ultimate web code generators. Generate HTML, CSS, JSON-LD, Twitter Cards, Open Graph and more! No coding skills required.
 * [HEY META - Website Meta Tag Check](http://www.heymeta.com/) Check and improve how search engines and social media websites see and display your website.
-* [SocialSplash](https://www.socialsplash.xyz/) Create your templates and automatize the generation of your images. Create images on the fly with a single URL.
 
 ## Mockups
 
 * [Mokkit](https://mokkit.co/) Create animated, transparent device mockups that convert. Ready in seconds, no design skills needed.
 * [PostSpark](https://postspark.app/) Quickly create stunning screenshots for social media with customizable backgrounds, browser frames, aspect ratios, borders, and more. Enhance your posts in just a few clicks!
 * [Mockup Creator](https://designstripe.com/mockups/) Create Better Mockup with Designstripe
-* [ImageFactory.io](https://imagefactory.io/) Personalisation done really well. Create videos, gifs or images in bulk
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. This tool is very helpful for theme developers to mockup the web template on various apple devices with a single click.
 * [BrowserFrame | Wrap screenshots in browser frames](https://browserframe.com/) Browser Frame is a free tool that helps you wrap screenshots in different browser frames. Supports Chrome, Firefox, Safari, and more.
 * [MockRocket – Jaw-dropping 3D app mockups & animations](https://mockrocket.io/) Create 3D app mockups and videos. Right from your web browser. No experience required. Choose from the lastest 3D device modals.
 * [dimmy.club](https://dimmy.club/) Device mockup generator for your screenshots 
-* [Screely - Generate Website Mockups](https://www.screely.com/) Instantly turn your screenshot into a beautiful website mockup. Customize the browser mockup window, background and much more
 * [Screen Guru](https://screen.guru/) Take clean screenshot of any websites
 * [Device Frames - 3D Device Mockup Generator](https://deviceframes.com/) Custom 3D device mockups
 * [Free mockup templates and photos](https://mockup.photos/freebies) Browse 100% free iPhone, iPad, Android, tablet, poster mockup templates
@@ -811,13 +789,10 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [thispersondoesnotexist](https://thispersondoesnotexist.com) 
 * [This Person Does Not Exist](https://thispersondoesnotexist.com/) This Person Does Not Exist
 * [This X Does Not Exist](https://thisxdoesnotexist.com/) Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything, as shown by this collection of sites that have sprung up in the past month.
-* [PlaceIMG | Easy FPO and Dummy Images for Any Project](https://placeimg.com/) Placeholder images for your project in progress. Custom URLs generate placeholder pictures in various sizes with categories and effects.
 * [Lorem Picsum](https://picsum.photos/) Lorem Ipsum... but for photos
-* [Lorem.space - placeholder image generator](https://lorem.space/) Lorem Ipsum fake image placeholder
 * [Placeholder pics, sub kilobyte placeholder images](https://placeholder.pics/) Placeholder pics is the lightest way to include placeholder images in your designs
 * [Logoipsum](https://logoipsum.com/) Free Placeholder Logo For Your Design Mock-up
 * [Minimal Avatars](https://minimalavatars.com/) Create minimal, unique and playful avatars for free
-* [Wireframer](https://www.wireframer.art/) Flawless SVG text for your wireframes
 
 ## Playgrounds
 
@@ -852,7 +827,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 ## Sitemaps Timelines and Roadmaps
 
 * [StartTreeV2: 🌳](https://github.com/AlexW00/StartTreeV2) 🌳 A $tree styled start page generator! Contribute to AlexW00/StartTreeV2 development by creating an account on GitHub.
-* [Waymark](https://waymark.io/) With Waymark you can create instant, beautiful roadmaps for product presentations!
 * [Octopus.do](https://octopus.do/) FREE sitemap builder with wireframe kit for prototyping website structure & UX architecture. Use our website planner and site mapping tools to create site map instantly. Our visual sitemap tool and website mapping is extremely fast and easy, we promise! No registration required.
 * [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
 
@@ -862,13 +836,11 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Hyvector](https://www.hyvector.com/) Your friendly vector editor.
 * [How to Perfectly Fit an SVG to its Contents Using JavaScript](https://typeofnan.dev/how-to-perfectly-fit-an-svg-to-its-contents-using-javascript/) Using the SVG tag on websites is handy, but its interface can be different than we\'re used to. Here\'s a handy way to fit the viewport of an SVG to its contents every time.
 * [Try markmap](https://markmap.js.org/repl) Try the markmap REPL here.
-* [Handy Arrows](https://handyarrows.com/) A collection of hand-drawn arrows, doodles, and infographic elements for your next project.
 * [SVG Viewer](https://www.svgviewer.dev/) SVG Viewer is an online tool to view, edit and optimize SVGs.
 * [NEAL.FUN](https://neal.fun/) Aweseome web experiences.
 * [SVGHUB](https://svghub.vercel.app/) Squiggles, scribbles, shapes and... other stuff. A library of over 70 custom-color elements ready to paste into your project.
 * [Creative Coding - SVG](https://svg.bradwoods.io/lessons/viewbox) How the SVG viewBox works.
 * [Making SVG Loading Spinners: An Interactive Guide](https://fffuel.co/svg-spinner/) Learn to create a cool SVG loading spinner with this step-by-step guide. We\'ll use attributes like stroke-dasharray and stroke-dashoffset to make it easy.
-* [Flectofy](https://flectofy.flecto.io/) Let's Flectofy! Please choose a form to start, or just go blank-madness.
 * [SVG Stripes Maker](https://toolcool.org/svg-stripes-maker-react/) A free online SVG stripe pattern generator and maker. Create multi-stripe animated patterns, copy CSS or SVG code that is ready for you web projects, or just download the SVG file for free!
 * [Plain Pattern](http://www.kennethcachia.com/plain-pattern/app/) An SVG based seamless pattern maker.
 * [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) Online editor to create and manipulate SVG paths
@@ -884,7 +856,6 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 * [Shape Shifter](https://shapeshifter.design/) Shape Shifter simplifies the process of creating SVG-based icon animations.
 * [How SVG Line Animation Works](https://css-tricks.com/svg-line-animation-works/) I bet all of you have seen that little trick where an SVG path is animated to look like it's drawing itself. It's super cool. Jake Archibald pioneered the
 * [SVGX](https://svgx.app/) Free desktop SVG icon & asset manager for Mac and PC
-* [Lazy Line Painter](http://lazylinepainter.info/) A Jquery plugin for SVG path animation
 
 ## SVG Waves
 

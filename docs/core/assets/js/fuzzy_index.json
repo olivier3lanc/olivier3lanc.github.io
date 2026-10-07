@@ -85,11 +85,6 @@
             "description": "Newly added links tools and IDE post frontend-links"
         },
         {
-            "url": "/frontend-links/",
-            "title": "Frontend links",
-            "description": "A curated list of useful front-end tools, libraries and nice web things. frontend-links"
-        },
-        {
             "url": "/blog/2026-05-new-frontend-links-may-2026/",
             "title": "Frontend Links May 2026",
             "description": "Newly added links post frontend-links"
@@ -115,11 +110,6 @@
             "description": "Développeur front-end hybride UI et UX "
         },
         {
-            "url": "/portfolio/",
-            "title": "Portfolio",
-            "description": "Réalisations web dans le cadre de mon travail "
-        },
-        {
             "url": "/webdesign-personnel/demos/",
             "title": "Démos",
             "description": "Réalisations personnelles de pages web basées sur un thème "
@@ -128,5 +118,15 @@
             "url": "/webdesign-personnel/librairies/",
             "title": "Librairies",
             "description": "Réalisations personnelles de librairies JavaScript et CSS "
+        },
+        {
+            "url": "/portfolio/",
+            "title": "Portfolio",
+            "description": "Réalisations web dans le cadre de mon travail "
+        },
+        {
+            "url": "/frontend-links/",
+            "title": "Frontend links",
+            "description": "A curated list of useful front-end tools, libraries and nice web things. frontend-links"
         }
 ]
