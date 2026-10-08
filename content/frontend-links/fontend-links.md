@@ -7,7 +7,7 @@ permalink: frontend-links/index.html
 eleventyNavigation:
     key: Frontend links
     order: 90
-date: 2026-10-07
+date: 2026-10-08
 tags:
     - frontend-links
 ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=140px"
@@ -249,6 +249,7 @@ ogImageUrl: "https://og-image.vercel.app/**Frontend%20Links**.png?theme=dark&md=
 
 ## Development tools
 
+* [Internet Tool Wizzard](https://www.internettoolwizard.com/) Free online tools, done right. Fast, privacy-friendly utilities that run entirely in your browser — nothing is uploaded to a server. New tools are added continuously.
 * [Superposition: Use the design system you already have](https://superposition.design/) Extract your site's design tokens and use them everywhere
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/) "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * [Caninclude](https://caninclude.glitch.me/) 'Caninclude' tool to help determine if one HTML tag can be included in another HTML tag
